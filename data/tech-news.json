@@ -1,62 +1,70 @@
 {
-  "updated_at": "2026-04-12T07:30:11.796776Z",
+  "updated_at": "2026-04-12T07:43:28.330058Z",
   "source": "Hacker News",
   "stories": [
     {
       "title": "Small models also found the vulnerabilities that Mythos found",
       "url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
-      "score": 1009,
-      "comments": 273,
+      "score": 1017,
+      "comments": 275,
       "by": "dominicq",
       "hn_link": "https://news.ycombinator.com/item?id=47732020"
     },
     {
       "title": "The End of Eleventy",
       "url": "https://brennan.day/the-end-of-eleventy/",
-      "score": 135,
-      "comments": 78,
+      "score": 137,
+      "comments": 82,
       "by": "ValentineC",
       "hn_link": "https://news.ycombinator.com/item?id=47735535"
     },
     {
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
-      "score": 92,
-      "comments": 53,
-      "by": "Jimmc414",
-      "hn_link": "https://news.ycombinator.com/item?id=47736298"
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
+      "score": 29,
+      "comments": 6,
+      "by": "tradertef",
+      "hn_link": "https://news.ycombinator.com/item?id=47736555"
     },
     {
       "title": "Tofolli gates are all you need",
       "url": "https://www.johndcook.com/blog/2026/04/06/tofolli-gates/",
-      "score": 21,
-      "comments": 0,
+      "score": 25,
+      "comments": 1,
       "by": "ibobev",
       "hn_link": "https://news.ycombinator.com/item?id=47672718"
     },
     {
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "url": "https://www.theguardian.com/law/2026/apr/11/appeals-court-ruling-home-distilling-ban-unconstitutional",
+      "score": 99,
+      "comments": 60,
+      "by": "Jimmc414",
+      "hn_link": "https://news.ycombinator.com/item?id=47736298"
+    },
+    {
       "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
       "url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-      "score": 345,
+      "score": 348,
       "comments": 88,
       "by": "Anon84",
       "hn_link": "https://news.ycombinator.com/item?id=47733217"
     },
     {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "url": "https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack",
-      "score": 10,
-      "comments": 1,
-      "by": "tradertef",
-      "hn_link": "https://news.ycombinator.com/item?id=47736555"
-    },
-    {
       "title": "How Complex is my Code?",
       "url": "https://philodev.one/posts/2026-04-code-complexity/",
-      "score": 97,
+      "score": 99,
       "comments": 18,
       "by": "speckx",
       "hn_link": "https://news.ycombinator.com/item?id=47673171"
+    },
+    {
+      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
+      "url": "https://zenodo.org/records/19513269",
+      "score": 202,
+      "comments": 99,
+      "by": "iliatoli",
+      "hn_link": "https://news.ycombinator.com/item?id=47733561"
     },
     {
       "title": "Dark Castle",
@@ -65,14 +73,6 @@
       "comments": 23,
       "by": "evo_9",
       "hn_link": "https://news.ycombinator.com/item?id=47733521"
-    },
-    {
-      "title": "447 TB/cm\u00b2 at zero retention energy \u2013 atomic-scale memory on fluorographane",
-      "url": "https://zenodo.org/records/19513269",
-      "score": 199,
-      "comments": 99,
-      "by": "iliatoli",
-      "hn_link": "https://news.ycombinator.com/item?id=47733561"
     },
     {
       "title": "Pijul a FOSS distributed version control system",
