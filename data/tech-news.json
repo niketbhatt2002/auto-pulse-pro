@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T08:40:02.139269Z",
+  "updated_at": "2026-04-12T09:51:59.848403Z",
   "stories": [
     {
+      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
+      "score": 31
+    },
+    {
       "title": "Small models also found the vulnerabilities that Mythos found",
-      "score": 1058
+      "score": 1103
     },
     {
       "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "score": 120
+      "score": 187
+    },
+    {
+      "title": "An Interview with Pat Gelsinger",
+      "score": 23
     },
     {
       "title": "Tofolli gates are all you need",
-      "score": 34
-    },
-    {
-      "title": "The End of Eleventy",
-      "score": 149
-    },
-    {
-      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "score": 122
+      "score": 48
     }
   ]
 }

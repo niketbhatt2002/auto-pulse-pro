@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T08:40:05.090950Z",
+  "updated_at": "2026-04-12T09:52:00.834373Z",
   "repos": [
     {
       "name": "farzaa/clicky",
-      "stars": 3830
+      "stars": 3840
     },
     {
       "name": "xixu-me/awesome-persona-distill-skills",
-      "stars": 3272
+      "stars": 3293
     },
     {
       "name": "alchaincyf/hermes-agent-orange-book",
-      "stars": 1982
+      "stars": 1992
     },
     {
       "name": "KKKKhazix/khazix-skills",
-      "stars": 1642
+      "stars": 1650
     },
     {
-      "name": "mattmireles/gemma-tuner-multimodal",
-      "stars": 1202
+      "name": "yizhiyanhua-ai/fireworks-tech-graph",
+      "stars": 1232
     }
   ]
 }
