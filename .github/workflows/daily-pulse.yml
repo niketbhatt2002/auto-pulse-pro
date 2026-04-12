@@ -1,0 +1,147 @@
+name: Daily Pulse
+
+on:
+  schedule:
+    # 10 commits spread throughout the day (UTC times)
+    - cron: '0 6 * * *'   # 06:00 - Morning stats
+    - cron: '0 7 * * *'   # 07:00 - Tech news
+    - cron: '0 8 * * *'   # 08:00 - Daily quote
+    - cron: '0 9 * * *'   # 09:00 - Health check 1
+    - cron: '0 10 * * *'  # 10:00 - Health check 2
+    - cron: '0 11 * * *'  # 11:00 - Health check 3
+    - cron: '0 14 * * *'  # 14:00 - Stats update
+    - cron: '0 17 * * *'  # 17:00 - Weather
+    - cron: '0 20 * * *'  # 20:00 - Trending repos
+    - cron: '0 23 * * *'  # 23:00 - Daily summary
+  workflow_dispatch:  # Allow manual trigger
+
+env:
+  # Configure your repos to health-check (comma-separated)
+  REPOS_TO_CHECK: "niketbhatt2002/repo1,niketbhatt2002/repo2,niketbhatt2002/repo3"
+  GITHUB_USERNAME: "niketbhatt2002"
+  CITY: "Toronto"
+  TIMEZONE: "America/Toronto"
+
+jobs:
+  pulse:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install requests pytz
+
+      - name: Determine task based on hour
+        id: task
+        run: |
+          HOUR=$(TZ="${{ env.TIMEZONE }}" date +%H)
+          echo "Current hour in ${{ env.TIMEZONE }}: $HOUR"
+          
+          # Map UTC cron hours to tasks
+          UTC_HOUR=$(date -u +%H)
+          
+          case $UTC_HOUR in
+            06) echo "task=morning_stats" >> $GITHUB_OUTPUT ;;
+            07) echo "task=tech_news" >> $GITHUB_OUTPUT ;;
+            08) echo "task=daily_quote" >> $GITHUB_OUTPUT ;;
+            09) echo "task=health_check_1" >> $GITHUB_OUTPUT ;;
+            10) echo "task=health_check_2" >> $GITHUB_OUTPUT ;;
+            11) echo "task=health_check_3" >> $GITHUB_OUTPUT ;;
+            14) echo "task=stats_update" >> $GITHUB_OUTPUT ;;
+            17) echo "task=weather" >> $GITHUB_OUTPUT ;;
+            20) echo "task=trending" >> $GITHUB_OUTPUT ;;
+            23) echo "task=daily_summary" >> $GITHUB_OUTPUT ;;
+            *)  echo "task=all" >> $GITHUB_OUTPUT ;;  # Manual trigger runs all
+          esac
+
+      - name: Run Morning Stats
+        if: steps.task.outputs.task == 'morning_stats' || steps.task.outputs.task == 'all'
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/fetch_stats.py
+
+      - name: Run Tech News
+        if: steps.task.outputs.task == 'tech_news' || steps.task.outputs.task == 'all'
+        run: python scripts/fetch_news.py
+
+      - name: Run Daily Quote
+        if: steps.task.outputs.task == 'daily_quote' || steps.task.outputs.task == 'all'
+        run: python scripts/fetch_quote.py
+
+      - name: Run Health Check 1
+        if: steps.task.outputs.task == 'health_check_1' || steps.task.outputs.task == 'all'
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPO_INDEX: "0"
+        run: python scripts/health_check.py
+
+      - name: Run Health Check 2
+        if: steps.task.outputs.task == 'health_check_2' || steps.task.outputs.task == 'all'
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPO_INDEX: "1"
+        run: python scripts/health_check.py
+
+      - name: Run Health Check 3
+        if: steps.task.outputs.task == 'health_check_3' || steps.task.outputs.task == 'all'
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPO_INDEX: "2"
+        run: python scripts/health_check.py
+
+      - name: Run Stats Update
+        if: steps.task.outputs.task == 'stats_update' || steps.task.outputs.task == 'all'
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+        run: python scripts/fetch_stats.py
+
+      - name: Run Weather
+        if: steps.task.outputs.task == 'weather' || steps.task.outputs.task == 'all'
+        run: python scripts/fetch_weather.py
+
+      - name: Run Trending
+        if: steps.task.outputs.task == 'trending' || steps.task.outputs.task == 'all'
+        run: python scripts/fetch_trending.py
+
+      - name: Run Daily Summary
+        if: steps.task.outputs.task == 'daily_summary' || steps.task.outputs.task == 'all'
+        run: python scripts/update_log.py
+
+      - name: Commit and Push
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Auto Pulse Bot"
+          git add -A
+          
+          TASK="${{ steps.task.outputs.task }}"
+          TIMESTAMP=$(TZ="${{ env.TIMEZONE }}" date '+%Y-%m-%d %H:%M')
+          
+          case $TASK in
+            morning_stats)  MSG="🌅 Morning stats snapshot - $TIMESTAMP" ;;
+            tech_news)      MSG="📰 Tech news digest - $TIMESTAMP" ;;
+            daily_quote)    MSG="💬 Daily inspiration - $TIMESTAMP" ;;
+            health_check_1) MSG="🏥 Health check: Repo 1 - $TIMESTAMP" ;;
+            health_check_2) MSG="🏥 Health check: Repo 2 - $TIMESTAMP" ;;
+            health_check_3) MSG="🏥 Health check: Repo 3 - $TIMESTAMP" ;;
+            stats_update)   MSG="📊 Stats refresh - $TIMESTAMP" ;;
+            weather)        MSG="🌤️ Weather log: Toronto - $TIMESTAMP" ;;
+            trending)       MSG="🔥 Trending repos update - $TIMESTAMP" ;;
+            daily_summary)  MSG="📝 Daily summary - $TIMESTAMP" ;;
+            all)            MSG="🚀 Full pulse update - $TIMESTAMP" ;;
+            *)              MSG="⚡ Auto pulse - $TIMESTAMP" ;;
+          esac
+          
+          git diff --quiet && git diff --staged --quiet || (git commit -m "$MSG" && git push)
