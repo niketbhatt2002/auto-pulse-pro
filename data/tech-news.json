@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T11:32:38.904066Z",
+  "updated_at": "2026-04-12T14:44:29.691316Z",
   "stories": [
     {
-      "title": "MiniMax M2.7 Is Now Open Source",
-      "score": 62
+      "title": "Pro Max 5x Quota Exhausted in 1.5 Hours Despite Moderate Usage",
+      "score": 242
+    },
+    {
+      "title": "We have a 99% email reputation. Gmail disagrees",
+      "score": 59
+    },
+    {
+      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
+      "score": 21
     },
     {
       "title": "JVM Options Explorer",
-      "score": 15
+      "score": 88
     },
     {
-      "title": "An Interview with Pat Gelsinger",
-      "score": 48
-    },
-    {
-      "title": "What have been the greatest intellectual achievements?",
-      "score": 5
-    },
-    {
-      "title": "The Miller Principle (2007)",
-      "score": 36
+      "title": "Bring Back Idiomatic Design",
+      "score": 38
     }
   ]
 }
