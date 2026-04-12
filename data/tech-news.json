@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T17:24:57.334917Z",
+  "updated_at": "2026-04-12T20:40:38.755595Z",
   "stories": [
     {
-      "title": "Building a SaaS in 2026 Using Only EU Infrastructure",
-      "score": 96
+      "title": "The peril of laziness lost",
+      "score": 29
     },
     {
       "title": "Bring Back Idiomatic Design",
-      "score": 181
+      "score": 339
     },
     {
-      "title": "Show HN: Oberon System 3 runs natively on Raspberry Pi 3 (with ready SD card)",
-      "score": 85
+      "title": "Most people can't juggle one ball",
+      "score": 126
     },
     {
-      "title": "Seven countries now generate 100% of their electricity from renewable energy",
-      "score": 259
+      "title": "Show HN: Claudraband \u2013 Claude Code for the Power User",
+      "score": 45
     },
     {
-      "title": "I gave every train in New York an instrument",
-      "score": 28
+      "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
+      "score": 164
     }
   ]
 }
