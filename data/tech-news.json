@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T20:40:38.755595Z",
+  "updated_at": "2026-04-12T23:43:52.560020Z",
   "stories": [
     {
       "title": "The peril of laziness lost",
-      "score": 29
+      "score": 256
+    },
+    {
+      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
+      "score": 12
     },
     {
       "title": "Bring Back Idiomatic Design",
-      "score": 339
+      "score": 431
     },
     {
-      "title": "Most people can't juggle one ball",
-      "score": 126
+      "title": "DIY Soft Drinks",
+      "score": 193
     },
     {
-      "title": "Show HN: Claudraband \u2013 Claude Code for the Power User",
-      "score": 45
-    },
-    {
-      "title": "Show HN: boringBar \u2013 a taskbar-style dock replacement for macOS",
-      "score": 164
+      "title": "Ask HN: What Are You Working On? (April 2026)",
+      "score": 99
     }
   ]
 }

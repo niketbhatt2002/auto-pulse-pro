@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-04-12T20:40:39.716738Z",
+  "updated_at": "2026-04-12T23:43:53.848580Z",
   "repos": [
     {
       "name": "farzaa/clicky",
-      "stars": 3923
+      "stars": 3941
     },
     {
       "name": "xixu-me/awesome-persona-distill-skills",
-      "stars": 3401
+      "stars": 3405
     },
     {
       "name": "alchaincyf/hermes-agent-orange-book",
-      "stars": 2082
+      "stars": 2092
     },
     {
       "name": "KKKKhazix/khazix-skills",
@@ -19,7 +19,7 @@
     },
     {
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "stars": 1512
+      "stars": 1539
     }
   ]
 }
