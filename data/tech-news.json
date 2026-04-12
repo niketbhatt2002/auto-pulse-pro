@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T09:51:59.848403Z",
+  "updated_at": "2026-04-12T10:30:13.536359Z",
   "stories": [
     {
-      "title": "AI Will Be Met with Violence, and Nothing Good Will Come of It",
-      "score": 31
-    },
-    {
-      "title": "Small models also found the vulnerabilities that Mythos found",
-      "score": 1103
-    },
-    {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "score": 187
-    },
-    {
       "title": "An Interview with Pat Gelsinger",
-      "score": 23
+      "score": 33
     },
     {
       "title": "Tofolli gates are all you need",
-      "score": 48
+      "score": 56
+    },
+    {
+      "title": "Apple update looks like Czech mate for locked-out iPhone user",
+      "score": 91
+    },
+    {
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "score": 225
+    },
+    {
+      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
+      "score": 383
     }
   ]
 }
