@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T10:30:13.536359Z",
+  "updated_at": "2026-04-12T11:32:38.904066Z",
   "stories": [
     {
+      "title": "MiniMax M2.7 Is Now Open Source",
+      "score": 62
+    },
+    {
+      "title": "JVM Options Explorer",
+      "score": 15
+    },
+    {
       "title": "An Interview with Pat Gelsinger",
-      "score": 33
+      "score": 48
     },
     {
-      "title": "Tofolli gates are all you need",
-      "score": 56
+      "title": "What have been the greatest intellectual achievements?",
+      "score": 5
     },
     {
-      "title": "Apple update looks like Czech mate for locked-out iPhone user",
-      "score": 91
-    },
-    {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "score": 225
-    },
-    {
-      "title": "How We Broke Top AI Agent Benchmarks: And What Comes Next",
-      "score": 383
+      "title": "The Miller Principle (2007)",
+      "score": 36
     }
   ]
 }
