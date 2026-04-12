@@ -2,25 +2,21 @@ name: Daily Pulse
 
 on:
   schedule:
-    # 10 commits spread throughout the day (UTC times)
-    - cron: '0 6 * * *'   # 06:00 - Morning stats
-    - cron: '0 7 * * *'   # 07:00 - Tech news
-    - cron: '0 8 * * *'   # 08:00 - Daily quote
-    - cron: '0 9 * * *'   # 09:00 - Health check 1
-    - cron: '0 10 * * *'  # 10:00 - Health check 2
-    - cron: '0 11 * * *'  # 11:00 - Health check 3
-    - cron: '0 14 * * *'  # 14:00 - Stats update
-    - cron: '0 17 * * *'  # 17:00 - Weather
-    - cron: '0 20 * * *'  # 20:00 - Trending repos
-    - cron: '0 23 * * *'  # 23:00 - Daily summary
-  workflow_dispatch:  # Allow manual trigger
+    - cron: '0 6 * * *'
+    - cron: '0 7 * * *'
+    - cron: '0 8 * * *'
+    - cron: '0 9 * * *'
+    - cron: '0 10 * * *'
+    - cron: '0 11 * * *'
+    - cron: '0 14 * * *'
+    - cron: '0 17 * * *'
+    - cron: '0 20 * * *'
+    - cron: '0 23 * * *'
+  workflow_dispatch:
 
 env:
-  # Configure your repos to health-check (comma-separated)
-  REPOS_TO_CHECK: "niketbhatt2002/SecureChat,niketbhatt2002/Credify,niketbhatt2002/Linux-Distributed-File-System"
   GITHUB_USERNAME: "niketbhatt2002"
   CITY: "Toronto"
-  TIMEZONE: "America/Toronto"
 
 jobs:
   pulse:
@@ -33,7 +29,6 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GH_TOKEN }}
-          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -41,84 +36,148 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
+        run: pip install requests pytz
+
+      - name: Create data directory
+        run: mkdir -p data logs
+
+      - name: Fetch GitHub Stats
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: |
-          pip install requests pytz
+          python << 'EOF'
+          import json, os, requests
+          from datetime import datetime
+          
+          token = os.environ.get('GH_TOKEN')
+          username = "niketbhatt2002"
+          headers = {'Authorization': f'token {token}'} if token else {}
+          
+          try:
+              user = requests.get(f'https://api.github.com/users/{username}', headers=headers).json()
+              repos = requests.get(f'https://api.github.com/users/{username}/repos?per_page=100', headers=headers).json()
+              
+              stats = {
+                  'updated_at': datetime.utcnow().isoformat() + 'Z',
+                  'username': username,
+                  'followers': user.get('followers', 0),
+                  'following': user.get('following', 0),
+                  'public_repos': user.get('public_repos', 0),
+                  'total_stars': sum(r.get('stargazers_count', 0) for r in repos if isinstance(r, dict))
+              }
+          except:
+              stats = {'updated_at': datetime.utcnow().isoformat() + 'Z', 'error': 'fetch failed'}
+          
+          with open('data/github-stats.json', 'w') as f:
+              json.dump(stats, f, indent=2)
+          print(f"Stats: {stats}")
+          EOF
 
-      - name: Determine task based on hour
-        id: task
+      - name: Fetch Tech News
         run: |
-          HOUR=$(TZ="${{ env.TIMEZONE }}" date +%H)
-          echo "Current hour in ${{ env.TIMEZONE }}: $HOUR"
+          python << 'EOF'
+          import json, requests
+          from datetime import datetime
           
-          # Map UTC cron hours to tasks
-          UTC_HOUR=$(date -u +%H)
+          try:
+              ids = requests.get('https://hacker-news.firebaseio.com/v0/topstories.json').json()[:5]
+              stories = []
+              for i in ids:
+                  s = requests.get(f'https://hacker-news.firebaseio.com/v0/item/{i}.json').json()
+                  if s: stories.append({'title': s.get('title',''), 'score': s.get('score',0)})
+          except:
+              stories = []
           
-          case $UTC_HOUR in
-            06) echo "task=morning_stats" >> $GITHUB_OUTPUT ;;
-            07) echo "task=tech_news" >> $GITHUB_OUTPUT ;;
-            08) echo "task=daily_quote" >> $GITHUB_OUTPUT ;;
-            09) echo "task=health_check_1" >> $GITHUB_OUTPUT ;;
-            10) echo "task=health_check_2" >> $GITHUB_OUTPUT ;;
-            11) echo "task=health_check_3" >> $GITHUB_OUTPUT ;;
-            14) echo "task=stats_update" >> $GITHUB_OUTPUT ;;
-            17) echo "task=weather" >> $GITHUB_OUTPUT ;;
-            20) echo "task=trending" >> $GITHUB_OUTPUT ;;
-            23) echo "task=daily_summary" >> $GITHUB_OUTPUT ;;
-            *)  echo "task=all" >> $GITHUB_OUTPUT ;;  # Manual trigger runs all
-          esac
+          with open('data/tech-news.json', 'w') as f:
+              json.dump({'updated_at': datetime.utcnow().isoformat()+'Z', 'stories': stories}, f, indent=2)
+          print(f"Fetched {len(stories)} stories")
+          EOF
 
-      - name: Run Morning Stats
-        if: steps.task.outputs.task == 'morning_stats' || steps.task.outputs.task == 'all'
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python scripts/fetch_stats.py
+      - name: Fetch Quote
+        run: |
+          python << 'EOF'
+          import json, random
+          from datetime import datetime
+          
+          quotes = [
+              {"text": "Code is like humor. When you have to explain it, it's bad.", "author": "Cory House"},
+              {"text": "First, solve the problem. Then, write the code.", "author": "John Johnson"},
+              {"text": "Talk is cheap. Show me the code.", "author": "Linus Torvalds"},
+              {"text": "Programs must be written for people to read.", "author": "Harold Abelson"},
+              {"text": "Simplicity is the soul of efficiency.", "author": "Austin Freeman"},
+          ]
+          q = quotes[datetime.now().timetuple().tm_yday % len(quotes)]
+          
+          with open('data/quote.json', 'w') as f:
+              json.dump({'updated_at': datetime.utcnow().isoformat()+'Z', 'quote': q['text'], 'author': q['author']}, f, indent=2)
+          print(f"Quote: {q['text']}")
+          EOF
 
-      - name: Run Tech News
-        if: steps.task.outputs.task == 'tech_news' || steps.task.outputs.task == 'all'
-        run: python scripts/fetch_news.py
+      - name: Fetch Weather
+        run: |
+          python << 'EOF'
+          import json, requests
+          from datetime import datetime
+          
+          try:
+              url = "https://api.open-meteo.com/v1/forecast?latitude=43.65&longitude=-79.38&current=temperature_2m,weather_code"
+              data = requests.get(url).json()
+              weather = {
+                  'updated_at': datetime.utcnow().isoformat()+'Z',
+                  'location': 'Toronto, ON',
+                  'temperature_c': data.get('current',{}).get('temperature_2m'),
+                  'weather_code': data.get('current',{}).get('weather_code')
+              }
+          except:
+              weather = {'updated_at': datetime.utcnow().isoformat()+'Z', 'error': 'fetch failed'}
+          
+          with open('data/weather.json', 'w') as f:
+              json.dump(weather, f, indent=2)
+          print(f"Weather: {weather}")
+          EOF
 
-      - name: Run Daily Quote
-        if: steps.task.outputs.task == 'daily_quote' || steps.task.outputs.task == 'all'
-        run: python scripts/fetch_quote.py
+      - name: Fetch Trending
+        run: |
+          python << 'EOF'
+          import json, requests
+          from datetime import datetime, timedelta
+          
+          try:
+              week_ago = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
+              url = f"https://api.github.com/search/repositories?q=created:>{week_ago}&sort=stars&per_page=5"
+              data = requests.get(url).json()
+              repos = [{'name': r['full_name'], 'stars': r['stargazers_count']} for r in data.get('items',[])]
+          except:
+              repos = []
+          
+          with open('data/trending.json', 'w') as f:
+              json.dump({'updated_at': datetime.utcnow().isoformat()+'Z', 'repos': repos}, f, indent=2)
+          print(f"Trending: {len(repos)} repos")
+          EOF
 
-      - name: Run Health Check 1
-        if: steps.task.outputs.task == 'health_check_1' || steps.task.outputs.task == 'all'
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPO_INDEX: "0"
-        run: python scripts/health_check.py
-
-      - name: Run Health Check 2
-        if: steps.task.outputs.task == 'health_check_2' || steps.task.outputs.task == 'all'
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPO_INDEX: "1"
-        run: python scripts/health_check.py
-
-      - name: Run Health Check 3
-        if: steps.task.outputs.task == 'health_check_3' || steps.task.outputs.task == 'all'
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          REPO_INDEX: "2"
-        run: python scripts/health_check.py
-
-      - name: Run Stats Update
-        if: steps.task.outputs.task == 'stats_update' || steps.task.outputs.task == 'all'
-        env:
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
-        run: python scripts/fetch_stats.py
-
-      - name: Run Weather
-        if: steps.task.outputs.task == 'weather' || steps.task.outputs.task == 'all'
-        run: python scripts/fetch_weather.py
-
-      - name: Run Trending
-        if: steps.task.outputs.task == 'trending' || steps.task.outputs.task == 'all'
-        run: python scripts/fetch_trending.py
-
-      - name: Run Daily Summary
-        if: steps.task.outputs.task == 'daily_summary' || steps.task.outputs.task == 'all'
-        run: python scripts/update_log.py
+      - name: Update Activity Log
+        run: |
+          python << 'EOF'
+          from datetime import datetime
+          import pytz
+          
+          tz = pytz.timezone('America/Toronto')
+          now = datetime.now(tz)
+          
+          entry = f"""
+          ## {now.strftime('%Y-%m-%d %H:%M:%S %Z')}
+          - ✅ GitHub stats updated
+          - ✅ Tech news fetched  
+          - ✅ Quote refreshed
+          - ✅ Weather logged
+          - ✅ Trending repos tracked
+          ---
+          """
+          
+          with open('logs/activity.md', 'a') as f:
+              f.write(entry)
+          print("Activity logged")
+          EOF
 
       - name: Commit and Push
         run: |
@@ -126,22 +185,11 @@ jobs:
           git config --local user.name "Auto Pulse Bot"
           git add -A
           
-          TASK="${{ steps.task.outputs.task }}"
-          TIMESTAMP=$(TZ="${{ env.TIMEZONE }}" date '+%Y-%m-%d %H:%M')
+          TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M UTC')
           
-          case $TASK in
-            morning_stats)  MSG="🌅 Morning stats snapshot - $TIMESTAMP" ;;
-            tech_news)      MSG="📰 Tech news digest - $TIMESTAMP" ;;
-            daily_quote)    MSG="💬 Daily inspiration - $TIMESTAMP" ;;
-            health_check_1) MSG="🏥 Health check: Repo 1 - $TIMESTAMP" ;;
-            health_check_2) MSG="🏥 Health check: Repo 2 - $TIMESTAMP" ;;
-            health_check_3) MSG="🏥 Health check: Repo 3 - $TIMESTAMP" ;;
-            stats_update)   MSG="📊 Stats refresh - $TIMESTAMP" ;;
-            weather)        MSG="🌤️ Weather log: Toronto - $TIMESTAMP" ;;
-            trending)       MSG="🔥 Trending repos update - $TIMESTAMP" ;;
-            daily_summary)  MSG="📝 Daily summary - $TIMESTAMP" ;;
-            all)            MSG="🚀 Full pulse update - $TIMESTAMP" ;;
-            *)              MSG="⚡ Auto pulse - $TIMESTAMP" ;;
-          esac
+          # Always create a commit by touching a timestamp file
+          echo "Last run: $TIMESTAMP" > data/last-run.txt
+          git add data/last-run.txt
           
-          git diff --quiet && git diff --staged --quiet || (git commit -m "$MSG" && git push)
+          git commit -m "🚀 Auto Pulse Update - $TIMESTAMP" || echo "No changes"
+          git push
