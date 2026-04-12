@@ -17,7 +17,7 @@ on:
 
 env:
   # Configure your repos to health-check (comma-separated)
-  REPOS_TO_CHECK: "niketbhatt2002/repo1,niketbhatt2002/repo2,niketbhatt2002/repo3"
+  REPOS_TO_CHECK: "niketbhatt2002/SecureChat,niketbhatt2002/Credify,niketbhatt2002/Linux-Distributed-File-System"
   GITHUB_USERNAME: "niketbhatt2002"
   CITY: "Toronto"
   TIMEZONE: "America/Toronto"
