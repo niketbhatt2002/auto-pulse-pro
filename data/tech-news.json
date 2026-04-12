@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T08:08:46.215709Z",
+  "updated_at": "2026-04-12T08:40:02.139269Z",
   "stories": [
     {
-      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
-      "score": 70
-    },
-    {
       "title": "Small models also found the vulnerabilities that Mythos found",
-      "score": 1037
+      "score": 1058
     },
     {
-      "title": "The End of Eleventy",
-      "score": 146
+      "title": "I run multiple $10K MRR companies on a $20/month tech stack",
+      "score": 120
     },
     {
       "title": "Tofolli gates are all you need",
-      "score": 30
+      "score": 34
+    },
+    {
+      "title": "The End of Eleventy",
+      "score": 149
     },
     {
       "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
-      "score": 107
+      "score": 122
     }
   ]
 }
