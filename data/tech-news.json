@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-13T11:09:55.712322Z",
+  "updated_at": "2026-04-13T12:00:41.749507Z",
   "stories": [
     {
       "title": "All elementary functions from a single binary operator",
-      "score": 455
+      "score": 499
     },
     {
-      "title": "Show HN: I built a social media management tool in 3 weeks with Claude and Codex",
-      "score": 16
-    },
-    {
-      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
-      "score": 168
+      "title": "The economics of software teams: Why most engineering orgs are flying blind",
+      "score": 185
     },
     {
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "score": 182
+      "score": 191
     },
     {
       "title": "DIY Soft Drinks",
-      "score": 479
+      "score": 504
+    },
+    {
+      "title": "Bring Back Idiomatic Design (2023)",
+      "score": 575
     }
   ]
 }
