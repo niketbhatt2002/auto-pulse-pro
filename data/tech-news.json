@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-13T08:59:38.253913Z",
+  "updated_at": "2026-04-13T09:49:13.020570Z",
   "stories": [
     {
       "title": "All elementary functions from a single binary operator",
-      "score": 342
+      "score": 385
     },
     {
       "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
-      "score": 109
+      "score": 136
     },
     {
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "score": 156
+      "score": 166
     },
     {
       "title": "DIY Soft Drinks",
-      "score": 420
+      "score": 446
     },
     {
       "title": "Bring Back Idiomatic Design (2023)",
-      "score": 552
+      "score": 559
     }
   ]
 }
