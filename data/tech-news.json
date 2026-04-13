@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-12T23:43:52.560020Z",
+  "updated_at": "2026-04-13T07:55:15.824233Z",
   "stories": [
     {
-      "title": "The peril of laziness lost",
-      "score": 256
+      "title": "The Economics of Software Teams: Why Most Engineering Orgs Are Flying Blind",
+      "score": 78
+    },
+    {
+      "title": "All elementary functions from a single binary operator",
+      "score": 286
     },
     {
       "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "score": 12
+      "score": 146
     },
     {
-      "title": "Bring Back Idiomatic Design",
-      "score": 431
+      "title": "Bring Back Idiomatic Design (2023)",
+      "score": 533
     },
     {
       "title": "DIY Soft Drinks",
-      "score": 193
-    },
-    {
-      "title": "Ask HN: What Are You Working On? (April 2026)",
-      "score": 99
+      "score": 391
     }
   ]
 }
