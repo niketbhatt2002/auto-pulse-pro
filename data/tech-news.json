@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-13T12:00:41.749507Z",
+  "updated_at": "2026-04-13T15:19:49.555886Z",
   "stories": [
     {
+      "title": "Servo is now available on crates.io",
+      "score": 148
+    },
+    {
+      "title": "Make Tmux Pretty and Usable",
+      "score": 27
+    },
+    {
+      "title": "Android now stops you sharing your location in photos",
+      "score": 216
+    },
+    {
       "title": "All elementary functions from a single binary operator",
-      "score": 499
+      "score": 639
     },
     {
-      "title": "The economics of software teams: Why most engineering orgs are flying blind",
-      "score": 185
-    },
-    {
-      "title": "Taking on CUDA with ROCm: 'One Step After Another'",
-      "score": 191
-    },
-    {
-      "title": "DIY Soft Drinks",
-      "score": 504
-    },
-    {
-      "title": "Bring Back Idiomatic Design (2023)",
-      "score": 575
+      "title": "US appeals court declares 158-year-old home distilling ban unconstitutional",
+      "score": 88
     }
   ]
 }
