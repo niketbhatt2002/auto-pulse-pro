@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-13T17:53:38.176723Z",
+  "updated_at": "2026-04-13T20:58:22.938659Z",
   "stories": [
     {
+      "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
+      "score": 399
+    },
+    {
+      "title": "GitHub Stacked PRs",
+      "score": 60
+    },
+    {
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "score": 182
+      "score": 307
     },
     {
       "title": "The Future of Everything Is Lies, I Guess: Safety",
-      "score": 85
+      "score": 230
     },
     {
-      "title": "Building a CLI for All of Cloudflare",
-      "score": 104
-    },
-    {
-      "title": "Servo is now available on crates.io",
-      "score": 284
-    },
-    {
-      "title": "Make Tmux Pretty and Usable (2024)",
-      "score": 172
+      "title": "How to make Firefox builds 17% faster",
+      "score": 72
     }
   ]
 }
