@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-13T20:58:22.938659Z",
+  "updated_at": "2026-04-13T23:52:42.666423Z",
   "stories": [
     {
       "title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them",
-      "score": 399
+      "score": 606
     },
     {
       "title": "GitHub Stacked PRs",
-      "score": 60
+      "score": 339
+    },
+    {
+      "title": "The tech jobs bust is real. Don't blame AI (yet)",
+      "score": 73
     },
     {
       "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "score": 307
-    },
-    {
-      "title": "The Future of Everything Is Lies, I Guess: Safety",
-      "score": 230
+      "score": 339
     },
     {
       "title": "How to make Firefox builds 17% faster",
-      "score": 72
+      "score": 115
     }
   ]
 }
