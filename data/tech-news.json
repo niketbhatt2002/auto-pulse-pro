@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T07:23:33.377107Z",
+  "updated_at": "2026-04-14T08:24:38.771693Z",
   "stories": [
     {
       "title": "DaVinci Resolve releases Photo Editor",
-      "score": 393
+      "score": 475
     },
     {
       "title": "A new spam policy for \"back button hijacking\"",
-      "score": 238
+      "score": 291
     },
     {
-      "title": "Can Claude Fly a Plane?",
-      "score": 34
+      "title": "The Shinkansen",
+      "score": 44
     },
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 880
+      "score": 916
     },
     {
-      "title": "Sometimes powerful people just do dumb shit",
-      "score": 155
+      "title": "GitHub Stacked PRs",
+      "score": 689
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T07:23:34.491262Z",
+  "updated_at": "2026-04-14T08:24:40.205000Z",
   "repos": [
     {
       "name": "alchaincyf/hermes-agent-orange-book",
-      "stars": 2356
+      "stars": 2368
     },
     {
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "stars": 2171
+      "stars": 2192
     },
     {
       "name": "QLHazyCoder/codex-oauth-automation-extension",
-      "stars": 1261
-    },
-    {
-      "name": "nashsu/llm_wiki",
-      "stars": 1192
+      "stars": 1274
     },
     {
       "name": "momenbasel/PureMac",
-      "stars": 1167
+      "stars": 1207
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "stars": 1203
     }
   ]
 }
