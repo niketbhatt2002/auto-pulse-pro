@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T10:56:10.126072Z",
+  "updated_at": "2026-04-14T11:55:56.239507Z",
   "stories": [
     {
       "title": "DaVinci Resolve \u2013 Photo",
-      "score": 609
-    },
-    {
-      "title": "Backblaze has stopped backing up your data",
-      "score": 179
+      "score": 663
     },
     {
       "title": "A new spam policy for \u201cback button hijacking\u201d",
-      "score": 383
+      "score": 433
+    },
+    {
+      "title": "NimConf 2026: Dates Announced, Registrations Open",
+      "score": 9
     },
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 969
+      "score": 992
     },
     {
       "title": "Introspective Diffusion Language Models",
-      "score": 54
+      "score": 77
     }
   ]
 }
