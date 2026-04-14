@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T08:24:38.771693Z",
+  "updated_at": "2026-04-14T09:11:18.145854Z",
   "stories": [
     {
-      "title": "DaVinci Resolve releases Photo Editor",
-      "score": 475
+      "title": "An AI Vibe Coding Horror Story",
+      "score": 37
     },
     {
-      "title": "A new spam policy for \"back button hijacking\"",
-      "score": 291
+      "title": "DaVinci Resolve \u2013 Photo",
+      "score": 531
     },
     {
-      "title": "The Shinkansen",
-      "score": 44
+      "title": "A new spam policy for \u201cback button hijacking\u201d",
+      "score": 327
+    },
+    {
+      "title": "Introspective Diffusion Language Models",
+      "score": 23
     },
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 916
-    },
-    {
-      "title": "GitHub Stacked PRs",
-      "score": 689
+      "score": 929
     }
   ]
 }
