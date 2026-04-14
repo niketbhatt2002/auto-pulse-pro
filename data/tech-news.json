@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T09:11:18.145854Z",
+  "updated_at": "2026-04-14T10:19:57.533552Z",
   "stories": [
     {
-      "title": "An AI Vibe Coding Horror Story",
-      "score": 37
-    },
-    {
       "title": "DaVinci Resolve \u2013 Photo",
-      "score": 531
+      "score": 578
     },
     {
       "title": "A new spam policy for \u201cback button hijacking\u201d",
-      "score": 327
+      "score": 368
     },
     {
-      "title": "Introspective Diffusion Language Models",
-      "score": 23
+      "title": "Backblaze has stopped backing up your data",
+      "score": 104
     },
     {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 929
+      "score": 955
+    },
+    {
+      "title": "GitHub Stacked PRs",
+      "score": 717
     }
   ]
 }
