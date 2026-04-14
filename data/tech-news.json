@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T11:55:56.239507Z",
+  "updated_at": "2026-04-14T15:17:54.816529Z",
   "stories": [
     {
+      "title": "Rare concert records going on Internet Archive",
+      "score": 72
+    },
+    {
+      "title": "What is jj and why should I care?",
+      "score": 291
+    },
+    {
+      "title": "The Future of Everything Is Lies, I Guess: Work",
+      "score": 13
+    },
+    {
       "title": "DaVinci Resolve \u2013 Photo",
-      "score": 663
+      "score": 832
     },
     {
       "title": "A new spam policy for \u201cback button hijacking\u201d",
-      "score": 433
-    },
-    {
-      "title": "NimConf 2026: Dates Announced, Registrations Open",
-      "score": 9
-    },
-    {
-      "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 992
-    },
-    {
-      "title": "Introspective Diffusion Language Models",
-      "score": 77
+      "score": 599
     }
   ]
 }
