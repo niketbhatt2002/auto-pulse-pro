@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T02:08:40.237694Z",
+  "updated_at": "2026-04-14T07:23:33.377107Z",
   "stories": [
     {
+      "title": "DaVinci Resolve releases Photo Editor",
+      "score": 393
+    },
+    {
+      "title": "A new spam policy for \"back button hijacking\"",
+      "score": 238
+    },
+    {
+      "title": "Can Claude Fly a Plane?",
+      "score": 34
+    },
+    {
       "title": "Someone bought 30 WordPress plugins and planted a backdoor in all of them",
-      "score": 700
+      "score": 880
     },
     {
-      "title": "Lean proved this program correct; then I found a bug",
-      "score": 84
-    },
-    {
-      "title": "GitHub Stacked PRs",
-      "score": 432
-    },
-    {
-      "title": "WiiFin \u2013 Jellyfin Client for Nintendo Wii",
-      "score": 57
-    },
-    {
-      "title": "Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets",
-      "score": 357
+      "title": "Sometimes powerful people just do dumb shit",
+      "score": 155
     }
   ]
 }
