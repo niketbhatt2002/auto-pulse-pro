@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T23:51:40.631415Z",
+  "updated_at": "2026-04-15T07:23:38.484430Z",
   "stories": [
     {
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "score": 64
+    },
+    {
+      "title": "Peter Steinberger \u2013 WhatsApp CLI: sync, search, send",
+      "score": 9
+    },
+    {
+      "title": "Dependency cooldowns turn you into a free-rider",
+      "score": 94
+    },
+    {
       "title": "Claude Code Routines",
-      "score": 357
+      "score": 573
     },
     {
-      "title": "Rare concert recordings are landing on the Internet Archive",
-      "score": 482
-    },
-    {
-      "title": "The Orange Pi 6 Plus",
-      "score": 96
-    },
-    {
-      "title": "Fuck the cloud (2009)",
-      "score": 33
-    },
-    {
-      "title": "Trusted access for the next era of cyber defense",
-      "score": 48
+      "title": "Not all elementary functions can be expressed with exp-minus-log",
+      "score": 81
     }
   ]
 }

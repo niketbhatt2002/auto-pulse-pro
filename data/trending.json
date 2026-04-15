@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-14T23:51:41.844524Z",
+  "updated_at": "2026-04-15T07:23:39.807451Z",
   "repos": [
     {
-      "name": "alchaincyf/hermes-agent-orange-book",
-      "stars": 2433
-    },
-    {
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "stars": 2383
-    },
-    {
-      "name": "momenbasel/PureMac",
-      "stars": 1495
+      "stars": 2653
     },
     {
       "name": "QLHazyCoder/codex-oauth-automation-extension",
-      "stars": 1365
+      "stars": 1425
     },
     {
-      "name": "nashsu/llm_wiki",
-      "stars": 1285
+      "name": "AgentSeal/codeburn",
+      "stars": 1170
+    },
+    {
+      "name": "joeynyc/hermes-hudui",
+      "stars": 890
+    },
+    {
+      "name": "OpenMOSS/MOSS-TTS-Nano",
+      "stars": 859
     }
   ]
 }
