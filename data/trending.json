@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-15T08:26:17.081501Z",
+  "updated_at": "2026-04-15T09:12:39.352453Z",
   "repos": [
     {
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "stars": 2671
+      "stars": 2700
     },
     {
       "name": "QLHazyCoder/codex-oauth-automation-extension",
-      "stars": 1435
+      "stars": 1439
     },
     {
       "name": "AgentSeal/codeburn",
-      "stars": 1219
-    },
-    {
-      "name": "joeynyc/hermes-hudui",
-      "stars": 891
+      "stars": 1245
     },
     {
       "name": "OpenMOSS/MOSS-TTS-Nano",
-      "stars": 880
+      "stars": 896
+    },
+    {
+      "name": "joeynyc/hermes-hudui",
+      "stars": 893
     }
   ]
 }

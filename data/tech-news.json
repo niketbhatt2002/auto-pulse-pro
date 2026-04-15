@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-15T08:26:15.980080Z",
+  "updated_at": "2026-04-15T09:12:38.140000Z",
   "stories": [
     {
-      "title": "Peter Steinberger \u2013 WhatsApp CLI: sync, search, send",
-      "score": 63
-    },
-    {
       "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "score": 91
+      "score": 114
     },
     {
       "title": "My adventure in designing API keys",
-      "score": 39
+      "score": 51
     },
     {
       "title": "Claude Code Routines",
-      "score": 591
+      "score": 601
+    },
+    {
+      "title": "Wacli \u2013 WhatsApp CLI: sync, search, send",
+      "score": 79
     },
     {
       "title": "Rare concert recordings are landing on the Internet Archive",
-      "score": 634
+      "score": 642
     }
   ]
 }
