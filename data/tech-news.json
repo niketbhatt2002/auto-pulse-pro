@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-15T11:54:41.830778Z",
+  "updated_at": "2026-04-15T15:10:08.381611Z",
   "stories": [
     {
+      "title": "God Sleeps in the Minerals",
+      "score": 125
+    },
+    {
+      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
+      "score": 85
+    },
+    {
+      "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
+      "score": 81
+    },
+    {
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-      "score": 120
+      "score": 277
     },
     {
-      "title": "Good Sleep, Good Learning (2012)",
-      "score": 73
-    },
-    {
-      "title": "Costasiella kuroshimae \u2013 Solar Powered animals, that do indirect photosynthesis",
-      "score": 33
-    },
-    {
-      "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "score": 170
-    },
-    {
-      "title": "Claude Code Routines",
-      "score": 639
+      "title": "MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints",
+      "score": 27
     }
   ]
 }
