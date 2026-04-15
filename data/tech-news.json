@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-15T10:20:55.967765Z",
+  "updated_at": "2026-04-15T10:52:56.341276Z",
   "stories": [
     {
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-      "score": 37
-    },
-    {
-      "title": "Fixing a 20-year-old bug in Enlightenment E16",
-      "score": 146
+      "score": 64
     },
     {
       "title": "Good Sleep, Good Learning (2012)",
-      "score": 21
+      "score": 39
     },
     {
-      "title": "Wacli \u2013 WhatsApp CLI: sync, search, send",
-      "score": 101
+      "title": "Fixing a 20-year-old bug in Enlightenment E16",
+      "score": 155
     },
     {
       "title": "Claude Code Routines",
-      "score": 614
+      "score": 628
+    },
+    {
+      "title": "Costasiella kuroshimae \u2013 Solar Powered animals, that do indirect photosynthesis",
+      "score": 11
     }
   ]
 }
