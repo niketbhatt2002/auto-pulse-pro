@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-15T15:10:08.381611Z",
+  "updated_at": "2026-04-15T17:57:10.777479Z",
   "stories": [
     {
       "title": "God Sleeps in the Minerals",
-      "score": 125
+      "score": 297
     },
     {
-      "title": "The Future of Everything Is Lies, I Guess: New Jobs",
-      "score": 85
-    },
-    {
-      "title": "Show HN: Every CEO and CFO change at US public companies, live from SEC",
-      "score": 81
+      "title": "Open Source Isn't Dead. Cal.com Just Learned the Wrong Lesson",
+      "score": 158
     },
     {
       "title": "Want to Write a Compiler? Just Read These Two Papers (2008)",
-      "score": 277
+      "score": 366
     },
     {
-      "title": "MCP as Observability Interface: Connecting AI Agents to Kernel Tracepoints",
-      "score": 27
+      "title": "Good Sleep, Good Learning (2012)",
+      "score": 275
+    },
+    {
+      "title": "Show HN: Libretto \u2013 Making AI browser automations deterministic",
+      "score": 23
     }
   ]
 }
