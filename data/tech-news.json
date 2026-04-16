@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-16T10:19:53.800165Z",
+  "updated_at": "2026-04-16T10:55:21.122760Z",
   "stories": [
     {
       "title": "IPv6 traffic crosses the 50% mark",
-      "score": 258
+      "score": 307
     },
     {
       "title": "Darkbloom \u2013 Private inference on idle Macs",
-      "score": 247
+      "score": 258
     },
     {
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "score": 163
+      "score": 179
     },
     {
       "title": "Cybersecurity looks like proof of work now",
-      "score": 427
+      "score": 439
     },
     {
-      "title": "The paper computer",
-      "score": 148
+      "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
+      "score": 89
     }
   ]
 }
