@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-16T08:25:34.871711Z",
+  "updated_at": "2026-04-16T09:12:31.116880Z",
   "stories": [
     {
-      "title": "Darkbloom \u2013 Private inference on idle Macs",
-      "score": 208
+      "title": "IPv6 traffic crosses the 50% mark",
+      "score": 186
     },
     {
       "title": "Stop Using Ollama",
-      "score": 362
+      "score": 477
     },
     {
-      "title": "IPv6 traffic crosses the 50% mark",
-      "score": 123
+      "title": "Darkbloom \u2013 Private inference on idle Macs",
+      "score": 223
     },
     {
       "title": "FSF trying to contact Google about spammer sending 10k+ mails from Gmail account",
-      "score": 127
+      "score": 137
     },
     {
       "title": "RedSun: System user access on Win 11/10 and Server with the April 2026 Update",
-      "score": 62
+      "score": 69
     }
   ]
 }
