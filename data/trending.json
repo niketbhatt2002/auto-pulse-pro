@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-16T15:43:51.997235Z",
+  "updated_at": "2026-04-16T18:01:20.006826Z",
   "repos": [
     {
       "name": "yizhiyanhua-ai/fireworks-tech-graph",
-      "stars": 3267
+      "stars": 3306
     },
     {
       "name": "AgentSeal/codeburn",
-      "stars": 2018
+      "stars": 2081
     },
     {
       "name": "OpenMOSS/MOSS-TTS-Nano",
-      "stars": 1194
+      "stars": 1208
     },
     {
       "name": "Mouseww/anything-analyzer",
-      "stars": 973
+      "stars": 999
     },
     {
       "name": "alchaincyf/darwin-skill",
-      "stars": 944
+      "stars": 948
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-16T15:43:50.868852Z",
+  "updated_at": "2026-04-16T18:01:18.870621Z",
   "stories": [
     {
       "title": "Claude Opus 4.7",
-      "score": 357
+      "score": 836
     },
     {
-      "title": "Cloudflare Email Service",
-      "score": 136
+      "title": "Codex for Almost Everything",
+      "score": 146
     },
     {
-      "title": "Mozilla Thunderbolt",
-      "score": 119
+      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
+      "score": 547
     },
     {
-      "title": "Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All",
-      "score": 321
+      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
+      "score": 132
     },
     {
-      "title": "IPv6 traffic crosses the 50% mark",
-      "score": 591
+      "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
+      "score": 35
     }
   ]
 }
