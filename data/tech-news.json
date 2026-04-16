@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-16T20:53:31.869613Z",
+  "updated_at": "2026-04-16T23:51:04.552383Z",
   "stories": [
     {
-      "title": "Codex for almost everything",
-      "score": 466
-    },
-    {
       "title": "Claude Opus 4.7",
-      "score": 1178
+      "score": 1374
     },
     {
-      "title": "German Dog Commands",
-      "score": 27
+      "title": "Codex for almost everything",
+      "score": 624
     },
     {
-      "title": "PCI Express over Fiber [video]",
-      "score": 85
+      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
+      "score": 58
     },
     {
-      "title": "TigerBeetle: A Trillion Transactions [video]",
-      "score": 41
+      "title": "A Better R Programming Experience Thanks to Tree-sitter",
+      "score": 55
+    },
+    {
+      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
+      "score": 75
     }
   ]
 }
