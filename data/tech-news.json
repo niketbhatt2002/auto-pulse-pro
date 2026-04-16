@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-16T18:01:18.870621Z",
+  "updated_at": "2026-04-16T20:53:31.869613Z",
   "stories": [
     {
+      "title": "Codex for almost everything",
+      "score": 466
+    },
+    {
       "title": "Claude Opus 4.7",
-      "score": 836
+      "score": 1178
     },
     {
-      "title": "Codex for Almost Everything",
-      "score": 146
+      "title": "German Dog Commands",
+      "score": 27
     },
     {
-      "title": "Qwen3.6-35B-A3B: Agentic coding power, now open to all",
-      "score": 547
+      "title": "PCI Express over Fiber [video]",
+      "score": 85
     },
     {
-      "title": "Cloudflare's AI Platform: an inference layer designed for agents",
-      "score": 132
-    },
-    {
-      "title": "Launch HN: Kampala (YC W26) \u2013 Reverse-Engineer Apps into APIs",
-      "score": 35
+      "title": "TigerBeetle: A Trillion Transactions [video]",
+      "score": 41
     }
   ]
 }
