@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T10:17:25.056222Z",
+  "updated_at": "2026-04-17T10:46:18.123537Z",
   "stories": [
     {
       "title": "Ada, Its Design, and the Language That Built the Languages",
-      "score": 52
+      "score": 72
     },
     {
       "title": "Claude Opus 4.7",
-      "score": 1756
+      "score": 1765
     },
     {
       "title": "Codex for almost everything",
-      "score": 884
+      "score": 896
     },
     {
       "title": "FIM \u2013 Linux framebuffer image viewer",
-      "score": 47
+      "score": 52
     },
     {
       "title": "A Python Interpreter Written in Python",
-      "score": 66
+      "score": 71
     }
   ]
 }
