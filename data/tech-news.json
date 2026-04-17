@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T15:03:51.965803Z",
+  "updated_at": "2026-04-17T17:38:23.749521Z",
   "stories": [
     {
+      "title": "Claude Design",
+      "score": 398
+    },
+    {
+      "title": "Claude Opus 4.7 costs 20\u201330% more per session",
+      "score": 205
+    },
+    {
       "title": "Isaac Asimov: The Last Question (1956)",
-      "score": 297
-    },
-    {
-      "title": "We Reproduced Anthropic's Mythos Findings with Public Models",
-      "score": 56
-    },
-    {
-      "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
-      "score": 19
-    },
-    {
-      "title": "It Is Time to Ban the Sale of Precise Geolocation",
-      "score": 73
+      "score": 443
     },
     {
       "title": "Middle schooler finds coin from Troy in Berlin",
-      "score": 5
+      "score": 100
+    },
+    {
+      "title": "NIST gives up enriching most CVEs",
+      "score": 75
     }
   ]
 }
