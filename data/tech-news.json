@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T17:38:23.749521Z",
+  "updated_at": "2026-04-17T20:50:50.846388Z",
   "stories": [
     {
       "title": "Claude Design",
-      "score": 398
+      "score": 655
     },
     {
       "title": "Claude Opus 4.7 costs 20\u201330% more per session",
-      "score": 205
+      "score": 431
+    },
+    {
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "score": 131
+    },
+    {
+      "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
+      "score": 123
     },
     {
       "title": "Isaac Asimov: The Last Question (1956)",
-      "score": 443
-    },
-    {
-      "title": "Middle schooler finds coin from Troy in Berlin",
-      "score": 100
-    },
-    {
-      "title": "NIST gives up enriching most CVEs",
-      "score": 75
+      "score": 536
     }
   ]
 }
