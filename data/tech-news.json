@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T11:50:38.707371Z",
+  "updated_at": "2026-04-17T15:03:51.965803Z",
   "stories": [
     {
-      "title": "Ada, Its Design, and the Language That Built the Languages",
-      "score": 98
+      "title": "Isaac Asimov: The Last Question (1956)",
+      "score": 297
     },
     {
-      "title": "Claude Opus 4.7",
-      "score": 1799
+      "title": "We Reproduced Anthropic's Mythos Findings with Public Models",
+      "score": 56
     },
     {
-      "title": "FIM \u2013 Linux framebuffer image viewer",
-      "score": 67
+      "title": "Healthchecks.io Now Uses Self-Hosted Object Storage",
+      "score": 19
     },
     {
-      "title": "Codex for almost everything",
-      "score": 906
+      "title": "It Is Time to Ban the Sale of Precise Geolocation",
+      "score": 73
     },
     {
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "score": 158
+      "title": "Middle schooler finds coin from Troy in Berlin",
+      "score": 5
     }
   ]
 }

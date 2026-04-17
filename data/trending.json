@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T11:50:39.682859Z",
+  "updated_at": "2026-04-17T15:03:53.351843Z",
   "repos": [
     {
       "name": "AgentSeal/codeburn",
-      "stars": 2447
+      "stars": 2487
     },
     {
       "name": "Mouseww/anything-analyzer",
-      "stars": 1230
+      "stars": 1247
     },
     {
       "name": "vercel-labs/wterm",
-      "stars": 1190
+      "stars": 1243
     },
     {
       "name": "Nightmare-Eclipse/RedSun",
-      "stars": 1105
+      "stars": 1202
     },
     {
       "name": "alchaincyf/darwin-skill",
-      "stars": 1049
+      "stars": 1062
     }
   ]
 }
