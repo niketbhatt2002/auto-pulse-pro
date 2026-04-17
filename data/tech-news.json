@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-16T23:51:04.552383Z",
+  "updated_at": "2026-04-17T07:25:23.022671Z",
   "stories": [
     {
       "title": "Claude Opus 4.7",
-      "score": 1374
+      "score": 1670
     },
     {
       "title": "Codex for almost everything",
-      "score": 624
+      "score": 817
     },
     {
-      "title": "Guy builds AI driven hardware hacker arm from duct tape, old cam and CNC machine",
-      "score": 58
+      "title": "A Python Interpreter Written in Python",
+      "score": 40
     },
     {
-      "title": "A Better R Programming Experience Thanks to Tree-sitter",
-      "score": 55
+      "title": "CadQuery is an open-source Python library for building 3D CAD models",
+      "score": 119
     },
     {
-      "title": "Official Clojure Documentary page with Video, Shownotes, and Links",
-      "score": 75
+      "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
+      "score": 65
     }
   ]
 }
