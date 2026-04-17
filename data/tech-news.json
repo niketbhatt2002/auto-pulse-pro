@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T08:24:54.970458Z",
+  "updated_at": "2026-04-17T09:10:26.846542Z",
   "stories": [
     {
       "title": "Claude Opus 4.7",
-      "score": 1711
+      "score": 1735
     },
     {
       "title": "Codex for almost everything",
-      "score": 845
+      "score": 861
     },
     {
-      "title": "How to make buffet breakfasts less wasteful",
+      "title": "Ada, Its Design, and the Language That Built the Languages",
       "score": 5
     },
     {
       "title": "FIM \u2013 Linux framebuffer image viewer",
-      "score": 15
+      "score": 28
     },
     {
-      "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "score": 133
+      "title": "How to make buffet breakfasts less wasteful",
+      "score": 12
     }
   ]
 }
