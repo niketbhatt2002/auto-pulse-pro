@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T07:25:23.022671Z",
+  "updated_at": "2026-04-17T08:24:54.970458Z",
   "stories": [
     {
       "title": "Claude Opus 4.7",
-      "score": 1670
+      "score": 1711
     },
     {
       "title": "Codex for almost everything",
-      "score": 817
+      "score": 845
     },
     {
-      "title": "A Python Interpreter Written in Python",
-      "score": 40
+      "title": "How to make buffet breakfasts less wasteful",
+      "score": 5
+    },
+    {
+      "title": "FIM \u2013 Linux framebuffer image viewer",
+      "score": 15
     },
     {
       "title": "CadQuery is an open-source Python library for building 3D CAD models",
-      "score": 119
-    },
-    {
-      "title": "Show HN: SPICE simulation \u2192 oscilloscope \u2192 verification with Claude Code",
-      "score": 65
+      "score": 133
     }
   ]
 }
