@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T09:10:26.846542Z",
+  "updated_at": "2026-04-17T10:17:25.056222Z",
   "stories": [
     {
+      "title": "Ada, Its Design, and the Language That Built the Languages",
+      "score": 52
+    },
+    {
       "title": "Claude Opus 4.7",
-      "score": 1735
+      "score": 1756
     },
     {
       "title": "Codex for almost everything",
-      "score": 861
-    },
-    {
-      "title": "Ada, Its Design, and the Language That Built the Languages",
-      "score": 5
+      "score": 884
     },
     {
       "title": "FIM \u2013 Linux framebuffer image viewer",
-      "score": 28
+      "score": 47
     },
     {
-      "title": "How to make buffet breakfasts less wasteful",
-      "score": 12
+      "title": "A Python Interpreter Written in Python",
+      "score": 66
     }
   ]
 }
