@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T20:50:50.846388Z",
+  "updated_at": "2026-04-17T23:49:15.113533Z",
   "stories": [
     {
       "title": "Claude Design",
-      "score": 655
+      "score": 783
     },
     {
-      "title": "Claude Opus 4.7 costs 20\u201330% more per session",
-      "score": 431
+      "title": "A simplified model of Fil-C",
+      "score": 76
     },
     {
       "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "score": 131
+      "score": 197
     },
     {
-      "title": "Show HN: Smol machines \u2013 subsecond coldstart, portable virtual machines",
-      "score": 123
+      "title": "Measuring Claude 4.7's tokenizer costs",
+      "score": 515
     },
     {
-      "title": "Isaac Asimov: The Last Question (1956)",
-      "score": 536
+      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
+      "score": 23
     }
   ]
 }
