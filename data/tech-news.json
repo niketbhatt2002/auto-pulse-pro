@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-18T14:45:00.840342Z",
+  "updated_at": "2026-04-18T17:27:21.549381Z",
   "stories": [
     {
-      "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime",
-      "score": 130
+      "title": "Opus 4.7 to 4.6 Inflation is ~45%",
+      "score": 78
+    },
+    {
+      "title": "Migrating from DigitalOcean to Hetzner",
+      "score": 424
+    },
+    {
+      "title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
+      "score": 20
     },
     {
       "title": "State of Kdenlive",
-      "score": 128
+      "score": 213
     },
     {
-      "title": "Why Japan has such good railways",
-      "score": 75
-    },
-    {
-      "title": "Michael Rabin has died",
-      "score": 221
-    },
-    {
-      "title": "It's OK to compare floating-points for equality",
-      "score": 84
+      "title": "Fuzix OS",
+      "score": 22
     }
   ]
 }
