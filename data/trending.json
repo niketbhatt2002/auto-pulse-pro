@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-04-18T10:31:50.092656Z",
-  "repos": []
+  "updated_at": "2026-04-18T11:32:29.952502Z",
+  "repos": [
+    {
+      "name": "AgentSeal/codeburn",
+      "stars": 2645
+    },
+    {
+      "name": "Nightmare-Eclipse/RedSun",
+      "stars": 1429
+    },
+    {
+      "name": "vercel-labs/wterm",
+      "stars": 1408
+    },
+    {
+      "name": "Mouseww/anything-analyzer",
+      "stars": 1330
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "stars": 1222
+    }
+  ]
 }
