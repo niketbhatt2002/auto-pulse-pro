@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-18T09:53:22.773619Z",
+  "updated_at": "2026-04-18T10:31:49.334193Z",
   "stories": [
     {
       "title": "Category Theory Illustrated \u2013 Orders",
-      "score": 68
+      "score": 78
     },
     {
       "title": "Amiga Graphics",
-      "score": 67
-    },
-    {
-      "title": "Claude Design",
-      "score": 1047
+      "score": 84
     },
     {
       "title": "Michael Rabin Has Died",
-      "score": 40
+      "score": 64
+    },
+    {
+      "title": "Claude Design",
+      "score": 1057
     },
     {
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "score": 156
+      "score": 170
     }
   ]
 }
