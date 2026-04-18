@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-18T11:32:28.943954Z",
+  "updated_at": "2026-04-18T14:45:00.840342Z",
   "stories": [
     {
-      "title": "Category Theory Illustrated \u2013 Orders",
-      "score": 96
+      "title": "Migrating from DigitalOcean to Hetzner: From $1,432 to $233 With Zero Downtime",
+      "score": 130
     },
     {
-      "title": "Michael Rabin Has Died",
-      "score": 102
+      "title": "State of Kdenlive",
+      "score": 128
     },
     {
-      "title": "Amiga Graphics",
-      "score": 104
+      "title": "Why Japan has such good railways",
+      "score": 75
     },
     {
-      "title": "Claude Design",
-      "score": 1071
+      "title": "Michael Rabin has died",
+      "score": 221
     },
     {
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "score": 183
+      "title": "It's OK to compare floating-points for equality",
+      "score": 84
     }
   ]
 }
