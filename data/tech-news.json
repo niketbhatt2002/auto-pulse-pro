@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-18T08:40:51.487974Z",
+  "updated_at": "2026-04-18T09:53:22.773619Z",
   "stories": [
     {
       "title": "Category Theory Illustrated \u2013 Orders",
-      "score": 33
+      "score": 68
     },
     {
       "title": "Amiga Graphics",
-      "score": 30
-    },
-    {
-      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "score": 138
+      "score": 67
     },
     {
       "title": "Claude Design",
-      "score": 1019
+      "score": 1047
     },
     {
-      "title": "The simple geometry behind any road",
-      "score": 18
+      "title": "Michael Rabin Has Died",
+      "score": 40
+    },
+    {
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "score": 156
     }
   ]
 }
