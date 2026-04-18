@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-17T23:49:15.113533Z",
+  "updated_at": "2026-04-18T07:01:20.115101Z",
   "stories": [
     {
+      "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
+      "score": 95
+    },
+    {
       "title": "Claude Design",
-      "score": 783
+      "score": 986
     },
     {
-      "title": "A simplified model of Fil-C",
-      "score": 76
-    },
-    {
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "score": 197
+      "title": "Towards trust in Emacs",
+      "score": 83
     },
     {
       "title": "Measuring Claude 4.7's tokenizer costs",
-      "score": 515
+      "score": 590
     },
     {
-      "title": "Landmark ancient-genome study shows surprise acceleration of human evolution",
-      "score": 23
+      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
+      "score": 303
     }
   ]
 }
