@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-18T07:57:27.368835Z",
+  "updated_at": "2026-04-18T08:40:51.487974Z",
   "stories": [
     {
       "title": "Category Theory Illustrated \u2013 Orders",
-      "score": 16
+      "score": 33
+    },
+    {
+      "title": "Amiga Graphics",
+      "score": 30
     },
     {
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "score": 122
+      "score": 138
     },
     {
       "title": "Claude Design",
-      "score": 1008
+      "score": 1019
     },
     {
-      "title": "Towards trust in Emacs",
-      "score": 91
-    },
-    {
-      "title": "Measuring Claude 4.7's tokenizer costs",
-      "score": 597
+      "title": "The simple geometry behind any road",
+      "score": 18
     }
   ]
 }
