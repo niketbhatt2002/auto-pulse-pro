@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-18T07:01:20.115101Z",
+  "updated_at": "2026-04-18T07:57:27.368835Z",
   "stories": [
     {
+      "title": "Category Theory Illustrated \u2013 Orders",
+      "score": 16
+    },
+    {
       "title": "Show HN: I made a calculator that works over disjoint sets of intervals",
-      "score": 95
+      "score": 122
     },
     {
       "title": "Claude Design",
-      "score": 986
+      "score": 1008
     },
     {
       "title": "Towards trust in Emacs",
-      "score": 83
+      "score": 91
     },
     {
       "title": "Measuring Claude 4.7's tokenizer costs",
-      "score": 590
-    },
-    {
-      "title": "All 12 moonwalkers had \"lunar hay fever\" from dust smelling like gunpowder (2018)",
-      "score": 303
+      "score": 597
     }
   ]
 }
