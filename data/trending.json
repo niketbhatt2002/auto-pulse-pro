@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-04-19T09:52:48.016141Z",
-  "repos": []
+  "updated_at": "2026-04-19T10:31:08.213484Z",
+  "repos": [
+    {
+      "name": "getagentseal/codeburn",
+      "stars": 2754
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "stars": 2256
+    },
+    {
+      "name": "vercel-labs/wterm",
+      "stars": 1820
+    },
+    {
+      "name": "Nightmare-Eclipse/RedSun",
+      "stars": 1531
+    },
+    {
+      "name": "lewislulu/html-ppt-skill",
+      "stars": 1269
+    }
+  ]
 }
