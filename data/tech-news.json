@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-19T14:45:48.142694Z",
+  "updated_at": "2026-04-19T17:25:53.873156Z",
   "stories": [
     {
-      "title": "Archive of Byte magazine, starting with issue #1 in 1975",
-      "score": 251
+      "title": "Vercel Says Internal Systems Hit in Breach",
+      "score": 159
     },
     {
-      "title": "SPEAKE(a)R: Turn Speakers to Microphones for Fun and Profit [pdf] (2017)",
+      "title": "Archive of Byte magazine, starting with issue #1 in 1975",
+      "score": 395
+    },
+    {
+      "title": "Notion leaks email addresses of all editors of any public page",
       "score": 100
     },
     {
-      "title": "Game devs explain the tricks involved with letting you pause a game",
-      "score": 240
-    },
-    {
       "title": "Nanopass Framework: Clean Compiler Creation Language",
-      "score": 23
+      "score": 74
     },
     {
-      "title": "Airline worker arrested after sharing photos of bomb damage in WhatsApp group",
-      "score": 77
+      "title": "Game devs explain the tricks involved with letting you pause a game",
+      "score": 305
     }
   ]
 }
