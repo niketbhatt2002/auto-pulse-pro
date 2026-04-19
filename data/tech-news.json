@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-19T20:41:57.029222Z",
+  "updated_at": "2026-04-19T23:46:12.521200Z",
   "stories": [
     {
-      "title": "The Bromine Chokepoint: How Strife Could Halt Production of World\u2019s Memory Chips",
-      "score": 59
-    },
-    {
       "title": "Vercel April 2026 security incident",
-      "score": 315
+      "score": 456
     },
     {
-      "title": "A. J. Ayer \u2013 \u2018What I Saw When I Was Dead\u2019 (1988)",
-      "score": 16
+      "title": "The Bromine Chokepoint",
+      "score": 131
     },
     {
-      "title": "Show HN: Faceoff \u2013 A terminal UI for following NHL games",
-      "score": 52
+      "title": "A Brief History of Fish Sauce",
+      "score": 15
     },
     {
-      "title": "I wrote a CHIP-8 emulator in my own programming language",
-      "score": 19
+      "title": "2,100 Swiss municipalities showing which provider handles their official email",
+      "score": 29
+    },
+    {
+      "title": "Show HN: How context engineering works, a runnable reference",
+      "score": 4
     }
   ]
 }
