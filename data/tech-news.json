@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T15:19:33.358554Z",
+  "updated_at": "2026-04-20T17:47:08.140821Z",
   "stories": [
     {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "score": 86
+      "score": 267
     },
     {
-      "title": "Atlassian Enables Default Data Collection to Train AI",
-      "score": 118
-    },
-    {
-      "title": "All phones sold in the EU to have replaceable batteries from 2027",
-      "score": 288
-    },
-    {
-      "title": "GitHub's Fake Star Economy",
-      "score": 421
+      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
+      "score": 120
     },
     {
       "title": "ggsql: A Grammar of Graphics for SQL",
-      "score": 127
+      "score": 207
+    },
+    {
+      "title": "GitHub's Fake Star Economy",
+      "score": 526
+    },
+    {
+      "title": "We accepted surveillance as default",
+      "score": 97
     }
   ]
 }
