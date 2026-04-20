@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T09:05:25.722477Z",
+  "updated_at": "2026-04-20T09:53:08.827273Z",
   "stories": [
     {
       "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "score": 35
+      "score": 73
     },
     {
       "title": "GitHub's Fake Star Economy",
-      "score": 11
+      "score": 71
     },
     {
       "title": "SDF Public Access Unix System",
-      "score": 58
+      "score": 67
     },
     {
-      "title": "Stripe's Payment APIs: the first 10 years (2020)",
-      "score": 38
+      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
+      "score": 48
     },
     {
-      "title": "Ben Lerner's Big Feelings",
-      "score": 25
+      "title": "Vercel April 2026 security incident",
+      "score": 743
     }
   ]
 }
