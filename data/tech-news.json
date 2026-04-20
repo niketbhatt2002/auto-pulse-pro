@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T11:12:26.096597Z",
+  "updated_at": "2026-04-20T12:02:04.338596Z",
   "stories": [
     {
       "title": "GitHub's Fake Star Economy",
-      "score": 142
+      "score": 217
+    },
+    {
+      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
+      "score": 41
+    },
+    {
+      "title": "NSA is using Anthropic's Mythos despite blacklist",
+      "score": 91
+    },
+    {
+      "title": "Figma's woes compound with Claude Design",
+      "score": 18
     },
     {
       "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-      "score": 62
-    },
-    {
-      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "score": 112
-    },
-    {
-      "title": "SDF Public Access Unix System",
-      "score": 78
-    },
-    {
-      "title": "Vercel April 2026 security incident",
-      "score": 760
+      "score": 76
     }
   ]
 }
