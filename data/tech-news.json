@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T17:47:08.140821Z",
+  "updated_at": "2026-04-20T20:52:29.178805Z",
   "stories": [
     {
+      "title": "Tim Cook to become Apple Executive Chairman",
+      "score": 133
+    },
+    {
+      "title": "AI Resistance Is Growing",
+      "score": 68
+    },
+    {
+      "title": "F-35 is a masterpiece built for the wrong war",
+      "score": 64
+    },
+    {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "score": 267
+      "score": 440
     },
     {
-      "title": "Deezer says 44% of songs uploaded to its platform daily are AI-generated",
-      "score": 120
-    },
-    {
-      "title": "ggsql: A Grammar of Graphics for SQL",
-      "score": 207
-    },
-    {
-      "title": "GitHub's Fake Star Economy",
-      "score": 526
-    },
-    {
-      "title": "We accepted surveillance as default",
-      "score": 97
+      "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
+      "score": 67
     }
   ]
 }
