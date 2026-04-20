@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T10:53:35.418120Z",
+  "updated_at": "2026-04-20T11:12:26.096597Z",
   "stories": [
     {
       "title": "GitHub's Fake Star Economy",
-      "score": 123
-    },
-    {
-      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
-      "score": 106
+      "score": 142
     },
     {
       "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
       "score": 62
     },
     {
+      "title": "OpenClaw isn't fooling me. I remember MS-DOS",
+      "score": 112
+    },
+    {
       "title": "SDF Public Access Unix System",
-      "score": 77
+      "score": 78
     },
     {
       "title": "Vercel April 2026 security incident",
-      "score": 759
+      "score": 760
     }
   ]
 }
