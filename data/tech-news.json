@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T20:52:29.178805Z",
+  "updated_at": "2026-04-20T23:52:23.398455Z",
   "stories": [
     {
-      "title": "Tim Cook to become Apple Executive Chairman",
-      "score": 133
+      "title": "John Ternus to become Apple CEO",
+      "score": 960
     },
     {
-      "title": "AI Resistance Is Growing",
-      "score": 68
+      "title": "Jujutsu megamerges for fun and profit",
+      "score": 77
     },
     {
-      "title": "F-35 is a masterpiece built for the wrong war",
-      "score": 64
+      "title": "Even 'uncensored' models can't say what they want",
+      "score": 40
+    },
+    {
+      "title": "Soul Player C64 \u2013 A real transformer running on a 1 MHz Commodore 64",
+      "score": 55
     },
     {
       "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
-      "score": 440
-    },
-    {
-      "title": "We got 207 tok/s with Qwen3.5-27B on an RTX 3090",
-      "score": 67
+      "score": 509
     }
   ]
 }
