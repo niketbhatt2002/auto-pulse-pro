@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-19T23:46:13.911179Z",
+  "updated_at": "2026-04-20T07:58:29.272976Z",
   "repos": [
     {
-      "name": "getagentseal/codeburn",
-      "stars": 2864
-    },
-    {
       "name": "Robbyant/lingbot-map",
-      "stars": 2619
+      "stars": 2800
     },
     {
       "name": "browser-use/browser-harness",
-      "stars": 2115
+      "stars": 2728
+    },
+    {
+      "name": "kyegomez/OpenMythos",
+      "stars": 2181
     },
     {
       "name": "vercel-labs/wterm",
-      "stars": 2063
+      "stars": 2131
     },
     {
       "name": "Nightmare-Eclipse/RedSun",
-      "stars": 1568
+      "stars": 1595
     }
   ]
 }

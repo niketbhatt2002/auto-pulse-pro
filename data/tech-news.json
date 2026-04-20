@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-19T23:46:12.521200Z",
+  "updated_at": "2026-04-20T07:58:28.181649Z",
   "stories": [
     {
+      "title": "SDF Public Access Unix System",
+      "score": 40
+    },
+    {
+      "title": "Ben Lerner's Big Feelings",
+      "score": 18
+    },
+    {
+      "title": "Stripe's Payment APIs: the first 10 years (2020)",
+      "score": 25
+    },
+    {
       "title": "Vercel April 2026 security incident",
-      "score": 456
+      "score": 714
     },
     {
-      "title": "The Bromine Chokepoint",
-      "score": 131
-    },
-    {
-      "title": "A Brief History of Fish Sauce",
-      "score": 15
-    },
-    {
-      "title": "2,100 Swiss municipalities showing which provider handles their official email",
-      "score": 29
-    },
-    {
-      "title": "Show HN: How context engineering works, a runnable reference",
-      "score": 4
+      "title": "Zero-copy protobuf and ConnectRPC for Rust",
+      "score": 33
     }
   ]
 }
