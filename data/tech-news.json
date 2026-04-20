@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T12:02:04.338596Z",
+  "updated_at": "2026-04-20T15:19:33.358554Z",
   "stories": [
     {
+      "title": "Qwen3.6-Max-Preview: Smarter, Sharper, Still Evolving",
+      "score": 86
+    },
+    {
+      "title": "Atlassian Enables Default Data Collection to Train AI",
+      "score": 118
+    },
+    {
+      "title": "All phones sold in the EU to have replaceable batteries from 2027",
+      "score": 288
+    },
+    {
       "title": "GitHub's Fake Star Economy",
-      "score": 217
+      "score": 421
     },
     {
-      "title": "M 7.4 earthquake \u2013 100 km ENE of Miyako, Japan",
-      "score": 41
-    },
-    {
-      "title": "NSA is using Anthropic's Mythos despite blacklist",
-      "score": 91
-    },
-    {
-      "title": "Figma's woes compound with Claude Design",
-      "score": 18
-    },
-    {
-      "title": "Up to 8M Bees Are Living in an Underground Network Beneath This Cemetery",
-      "score": 76
+      "title": "ggsql: A Grammar of Graphics for SQL",
+      "score": 127
     }
   ]
 }
