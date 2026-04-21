@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-21T10:58:50.878592Z",
+  "updated_at": "2026-04-21T11:58:36.850787Z",
   "stories": [
     {
       "title": "John Ternus to become Apple CEO",
-      "score": 1837
+      "score": 1909
     },
     {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "score": 214
+      "title": "Laws of Software Engineering",
+      "score": 32
     },
     {
       "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "score": 4
+      "score": 24
+    },
+    {
+      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
+      "score": 247
     },
     {
       "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-      "score": 54
-    },
-    {
-      "title": "Louis Zocchi, inventor of the d100, has died",
-      "score": 61
+      "score": 82
     }
   ]
 }
