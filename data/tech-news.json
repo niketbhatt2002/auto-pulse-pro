@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-21T15:18:40.758423Z",
+  "updated_at": "2026-04-21T17:49:00.676519Z",
   "stories": [
     {
       "title": "Laws of Software Engineering",
-      "score": 362
+      "score": 577
     },
     {
-      "title": "As Oceans Warm, Great White Sharks Are Overheating",
-      "score": 22
+      "title": "The Vercel breach: OAuth attack exposes risk in platform environment variables",
+      "score": 19
     },
     {
-      "title": "Tim Cook's Impeccable Timing",
-      "score": 95
+      "title": "Show HN: GoModel \u2013 an open-source AI gateway in Go",
+      "score": 88
     },
     {
-      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
-      "score": 128
+      "title": "Fusion Power Plant Simulator",
+      "score": 76
     },
     {
-      "title": "John Ternus to become Apple CEO",
-      "score": 2061
+      "title": "A Periodic Map of Cheese",
+      "score": 14
     }
   ]
 }
