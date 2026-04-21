@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-21T11:58:36.850787Z",
+  "updated_at": "2026-04-21T15:18:40.758423Z",
   "stories": [
     {
-      "title": "John Ternus to become Apple CEO",
-      "score": 1909
-    },
-    {
       "title": "Laws of Software Engineering",
-      "score": 32
+      "score": 362
     },
     {
-      "title": "A type-safe, realtime collaborative Graph Database in a CRDT",
-      "score": 24
+      "title": "As Oceans Warm, Great White Sharks Are Overheating",
+      "score": 22
     },
     {
-      "title": "Anthropic says OpenClaw-style Claude CLI usage is allowed again",
-      "score": 247
+      "title": "Tim Cook's Impeccable Timing",
+      "score": 95
     },
     {
-      "title": "MNT Reform is an open hardware laptop, designed and assembled in Germany",
-      "score": 82
+      "title": "Show HN: VidStudio, a browser based video editor that doesn't upload your files",
+      "score": 128
+    },
+    {
+      "title": "John Ternus to become Apple CEO",
+      "score": 2061
     }
   ]
 }

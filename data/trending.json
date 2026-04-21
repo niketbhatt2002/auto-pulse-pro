@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-21T11:58:38.219872Z",
+  "updated_at": "2026-04-21T15:18:42.120597Z",
   "repos": [
     {
       "name": "kyegomez/OpenMythos",
-      "stars": 5208
+      "stars": 5843
     },
     {
       "name": "browser-use/browser-harness",
-      "stars": 4034
+      "stars": 4141
     },
     {
       "name": "Robbyant/lingbot-map",
-      "stars": 3705
+      "stars": 3774
+    },
+    {
+      "name": "alchaincyf/huashu-design",
+      "stars": 2293
     },
     {
       "name": "lewislulu/html-ppt-skill",
-      "stars": 1723
-    },
-    {
-      "name": "Nightmare-Eclipse/RedSun",
-      "stars": 1661
+      "stars": 1741
     }
   ]
 }
