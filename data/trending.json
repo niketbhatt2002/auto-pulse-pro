@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-20T23:52:24.828072Z",
+  "updated_at": "2026-04-21T07:27:32.721114Z",
   "repos": [
     {
       "name": "kyegomez/OpenMythos",
-      "stars": 4121
+      "stars": 4800
     },
     {
       "name": "browser-use/browser-harness",
-      "stars": 3524
+      "stars": 3864
     },
     {
       "name": "Robbyant/lingbot-map",
-      "stars": 3240
-    },
-    {
-      "name": "vercel-labs/wterm",
-      "stars": 2207
+      "stars": 3543
     },
     {
       "name": "lewislulu/html-ppt-skill",
-      "stars": 1647
+      "stars": 1696
+    },
+    {
+      "name": "Nightmare-Eclipse/RedSun",
+      "stars": 1652
     }
   ]
 }
