@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-22T10:57:39.746663Z",
+  "updated_at": "2026-04-22T11:58:33.153169Z",
   "stories": [
     {
       "title": "Windows 9x Subsystem for Linux",
-      "score": 119
+      "score": 200
     },
     {
       "title": "Making RAM at Home [video]",
-      "score": 373
+      "score": 402
     },
     {
       "title": "How the Heck Does GPS Work?",
-      "score": 22
+      "score": 43
     },
     {
       "title": "ChatGPT Images 2.0",
-      "score": 848
+      "score": 868
     },
     {
       "title": "All your agents are going async",
-      "score": 36
+      "score": 54
     }
   ]
 }
