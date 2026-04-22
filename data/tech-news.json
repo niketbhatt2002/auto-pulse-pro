@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-22T11:58:33.153169Z",
+  "updated_at": "2026-04-22T15:19:29.971419Z",
   "stories": [
     {
       "title": "Windows 9x Subsystem for Linux",
-      "score": 200
+      "score": 485
     },
     {
-      "title": "Making RAM at Home [video]",
-      "score": 402
+      "title": "3.4M Solar Panels",
+      "score": 151
     },
     {
-      "title": "How the Heck Does GPS Work?",
-      "score": 43
+      "title": "Our eighth generation TPUs: two chips for the agentic era",
+      "score": 156
     },
     {
-      "title": "ChatGPT Images 2.0",
-      "score": 868
+      "title": "GitHub CLI now collects pseudoanonymous telemetry",
+      "score": 204
     },
     {
-      "title": "All your agents are going async",
-      "score": 54
+      "title": "Treetops glowing during storms captured on film for first time",
+      "score": 61
     }
   ]
 }
