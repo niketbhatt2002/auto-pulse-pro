@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-22T15:19:31.565015Z",
+  "updated_at": "2026-04-22T17:48:59.235233Z",
   "repos": [
     {
       "name": "kyegomez/OpenMythos",
-      "stars": 8405
+      "stars": 8569
     },
     {
       "name": "browser-use/browser-harness",
-      "stars": 4846
+      "stars": 4900
     },
     {
       "name": "alchaincyf/huashu-design",
-      "stars": 4238
+      "stars": 4333
     },
     {
       "name": "tw93/Kami",
-      "stars": 2376
+      "stars": 2458
     },
     {
       "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
-      "stars": 1604
+      "stars": 1651
     }
   ]
 }

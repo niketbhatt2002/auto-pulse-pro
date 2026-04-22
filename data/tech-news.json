@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-22T15:19:29.971419Z",
+  "updated_at": "2026-04-22T17:48:58.022084Z",
   "stories": [
     {
-      "title": "Windows 9x Subsystem for Linux",
-      "score": 485
+      "title": "Alberta startup sells no-tech tractors for half price",
+      "score": 300
     },
     {
-      "title": "3.4M Solar Panels",
-      "score": 151
+      "title": "Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model",
+      "score": 297
+    },
+    {
+      "title": "Windows 9x Subsystem for Linux",
+      "score": 694
     },
     {
       "title": "Our eighth generation TPUs: two chips for the agentic era",
-      "score": 156
+      "score": 273
     },
     {
-      "title": "GitHub CLI now collects pseudoanonymous telemetry",
-      "score": 204
-    },
-    {
-      "title": "Treetops glowing during storms captured on film for first time",
-      "score": 61
+      "title": "3.4M Solar Panels",
+      "score": 223
     }
   ]
 }
