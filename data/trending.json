@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-21T23:41:40.617525Z",
+  "updated_at": "2026-04-22T07:25:18.421323Z",
   "repos": [
     {
       "name": "kyegomez/OpenMythos",
-      "stars": 6755
+      "stars": 7750
     },
     {
       "name": "browser-use/browser-harness",
-      "stars": 4382
-    },
-    {
-      "name": "Robbyant/lingbot-map",
-      "stars": 3877
+      "stars": 4623
     },
     {
       "name": "alchaincyf/huashu-design",
-      "stars": 2873
+      "stars": 3799
     },
     {
-      "name": "lewislulu/html-ppt-skill",
-      "stars": 1754
+      "name": "tw93/Kami",
+      "stars": 2009
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "stars": 1442
     }
   ]
 }
