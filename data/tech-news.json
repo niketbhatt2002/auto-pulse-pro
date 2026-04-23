@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-23T07:29:04.890455Z",
+  "updated_at": "2026-04-23T08:50:52.304276Z",
   "stories": [
     {
       "title": "I am building a cloud",
-      "score": 192
+      "score": 284
     },
     {
       "title": "Alberta startup sells no-tech tractors for half price",
-      "score": 1654
+      "score": 1730
     },
     {
       "title": "Apple fixes bug that cops used to extract deleted chat messages from iPhones",
-      "score": 540
+      "score": 574
+    },
+    {
+      "title": "Your hex editor should color-code bytes",
+      "score": 33
     },
     {
       "title": "We found a stable Firefox identifier linking all your private Tor identities",
-      "score": 636
-    },
-    {
-      "title": "5x5 Pixel font for tiny screens",
-      "score": 557
+      "score": 678
     }
   ]
 }
