@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-23T20:56:25.451504Z",
+  "updated_at": "2026-04-23T23:54:31.773700Z",
   "stories": [
     {
       "title": "GPT-5.5",
-      "score": 751
-    },
-    {
-      "title": "Girl, 10, finds rare Mexican axolotl under Welsh bridge",
-      "score": 96
+      "score": 991
     },
     {
       "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "score": 493
+      "score": 609
+    },
+    {
+      "title": "Show HN: Tolaria \u2013 open-source macOS app to manage Markdown knowledge bases",
+      "score": 50
+    },
+    {
+      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
+      "score": 138
     },
     {
       "title": "An update on recent Claude Code quality reports",
-      "score": 390
-    },
-    {
-      "title": "Anthropic's Claude Desktop App Installs Undisclosed Native Messaging Bridge",
-      "score": 56
+      "score": 518
     }
   ]
 }
