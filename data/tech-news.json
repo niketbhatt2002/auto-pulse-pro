@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-23T23:54:31.773700Z",
+  "updated_at": "2026-04-24T07:54:25.002241Z",
   "stories": [
     {
-      "title": "GPT-5.5",
-      "score": 991
+      "title": "DeepSeek v4",
+      "score": 737
     },
     {
-      "title": "Bitwarden CLI compromised in ongoing Checkmarx supply chain campaign",
-      "score": 609
+      "title": "Composition Shouldn't be this Hard",
+      "score": 9
     },
     {
-      "title": "Show HN: Tolaria \u2013 open-source macOS app to manage Markdown knowledge bases",
-      "score": 50
-    },
-    {
-      "title": "MeshCore development team splits over trademark dispute and AI-generated code",
-      "score": 138
+      "title": "Why I Write (1946)",
+      "score": 145
     },
     {
       "title": "An update on recent Claude Code quality reports",
-      "score": 518
+      "score": 706
+    },
+    {
+      "title": "GPT-5.5",
+      "score": 1327
     }
   ]
 }
