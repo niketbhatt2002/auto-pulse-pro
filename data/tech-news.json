@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-24T10:26:19.014307Z",
+  "updated_at": "2026-04-24T10:58:06.278647Z",
   "stories": [
     {
       "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
-      "score": 39
+      "score": 66
     },
     {
       "title": "DeepSeek v4",
-      "score": 996
+      "score": 1039
     },
     {
       "title": "Spinel: Ruby AOT Native Compiler",
-      "score": 46
+      "score": 58
     },
     {
       "title": "Why I Write (1946)",
-      "score": 172
+      "score": 175
     },
     {
-      "title": "Composition Shouldn't be this Hard",
-      "score": 56
+      "title": "Show HN: How LLMs Work \u2013 Interactive visual guide based on Karpathy's lecture",
+      "score": 64
     }
   ]
 }
