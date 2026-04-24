@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-24T17:41:26.453691Z",
+  "updated_at": "2026-04-24T20:53:36.752597Z",
   "stories": [
     {
+      "title": "Google to invest up to $40B in Anthropic in cash and compute",
+      "score": 101
+    },
+    {
+      "title": "SFO Quiet Airport (2025)",
+      "score": 86
+    },
+    {
       "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "score": 194
+      "score": 298
     },
     {
       "title": "SDL Now Supports DOS",
-      "score": 54
+      "score": 180
     },
     {
-      "title": "I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
-      "score": 276
-    },
-    {
-      "title": "DeepSeek v4",
-      "score": 1584
-    },
-    {
-      "title": "Norway Set to Become Latest Country to Ban Social Media for Under 16s",
-      "score": 243
+      "title": "My audio interface has SSH enabled by default",
+      "score": 31
     }
   ]
 }
