@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-24T07:54:25.002241Z",
+  "updated_at": "2026-04-24T08:58:01.005028Z",
   "stories": [
     {
       "title": "DeepSeek v4",
-      "score": 737
+      "score": 869
     },
     {
       "title": "Composition Shouldn't be this Hard",
-      "score": 9
+      "score": 37
     },
     {
       "title": "Why I Write (1946)",
-      "score": 145
+      "score": 161
     },
     {
       "title": "An update on recent Claude Code quality reports",
-      "score": 706
+      "score": 725
     },
     {
       "title": "GPT-5.5",
-      "score": 1327
+      "score": 1356
     }
   ]
 }
