@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-24T11:55:23.052955Z",
+  "updated_at": "2026-04-24T15:12:19.323219Z",
   "stories": [
     {
-      "title": "UK Biobank leak: Health details of 500 000 people are offered for sale",
-      "score": 32
+      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
+      "score": 45
     },
     {
-      "title": "S. Korea police arrest man over AI image of runaway wolf that misled authorities",
-      "score": 108
+      "title": "Different Language Models Learn Similar Number Representations",
+      "score": 13
     },
     {
-      "title": "How to be anti-social \u2013 a guide to incoherent and isolating social experiences",
-      "score": 28
-    },
-    {
-      "title": "nowhere: an entire website encoded in a URL",
-      "score": 30
+      "title": "Spinel: Ruby AOT Native Compiler",
+      "score": 193
     },
     {
       "title": "DeepSeek v4",
-      "score": 1109
+      "score": 1426
+    },
+    {
+      "title": "US special forces soldier arrested after allegedly winning $400k on Maduro raid",
+      "score": 458
     }
   ]
 }
