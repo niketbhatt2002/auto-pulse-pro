@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-25T07:06:57.335788Z",
+  "updated_at": "2026-04-25T08:03:43.026532Z",
   "stories": [
     {
+      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
+      "score": 67
+    },
+    {
       "title": "Google plans to invest up to $40B in Anthropic",
-      "score": 517
+      "score": 550
     },
     {
       "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
-      "score": 32
+      "score": 41
     },
     {
       "title": "Paraloid B-72",
-      "score": 146
-    },
-    {
-      "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "score": 15
+      "score": 161
     },
     {
       "title": "Humpback whales are forming super-groups",
-      "score": 84
+      "score": 90
     }
   ]
 }
