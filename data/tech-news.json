@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-25T14:49:09.102064Z",
+  "updated_at": "2026-04-25T17:28:33.255159Z",
   "stories": [
     {
       "title": "1-Bit Hokusai's \"The Great Wave\" (2023)",
-      "score": 155
+      "score": 308
+    },
+    {
+      "title": "Niri 26.04 was just released (scrollable-tiling Wayland compositor)",
+      "score": 30
     },
     {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "score": 356
+      "score": 421
     },
     {
       "title": "Martin Galway's music source files from 1980's Commodore 64 games",
-      "score": 54
+      "score": 101
     },
     {
       "title": "Google plans to invest up to $40B in Anthropic",
-      "score": 684
-    },
-    {
-      "title": "Lambda Calculus Benchmark for AI",
-      "score": 49
+      "score": 733
     }
   ]
 }
