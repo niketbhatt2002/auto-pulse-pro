@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-24T23:49:13.834603Z",
+  "updated_at": "2026-04-25T07:06:58.321783Z",
   "repos": [
     {
-      "name": "kyegomez/OpenMythos",
-      "stars": 10097
-    },
-    {
       "name": "alchaincyf/huashu-design",
-      "stars": 6072
-    },
-    {
-      "name": "EvoLinkAI/awesome-gpt-image-2-prompts",
-      "stars": 3215
+      "stars": 6190
     },
     {
       "name": "tw93/Kami",
-      "stars": 3041
+      "stars": 3105
     },
     {
-      "name": "OpenCoworkAI/open-codesign",
-      "stars": 2176
+      "name": "op7418/guizang-ppt-skill",
+      "stars": 2207
+    },
+    {
+      "name": "deepseek-ai/TileKernels",
+      "stars": 1098
+    },
+    {
+      "name": "ConardLi/web-design-skill",
+      "stars": 1081
     }
   ]
 }
