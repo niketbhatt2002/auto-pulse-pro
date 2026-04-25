@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-25T10:35:00.671311Z",
+  "updated_at": "2026-04-25T11:36:33.565089Z",
   "stories": [
     {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "score": 184
+      "score": 231
     },
     {
       "title": "Google plans to invest up to $40B in Anthropic",
-      "score": 592
-    },
-    {
-      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
-      "score": 58
-    },
-    {
-      "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
-      "score": 68
+      "score": 617
     },
     {
       "title": "How to Implement an FPS Counter",
-      "score": 18
+      "score": 39
+    },
+    {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "score": 90
+    },
+    {
+      "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
+      "score": 81
     }
   ]
 }
