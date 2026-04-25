@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-25T08:43:49.865669Z",
+  "updated_at": "2026-04-25T09:56:46.798132Z",
   "stories": [
     {
+      "title": "Show HN: A Karpathy-style LLM wiki your agents maintain (Markdown and Git)",
+      "score": 44
+    },
+    {
       "title": "New 10 GbE USB adapters are cooler, smaller, cheaper",
-      "score": 108
+      "score": 159
     },
     {
       "title": "Google plans to invest up to $40B in Anthropic",
-      "score": 565
+      "score": 585
     },
     {
       "title": "A 3D Body from Eight Questions \u2013 No Photo, No GPU",
-      "score": 49
+      "score": 63
     },
     {
       "title": "Paraloid B-72",
-      "score": 171
-    },
-    {
-      "title": "Humpback whales are forming super-groups",
-      "score": 97
+      "score": 191
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-25T08:43:51.033977Z",
+  "updated_at": "2026-04-25T09:56:47.700055Z",
   "repos": [
     {
       "name": "alchaincyf/huashu-design",
-      "stars": 6216
+      "stars": 6238
     },
     {
       "name": "tw93/Kami",
-      "stars": 3140
+      "stars": 3155
     },
     {
       "name": "op7418/guizang-ppt-skill",
-      "stars": 2283
-    },
-    {
-      "name": "deepseek-ai/TileKernels",
-      "stars": 1105
+      "stars": 2334
     },
     {
       "name": "ConardLi/web-design-skill",
-      "stars": 1099
+      "stars": 1115
+    },
+    {
+      "name": "deepseek-ai/TileKernels",
+      "stars": 1114
     }
   ]
 }
