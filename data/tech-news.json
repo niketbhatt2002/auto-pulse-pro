@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-26T14:51:30.025251Z",
+  "updated_at": "2026-04-26T17:29:06.907892Z",
   "stories": [
     {
+      "title": "Clay PCB Tutorial",
+      "score": 74
+    },
+    {
       "title": "Asahi Linux Progress Linux 7.0",
-      "score": 260
+      "score": 410
     },
     {
       "title": "Statecharts: hierarchical state machines",
-      "score": 146
+      "score": 203
+    },
+    {
+      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+      "score": 96
     },
     {
       "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
-      "score": 526
-    },
-    {
-      "title": "Show HN: Turning a Gaussian Splat into a videogame",
-      "score": 92
-    },
-    {
-      "title": "Why has there been so little progress on Alzheimer's disease?",
-      "score": 313
+      "score": 614
     }
   ]
 }
