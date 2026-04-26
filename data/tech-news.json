@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-26T17:29:06.907892Z",
+  "updated_at": "2026-04-26T20:42:04.102173Z",
   "stories": [
     {
       "title": "Clay PCB Tutorial",
-      "score": 74
+      "score": 150
     },
     {
-      "title": "Asahi Linux Progress Linux 7.0",
-      "score": 410
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "score": 183
     },
     {
-      "title": "Statecharts: hierarchical state machines",
-      "score": 203
+      "title": "The Visible Zorker: Zork 1",
+      "score": 60
     },
     {
-      "title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-      "score": 96
+      "title": "Magic: The Gathering took me from N2 to Japanese fluency",
+      "score": 17
     },
     {
-      "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
-      "score": 614
+      "title": "GoDaddy gave a domain to a stranger without any documentation",
+      "score": 368
     }
   ]
 }

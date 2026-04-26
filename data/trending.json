@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-26T17:29:08.179561Z",
+  "updated_at": "2026-04-26T20:42:05.073412Z",
   "repos": [
     {
       "name": "tw93/Kami",
-      "stars": 3430
+      "stars": 3444
     },
     {
       "name": "op7418/guizang-ppt-skill",
-      "stars": 2955
+      "stars": 2968
     },
     {
-      "name": "ConardLi/garden-skills",
-      "stars": 1351
-    },
-    {
-      "name": "masterking32/MasterHttpRelayVPN",
-      "stars": 1350
+      "name": "cosmicstack-labs/mercury-agent",
+      "stars": 1384
     },
     {
       "name": "Einsia/OpenChronicle",
-      "stars": 1350
+      "stars": 1381
+    },
+    {
+      "name": "masterking32/MasterHttpRelayVPN",
+      "stars": 1373
     }
   ]
 }
