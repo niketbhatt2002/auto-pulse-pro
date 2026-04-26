@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-26T07:21:36.849469Z",
+  "updated_at": "2026-04-26T08:14:08.873116Z",
   "stories": [
     {
       "title": "The West Forgot How to Make Things. Now It's Forgetting How to Code",
-      "score": 38
+      "score": 153
     },
     {
       "title": "Amateur armed with ChatGPT solves an Erd\u0151s problem",
-      "score": 301
+      "score": 331
     },
     {
       "title": "Why has there been so little progress on Alzheimer's disease?",
-      "score": 196
+      "score": 207
+    },
+    {
+      "title": "Exposing Floating Point \u2013 Bartosz Ciechanowski (2019)",
+      "score": 11
     },
     {
       "title": "Tell HN: An app is silently installing itself on my iPhone every day",
-      "score": 197
-    },
-    {
-      "title": "USB Cheat Sheet (2022)",
-      "score": 264
+      "score": 227
     }
   ]
 }
