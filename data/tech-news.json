@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T12:19:19.015332Z",
+  "updated_at": "2026-04-27T15:51:14.730001Z",
   "stories": [
     {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 131
+    },
+    {
+      "title": "\"Why not just use Lean?\"",
+      "score": 74
+    },
+    {
+      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
+      "score": 152
+    },
+    {
       "title": "Pgbackrest is no longer being maintained",
-      "score": 111
+      "score": 294
     },
     {
-      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "score": 58
-    },
-    {
-      "title": "Flipdiscs",
-      "score": 349
-    },
-    {
-      "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "score": 884
-    },
-    {
-      "title": "Moleskine's AI Lord of the Rings collection can only mock",
-      "score": 32
+      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
+      "score": 174
     }
   ]
 }
