@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T11:08:53.459499Z",
+  "updated_at": "2026-04-27T11:30:13.887745Z",
   "stories": [
     {
+      "title": "Pgbackrest is no longer being maintained",
+      "score": 46
+    },
+    {
       "title": "Flipdiscs",
-      "score": 312
+      "score": 324
     },
     {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "score": 850
+      "score": 862
     },
     {
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "score": 17
-    },
-    {
-      "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
-      "score": 68
+      "score": 23
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "score": 529
+      "score": 540
     }
   ]
 }
