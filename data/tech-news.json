@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T10:09:15.450775Z",
+  "updated_at": "2026-04-27T11:08:53.459499Z",
   "stories": [
     {
       "title": "Flipdiscs",
-      "score": 267
+      "score": 312
     },
     {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "score": 812
+      "score": 850
+    },
+    {
+      "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
+      "score": 17
     },
     {
       "title": "Bob Odenkirk would like to remind you that life is a meaningless farce",
-      "score": 37
-    },
-    {
-      "title": "It's OK to abandon your side-project (2024)",
-      "score": 77
+      "score": 68
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "score": 500
+      "score": 529
     }
   ]
 }
