@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T11:30:13.887745Z",
+  "updated_at": "2026-04-27T12:19:19.015332Z",
   "stories": [
     {
       "title": "Pgbackrest is no longer being maintained",
-      "score": 46
-    },
-    {
-      "title": "Flipdiscs",
-      "score": 324
-    },
-    {
-      "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "score": 862
+      "score": 111
     },
     {
       "title": "Fully Featured Audio DSP Firmware for the Raspberry Pi Pico",
-      "score": 23
+      "score": 58
     },
     {
-      "title": "AI should elevate your thinking, not replace it",
-      "score": 540
+      "title": "Flipdiscs",
+      "score": 349
+    },
+    {
+      "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
+      "score": 884
+    },
+    {
+      "title": "Moleskine's AI Lord of the Rings collection can only mock",
+      "score": 32
     }
   ]
 }
