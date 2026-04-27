@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T17:57:57.851253Z",
+  "updated_at": "2026-04-27T21:05:57.789256Z",
   "stories": [
     {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 400
+      "score": 618
+    },
+    {
+      "title": "Easyduino: Open Source PCB Devboards for KiCad",
+      "score": 120
     },
     {
       "title": "\u201cWhy not just use Lean?\u201d",
-      "score": 154
+      "score": 224
     },
     {
-      "title": "Networking changes coming in macOS\u00a027",
-      "score": 89
+      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
+      "score": 34
     },
     {
-      "title": "The woes of sanitizing SVGs",
-      "score": 90
-    },
-    {
-      "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "score": 278
+      "title": "China blocks Meta's acquisition of AI startup Manus",
+      "score": 177
     }
   ]
 }
