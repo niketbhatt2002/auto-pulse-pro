@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T21:05:57.789256Z",
+  "updated_at": "2026-04-27T23:58:27.439106Z",
   "stories": [
     {
+      "title": "New Integrated by Design FreeBSD Book",
+      "score": 18
+    },
+    {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 618
+      "score": 716
     },
     {
-      "title": "Easyduino: Open Source PCB Devboards for KiCad",
-      "score": 120
+      "title": "Is my blue your blue?",
+      "score": 277
     },
     {
-      "title": "\u201cWhy not just use Lean?\u201d",
-      "score": 224
+      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
+      "score": 70
     },
     {
-      "title": "Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar",
-      "score": 34
-    },
-    {
-      "title": "China blocks Meta's acquisition of AI startup Manus",
-      "score": 177
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "score": 14
     }
   ]
 }
