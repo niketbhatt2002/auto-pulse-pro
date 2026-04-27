@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T15:51:14.730001Z",
+  "updated_at": "2026-04-27T17:57:57.851253Z",
   "stories": [
     {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 131
+      "score": 400
     },
     {
-      "title": "\"Why not just use Lean?\"",
-      "score": 74
+      "title": "\u201cWhy not just use Lean?\u201d",
+      "score": 154
     },
     {
-      "title": "Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview",
-      "score": 152
+      "title": "Networking changes coming in macOS\u00a027",
+      "score": 89
     },
     {
-      "title": "Pgbackrest is no longer being maintained",
-      "score": 294
+      "title": "The woes of sanitizing SVGs",
+      "score": 90
     },
     {
       "title": "4TB of voice samples just stolen from 40k AI contractors at Mercor",
-      "score": 174
+      "score": 278
     }
   ]
 }
