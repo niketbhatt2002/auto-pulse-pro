@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-26T23:49:06.694889Z",
+  "updated_at": "2026-04-27T08:12:55.619368Z",
   "stories": [
     {
+      "title": "Flipdiscs",
+      "score": 204
+    },
+    {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "score": 220
+      "score": 739
     },
     {
-      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
-      "score": 108
+      "title": "TurboQuant: A first-principles walkthrough",
+      "score": 126
     },
     {
-      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
-      "score": 183
+      "title": "AI should elevate your thinking, not replace it",
+      "score": 457
     },
     {
-      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
-      "score": 83
-    },
-    {
-      "title": "Two Athletes Break Sub-2-HR Marathon in Adizero Adios Pro Evo 3",
-      "score": 34
+      "title": "Self-updating screenshots",
+      "score": 261
     }
   ]
 }
