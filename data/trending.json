@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T08:12:56.978580Z",
+  "updated_at": "2026-04-27T09:14:35.044519Z",
   "repos": [
     {
       "name": "op7418/guizang-ppt-skill",
-      "stars": 3219
+      "stars": 3249
     },
     {
       "name": "Einsia/OpenChronicle",
-      "stars": 1497
+      "stars": 1505
     },
     {
       "name": "ConardLi/garden-skills",
-      "stars": 1460
+      "stars": 1471
     },
     {
       "name": "deepseek-ai/TileKernels",
-      "stars": 1247
+      "stars": 1255
     },
     {
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "stars": 1177
+      "stars": 1191
     }
   ]
 }

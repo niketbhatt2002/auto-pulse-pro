@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T08:12:55.619368Z",
+  "updated_at": "2026-04-27T09:14:33.691630Z",
   "stories": [
     {
+      "title": "It's OK to abandon your side-project",
+      "score": 48
+    },
+    {
       "title": "Flipdiscs",
-      "score": 204
+      "score": 234
     },
     {
       "title": "I bought Friendster for $30k \u2013 Here's what I'm doing with it",
-      "score": 739
-    },
-    {
-      "title": "TurboQuant: A first-principles walkthrough",
-      "score": 126
+      "score": 784
     },
     {
       "title": "AI should elevate your thinking, not replace it",
-      "score": 457
+      "score": 482
     },
     {
-      "title": "Self-updating screenshots",
-      "score": 261
+      "title": "TurboQuant: A first-principles walkthrough",
+      "score": 143
     }
   ]
 }
