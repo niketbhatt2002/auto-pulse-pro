@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T08:14:52.515696Z",
+  "updated_at": "2026-04-28T09:16:41.463884Z",
   "stories": [
     {
       "title": "GTFOBins",
-      "score": 95
+      "score": 147
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 321
+      "score": 347
     },
     {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 862
+      "score": 873
+    },
+    {
+      "title": "Can You Find the Comet?",
+      "score": 27
     },
     {
       "title": "Is my blue your blue?",
-      "score": 497
-    },
-    {
-      "title": "Scraping 241 UK council planning portals \u2013 2.6M decisions so far",
-      "score": 26
+      "score": 525
     }
   ]
 }
