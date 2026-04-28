@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T10:08:42.449483Z",
+  "updated_at": "2026-04-28T11:08:28.551213Z",
   "repos": [
     {
       "name": "op7418/guizang-ppt-skill",
-      "stars": 3605
+      "stars": 3614
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "stars": 1493
+      "stars": 1507
     },
     {
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "stars": 1394
+      "stars": 1399
     },
     {
       "name": "deepseek-ai/TileKernels",
-      "stars": 1299
+      "stars": 1302
     },
     {
       "name": "openclaw/clawsweeper",
-      "stars": 1231
+      "stars": 1233
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T10:08:41.146541Z",
+  "updated_at": "2026-04-28T11:08:27.470211Z",
   "stories": [
     {
+      "title": "An Update on GitHub Availability",
+      "score": 68
+    },
+    {
       "title": "GTFOBins",
-      "score": 184
+      "score": 220
+    },
+    {
+      "title": "The Social Edge of Intellgience: Individual Gain, Collective Loss",
+      "score": 14
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 370
-    },
-    {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 880
+      "score": 389
     },
     {
       "title": "The World's Most Complex Machine",
-      "score": 38
-    },
-    {
-      "title": "Is my blue your blue?",
-      "score": 541
+      "score": 59
     }
   ]
 }
