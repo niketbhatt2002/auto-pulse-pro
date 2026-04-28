@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T18:11:40.862121Z",
+  "updated_at": "2026-04-28T21:09:21.768504Z",
   "stories": [
     {
-      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
-      "score": 125
+      "title": "Ghostty is leaving GitHub",
+      "score": 794
     },
     {
-      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "score": 555
+      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
+      "score": 91
     },
     {
-      "title": "BookStack Moves from GitHub to Codeberg",
-      "score": 41
+      "title": "I Won a Championship That Doesn't Exist",
+      "score": 15
     },
     {
-      "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "score": 237
+      "title": "A playable DOOM MCP app",
+      "score": 59
     },
     {
-      "title": "Laguna XS.2 and M.1",
-      "score": 46
+      "title": "Warp is now Open-Source",
+      "score": 117
     }
   ]
 }
