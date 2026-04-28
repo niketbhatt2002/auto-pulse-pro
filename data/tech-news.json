@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T23:58:27.439106Z",
+  "updated_at": "2026-04-28T08:14:52.515696Z",
   "stories": [
     {
-      "title": "New Integrated by Design FreeBSD Book",
-      "score": 18
-    },
-    {
-      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 716
-    },
-    {
-      "title": "Is my blue your blue?",
-      "score": 277
-    },
-    {
-      "title": "Three men are facing charges in Toronto SMS Blaster arrests",
-      "score": 70
+      "title": "GTFOBins",
+      "score": 95
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 14
+      "score": 321
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 862
+    },
+    {
+      "title": "Is my blue your blue?",
+      "score": 497
+    },
+    {
+      "title": "Scraping 241 UK council planning portals \u2013 2.6M decisions so far",
+      "score": 26
     }
   ]
 }

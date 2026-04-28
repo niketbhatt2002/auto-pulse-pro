@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-27T23:58:28.804536Z",
+  "updated_at": "2026-04-28T08:14:53.784109Z",
   "repos": [
     {
       "name": "op7418/guizang-ppt-skill",
-      "stars": 3432
+      "stars": 3575
     },
     {
-      "name": "Einsia/OpenChronicle",
-      "stars": 1581
-    },
-    {
-      "name": "ConardLi/garden-skills",
-      "stars": 1544
+      "name": "freestylefly/awesome-gpt-image-2",
+      "stars": 1441
     },
     {
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "stars": 1292
+      "stars": 1379
     },
     {
       "name": "deepseek-ai/TileKernels",
-      "stars": 1279
+      "stars": 1296
+    },
+    {
+      "name": "openclaw/clawsweeper",
+      "stars": 1224
     }
   ]
 }
