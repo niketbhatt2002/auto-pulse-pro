@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T21:09:21.768504Z",
+  "updated_at": "2026-04-28T23:59:49.991533Z",
   "stories": [
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 794
+      "score": 1437
+    },
+    {
+      "title": "Before GitHub",
+      "score": 200
+    },
+    {
+      "title": "Carrot Disclosure: Forgejo",
+      "score": 53
     },
     {
       "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "score": 91
+      "score": 159
     },
     {
-      "title": "I Won a Championship That Doesn't Exist",
-      "score": 15
-    },
-    {
-      "title": "A playable DOOM MCP app",
-      "score": 59
-    },
-    {
-      "title": "Warp is now Open-Source",
-      "score": 117
+      "title": "Intel Arc Pro B70 Review",
+      "score": 90
     }
   ]
 }
