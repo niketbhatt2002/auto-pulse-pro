@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T11:08:27.470211Z",
+  "updated_at": "2026-04-28T11:41:03.363887Z",
   "stories": [
     {
-      "title": "An Update on GitHub Availability",
-      "score": 68
-    },
-    {
-      "title": "GTFOBins",
-      "score": 220
-    },
-    {
-      "title": "The Social Edge of Intellgience: Individual Gain, Collective Loss",
-      "score": 14
-    },
-    {
-      "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 389
+      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
+      "score": 26
     },
     {
       "title": "The World's Most Complex Machine",
-      "score": 59
+      "score": 72
+    },
+    {
+      "title": "Talkie: a 13B vintage language model from 1930",
+      "score": 402
+    },
+    {
+      "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
+      "score": 896
+    },
+    {
+      "title": "Can You Find the Comet?",
+      "score": 61
     }
   ]
 }
