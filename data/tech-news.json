@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T16:09:50.544654Z",
+  "updated_at": "2026-04-28T18:11:40.862121Z",
   "stories": [
     {
+      "title": "AISLE Discovers 38 CVEs in OpenEMR Healthcare Software",
+      "score": 125
+    },
+    {
       "title": "Localsend: An open-source cross-platform alternative to AirDrop",
-      "score": 410
+      "score": 555
+    },
+    {
+      "title": "BookStack Moves from GitHub to Codeberg",
+      "score": 41
     },
     {
       "title": "Microsoft VibeVoice: Open-Source Frontier Voice AI",
-      "score": 178
+      "score": 237
     },
     {
-      "title": "Show HN: Live Sun and Moon Dashboard with NASA Footage",
-      "score": 64
-    },
-    {
-      "title": "Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",
-      "score": 51
-    },
-    {
-      "title": "OpenAI CEO's Identity Verification Company Announced Fake Bruno Mars Partnership",
-      "score": 217
+      "title": "Laguna XS.2 and M.1",
+      "score": 46
     }
   ]
 }
