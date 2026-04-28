@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T11:41:03.363887Z",
+  "updated_at": "2026-04-28T12:22:55.506653Z",
   "stories": [
     {
-      "title": "The Social Edge of Intelligence: Individual Gain, Collective Loss",
-      "score": 26
+      "title": "Localsend: An open-source cross-platform alternative to AirDrop",
+      "score": 28
     },
     {
       "title": "The World's Most Complex Machine",
-      "score": 72
+      "score": 99
     },
     {
       "title": "Talkie: a 13B vintage language model from 1930",
-      "score": 402
+      "score": 423
+    },
+    {
+      "title": "New Gas-Powered Data Centers Could Emit More Greenhouse Gases Than Whole Nations",
+      "score": 33
     },
     {
       "title": "Microsoft and OpenAI end their exclusive and revenue-sharing deal",
-      "score": 896
-    },
-    {
-      "title": "Can You Find the Comet?",
-      "score": 61
+      "score": 904
     }
   ]
 }
