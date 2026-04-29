@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-28T23:59:49.991533Z",
+  "updated_at": "2026-04-29T08:08:04.915239Z",
   "stories": [
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 1437
+      "score": 2405
     },
     {
-      "title": "Before GitHub",
-      "score": 200
+      "title": "Bugs Rust won't catch",
+      "score": 220
     },
     {
-      "title": "Carrot Disclosure: Forgejo",
-      "score": 53
+      "title": "HardenedBSD Is Now Officially on Radicle",
+      "score": 29
     },
     {
-      "title": "OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs",
-      "score": 159
+      "title": "Show HN: Rocky \u2013 Rust SQL engine with branches, replay, column lineage",
+      "score": 22
     },
     {
-      "title": "Intel Arc Pro B70 Review",
-      "score": 90
+      "title": "How ChatGPT serves ads",
+      "score": 292
     }
   ]
 }
