@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-29T12:15:57.643128Z",
+  "updated_at": "2026-04-29T15:57:31.145198Z",
   "stories": [
     {
+      "title": "Zed is 1.0",
+      "score": 383
+    },
+    {
+      "title": "Tangled \u2013 We need a federation of forges",
+      "score": 227
+    },
+    {
+      "title": "Why AI companies want you to be afraid of them",
+      "score": 55
+    },
+    {
       "title": "Soft launch of open-source code platform for government",
-      "score": 186
+      "score": 390
     },
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 2775
-    },
-    {
-      "title": "Bugs Rust won't catch",
-      "score": 368
-    },
-    {
-      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
-      "score": 35
-    },
-    {
-      "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
-      "score": 84
+      "score": 3095
     }
   ]
 }
