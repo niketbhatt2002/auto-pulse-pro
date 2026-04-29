@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-29T15:57:31.145198Z",
+  "updated_at": "2026-04-29T18:06:55.916929Z",
   "stories": [
     {
-      "title": "Zed is 1.0",
-      "score": 383
+      "title": "Zed 1.0",
+      "score": 848
     },
     {
-      "title": "Tangled \u2013 We need a federation of forges",
-      "score": 227
+      "title": "The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness",
+      "score": 40
     },
     {
-      "title": "Why AI companies want you to be afraid of them",
-      "score": 55
+      "title": "We need a federation of forges",
+      "score": 372
     },
     {
-      "title": "Soft launch of open-source code platform for government",
-      "score": 390
+      "title": "FastCGI: 30 years old and still the better protocol for reverse proxies",
+      "score": 69
     },
     {
-      "title": "Ghostty is leaving GitHub",
-      "score": 3095
+      "title": "Online age verification is the hill to die on",
+      "score": 289
     }
   ]
 }
