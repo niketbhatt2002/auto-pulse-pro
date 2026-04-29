@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-29T08:08:04.915239Z",
+  "updated_at": "2026-04-29T09:06:54.226233Z",
   "stories": [
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 2405
+      "score": 2525
     },
     {
       "title": "Bugs Rust won't catch",
-      "score": 220
+      "score": 263
     },
     {
       "title": "HardenedBSD Is Now Officially on Radicle",
-      "score": 29
+      "score": 58
     },
     {
-      "title": "Show HN: Rocky \u2013 Rust SQL engine with branches, replay, column lineage",
-      "score": 22
+      "title": "Tell HN: An update from the new Tindie team",
+      "score": 18
     },
     {
       "title": "How ChatGPT serves ads",
-      "score": 292
+      "score": 324
     }
   ]
 }
