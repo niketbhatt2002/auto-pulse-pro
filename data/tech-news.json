@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-29T09:06:54.226233Z",
+  "updated_at": "2026-04-29T10:00:12.328253Z",
   "stories": [
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 2525
+      "score": 2606
+    },
+    {
+      "title": "Soft launch of open-source code platform for government",
+      "score": 28
     },
     {
       "title": "Bugs Rust won't catch",
-      "score": 263
+      "score": 294
     },
     {
       "title": "HardenedBSD Is Now Officially on Radicle",
-      "score": 58
+      "score": 65
     },
     {
       "title": "Tell HN: An update from the new Tindie team",
-      "score": 18
-    },
-    {
-      "title": "How ChatGPT serves ads",
-      "score": 324
+      "score": 29
     }
   ]
 }
