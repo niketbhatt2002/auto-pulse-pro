@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-29T10:00:12.328253Z",
+  "updated_at": "2026-04-29T11:00:14.866641Z",
   "stories": [
     {
-      "title": "Ghostty is leaving GitHub",
-      "score": 2606
+      "title": "Soft launch of open-source code platform for government",
+      "score": 78
     },
     {
-      "title": "Soft launch of open-source code platform for government",
-      "score": 28
+      "title": "Ghostty is leaving GitHub",
+      "score": 2681
+    },
+    {
+      "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
+      "score": 48
     },
     {
       "title": "Bugs Rust won't catch",
-      "score": 294
+      "score": 329
     },
     {
       "title": "HardenedBSD Is Now Officially on Radicle",
-      "score": 65
-    },
-    {
-      "title": "Tell HN: An update from the new Tindie team",
-      "score": 29
+      "score": 79
     }
   ]
 }
