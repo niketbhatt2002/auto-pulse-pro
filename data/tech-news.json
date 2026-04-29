@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-04-29T11:24:09.733608Z",
+  "updated_at": "2026-04-29T12:15:57.643128Z",
   "stories": [
     {
       "title": "Soft launch of open-source code platform for government",
-      "score": 115
+      "score": 186
     },
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 2710
-    },
-    {
-      "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
-      "score": 61
+      "score": 2775
     },
     {
       "title": "Bugs Rust won't catch",
-      "score": 342
+      "score": 368
     },
     {
-      "title": "HardenedBSD Is Now Officially on Radicle",
+      "title": "HashiCorp co-founder says GitHub 'no longer a place for serious work'",
+      "score": 35
+    },
+    {
+      "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
       "score": 84
     }
   ]
