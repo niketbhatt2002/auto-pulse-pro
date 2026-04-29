@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-29T11:00:14.866641Z",
+  "updated_at": "2026-04-29T11:24:09.733608Z",
   "stories": [
     {
       "title": "Soft launch of open-source code platform for government",
-      "score": 78
+      "score": 115
     },
     {
       "title": "Ghostty is leaving GitHub",
-      "score": 2681
+      "score": 2710
     },
     {
       "title": "Show HN: Rip.so \u2013 a graveyard for dead internet things",
-      "score": 48
+      "score": 61
     },
     {
       "title": "Bugs Rust won't catch",
-      "score": 329
+      "score": 342
     },
     {
       "title": "HardenedBSD Is Now Officially on Radicle",
-      "score": 79
+      "score": 84
     }
   ]
 }
