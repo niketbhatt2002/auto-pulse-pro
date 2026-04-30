@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-29T21:08:52.328599Z",
+  "updated_at": "2026-04-30T00:01:06.286969Z",
   "repos": [
     {
-      "name": "op7418/guizang-ppt-skill",
-      "stars": 4156
-    },
-    {
       "name": "nexu-io/open-design",
-      "stars": 4039
+      "stars": 4227
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "stars": 2103
+      "stars": 2123
     },
     {
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "stars": 1520
+      "stars": 1521
     },
     {
-      "name": "openclaw/clawsweeper",
-      "stars": 1337
+      "name": "cursor/cookbook",
+      "stars": 1170
+    },
+    {
+      "name": "epoko77-ai/im-not-ai",
+      "stars": 637
     }
   ]
 }
