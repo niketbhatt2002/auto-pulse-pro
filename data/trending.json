@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-30T00:01:06.286969Z",
+  "updated_at": "2026-04-30T08:11:42.741998Z",
   "repos": [
     {
       "name": "nexu-io/open-design",
-      "stars": 4227
+      "stars": 5425
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "stars": 2123
-    },
-    {
-      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "stars": 1521
+      "stars": 2257
     },
     {
       "name": "cursor/cookbook",
-      "stars": 1170
+      "stars": 2058
     },
     {
-      "name": "epoko77-ai/im-not-ai",
-      "stars": 637
+      "name": "victorchen96/deepseek_v4_rolepaly_instruct",
+      "stars": 1536
+    },
+    {
+      "name": "theori-io/copy-fail-CVE-2026-31431",
+      "stars": 932
     }
   ]
 }
