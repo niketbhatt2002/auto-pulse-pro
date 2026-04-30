@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-30T18:00:52.560121Z",
+  "updated_at": "2026-04-30T21:04:32.094699Z",
   "stories": [
     {
-      "title": "The Whistleblower Who Uncovered the NSA's 'Big Brother Machine'",
-      "score": 110
+      "title": "Rivian allows you to disable all internet connectivity",
+      "score": 96
+    },
+    {
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "score": 322
     },
     {
       "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "score": 107
+      "score": 249
     },
     {
-      "title": "Belgium stops decommissioning nuclear power plants",
-      "score": 561
+      "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
+      "score": 59
     },
     {
       "title": "I built a Game Boy emulator in F#",
-      "score": 23
-    },
-    {
-      "title": "Claude Code refuses requests or charges extra if your commits mention \"OpenClaw\"",
-      "score": 403
+      "score": 133
     }
   ]
 }
