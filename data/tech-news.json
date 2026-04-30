@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-30T08:11:41.341042Z",
+  "updated_at": "2026-04-30T09:09:01.721285Z",
   "stories": [
     {
       "title": "Where the goblins came from",
-      "score": 499
+      "score": 549
     },
     {
       "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "score": 170
-    },
-    {
-      "title": "The Zig project's rationale for their firm anti-AI contribution policy",
-      "score": 215
+      "score": 212
     },
     {
       "title": "Zed 1.0",
-      "score": 1799
+      "score": 1828
     },
     {
-      "title": "Scott Aaronson on quantum: \"Will you heed my warnings NOW?\"",
-      "score": 45
+      "title": "The Zig project's rationale for their anti-AI contribution policy",
+      "score": 247
+    },
+    {
+      "title": "Craig Venter has died",
+      "score": 226
     }
   ]
 }
