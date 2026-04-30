@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-30T21:04:32.094699Z",
+  "updated_at": "2026-04-30T23:57:13.990437Z",
   "stories": [
     {
       "title": "Rivian allows you to disable all internet connectivity",
-      "score": 96
-    },
-    {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "score": 322
-    },
-    {
-      "title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-      "score": 249
+      "score": 378
     },
     {
       "title": "LinkedIn scans for 6,278 extensions and encrypts the results into every request",
-      "score": 59
+      "score": 348
     },
     {
-      "title": "I built a Game Boy emulator in F#",
-      "score": 133
+      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
+      "score": 391
+    },
+    {
+      "title": "Opus 4.7 knows the real Kelsey",
+      "score": 93
+    },
+    {
+      "title": "CopyFail was not disclosed to distro developers?",
+      "score": 329
     }
   ]
 }
