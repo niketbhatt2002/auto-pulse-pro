@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-30T10:01:18.032161Z",
+  "updated_at": "2026-04-30T10:59:01.625700Z",
   "stories": [
     {
+      "title": "Granite 4.1: IBM's 8B Model Matching 32B MoE",
+      "score": 21
+    },
+    {
       "title": "Where the goblins came from",
-      "score": 609
+      "score": 680
     },
     {
       "title": "Noctua releases official 3D CAD models for its cooling fans",
-      "score": 242
+      "score": 277
     },
     {
       "title": "Zed 1.0",
-      "score": 1852
+      "score": 1879
     },
     {
       "title": "The Zig project's rationale for their anti-AI contribution policy",
-      "score": 280
-    },
-    {
-      "title": "Craig Venter has died",
-      "score": 232
+      "score": 316
     }
   ]
 }
