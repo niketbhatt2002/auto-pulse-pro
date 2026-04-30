@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-04-30T15:48:26.704645Z",
+  "updated_at": "2026-04-30T18:00:53.961276Z",
   "repos": [
     {
       "name": "nexu-io/open-design",
-      "stars": 6966
+      "stars": 7404
     },
     {
       "name": "cursor/cookbook",
-      "stars": 2426
+      "stars": 2494
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "stars": 2403
+      "stars": 2451
     },
     {
       "name": "victorchen96/deepseek_v4_rolepaly_instruct",
-      "stars": 1559
+      "stars": 1562
     },
     {
       "name": "theori-io/copy-fail-CVE-2026-31431",
-      "stars": 1407
+      "stars": 1501
     }
   ]
 }
