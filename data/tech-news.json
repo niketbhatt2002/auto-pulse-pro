@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-01T08:57:17.718631Z",
+  "updated_at": "2026-05-01T09:28:01.284229Z",
   "stories": [
     {
+      "title": "Grok 4.3",
+      "score": 26
+    },
+    {
       "title": "Auto Polo",
-      "score": 14
+      "score": 33
     },
     {
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "score": 582
+      "score": 592
     },
     {
       "title": "New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",
-      "score": 56
+      "score": 58
     },
     {
-      "title": "For Linux kernel vulnerabilities, there is no heads-up to distributions",
-      "score": 488
-    },
-    {
-      "title": "Opus 4.7 knows the real Kelsey",
-      "score": 337
+      "title": "If I Could Make My Own GitHub",
+      "score": 26
     }
   ]
 }
