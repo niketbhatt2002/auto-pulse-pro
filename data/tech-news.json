@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-01T11:57:19.451175Z",
+  "updated_at": "2026-05-01T15:00:19.870959Z",
   "stories": [
     {
-      "title": "Show HN: Perfect Bluetooth MIDI for Windows",
-      "score": 36
+      "title": "Your Website Is Not for You",
+      "score": 152
     },
     {
-      "title": "Your Website Is Not for You",
+      "title": "Running Adobe's 1991 PostScript Interpreter in the Browser",
+      "score": 55
+    },
+    {
+      "title": "GhostBox \u2013 disposable little machines from the Global Free Tier.",
       "score": 9
     },
     {
-      "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "score": 143
+      "title": "Apple accidentally left Claude.md files Apple Support app",
+      "score": 231
     },
     {
       "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "score": 617
-    },
-    {
-      "title": "Grok 4.3",
-      "score": 132
+      "score": 657
     }
   ]
 }
