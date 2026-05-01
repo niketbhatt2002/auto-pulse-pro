@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-01T10:26:16.710339Z",
+  "updated_at": "2026-05-01T11:01:23.475432Z",
   "stories": [
     {
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber",
+      "score": 26
+    },
+    {
       "title": "Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",
-      "score": 52
+      "score": 89
     },
     {
       "title": "Auto Polo",
-      "score": 47
+      "score": 63
+    },
+    {
+      "title": "The Rotary Un-Smartphone",
+      "score": 18
     },
     {
       "title": "Show HN: Perfect Bluetooth MIDI for Windows",
-      "score": 14
-    },
-    {
-      "title": "If I could make my own GitHub",
-      "score": 48
-    },
-    {
-      "title": "How Mark Klein told the EFF about Room 641A [book excerpt]",
-      "score": 604
+      "score": 24
     }
   ]
 }
