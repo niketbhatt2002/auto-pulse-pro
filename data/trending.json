@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-01T20:56:34.710287Z",
+  "updated_at": "2026-05-01T23:56:53.769446Z",
   "repos": [
     {
       "name": "nexu-io/open-design",
-      "stars": 11283
+      "stars": 11675
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
-      "stars": 2942
+      "stars": 2967
     },
     {
       "name": "cursor/cookbook",
-      "stars": 2927
+      "stars": 2951
     },
     {
       "name": "theori-io/copy-fail-CVE-2026-31431",
-      "stars": 2358
+      "stars": 2435
     },
     {
       "name": "denuitt1/mhr-cfw",
-      "stars": 1226
+      "stars": 1292
     }
   ]
 }
