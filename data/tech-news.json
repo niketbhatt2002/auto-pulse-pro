@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T20:46:57.257769Z",
+  "updated_at": "2026-05-02T23:53:54.908411Z",
   "stories": [
     {
+      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
+      "score": 561
+    },
+    {
+      "title": "Six Years Perfecting Maps on WatchOS",
+      "score": 113
+    },
+    {
+      "title": "This Month in Ladybird - April 2026",
+      "score": 98
+    },
+    {
       "title": "Dav2d",
-      "score": 186
+      "score": 299
     },
     {
-      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
-      "score": 111
-    },
-    {
-      "title": "Do_not_track",
-      "score": 74
-    },
-    {
-      "title": "NetHack 5.0.0",
-      "score": 264
-    },
-    {
-      "title": "Flue is a TypeScript framework for building the next generation of agents",
-      "score": 53
+      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
+      "score": 72
     }
   ]
 }
