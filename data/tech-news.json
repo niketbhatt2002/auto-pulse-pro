@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T17:34:37.485101Z",
+  "updated_at": "2026-05-02T20:46:57.257769Z",
   "stories": [
     {
-      "title": "LLMs consistently pick resumes they generate over ones by humans or other models",
-      "score": 265
+      "title": "Dav2d",
+      "score": 186
     },
     {
-      "title": "Meta's Pyrefly sabotages competing Python extensions without telling you",
-      "score": 28
+      "title": "Inventions for battery reuse and recycling increase seven-fold in last decade",
+      "score": 111
     },
     {
-      "title": "How fast is a macOS VM, and how small could it be?",
-      "score": 172
+      "title": "Do_not_track",
+      "score": 74
     },
     {
-      "title": "Barman \u2013 Backup and Recovery Manager for PostgreSQL",
-      "score": 73
+      "title": "NetHack 5.0.0",
+      "score": 264
     },
     {
-      "title": "Why does it take so long to release black fan versions?",
-      "score": 563
+      "title": "Flue is a TypeScript framework for building the next generation of agents",
+      "score": 53
     }
   ]
 }
