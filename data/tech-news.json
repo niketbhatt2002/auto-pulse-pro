@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T11:42:13.868041Z",
+  "updated_at": "2026-05-02T14:53:22.711427Z",
   "stories": [
     {
+      "title": "Mini PC for local LLMs in 2026",
+      "score": 24
+    },
+    {
       "title": "How fast is a macOS VM, and how small could it be?",
-      "score": 43
+      "score": 118
     },
     {
       "title": "Why does it take so long to release black fan versions?",
-      "score": 294
+      "score": 446
     },
     {
-      "title": "Why are there both TMP and TEMP environment variables? (2015)",
-      "score": 50
+      "title": "Open Design: Use Your Coding Agent as a Design Engine",
+      "score": 63
     },
     {
-      "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
-      "score": 28
-    },
-    {
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "score": 19
+      "title": "Becoming a father shrinks your cerebrum",
+      "score": 41
     }
   ]
 }
