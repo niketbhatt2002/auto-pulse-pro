@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T10:02:23.126166Z",
+  "updated_at": "2026-05-02T10:41:46.063011Z",
   "stories": [
     {
       "title": "Why does it take so long to release black fan versions?",
-      "score": 240
+      "score": 262
     },
     {
-      "title": "Ti-84 Evo",
-      "score": 455
-    },
-    {
-      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
-      "score": 6
-    },
-    {
-      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
-      "score": 7
-    },
-    {
-      "title": "SKILL.make: Makefile Styled Skill File",
+      "title": "How fast is a macOS VM, and how small could it be?",
       "score": 15
+    },
+    {
+      "title": "Why are there both TMP and TEMP environment variables? (2015)",
+      "score": 25
+    },
+    {
+      "title": "Show HN: Mljar Studio \u2013 local AI data analyst that saves analysis as notebooks",
+      "score": 8
+    },
+    {
+      "title": "Show HN: DAC \u2013 open-source dashboard as code tool for agents and humans",
+      "score": 14
     }
   ]
 }
