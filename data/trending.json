@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T08:19:16.060491Z",
+  "updated_at": "2026-05-02T08:59:49.991376Z",
   "repos": [
     {
       "name": "nexu-io/open-design",
-      "stars": 13004
+      "stars": 13126
     },
     {
       "name": "cursor/cookbook",
-      "stars": 3012
+      "stars": 3017
     },
     {
       "name": "theori-io/copy-fail-CVE-2026-31431",
-      "stars": 2672
+      "stars": 2694
     },
     {
       "name": "denuitt1/mhr-cfw",
-      "stars": 1408
+      "stars": 1422
     },
     {
       "name": "willchen96/mike",
-      "stars": 1180
+      "stars": 1188
     }
   ]
 }
