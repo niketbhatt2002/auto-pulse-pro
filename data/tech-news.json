@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T08:59:48.801964Z",
+  "updated_at": "2026-05-02T10:02:23.126166Z",
   "stories": [
     {
       "title": "Why does it take so long to release black fan versions?",
-      "score": 185
+      "score": 240
     },
     {
       "title": "Ti-84 Evo",
-      "score": 441
+      "score": 455
     },
     {
-      "title": "A Gopher Meets a Crab",
-      "score": 24
+      "title": "Show HN: Filling PDF forms with AI using client-side tool calling",
+      "score": 6
     },
     {
-      "title": "Artemis II Photo Timeline",
-      "score": 185
+      "title": "Show HN: Browser-based light pollution simulator using real photometric data",
+      "score": 7
     },
     {
-      "title": "Ask.com has closed",
-      "score": 247
+      "title": "SKILL.make: Makefile Styled Skill File",
+      "score": 15
     }
   ]
 }
