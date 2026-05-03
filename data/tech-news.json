@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-03T09:17:14.868777Z",
+  "updated_at": "2026-05-03T10:10:39.977356Z",
   "stories": [
     {
-      "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
-      "score": 97
+      "title": "A couple million lines of Haskell: Production engineering at Mercury",
+      "score": 219
     },
     {
-      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "score": 196
-    },
-    {
-      "title": "This Month in Ladybird - April 2026",
-      "score": 312
+      "title": "This Month in Ladybird \u2013 April 2026",
+      "score": 330
     },
     {
       "title": "Dav2d",
-      "score": 470
+      "score": 477
+    },
+    {
+      "title": "Unverified Evaluations in Dusk's PLONK",
+      "score": 22
     },
     {
       "title": "Six Years Perfecting Maps on WatchOS",
-      "score": 282
+      "score": 293
     }
   ]
 }
