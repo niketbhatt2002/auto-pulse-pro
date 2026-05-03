@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-03T10:10:39.977356Z",
+  "updated_at": "2026-05-03T10:44:37.588661Z",
   "stories": [
     {
       "title": "A couple million lines of Haskell: Production engineering at Mercury",
-      "score": 219
+      "score": 228
     },
     {
       "title": "This Month in Ladybird \u2013 April 2026",
-      "score": 330
+      "score": 340
     },
     {
       "title": "Dav2d",
-      "score": 477
+      "score": 484
     },
     {
       "title": "Unverified Evaluations in Dusk's PLONK",
-      "score": 22
+      "score": 24
     },
     {
       "title": "Six Years Perfecting Maps on WatchOS",
-      "score": 293
+      "score": 302
     }
   ]
 }
