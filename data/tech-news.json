@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-03T14:53:23.866504Z",
+  "updated_at": "2026-05-03T17:36:23.917729Z",
   "stories": [
     {
-      "title": "Embedded Rust or C Firmware? Lessons from an Industrial Microcontroller Use Case",
-      "score": 70
+      "title": "What Chromium versions are major browsers are on?",
+      "score": 33
     },
     {
-      "title": "Show HN: Apple's Sharp Running in the Browser via ONNX Runtime Web",
-      "score": 89
+      "title": "Mercedes-Benz commits to bringing back physical buttons",
+      "score": 311
     },
     {
-      "title": "Utah to hold websites liable for users who mask their location with VPNs",
-      "score": 26
+      "title": "Porsche will contest Laguna Seca in historic colors of the Apple Computer livery",
+      "score": 58
+    },
+    {
+      "title": "Southwest Headquarters Tour",
+      "score": 6
     },
     {
       "title": "Alert-Driven Monitoring",
-      "score": 5
-    },
-    {
-      "title": "Group averages obscure how an individual's brain controls behavior: study",
-      "score": 66
+      "score": 47
     }
   ]
 }
