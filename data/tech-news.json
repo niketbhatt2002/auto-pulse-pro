@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-03T07:54:11.912884Z",
+  "updated_at": "2026-05-03T08:44:37.888397Z",
   "stories": [
     {
       "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
-      "score": 28
+      "score": 75
     },
     {
       "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
-      "score": 170
+      "score": 186
     },
     {
       "title": "This Month in Ladybird - April 2026",
-      "score": 284
+      "score": 306
+    },
+    {
+      "title": "Dav2d",
+      "score": 460
     },
     {
       "title": "The IBM Granite 4.1 family of models",
-      "score": 64
-    },
-    {
-      "title": "Windows quality update: Progress we've made since March",
-      "score": 33
+      "score": 77
     }
   ]
 }
