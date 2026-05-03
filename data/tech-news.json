@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-02T23:53:54.908411Z",
+  "updated_at": "2026-05-03T07:54:11.912884Z",
   "stories": [
     {
-      "title": "VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage",
-      "score": 561
+      "title": "Specsmaxxing \u2013 On overcoming AI psychosis, and why I write specs in YAML",
+      "score": 28
     },
     {
-      "title": "Six Years Perfecting Maps on WatchOS",
-      "score": 113
+      "title": "A Couple Million Lines of Haskell: Production Engineering at Mercury",
+      "score": 170
     },
     {
       "title": "This Month in Ladybird - April 2026",
-      "score": 98
+      "score": 284
     },
     {
-      "title": "Dav2d",
-      "score": 299
+      "title": "The IBM Granite 4.1 family of models",
+      "score": 64
     },
     {
-      "title": "Neanderthals ran 'fat factories' 125,000 years ago",
-      "score": 72
+      "title": "Windows quality update: Progress we've made since March",
+      "score": 33
     }
   ]
 }
