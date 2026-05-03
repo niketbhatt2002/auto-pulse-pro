@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-03T20:49:29.424711Z",
+  "updated_at": "2026-05-03T23:55:56.319162Z",
   "stories": [
     {
-      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "score": 126
+      "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro, 17x cheaper",
+      "score": 88
     },
     {
-      "title": "Why TUIs Are Back",
-      "score": 129
+      "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
+      "score": 220
+    },
+    {
+      "title": "The 'Hidden' Costs of Great Abstractions",
+      "score": 19
     },
     {
       "title": "Southwest Headquarters Tour",
-      "score": 120
-    },
-    {
-      "title": "Statue of a man blinded by a flag put up by Banksy in central London",
-      "score": 85
+      "score": 169
     },
     {
       "title": "US\u2013Indian space mission maps extreme subsidence in Mexico City",
-      "score": 30
+      "score": 70
     }
   ]
 }
