@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-03T23:55:57.692258Z",
+  "updated_at": "2026-05-04T08:23:06.869099Z",
   "repos": [
     {
       "name": "nexu-io/open-design",
-      "stars": 19314
-    },
-    {
-      "name": "cursor/cookbook",
-      "stars": 3275
+      "stars": 20909
     },
     {
       "name": "theori-io/copy-fail-CVE-2026-31431",
-      "stars": 3015
-    },
-    {
-      "name": "denuitt1/mhr-cfw",
-      "stars": 1955
+      "stars": 3068
     },
     {
       "name": "willchen96/mike",
-      "stars": 1668
+      "stars": 1760
+    },
+    {
+      "name": "darrylmorley/whatcable",
+      "stars": 1521
+    },
+    {
+      "name": "mattpocock/dictionary-of-ai-coding",
+      "stars": 878
     }
   ]
 }
