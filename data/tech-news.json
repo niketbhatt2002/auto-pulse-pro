@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-04T09:13:37.934218Z",
+  "updated_at": "2026-05-04T10:08:00.048852Z",
   "stories": [
     {
-      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
-      "score": 206
+      "title": "Trademark Violation: Fake Notepad++ for Mac",
+      "score": 41
     },
     {
-      "title": "Humanoid Robot Actuators",
-      "score": 123
+      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
+      "score": 243
     },
     {
       "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "score": 366
+      "score": 380
+    },
+    {
+      "title": "Debunking the CIA's \u201cmagic\u201d heartbeat sensor [video]",
+      "score": 20
     },
     {
       "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
-      "score": 436
-    },
-    {
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "score": 28
+      "score": 469
     }
   ]
 }
