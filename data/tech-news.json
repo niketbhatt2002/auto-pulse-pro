@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-04T08:23:05.594551Z",
+  "updated_at": "2026-05-04T09:13:37.934218Z",
   "stories": [
     {
-      "title": "Humanoid Robot Actuators",
-      "score": 112
+      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
+      "score": 206
     },
     {
-      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
-      "score": 184
+      "title": "Humanoid Robot Actuators",
+      "score": 123
     },
     {
       "title": "BYOMesh \u2013 New LoRa mesh radio offers 100x the bandwidth",
-      "score": 354
+      "score": 366
     },
     {
       "title": "DeepClaude \u2013 Claude Code agent loop with DeepSeek V4 Pro",
-      "score": 416
+      "score": 436
     },
     {
-      "title": "Discovering hard disk physical geometry through microbenchmarking (2019)",
-      "score": 70
+      "title": "Texico: Learn the principles of programming without even touching a computer",
+      "score": 28
     }
   ]
 }
