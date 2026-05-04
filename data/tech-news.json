@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-04T16:03:50.590192Z",
+  "updated_at": "2026-05-04T18:08:38.158706Z",
   "stories": [
     {
+      "title": "Days Without GitHub Incidents",
+      "score": 71
+    },
+    {
       "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-      "score": 130
+      "score": 466
     },
     {
-      "title": "Redis array: short story of a long development process",
-      "score": 60
+      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
+      "score": 41
     },
     {
-      "title": "How Monero's proof of work works",
-      "score": 59
+      "title": "Stop big tech from making users behave in ways they don't want to",
+      "score": 46
     },
     {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "score": 430
-    },
-    {
-      "title": "PyInfra 3.8.0 Is Out",
-      "score": 128
+      "title": "I am worried about Bun",
+      "score": 90
     }
   ]
 }
