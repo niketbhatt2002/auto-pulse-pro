@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-04T11:42:46.000105Z",
+  "updated_at": "2026-05-04T12:20:15.195385Z",
   "repos": [
     {
       "name": "nexu-io/open-design",
-      "stars": 21691
+      "stars": 21858
     },
     {
       "name": "theori-io/copy-fail-CVE-2026-31431",
-      "stars": 3083
+      "stars": 3089
     },
     {
       "name": "willchen96/mike",
-      "stars": 1820
+      "stars": 1831
     },
     {
       "name": "darrylmorley/whatcable",
-      "stars": 1546
+      "stars": 1550
     },
     {
       "name": "mattpocock/dictionary-of-ai-coding",
-      "stars": 892
+      "stars": 896
     }
   ]
 }
