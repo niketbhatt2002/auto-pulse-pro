@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-04T18:08:38.158706Z",
+  "updated_at": "2026-05-04T21:11:23.779535Z",
   "stories": [
     {
-      "title": "Days Without GitHub Incidents",
-      "score": 71
-    },
-    {
-      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
-      "score": 466
-    },
-    {
-      "title": "US healthcare marketplaces shared citizenship and race data with ad tech giants",
-      "score": 41
-    },
-    {
-      "title": "Stop big tech from making users behave in ways they don't want to",
-      "score": 46
+      "title": "How OpenAI delivers low-latency voice AI at scale",
+      "score": 79
     },
     {
       "title": "I am worried about Bun",
-      "score": 90
+      "score": 277
+    },
+    {
+      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
+      "score": 132
+    },
+    {
+      "title": "Talking to strangers at the gym",
+      "score": 916
+    },
+    {
+      "title": "GameStop makes $55.5B takeover offer for eBay",
+      "score": 574
     }
   ]
 }
