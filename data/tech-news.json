@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-04T12:20:11.117957Z",
+  "updated_at": "2026-05-04T16:03:50.590192Z",
   "stories": [
     {
+      "title": "Removable batteries in smartphones will be mandatory in the EU starting in 2027",
+      "score": 130
+    },
+    {
+      "title": "Redis array: short story of a long development process",
+      "score": 60
+    },
+    {
+      "title": "How Monero's proof of work works",
+      "score": 59
+    },
+    {
       "title": "GameStop makes $55.5B takeover offer for eBay",
-      "score": 193
+      "score": 430
     },
     {
-      "title": "ASML's Best Selling Product Isn't What You Think It Is",
-      "score": 49
-    },
-    {
-      "title": "Trademark violation: Fake Notepad++ for Mac",
-      "score": 241
-    },
-    {
-      "title": "Using \u201cunderdrawings\u201d for accurate text and numbers",
-      "score": 272
-    },
-    {
-      "title": "Texico: Learn the principles of programming without even touching a computer",
-      "score": 77
+      "title": "PyInfra 3.8.0 Is Out",
+      "score": 128
     }
   ]
 }
