@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T09:56:42.415125Z",
+  "updated_at": "2026-05-05T10:49:56.551082Z",
   "stories": [
     {
       "title": "Async Rust never left the MVP state",
-      "score": 127
+      "score": 163
     },
     {
-      "title": "Hand Drawn QR Codes",
-      "score": 105
+      "title": "Should I Run Plain Docker Compose in Production in 2026?",
+      "score": 40
     },
     {
       "title": "Bun is being ported from Zig to Rust",
-      "score": 505
+      "score": 530
     },
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "score": 408
+      "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
+      "score": 158
     },
     {
-      "title": "CVE-2026-31431: Copy Fail vs. rootless containers",
-      "score": 103
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "score": 70
     }
   ]
 }
