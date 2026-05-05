@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-04T21:11:23.779535Z",
+  "updated_at": "2026-05-05T00:00:29.830243Z",
   "stories": [
     {
       "title": "How OpenAI delivers low-latency voice AI at scale",
-      "score": 79
+      "score": 218
     },
     {
       "title": "I am worried about Bun",
-      "score": 277
-    },
-    {
-      "title": "Securing a DoD contractor: Finding a multi-tenant authorization vulnerability",
-      "score": 132
+      "score": 372
     },
     {
       "title": "Talking to strangers at the gym",
-      "score": 916
+      "score": 1080
     },
     {
-      "title": "GameStop makes $55.5B takeover offer for eBay",
-      "score": 574
+      "title": "Pulitzer Prize Winners 2026",
+      "score": 51
+    },
+    {
+      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
+      "score": 39
     }
   ]
 }
