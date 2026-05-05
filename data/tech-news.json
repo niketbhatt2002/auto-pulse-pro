@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T00:00:29.830243Z",
+  "updated_at": "2026-05-05T08:01:10.455230Z",
   "stories": [
     {
-      "title": "How OpenAI delivers low-latency voice AI at scale",
-      "score": 218
+      "title": "Async Rust never left the MVP state",
+      "score": 36
     },
     {
-      "title": "I am worried about Bun",
-      "score": 372
+      "title": "Train Your Own LLM from Scratch",
+      "score": 177
     },
     {
-      "title": "Talking to strangers at the gym",
-      "score": 1080
+      "title": "Hand Drawn QR Codes",
+      "score": 64
     },
     {
-      "title": "Pulitzer Prize Winners 2026",
-      "score": 51
+      "title": "Bun is being ported from Zig to Rust",
+      "score": 452
     },
     {
-      "title": "Testing macOS on the Apple Network Server 2.0 ROMs",
-      "score": 39
+      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
+      "score": 13
     }
   ]
 }

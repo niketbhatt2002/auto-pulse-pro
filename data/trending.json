@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T00:00:32.387698Z",
+  "updated_at": "2026-05-05T08:01:12.026509Z",
   "repos": [
     {
       "name": "theori-io/copy-fail-CVE-2026-31431",
-      "stars": 3166
+      "stars": 3210
     },
     {
       "name": "willchen96/mike",
-      "stars": 2020
+      "stars": 2068
     },
     {
       "name": "darrylmorley/whatcable",
-      "stars": 1703
+      "stars": 1768
     },
     {
       "name": "aattaran/deepclaude",
-      "stars": 1014
+      "stars": 1150
     },
     {
       "name": "mattpocock/dictionary-of-ai-coding",
-      "stars": 967
+      "stars": 997
     }
   ]
 }
