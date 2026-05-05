@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T11:11:00.929526Z",
+  "updated_at": "2026-05-05T11:59:24.438909Z",
   "stories": [
     {
       "title": "Async Rust never left the MVP state",
-      "score": 179
+      "score": 220
     },
     {
       "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "score": 52
+      "score": 79
+    },
+    {
+      "title": "When everyone has AI and the company still learns nothing",
+      "score": 47
     },
     {
       "title": "Bun is being ported from Zig to Rust",
-      "score": 547
+      "score": 569
     },
     {
       "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
-      "score": 166
-    },
-    {
-      "title": "Lessons for Agentic Coding: What should we do when code is cheap?",
-      "score": 78
+      "score": 176
     }
   ]
 }
