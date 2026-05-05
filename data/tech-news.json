@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T15:56:17.223870Z",
+  "updated_at": "2026-05-05T18:05:50.584500Z",
   "stories": [
     {
-      "title": "The best is over: The fun has been optimized out of the Internet",
-      "score": 210
-    },
-    {
-      "title": "AI didn't delete your database, you did",
-      "score": 258
-    },
-    {
-      "title": "Agents for Financial Services and Insurance",
-      "score": 22
+      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
+      "score": 77
     },
     {
       "title": "Three Inverse Laws of AI",
-      "score": 16
+      "score": 202
     },
     {
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "score": 225
+      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
+      "score": 126
+    },
+    {
+      "title": "EEVblog: The 555 Timer is 55 years old",
+      "score": 91
+    },
+    {
+      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
+      "score": 80
     }
   ]
 }
