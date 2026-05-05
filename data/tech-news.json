@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T21:06:07.156958Z",
+  "updated_at": "2026-05-05T23:55:41.966225Z",
   "stories": [
     {
       "title": ".de TLD offline due to DNSSEC?",
-      "score": 183
+      "score": 486
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "score": 334
+      "score": 413
     },
     {
       "title": "Computer Use is 45x more expensive than structured APIs",
-      "score": 203
+      "score": 283
+    },
+    {
+      "title": "Write some software, give it away for free",
+      "score": 90
     },
     {
       "title": "Three Inverse Laws of AI",
-      "score": 287
-    },
-    {
-      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
-      "score": 1039
+      "score": 335
     }
   ]
 }
