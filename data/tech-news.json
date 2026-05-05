@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T11:59:24.438909Z",
+  "updated_at": "2026-05-05T15:56:17.223870Z",
   "stories": [
     {
-      "title": "Async Rust never left the MVP state",
-      "score": 220
+      "title": "The best is over: The fun has been optimized out of the Internet",
+      "score": 210
     },
     {
-      "title": "Should I Run Plain Docker Compose in Production in 2026?",
-      "score": 79
+      "title": "AI didn't delete your database, you did",
+      "score": 258
     },
     {
-      "title": "When everyone has AI and the company still learns nothing",
-      "score": 47
+      "title": "Agents for Financial Services and Insurance",
+      "score": 22
     },
     {
-      "title": "Bun is being ported from Zig to Rust",
-      "score": 569
+      "title": "Three Inverse Laws of AI",
+      "score": 16
     },
     {
-      "title": "Empty Screenings \u2013 Finds AMC movie screenings with few or no tickets sold",
-      "score": 176
+      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+      "score": 225
     }
   ]
 }
