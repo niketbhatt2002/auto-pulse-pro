@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-05T18:05:50.584500Z",
+  "updated_at": "2026-05-05T21:06:07.156958Z",
   "stories": [
     {
-      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-      "score": 77
-    },
-    {
-      "title": "Three Inverse Laws of AI",
-      "score": 202
+      "title": ".de TLD offline due to DNSSEC?",
+      "score": 183
     },
     {
       "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "score": 126
+      "score": 334
     },
     {
-      "title": "EEVblog: The 555 Timer is 55 years old",
-      "score": 91
+      "title": "Computer Use is 45x more expensive than structured APIs",
+      "score": 203
     },
     {
-      "title": "Computer Use Is 45x More Expensive Than Structured APIs",
-      "score": 80
+      "title": "Three Inverse Laws of AI",
+      "score": 287
+    },
+    {
+      "title": "Google Chrome silently installs a 4 GB AI model on your device without consent",
+      "score": 1039
     }
   ]
 }
