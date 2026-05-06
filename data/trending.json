@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-06T21:13:00.262713Z",
+  "updated_at": "2026-05-06T23:56:35.141311Z",
   "repos": [
     {
       "name": "darrylmorley/whatcable",
-      "stars": 2042
+      "stars": 2050
     },
     {
       "name": "aattaran/deepclaude",
-      "stars": 1470
+      "stars": 1486
     },
     {
       "name": "vercel-labs/deepsec",
-      "stars": 1344
+      "stars": 1362
     },
     {
       "name": "mattpocock/dictionary-of-ai-coding",
-      "stars": 1140
+      "stars": 1144
     },
     {
       "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-      "stars": 974
+      "stars": 975
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-06T21:12:59.095013Z",
+  "updated_at": "2026-05-06T23:56:34.189159Z",
   "stories": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 751
+      "score": 960
     },
     {
       "title": "Appearing productive in the workplace",
-      "score": 421
+      "score": 620
     },
     {
-      "title": "From Supabase to Clerk to Better Auth",
-      "score": 132
+      "title": "UK businesses brace for jet fuel rationing",
+      "score": 59
     },
     {
       "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "score": 211
+      "score": 337
     },
     {
       "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "score": 91
+      "score": 180
     }
   ]
 }
