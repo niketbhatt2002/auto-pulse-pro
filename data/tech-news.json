@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-06T16:03:12.647786Z",
+  "updated_at": "2026-05-06T18:09:53.020230Z",
   "stories": [
     {
-      "title": "Show HN: Red Squares \u2013 GitHub outages as contributions",
-      "score": 675
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "score": 403
     },
     {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "score": 40
+      "title": "Appearing Productive in the Workplace",
+      "score": 100
     },
     {
       "title": "The bottleneck was never the code",
-      "score": 261
+      "score": 354
     },
     {
-      "title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-      "score": 517
+      "title": "From Supabase to Clerk to Better Auth",
+      "score": 15
     },
     {
-      "title": "Setting up a Sun Ray server on OpenIndiana Hipster 2025.10",
-      "score": 86
+      "title": "Show HN: Hallucinopedia",
+      "score": 39
     }
   ]
 }
