@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T12:27:25.788452Z",
+  "updated_at": "2026-05-07T16:08:27.679022Z",
   "stories": [
     {
-      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 1519
+      "title": "The map that keeps Burning Man honest",
+      "score": 214
     },
     {
-      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
-      "score": 52
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "score": 65
     },
     {
-      "title": "Appearing productive in the workplace",
-      "score": 1292
+      "title": "Child marriages plunged when girls stayed in school in Nigeria",
+      "score": 117
     },
     {
-      "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "score": 348
+      "title": "The Self-Cancelling Subscription",
+      "score": 34
     },
     {
-      "title": "Permacomputing Principles",
-      "score": 176
+      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
+      "score": 89
     }
   ]
 }
