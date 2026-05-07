@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T16:08:27.679022Z",
+  "updated_at": "2026-05-07T18:17:02.294583Z",
   "stories": [
     {
       "title": "The map that keeps Burning Man honest",
-      "score": 214
+      "score": 348
     },
     {
       "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "score": 65
+      "score": 153
+    },
+    {
+      "title": "Agents need control flow, not more prompts",
+      "score": 58
     },
     {
       "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "score": 117
+      "score": 230
     },
     {
-      "title": "The Self-Cancelling Subscription",
-      "score": 34
-    },
-    {
-      "title": "RaTeX: KaTeX-compatible LaTeX rendering engine in pure Rust",
-      "score": 89
+      "title": "DeepSeek 4 Flash local inference engine for Metal",
+      "score": 80
     }
   ]
 }
