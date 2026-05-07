@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T10:17:19.885798Z",
+  "updated_at": "2026-05-07T11:11:49.012259Z",
   "stories": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 1441
+      "score": 1469
     },
     {
       "title": "Appearing productive in the workplace",
-      "score": 1175
-    },
-    {
-      "title": "Permacomputing Principles",
-      "score": 144
+      "score": 1222
     },
     {
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "score": 253
+      "score": 286
     },
     {
-      "title": "Show HN: Social Network for Corporate Cringe",
-      "score": 16
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "score": 106
+    },
+    {
+      "title": "Permacomputing Principles",
+      "score": 157
     }
   ]
 }
