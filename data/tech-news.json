@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T11:11:49.012259Z",
+  "updated_at": "2026-05-07T11:42:15.127114Z",
   "stories": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 1469
+      "score": 1489
     },
     {
       "title": "Appearing productive in the workplace",
-      "score": 1222
+      "score": 1252
     },
     {
       "title": "SQLite Is a Library of Congress Recommended Storage Format",
-      "score": 286
-    },
-    {
-      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
-      "score": 106
+      "score": 310
     },
     {
       "title": "Permacomputing Principles",
-      "score": 157
+      "score": 165
+    },
+    {
+      "title": "Boris Cherny: TI-83 Plus Basic Programming Tutorial (2004)",
+      "score": 31
     }
   ]
 }
