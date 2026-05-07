@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T08:26:26.002366Z",
+  "updated_at": "2026-05-07T09:28:32.378181Z",
   "repos": [
     {
       "name": "darrylmorley/whatcable",
-      "stars": 2071
+      "stars": 2075
     },
     {
       "name": "aattaran/deepclaude",
-      "stars": 1521
+      "stars": 1526
     },
     {
       "name": "mattpocock/dictionary-of-ai-coding",
-      "stars": 1174
+      "stars": 1179
     },
     {
       "name": "crafter-station/petdex",
-      "stars": 849
+      "stars": 864
     },
     {
       "name": "XBuilderLAB/cheat-on-content",
-      "stars": 848
+      "stars": 862
     }
   ]
 }
