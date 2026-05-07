@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T21:06:45.496540Z",
+  "updated_at": "2026-05-07T23:59:42.642552Z",
   "repos": [
     {
       "name": "darrylmorley/whatcable",
-      "stars": 2100
+      "stars": 2104
     },
     {
       "name": "aattaran/deepclaude",
-      "stars": 1576
+      "stars": 1590
     },
     {
       "name": "mattpocock/dictionary-of-ai-coding",
-      "stars": 1209
+      "stars": 1220
     },
     {
       "name": "yaojingang/yao-open-prompts",
-      "stars": 1074
+      "stars": 1092
     },
     {
       "name": "XBuilderLAB/cheat-on-content",
-      "stars": 992
+      "stars": 1001
     }
   ]
 }

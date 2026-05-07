@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T21:06:44.487590Z",
+  "updated_at": "2026-05-07T23:59:41.327962Z",
   "stories": [
     {
       "title": "Dirtyfrag: Universal Linux LPE",
-      "score": 141
+      "score": 342
+    },
+    {
+      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
+      "score": 78
+    },
+    {
+      "title": "Maybe you shouldn't install new software for a bit",
+      "score": 28
     },
     {
       "title": "The Burning Man MOOP Map",
-      "score": 464
+      "score": 509
     },
     {
       "title": "Agents need control flow, not more prompts",
-      "score": 195
-    },
-    {
-      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
-      "score": 101
-    },
-    {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "score": 209
+      "score": 289
     }
   ]
 }
