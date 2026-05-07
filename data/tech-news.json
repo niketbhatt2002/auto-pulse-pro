@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-06T23:56:34.189159Z",
+  "updated_at": "2026-05-07T08:26:24.646379Z",
   "stories": [
     {
       "title": "Valve releases Steam Controller CAD files under Creative Commons license",
-      "score": 960
+      "score": 1368
     },
     {
       "title": "Appearing productive in the workplace",
-      "score": 620
+      "score": 1079
     },
     {
-      "title": "UK businesses brace for jet fuel rationing",
-      "score": 59
+      "title": "Permacomputing Principles",
+      "score": 122
     },
     {
-      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
-      "score": 337
+      "title": "Diskless Linux boot using ZFS, iSCSI and PXE",
+      "score": 78
     },
     {
-      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
-      "score": 180
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "score": 211
     }
   ]
 }

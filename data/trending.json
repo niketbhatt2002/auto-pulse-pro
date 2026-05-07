@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-06T23:56:35.141311Z",
+  "updated_at": "2026-05-07T08:26:26.002366Z",
   "repos": [
     {
       "name": "darrylmorley/whatcable",
-      "stars": 2050
+      "stars": 2071
     },
     {
       "name": "aattaran/deepclaude",
-      "stars": 1486
-    },
-    {
-      "name": "vercel-labs/deepsec",
-      "stars": 1362
+      "stars": 1521
     },
     {
       "name": "mattpocock/dictionary-of-ai-coding",
-      "stars": 1144
+      "stars": 1174
     },
     {
-      "name": "wrongly-cuddly-obsession/NTSB_FOIA_MU5735",
-      "stars": 975
+      "name": "crafter-station/petdex",
+      "stars": 849
+    },
+    {
+      "name": "XBuilderLAB/cheat-on-content",
+      "stars": 848
     }
   ]
 }
