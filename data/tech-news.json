@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T18:17:02.294583Z",
+  "updated_at": "2026-05-07T21:06:44.487590Z",
   "stories": [
     {
-      "title": "The map that keeps Burning Man honest",
-      "score": 348
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "score": 141
     },
     {
-      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
-      "score": 153
+      "title": "The Burning Man MOOP Map",
+      "score": 464
     },
     {
       "title": "Agents need control flow, not more prompts",
-      "score": 58
+      "score": 195
     },
     {
-      "title": "Child marriages plunged when girls stayed in school in Nigeria",
-      "score": 230
+      "title": "Natural Language Autoencoders: Turning Claude's Thoughts into Text",
+      "score": 101
     },
     {
-      "title": "DeepSeek 4 Flash local inference engine for Metal",
-      "score": 80
+      "title": "AlphaEvolve: Gemini-powered coding agent scaling impact across fields",
+      "score": 209
     }
   ]
 }
