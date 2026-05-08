@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-08T12:06:55.959863Z",
+  "updated_at": "2026-05-08T15:27:26.559387Z",
   "stories": [
     {
-      "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
-      "score": 721
+      "title": "Poland is now among the 20 largest economies. How it happened",
+      "score": 458
     },
     {
-      "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "score": 80
+      "title": "An Introduction to Meshtastic",
+      "score": 153
     },
     {
-      "title": "Cloudflare to cut about 20% workforce",
-      "score": 865
+      "title": "PC Engine CPU",
+      "score": 28
     },
     {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "score": 588
+      "title": "A web page that shows you everything the browser told it without asking",
+      "score": 48
     },
     {
-      "title": "ClojureScript Gets Async/Await",
-      "score": 98
+      "title": "Podman rootless containers and the Copy Fail exploit",
+      "score": 26
     }
   ]
 }
