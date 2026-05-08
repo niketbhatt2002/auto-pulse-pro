@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-08T18:02:03.261249Z",
+  "updated_at": "2026-05-08T21:04:40.310593Z",
   "stories": [
     {
       "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "score": 312
+      "score": 586
+    },
+    {
+      "title": "Discord Incident",
+      "score": 53
+    },
+    {
+      "title": "AI is breaking two vulnerability cultures",
+      "score": 106
     },
     {
       "title": "Cartoon Network Flash Games",
-      "score": 78
+      "score": 206
     },
     {
-      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
-      "score": 102
-    },
-    {
-      "title": "An Introduction to Meshtastic",
-      "score": 251
-    },
-    {
-      "title": "A web page that shows you everything the browser told it without asking",
-      "score": 261
+      "title": "Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
+      "score": 28
     }
   ]
 }
