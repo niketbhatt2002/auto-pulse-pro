@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-08T15:27:26.559387Z",
+  "updated_at": "2026-05-08T18:02:03.261249Z",
   "stories": [
     {
-      "title": "Poland is now among the 20 largest economies. How it happened",
-      "score": 458
+      "title": "Google Cloud Fraud Defence is just WEI repackaged",
+      "score": 312
+    },
+    {
+      "title": "Cartoon Network Flash Games",
+      "score": 78
+    },
+    {
+      "title": "Serving a Website on a Raspberry Pi Zero Running in RAM",
+      "score": 102
     },
     {
       "title": "An Introduction to Meshtastic",
-      "score": 153
-    },
-    {
-      "title": "PC Engine CPU",
-      "score": 28
+      "score": 251
     },
     {
       "title": "A web page that shows you everything the browser told it without asking",
-      "score": 48
-    },
-    {
-      "title": "Podman rootless containers and the Copy Fail exploit",
-      "score": 26
+      "score": 261
     }
   ]
 }
