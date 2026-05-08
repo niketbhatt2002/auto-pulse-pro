@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-07T23:59:41.327962Z",
+  "updated_at": "2026-05-08T07:22:19.857803Z",
   "stories": [
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "score": 342
-    },
-    {
-      "title": "Canvas (Instructure) LMS Down in Ongoing Ransomware Attack",
-      "score": 78
+      "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
+      "score": 556
     },
     {
       "title": "Maybe you shouldn't install new software for a bit",
-      "score": 28
+      "score": 420
     },
     {
-      "title": "The Burning Man MOOP Map",
-      "score": 509
+      "title": "Cloudflare to cut about 20% workforce",
+      "score": 609
     },
     {
-      "title": "Agents need control flow, not more prompts",
-      "score": 289
+      "title": "Dirtyfrag: Universal Linux LPE",
+      "score": 585
+    },
+    {
+      "title": "Pinocchio is weirder than you remembered",
+      "score": 115
     }
   ]
 }
