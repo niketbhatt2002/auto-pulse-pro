@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-08T11:02:40.010038Z",
+  "updated_at": "2026-05-08T12:06:55.959863Z",
   "stories": [
     {
       "title": "Canvas is down as ShinyHunters threatens to leak schools\u2019 data",
-      "score": 674
-    },
-    {
-      "title": "Cloudflare to cut about 20% workforce",
-      "score": 800
-    },
-    {
-      "title": "Maybe you shouldn't install new software for a bit",
-      "score": 557
+      "score": 721
     },
     {
       "title": "Nintendo announces price increases for Nintendo Switch 2",
-      "score": 38
+      "score": 80
     },
     {
-      "title": "Dirtyfrag: Universal Linux LPE",
-      "score": 656
+      "title": "Cloudflare to cut about 20% workforce",
+      "score": 865
+    },
+    {
+      "title": "Maybe you shouldn't install new software for a bit",
+      "score": 588
+    },
+    {
+      "title": "ClojureScript Gets Async/Await",
+      "score": 98
     }
   ]
 }
