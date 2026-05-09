@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T08:24:44.641069Z",
+  "updated_at": "2026-05-09T09:12:32.082453Z",
   "repos": [
     {
       "name": "V4bel/dirtyfrag",
-      "stars": 3083
+      "stars": 3105
     },
     {
       "name": "antirez/ds4",
-      "stars": 2928
+      "stars": 2980
     },
     {
       "name": "aattaran/deepclaude",
-      "stars": 1653
+      "stars": 1655
     },
     {
       "name": "strukto-ai/mirage",
-      "stars": 1522
+      "stars": 1527
     },
     {
       "name": "yaojingang/yao-open-prompts",
-      "stars": 1419
+      "stars": 1422
     }
   ]
 }
