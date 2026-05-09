@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T11:49:38.705154Z",
+  "updated_at": "2026-05-09T14:56:11.170547Z",
   "stories": [
     {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "score": 365
+      "title": "Internet Archive Switzerland",
+      "score": 169
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 1110
+      "score": 1239
+    },
+    {
+      "title": "How LEDs are made (2014)",
+      "score": 40
     },
     {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "score": 187
+      "score": 266
     },
     {
-      "title": "OpenAI\u2019s WebRTC problem",
-      "score": 342
-    },
-    {
-      "title": "Making Julia as Fast as C++ (2019)",
-      "score": 16
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "score": 458
     }
   ]
 }
