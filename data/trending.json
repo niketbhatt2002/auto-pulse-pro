@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T20:49:37.310483Z",
+  "updated_at": "2026-05-09T23:56:05.957079Z",
   "repos": [
     {
       "name": "antirez/ds4",
-      "stars": 4130
+      "stars": 4358
     },
     {
       "name": "V4bel/dirtyfrag",
-      "stars": 3542
+      "stars": 3603
     },
     {
       "name": "aattaran/deepclaude",
-      "stars": 1670
+      "stars": 1672
     },
     {
       "name": "strukto-ai/mirage",
-      "stars": 1617
+      "stars": 1628
     },
     {
       "name": "vercel-labs/zero-native",
-      "stars": 1487
+      "stars": 1602
     }
   ]
 }

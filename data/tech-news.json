@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T20:49:36.304330Z",
+  "updated_at": "2026-05-09T23:56:04.892559Z",
   "stories": [
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 136
+      "score": 352
     },
     {
       "title": "Internet Archive Switzerland",
-      "score": 445
+      "score": 510
     },
     {
-      "title": "I\u2019ve banned query strings",
-      "score": 118
+      "title": "Show HN: I made a Clojure-like language in Go, boots in 7ms",
+      "score": 63
     },
     {
       "title": "Zed Editor Theme-Builder",
-      "score": 83
+      "score": 136
     },
     {
-      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
-      "score": 71
+      "title": "The Serial TTL connector we deserve",
+      "score": 15
     }
   ]
 }
