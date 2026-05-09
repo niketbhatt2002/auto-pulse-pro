@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-08T21:04:40.310593Z",
+  "updated_at": "2026-05-09T00:01:24.874184Z",
   "stories": [
     {
-      "title": "Google Cloud Fraud Defence is just WEI repackaged",
-      "score": 586
+      "title": "Google broke reCAPTCHA for de-googled Android users",
+      "score": 465
     },
     {
-      "title": "Discord Incident",
-      "score": 53
+      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
+      "score": 16
+    },
+    {
+      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
+      "score": 111
     },
     {
       "title": "AI is breaking two vulnerability cultures",
-      "score": 106
+      "score": 196
     },
     {
       "title": "Cartoon Network Flash Games",
-      "score": 206
-    },
-    {
-      "title": "Man Finds $1M Worth of Yu-Gi-Oh Cards in a Dumpster",
-      "score": 28
+      "score": 261
     }
   ]
 }
