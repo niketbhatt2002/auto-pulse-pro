@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T14:56:11.170547Z",
+  "updated_at": "2026-05-09T17:39:19.615261Z",
   "stories": [
     {
       "title": "Internet Archive Switzerland",
-      "score": 169
+      "score": 316
+    },
+    {
+      "title": "PipeDream on the Acorn Archimedes",
+      "score": 44
+    },
+    {
+      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
+      "score": 98
+    },
+    {
+      "title": "LLMs Corrupt Your Documents When You Delegate",
+      "score": 201
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 1239
-    },
-    {
-      "title": "How LEDs are made (2014)",
-      "score": 40
-    },
-    {
-      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "score": 266
-    },
-    {
-      "title": "A recent experience with ChatGPT 5.5 Pro",
-      "score": 458
+      "score": 1335
     }
   ]
 }
