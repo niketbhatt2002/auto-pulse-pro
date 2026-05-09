@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T09:12:31.016009Z",
+  "updated_at": "2026-05-09T10:11:19.373755Z",
   "stories": [
     {
       "title": "A recent experience with ChatGPT 5.5 Pro",
-      "score": 268
+      "score": 312
     },
     {
       "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 985
+      "score": 1032
     },
     {
       "title": "Using Claude Code: The unreasonable effectiveness of HTML",
-      "score": 121
-    },
-    {
-      "title": "OpenAI\u2019s WebRTC problem",
-      "score": 297
+      "score": 144
     },
     {
       "title": "Mythical Man Month",
-      "score": 143
+      "score": 159
+    },
+    {
+      "title": "OpenAI\u2019s WebRTC problem",
+      "score": 318
     }
   ]
 }
