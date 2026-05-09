@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T00:01:24.874184Z",
+  "updated_at": "2026-05-09T07:49:06.392660Z",
   "stories": [
     {
+      "title": "A recent experience with ChatGPT 5.5 Pro",
+      "score": 205
+    },
+    {
       "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 465
+      "score": 921
     },
     {
-      "title": "Tesla Model Y Passes NHTSA's New 'Advanced Driver Assistance System' Tests",
-      "score": 16
+      "title": "Using Claude Code: The unreasonable effectiveness of HTML",
+      "score": 91
     },
     {
-      "title": "You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE)",
-      "score": 111
+      "title": "Mythos 'Discovered' a CVE in Its Training Data and That's Still Worrying",
+      "score": 7
     },
     {
-      "title": "AI is breaking two vulnerability cultures",
-      "score": 196
-    },
-    {
-      "title": "Cartoon Network Flash Games",
-      "score": 261
+      "title": "OpenAI\u2019s WebRTC problem",
+      "score": 268
     }
   ]
 }
