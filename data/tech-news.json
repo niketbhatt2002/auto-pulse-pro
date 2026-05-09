@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-09T17:39:19.615261Z",
+  "updated_at": "2026-05-09T20:49:36.304330Z",
   "stories": [
     {
+      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
+      "score": 136
+    },
+    {
       "title": "Internet Archive Switzerland",
-      "score": 316
+      "score": 445
     },
     {
-      "title": "PipeDream on the Acorn Archimedes",
-      "score": 44
+      "title": "I\u2019ve banned query strings",
+      "score": 118
     },
     {
-      "title": "The Intolerable Hypocrisy of Cyberlibertarianism",
-      "score": 98
+      "title": "Zed Editor Theme-Builder",
+      "score": 83
     },
     {
-      "title": "LLMs Corrupt Your Documents When You Delegate",
-      "score": 201
-    },
-    {
-      "title": "Google broke reCAPTCHA for de-googled Android users",
-      "score": 1335
+      "title": "CPanel's Black Week: 3 New Vulnerabilities Patched After Attack on 44k Servers",
+      "score": 71
     }
   ]
 }
