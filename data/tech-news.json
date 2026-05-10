@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-05-10T14:57:50.016702Z",
+  "updated_at": "2026-05-10T17:40:10.177826Z",
   "stories": [
     {
-      "title": "Space Cadet Pinball on Linux",
-      "score": 159
+      "title": "Remind HN: Today is Mother's Day, call your moms",
+      "score": 199
     },
     {
       "title": "I returned to AWS, and was reminded why I left",
-      "score": 233
+      "score": 424
     },
     {
-      "title": "What's a Mathematician to Do?",
-      "score": 43
+      "title": "Walking Slower? Why Your Ears, Not Your Knees, Might Be the Problem",
+      "score": 24
     },
     {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "score": 174
+      "title": "Tracesofhumanity.org by Joanna Rutkowska",
+      "score": 3
     },
     {
-      "title": "Think Linear Algebra (2023)",
+      "title": "Academic Research Skills for Claude Code",
       "score": 52
     }
   ]
