@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T08:02:13.140448Z",
+  "updated_at": "2026-05-10T08:49:47.736633Z",
   "stories": [
     {
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "score": 224
+      "score": 261
+    },
+    {
+      "title": "Rotten Dot Com",
+      "score": 7
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 530
+      "score": 538
     },
     {
       "title": "The One Dollar Counterfeiter",
-      "score": 88
-    },
-    {
-      "title": "We see something that works, and then we understand it",
-      "score": 67
+      "score": 106
     },
     {
       "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "score": 100
+      "score": 120
     }
   ]
 }
