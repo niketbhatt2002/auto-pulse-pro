@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T10:19:09.302106Z",
+  "updated_at": "2026-05-10T10:54:49.061285Z",
   "stories": [
     {
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "score": 53
+    },
+    {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 566
+      "score": 581
     },
     {
       "title": "The One Dollar Counterfeiter",
-      "score": 127
+      "score": 142
     },
     {
       "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "score": 288
+      "score": 294
     },
     {
-      "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "score": 32
-    },
-    {
-      "title": "Gemini API File Search is now multimodal",
-      "score": 96
+      "title": "We see something that works, and then we understand it",
+      "score": 104
     }
   ]
 }
