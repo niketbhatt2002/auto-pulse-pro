@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T08:49:47.736633Z",
+  "updated_at": "2026-05-10T09:24:06.077290Z",
   "stories": [
     {
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "score": 261
+      "title": "Rotten Dot Com",
+      "score": 35
     },
     {
-      "title": "Rotten Dot Com",
-      "score": 7
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "score": 272
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 538
+      "score": 545
     },
     {
       "title": "The One Dollar Counterfeiter",
-      "score": 106
+      "score": 115
     },
     {
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "score": 120
+      "title": "Idempotency Is Easy Until the Second Request Is Different",
+      "score": 11
     }
   ]
 }
