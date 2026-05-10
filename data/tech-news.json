@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T09:24:06.077290Z",
+  "updated_at": "2026-05-10T10:19:09.302106Z",
   "stories": [
     {
-      "title": "Rotten Dot Com",
-      "score": 35
-    },
-    {
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "score": 272
-    },
-    {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 545
+      "score": 566
     },
     {
       "title": "The One Dollar Counterfeiter",
-      "score": 115
+      "score": 127
+    },
+    {
+      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
+      "score": 288
     },
     {
       "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "score": 11
+      "score": 32
+    },
+    {
+      "title": "Gemini API File Search is now multimodal",
+      "score": 96
     }
   ]
 }
