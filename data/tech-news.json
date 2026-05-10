@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T10:54:49.061285Z",
+  "updated_at": "2026-05-10T11:49:42.740258Z",
   "stories": [
     {
+      "title": "Space Cadet Pinball on Linux",
+      "score": 14
+    },
+    {
       "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "score": 53
+      "score": 90
     },
     {
       "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 581
+      "score": 593
     },
     {
       "title": "The One Dollar Counterfeiter",
-      "score": 142
+      "score": 165
     },
     {
-      "title": "Show HN: Building a web server in assembly to give my life (a lack of) meaning",
-      "score": 294
-    },
-    {
-      "title": "We see something that works, and then we understand it",
-      "score": 104
+      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
+      "score": 163
     }
   ]
 }
