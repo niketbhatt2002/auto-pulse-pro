@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T17:40:13.568569Z",
+  "updated_at": "2026-05-10T20:52:31.124613Z",
   "repos": [
     {
       "name": "antirez/ds4",
-      "stars": 5829
+      "stars": 5989
     },
     {
       "name": "V4bel/dirtyfrag",
-      "stars": 3963
+      "stars": 3985
     },
     {
       "name": "vercel-labs/zero-native",
-      "stars": 2173
+      "stars": 2236
     },
     {
       "name": "strukto-ai/mirage",
-      "stars": 1738
+      "stars": 1768
     },
     {
-      "name": "yaojingang/yao-open-prompts",
-      "stars": 1543
+      "name": "XBuilderLAB/cheat-on-content",
+      "stars": 1546
     }
   ]
 }
