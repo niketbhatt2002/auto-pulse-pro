@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T11:49:42.740258Z",
+  "updated_at": "2026-05-10T14:57:50.016702Z",
   "stories": [
     {
       "title": "Space Cadet Pinball on Linux",
-      "score": 14
+      "score": 159
+    },
+    {
+      "title": "I returned to AWS, and was reminded why I left",
+      "score": 233
+    },
+    {
+      "title": "What's a Mathematician to Do?",
+      "score": 43
     },
     {
       "title": "Idempotency Is Easy Until the Second Request Is Different",
-      "score": 90
+      "score": 174
     },
     {
-      "title": "Bun's experimental Rust rewrite hits 99.8% test compatibility on Linux x64 glibc",
-      "score": 593
-    },
-    {
-      "title": "The One Dollar Counterfeiter",
-      "score": 165
-    },
-    {
-      "title": "Casio S100X Japanese Lacquer Edition (JP Page Only)",
-      "score": 163
+      "title": "Think Linear Algebra (2023)",
+      "score": 52
     }
   ]
 }
