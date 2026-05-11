@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-10T23:58:53.419299Z",
+  "updated_at": "2026-05-11T09:31:14.699059Z",
   "stories": [
     {
       "title": "Hardware Attestation as Monopoly Enabler",
-      "score": 746
+      "score": 1510
     },
     {
       "title": "Local AI needs to be the norm",
-      "score": 432
+      "score": 1115
     },
     {
-      "title": "Incident Report: CVE-2024-YIKES",
-      "score": 343
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "score": 158
+    },
+    {
+      "title": "I'm going back to writing code by hand",
+      "score": 338
     },
     {
       "title": "Running local models on an M4 with 24GB memory",
-      "score": 23
-    },
-    {
-      "title": "Obsidian plugin was abused to deploy a remote access trojan",
-      "score": 30
+      "score": 300
     }
   ]
 }
