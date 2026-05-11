@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-11T18:30:17.656423Z",
+  "updated_at": "2026-05-11T21:20:12.228785Z",
   "stories": [
     {
-      "title": "CUDA-oxide: Nvidia's official Rust to CUDA compiler",
-      "score": 173
+      "title": "Library for fast mapping of Java records to native memory",
+      "score": 52
     },
     {
-      "title": "Nullsoft, 1997-2004 AOL kills off the last maverick tech company (2004)",
-      "score": 95
+      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
+      "score": 62
+    },
+    {
+      "title": "Nullsoft, 1997-2004 (2004)",
+      "score": 175
     },
     {
       "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-      "score": 495
+      "score": 567
     },
     {
-      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
-      "score": 151
-    },
-    {
-      "title": "Show HN: TikTok but for Scientific Papers",
-      "score": 37
+      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
+      "score": 147
     }
   ]
 }
