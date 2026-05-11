@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-11T13:46:25.021296Z",
+  "updated_at": "2026-05-11T16:34:28.714446Z",
   "stories": [
     {
       "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-      "score": 242
+      "score": 422
+    },
+    {
+      "title": "Training an LLM in Swift, Part 1: Taking matrix mult from Gflop/s to Tflop/s",
+      "score": 95
     },
     {
       "title": "Hardware Attestation as Monopoly Enabler",
-      "score": 1807
+      "score": 1946
     },
     {
-      "title": "Local AI needs to be the norm",
-      "score": 1409
+      "title": "Gmail registration now requires scanning a QR code and sending a text message",
+      "score": 270
     },
     {
-      "title": "I'm going back to writing code by hand",
-      "score": 582
-    },
-    {
-      "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
-      "score": 42
+      "title": "Am\u00e1lia and the Future of European Portuguese LLMs",
+      "score": 35
     }
   ]
 }
