@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-11T12:16:22.748445Z",
+  "updated_at": "2026-05-11T12:34:40.893373Z",
   "stories": [
     {
       "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-      "score": 96
+      "score": 125
     },
     {
       "title": "Hardware Attestation as Monopoly Enabler",
-      "score": 1700
-    },
-    {
-      "title": "From Today, Software Engineering Is Dead",
-      "score": 6
+      "score": 1721
     },
     {
       "title": "Local AI needs to be the norm",
-      "score": 1286
+      "score": 1308
     },
     {
       "title": "I'm going back to writing code by hand",
-      "score": 481
+      "score": 501
+    },
+    {
+      "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
+      "score": 218
     }
   ]
 }
