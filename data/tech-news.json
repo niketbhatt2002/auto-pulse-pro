@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-11T09:31:14.699059Z",
+  "updated_at": "2026-05-11T10:34:07.366060Z",
   "stories": [
     {
       "title": "Hardware Attestation as Monopoly Enabler",
-      "score": 1510
+      "score": 1593
     },
     {
       "title": "Local AI needs to be the norm",
-      "score": 1115
+      "score": 1180
     },
     {
       "title": "The greatest shot in television: James Burke had one chance to nail this scene (2024)",
-      "score": 158
+      "score": 187
     },
     {
       "title": "I'm going back to writing code by hand",
-      "score": 338
+      "score": 391
     },
     {
       "title": "Running local models on an M4 with 24GB memory",
-      "score": 300
+      "score": 325
     }
   ]
 }
