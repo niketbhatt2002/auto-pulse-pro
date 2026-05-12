@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T11:24:29.715991Z",
+  "updated_at": "2026-05-12T11:47:06.186597Z",
   "stories": [
     {
       "title": "Learning Software Architecture",
-      "score": 92
-    },
-    {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 881
+      "score": 119
     },
     {
       "title": "Screenshots of Old Desktop OSes",
-      "score": 233
+      "score": 255
+    },
+    {
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "score": 888
     },
     {
       "title": "Toxicity on Social Media \u2013 The Noisy Room",
-      "score": 59
+      "score": 75
     },
     {
       "title": "They Live (1988) inspired Adblocker",
-      "score": 284
+      "score": 302
     }
   ]
 }
