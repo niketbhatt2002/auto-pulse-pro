@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T00:04:00.591506Z",
+  "updated_at": "2026-05-12T08:32:23.598753Z",
   "stories": [
     {
-      "title": "TanStack NPM Packages Compromised",
-      "score": 414
+      "title": "Postmortem: TanStack NPM supply-chain compromise",
+      "score": 805
+    },
+    {
+      "title": "Screenshots of Old Desktop OSes",
+      "score": 106
+    },
+    {
+      "title": "They Live (1988) inspired Adblocker",
+      "score": 194
+    },
+    {
+      "title": "If AI writes your code, why use Python?",
+      "score": 448
     },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "score": 175
-    },
-    {
-      "title": "Google says criminal hackers used AI to find a major software flaw",
-      "score": 99
-    },
-    {
-      "title": "Library for fast mapping of Java records to native memory",
-      "score": 93
-    },
-    {
-      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
-      "score": 242
+      "score": 321
     }
   ]
 }
