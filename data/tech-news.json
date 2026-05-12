@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T11:47:06.186597Z",
+  "updated_at": "2026-05-12T13:03:30.028389Z",
   "stories": [
     {
       "title": "Learning Software Architecture",
-      "score": 119
+      "score": 199
     },
     {
       "title": "Screenshots of Old Desktop OSes",
-      "score": 255
+      "score": 327
     },
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 888
+      "score": 909
     },
     {
-      "title": "Toxicity on Social Media \u2013 The Noisy Room",
-      "score": 75
+      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
+      "score": 120
     },
     {
-      "title": "They Live (1988) inspired Adblocker",
-      "score": 302
+      "title": "A HN post with negative points \u2013 how?",
+      "score": 35
     }
   ]
 }
