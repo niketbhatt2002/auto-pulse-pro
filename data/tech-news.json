@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T18:28:07.210490Z",
+  "updated_at": "2026-05-12T21:21:58.496132Z",
   "stories": [
     {
       "title": "Googlebook",
-      "score": 67
+      "score": 399
     },
     {
-      "title": "Instructure pays ransom to Canvas hackers",
-      "score": 117
+      "title": "How to make your text look futuristic (2016)",
+      "score": 61
     },
     {
-      "title": "Rendering the Sky, Sunsets, and Planets",
-      "score": 295
+      "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
+      "score": 153
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "score": 141
     },
     {
       "title": "Why senior developers fail to communicate their expertise",
-      "score": 88
-    },
-    {
-      "title": "When life gives you lemons, write better error messages",
-      "score": 30
+      "score": 241
     }
   ]
 }
