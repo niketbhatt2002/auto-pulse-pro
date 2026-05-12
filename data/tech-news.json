@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T09:32:58.433063Z",
+  "updated_at": "2026-05-12T10:26:31.520021Z",
   "stories": [
     {
+      "title": "Learning Software Architecture",
+      "score": 42
+    },
+    {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 840
+      "score": 864
     },
     {
       "title": "Screenshots of Old Desktop OSes",
-      "score": 153
+      "score": 196
     },
     {
       "title": "They Live (1988) inspired Adblocker",
-      "score": 225
+      "score": 247
     },
     {
       "title": "If AI writes your code, why use Python?",
-      "score": 483
-    },
-    {
-      "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "score": 336
+      "score": 513
     }
   ]
 }
