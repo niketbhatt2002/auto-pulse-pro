@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T16:23:10.778420Z",
+  "updated_at": "2026-05-12T18:28:07.210490Z",
   "stories": [
     {
-      "title": "Bambu Lab is abusing the open source social contract",
-      "score": 359
+      "title": "Googlebook",
+      "score": 67
     },
     {
-      "title": "Operation: Epic Furious",
-      "score": 60
+      "title": "Instructure pays ransom to Canvas hackers",
+      "score": 117
     },
     {
       "title": "Rendering the Sky, Sunsets, and Planets",
-      "score": 190
+      "score": 295
     },
     {
-      "title": "Learning Software Architecture",
-      "score": 381
+      "title": "Why senior developers fail to communicate their expertise",
+      "score": 88
     },
     {
-      "title": "The Future of Obsidian Plugins",
-      "score": 14
+      "title": "When life gives you lemons, write better error messages",
+      "score": 30
     }
   ]
 }
