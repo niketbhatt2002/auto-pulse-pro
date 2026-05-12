@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T13:03:30.028389Z",
+  "updated_at": "2026-05-12T16:23:10.778420Z",
   "stories": [
     {
+      "title": "Bambu Lab is abusing the open source social contract",
+      "score": 359
+    },
+    {
+      "title": "Operation: Epic Furious",
+      "score": 60
+    },
+    {
+      "title": "Rendering the Sky, Sunsets, and Planets",
+      "score": 190
+    },
+    {
       "title": "Learning Software Architecture",
-      "score": 199
+      "score": 381
     },
     {
-      "title": "Screenshots of Old Desktop OSes",
-      "score": 327
-    },
-    {
-      "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 909
-    },
-    {
-      "title": "EU to crack down on TikTok, Instagram's 'addictive design' targeting kids",
-      "score": 120
-    },
-    {
-      "title": "A HN post with negative points \u2013 how?",
-      "score": 35
+      "title": "The Future of Obsidian Plugins",
+      "score": 14
     }
   ]
 }
