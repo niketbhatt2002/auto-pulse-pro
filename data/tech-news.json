@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T10:26:31.520021Z",
+  "updated_at": "2026-05-12T11:24:29.715991Z",
   "stories": [
     {
       "title": "Learning Software Architecture",
-      "score": 42
+      "score": 92
     },
     {
       "title": "Postmortem: TanStack NPM supply-chain compromise",
-      "score": 864
+      "score": 881
     },
     {
       "title": "Screenshots of Old Desktop OSes",
-      "score": 196
+      "score": 233
+    },
+    {
+      "title": "Toxicity on Social Media \u2013 The Noisy Room",
+      "score": 59
     },
     {
       "title": "They Live (1988) inspired Adblocker",
-      "score": 247
-    },
-    {
-      "title": "If AI writes your code, why use Python?",
-      "score": 513
+      "score": 284
     }
   ]
 }
