@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-11T21:20:12.228785Z",
+  "updated_at": "2026-05-12T00:04:00.591506Z",
   "stories": [
     {
-      "title": "Library for fast mapping of Java records to native memory",
-      "score": 52
+      "title": "TanStack NPM Packages Compromised",
+      "score": 414
     },
     {
       "title": "UCLA discovers first stroke rehabilitation drug to repair brain damage (2025)",
-      "score": 62
-    },
-    {
-      "title": "Nullsoft, 1997-2004 (2004)",
       "score": 175
     },
     {
-      "title": "Ratty \u2013 A terminal emulator with inline 3D graphics",
-      "score": 567
+      "title": "Google says criminal hackers used AI to find a major software flaw",
+      "score": 99
     },
     {
-      "title": "Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?",
-      "score": 147
+      "title": "Library for fast mapping of Java records to native memory",
+      "score": 93
+    },
+    {
+      "title": "GitLab Announces Workforce Reduction and End of Their CREDIT Values",
+      "score": 242
     }
   ]
 }
