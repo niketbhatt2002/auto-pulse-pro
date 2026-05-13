@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-12T21:21:58.496132Z",
+  "updated_at": "2026-05-13T00:06:30.336155Z",
   "stories": [
     {
+      "title": "Kraftwerk's radical 1976 track",
+      "score": 32
+    },
+    {
       "title": "Googlebook",
-      "score": 399
+      "score": 561
+    },
+    {
+      "title": "Restore full BambuNetwork support for Bambu Lab printers",
+      "score": 87
     },
     {
       "title": "How to make your text look futuristic (2016)",
-      "score": 61
+      "score": 177
     },
     {
       "title": "CERT is releasing six CVEs for serious security vulnerabilities in dnsmasq",
-      "score": 153
-    },
-    {
-      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
-      "score": 141
-    },
-    {
-      "title": "Why senior developers fail to communicate their expertise",
-      "score": 241
+      "score": 211
     }
   ]
 }
