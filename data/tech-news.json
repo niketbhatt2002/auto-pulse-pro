@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-13T11:55:26.379957Z",
+  "updated_at": "2026-05-13T13:08:51.128044Z",
   "stories": [
     {
       "title": "I Moved My Digital Stack to Europe",
-      "score": 34
+      "score": 226
     },
     {
-      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "score": 217
+      "title": "Preserving Fisher-Price Pixter",
+      "score": 64
     },
     {
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "score": 96
+      "score": 124
     },
     {
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "score": 486
+      "score": 516
     },
     {
-      "title": "Googlebook",
-      "score": 815
+      "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
+      "score": 231
     }
   ]
 }
