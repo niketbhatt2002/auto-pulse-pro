@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-13T10:17:08.546808Z",
+  "updated_at": "2026-05-13T11:32:56.584008Z",
   "stories": [
     {
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "score": 179
+      "score": 210
     },
     {
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "score": 436
-    },
-    {
-      "title": "The vi family",
-      "score": 174
-    },
-    {
-      "title": "Googlebook",
-      "score": 788
+      "score": 472
     },
     {
       "title": "New stainless steel can survive conditions for hydrogen production in seawater",
-      "score": 51
+      "score": 83
+    },
+    {
+      "title": "Googlebook",
+      "score": 810
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "score": 495
     }
   ]
 }
