@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-13T08:38:06.635064Z",
+  "updated_at": "2026-05-13T09:40:39.606991Z",
   "stories": [
     {
-      "title": "European governments: 3.000 tracking sites, 1.000 phpMyAdmins, and 99% poorly",
-      "score": 84
-    },
-    {
       "title": "Deterministic Fully-Static Whole-Binary Translation Without Heuristics",
-      "score": 147
+      "score": 170
     },
     {
       "title": "Restore full BambuNetwork support for Bambu Lab printers",
-      "score": 401
+      "score": 424
     },
     {
       "title": "The vi family",
-      "score": 142
+      "score": 166
     },
     {
       "title": "Googlebook",
-      "score": 757
+      "score": 778
+    },
+    {
+      "title": "Show HN: Needle: We Distilled Gemini Tool Calling into a 26M Model",
+      "score": 459
     }
   ]
 }
