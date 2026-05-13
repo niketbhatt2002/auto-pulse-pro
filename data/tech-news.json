@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-13T16:23:14.796654Z",
+  "updated_at": "2026-05-13T18:51:03.579757Z",
   "stories": [
     {
       "title": "Setting up a free *.city.state.us locality domain",
-      "score": 146
-    },
-    {
-      "title": "Why I'm leaving GitHub for Forgejo",
-      "score": 326
-    },
-    {
-      "title": "I Moved My Digital Stack to Europe",
-      "score": 606
-    },
-    {
-      "title": "S-100 Virtual Workbench",
-      "score": 13
+      "score": 324
     },
     {
       "title": "Open Source Resistance: keep OSS alive on company time",
-      "score": 28
+      "score": 173
+    },
+    {
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "score": 70
+    },
+    {
+      "title": "Launch HN: Ardent (YC P26) \u2013 Postgres sandboxes in seconds with zero migration",
+      "score": 34
+    },
+    {
+      "title": "Xs of Y \u2013 roguelike that names itself every run. Written in 4kLoC",
+      "score": 83
     }
   ]
 }
