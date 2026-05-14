@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-14T12:23:44.645666Z",
+  "updated_at": "2026-05-14T16:11:03.229271Z",
   "stories": [
     {
+      "title": "Computer Hobby Movement in Canada",
+      "score": 102
+    },
+    {
+      "title": "MIT: 20% drop in incoming graduate students",
+      "score": 241
+    },
+    {
+      "title": "Claude AI recovers an 11 yrs old BTC wallet holding 400k USD",
+      "score": 117
+    },
+    {
+      "title": "Anthropic forms $200M partnership with the Gates Foundation",
+      "score": 36
+    },
+    {
       "title": "Claude for Small Business",
-      "score": 331
-    },
-    {
-      "title": "Show HN: Running the second public ODoH relay",
-      "score": 34
-    },
-    {
-      "title": "Myths about /dev/urandom (2014)",
-      "score": 10
-    },
-    {
-      "title": "The Tree House: A voyage to the source of a backyard dream",
-      "score": 6
-    },
-    {
-      "title": "Scorched Earth 2000 \u2013 Web",
-      "score": 297
+      "score": 449
     }
   ]
 }
