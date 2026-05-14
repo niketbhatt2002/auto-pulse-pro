@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-14T10:09:42.895188Z",
+  "updated_at": "2026-05-14T11:18:41.078427Z",
   "stories": [
     {
       "title": "Claude for Small Business",
-      "score": 256
-    },
-    {
-      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-      "score": 52
+      "score": 291
     },
     {
       "title": "Scorched Earth 2000 \u2013 Web",
-      "score": 261
+      "score": 282
     },
     {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "score": 736
+      "score": 767
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "score": 562
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "score": 78
+    },
+    {
+      "title": "Show HN: Running the second public ODoH relay",
+      "score": 10
     }
   ]
 }
