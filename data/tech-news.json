@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-14T11:18:41.078427Z",
+  "updated_at": "2026-05-14T11:43:49.528345Z",
   "stories": [
     {
       "title": "Claude for Small Business",
-      "score": 291
-    },
-    {
-      "title": "Scorched Earth 2000 \u2013 Web",
-      "score": 282
-    },
-    {
-      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "score": 767
-    },
-    {
-      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
-      "score": 78
+      "score": 302
     },
     {
       "title": "Show HN: Running the second public ODoH relay",
-      "score": 10
+      "score": 21
+    },
+    {
+      "title": "Scorched Earth 2000 \u2013 Web",
+      "score": 290
+    },
+    {
+      "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
+      "score": 780
+    },
+    {
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "score": 89
     }
   ]
 }
