@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-14T18:26:30.880882Z",
+  "updated_at": "2026-05-14T21:12:48.705925Z",
   "stories": [
     {
-      "title": "Removing the Modem and GPS from My 2024 RAV4 Hybrid",
-      "score": 112
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "score": 384
     },
     {
       "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "score": 249
+      "score": 392
+    },
+    {
+      "title": "First public macOS kernel memory corruption exploit on Apple M5",
+      "score": 100
     },
     {
       "title": "New Nginx Exploit",
-      "score": 87
+      "score": 203
     },
     {
-      "title": "Computer Hobby Movement in Canada",
-      "score": 141
-    },
-    {
-      "title": "HDD Firmware Hacking",
-      "score": 32
+      "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
+      "score": 1
     }
   ]
 }
