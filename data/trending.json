@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-14T08:31:40.598648Z",
+  "updated_at": "2026-05-14T09:30:24.931693Z",
   "repos": [
     {
       "name": "vercel-labs/zero-native",
-      "stars": 3364
+      "stars": 3380
     },
     {
       "name": "FULU-Foundation/OrcaSlicer-bambulab",
-      "stars": 3113
+      "stars": 3139
     },
     {
       "name": "huangserva/3DCellForge",
-      "stars": 1908
+      "stars": 1933
     },
     {
       "name": "Nightmare-Eclipse/YellowKey",
-      "stars": 1217
+      "stars": 1273
     },
     {
-      "name": "ywnd1144/Gopay_plus_automatic",
-      "stars": 737
+      "name": "HermannBjorgvin/Clawdmeter",
+      "stars": 745
     }
   ]
 }
