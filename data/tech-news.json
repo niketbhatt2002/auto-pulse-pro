@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-14T00:08:56.818316Z",
+  "updated_at": "2026-05-14T08:31:39.482617Z",
   "stories": [
     {
+      "title": "Scorched Earth 2000 \u2013 Web",
+      "score": 231
+    },
+    {
+      "title": "Claude for Small Business",
+      "score": 201
+    },
+    {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "score": 462
+      "score": 695
     },
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "score": 463
+      "title": "Classic 7 is a Windows 10 LTSC mod to look 1:1 to Windows 7",
+      "score": 10
     },
     {
-      "title": "A History of IDEs at Google",
-      "score": 246
-    },
-    {
-      "title": "Chess puzzle I found in my dad's old book",
-      "score": 58
-    },
-    {
-      "title": "Marco Polo: Finding a friend with only distance and motion",
-      "score": 17
+      "title": "Arena AI Model ELO History",
+      "score": 54
     }
   ]
 }
