@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-13T21:27:29.511492Z",
+  "updated_at": "2026-05-14T00:08:56.818316Z",
   "stories": [
     {
-      "title": "Setting up a free *.city.state.us locality domain (2025)",
-      "score": 404
-    },
-    {
       "title": "Linux gaming is faster because Windows APIs are becoming Linux kernel features",
-      "score": 259
+      "score": 462
     },
     {
-      "title": "In-person examinations at Princeton will be proctored starting July 1",
-      "score": 134
+      "title": "Setting up a free *.city.state.us locality domain (2025)",
+      "score": 463
     },
     {
-      "title": "Rars: a Rust RAR implementation, mostly written by LLMs",
-      "score": 51
+      "title": "A History of IDEs at Google",
+      "score": 246
     },
     {
-      "title": "MacBook Neo Deep Dive: Benchmarks, Wafer Economics, and the 8GB Gamble",
-      "score": 81
+      "title": "Chess puzzle I found in my dad's old book",
+      "score": 58
+    },
+    {
+      "title": "Marco Polo: Finding a friend with only distance and motion",
+      "score": 17
     }
   ]
 }
