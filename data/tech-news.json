@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-15T16:04:56.814836Z",
+  "updated_at": "2026-05-15T18:15:17.885263Z",
   "stories": [
     {
-      "title": "A 0-click exploit chain for the Pixel 10",
-      "score": 109
+      "title": "Project Gutenberg \u2013 keeps getting better",
+      "score": 263
     },
     {
-      "title": "ASCII by Jason Scott",
-      "score": 49
+      "title": "A 0-click exploit chain for the Pixel 10",
+      "score": 212
+    },
+    {
+      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
+      "score": 18
+    },
+    {
+      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
+      "score": 40
     },
     {
       "title": "O(x)Caml in Space",
-      "score": 171
-    },
-    {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "score": 336
-    },
-    {
-      "title": "High dimensional geometry is transforming the MRI industry(2017) [pdf]",
-      "score": 39
+      "score": 197
     }
   ]
 }
