@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-15T10:15:11.801748Z",
+  "updated_at": "2026-05-15T11:24:42.150988Z",
   "stories": [
     {
-      "title": "RelaxAI \u2013 UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
-      "score": 20
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "score": 133
     },
     {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "score": 39
+      "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
+      "score": 69
+    },
+    {
+      "title": "O(x)Caml in Space",
+      "score": 10
+    },
+    {
+      "title": "UK sovereign LLM inference",
+      "score": 74
     },
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 875
-    },
-    {
-      "title": "Building ML framework with Rust and Category Theory",
-      "score": 34
-    },
-    {
-      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
-      "score": 28
+      "score": 901
     }
   ]
 }
