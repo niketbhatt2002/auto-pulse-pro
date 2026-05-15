@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-15T18:15:17.885263Z",
+  "updated_at": "2026-05-15T21:04:55.337624Z",
   "stories": [
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 263
+      "score": 516
+    },
+    {
+      "title": "WinCE64 \u2013 Windows CE 2.11 for N64",
+      "score": 67
+    },
+    {
+      "title": "The Zulip Foundation",
+      "score": 73
     },
     {
       "title": "A 0-click exploit chain for the Pixel 10",
-      "score": 212
+      "score": 277
     },
     {
-      "title": "I designed a nibble-oriented CPU in Verilog to build a scientific calculator",
-      "score": 18
-    },
-    {
-      "title": "Image-blaster: Creates 3D environments, SFX, and meshes from a single image",
-      "score": 40
-    },
-    {
-      "title": "O(x)Caml in Space",
-      "score": 197
+      "title": "Mitchellh \u2013 I strongly believe there are entire companies now under AI psychosis",
+      "score": 58
     }
   ]
 }
