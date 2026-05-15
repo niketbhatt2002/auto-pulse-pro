@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-15T11:47:27.211528Z",
+  "updated_at": "2026-05-15T12:51:45.436108Z",
   "stories": [
     {
       "title": "O(x)Caml in Space",
-      "score": 31
-    },
-    {
-      "title": "Explore Wikipedia Like a Windows XP Desktop",
-      "score": 170
+      "score": 87
     },
     {
       "title": "Show HN: Find the best local LLM for your hardware, ranked by benchmarks",
-      "score": 100
+      "score": 174
+    },
+    {
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "score": 220
     },
     {
       "title": "Steve Jobs Next Computer: His Forgotten Exile Years",
-      "score": 20
+      "score": 48
     },
     {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 909
+      "title": "Welcome to the Strip Mining Era of OSS Security",
+      "score": 25
     }
   ]
 }
