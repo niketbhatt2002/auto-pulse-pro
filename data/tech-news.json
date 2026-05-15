@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-15T09:43:10.022205Z",
+  "updated_at": "2026-05-15T10:15:11.801748Z",
   "stories": [
     {
-      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 863
+      "title": "RelaxAI \u2013 UK sovereign LLM inference at 80% cheaper than OpenAI/Claude",
+      "score": 20
     },
     {
-      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
-      "score": 19
+      "title": "Explore Wikipedia Like a Windows XP Desktop",
+      "score": 39
+    },
+    {
+      "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
+      "score": 875
     },
     {
       "title": "Building ML framework with Rust and Category Theory",
-      "score": 21
+      "score": 34
     },
     {
-      "title": "A few words on DS4",
-      "score": 307
-    },
-    {
-      "title": "Details of the Daring Airdrop at Tristan Da Cunha",
-      "score": 130
+      "title": "Show HN: GlycemicGPT \u2013 Open-source AI-powered diabetes management",
+      "score": 28
     }
   ]
 }
