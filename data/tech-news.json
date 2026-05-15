@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-14T21:12:48.705925Z",
+  "updated_at": "2026-05-15T00:02:01.006094Z",
   "stories": [
     {
       "title": "Removing the modem and GPS from my 2024 RAV4 hybrid",
-      "score": 384
+      "score": 530
     },
     {
-      "title": "RTX 5090 and M4 MacBook Air: Can It Game?",
-      "score": 392
+      "title": "More than half of U.S. faces worst drought in decades",
+      "score": 41
+    },
+    {
+      "title": "Amazonbot is finally respecting robots.txt",
+      "score": 115
     },
     {
       "title": "First public macOS kernel memory corruption exploit on Apple M5",
-      "score": 100
+      "score": 211
     },
     {
-      "title": "New Nginx Exploit",
-      "score": 203
-    },
-    {
-      "title": "Infracost (YC W21) Is Hiring Sr Dev Advocate to make agents cloud cost-aware",
-      "score": 1
+      "title": "A few words on DS4",
+      "score": 61
     }
   ]
 }
