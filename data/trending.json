@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-15T11:24:43.698493Z",
+  "updated_at": "2026-05-15T11:47:28.586419Z",
   "repos": [
     {
       "name": "FULU-Foundation/OrcaSlicer-bambulab",
-      "stars": 4422
+      "stars": 4432
     },
     {
       "name": "huangserva/3DCellForge",
-      "stars": 2041
+      "stars": 2043
     },
     {
       "name": "Nightmare-Eclipse/YellowKey",
-      "stars": 1913
+      "stars": 1933
     },
     {
       "name": "nexu-io/html-anything",
-      "stars": 1672
+      "stars": 1682
     },
     {
       "name": "HermannBjorgvin/Clawdmeter",
-      "stars": 933
+      "stars": 935
     }
   ]
 }
