@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T09:24:57.623386Z",
+  "updated_at": "2026-05-16T10:20:21.534387Z",
   "stories": [
     {
-      "title": "Frontier AI has broken the open CTF format",
-      "score": 100
+      "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
+      "score": 11
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 926
+      "score": 948
     },
     {
-      "title": "SQL patterns I use to catch transaction fraud",
-      "score": 202
+      "title": "Setting up an AI-native organization",
+      "score": 3
+    },
+    {
+      "title": "Frontier AI has broken the open CTF format",
+      "score": 138
     },
     {
       "title": "Ploopy Bean: a trackpoint for every computer",
-      "score": 93
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "score": 1325
+      "score": 96
     }
   ]
 }
