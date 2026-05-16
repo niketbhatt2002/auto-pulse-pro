@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T11:47:47.807722Z",
+  "updated_at": "2026-05-16T15:00:31.764995Z",
   "stories": [
     {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "score": 90
+    },
+    {
+      "title": "Accelerando (2005)",
+      "score": 104
+    },
+    {
       "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
-      "score": 51
+      "score": 125
     },
     {
-      "title": "Futhark by Example",
-      "score": 31
+      "title": "Accelerate",
+      "score": 17
     },
     {
-      "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 974
-    },
-    {
-      "title": "Frontier AI has broken the open CTF format",
-      "score": 164
-    },
-    {
-      "title": "I believe there are entire companies right now under AI psychosis",
-      "score": 1444
+      "title": "My Favorite Bugs: Invalid Surrogate Pairs",
+      "score": 20
     }
   ]
 }
