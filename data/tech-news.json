@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T10:20:21.534387Z",
+  "updated_at": "2026-05-16T10:54:40.287801Z",
   "stories": [
     {
       "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
-      "score": 11
+      "score": 30
+    },
+    {
+      "title": "Futhark by Example",
+      "score": 15
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 948
-    },
-    {
-      "title": "Setting up an AI-native organization",
-      "score": 3
+      "score": 960
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "score": 138
+      "score": 151
     },
     {
-      "title": "Ploopy Bean: a trackpoint for every computer",
-      "score": 96
+      "title": "We've made the world too complicated",
+      "score": 13
     }
   ]
 }
