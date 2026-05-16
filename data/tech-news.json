@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T20:52:52.100619Z",
+  "updated_at": "2026-05-16T23:59:06.714228Z",
   "stories": [
     {
+      "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
+      "score": 75
+    },
+    {
+      "title": "MCP Hello Page",
+      "score": 35
+    },
+    {
       "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "score": 70
+      "score": 105
     },
     {
       "title": "Windows 9x Subsystem for Linux",
-      "score": 136
+      "score": 212
     },
     {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "score": 261
-    },
-    {
-      "title": "Accelerando (2005)",
-      "score": 201
-    },
-    {
-      "title": "Technofascism",
-      "score": 88
+      "title": "A molecule with half-M\u00f6bius topology",
+      "score": 53
     }
   ]
 }
