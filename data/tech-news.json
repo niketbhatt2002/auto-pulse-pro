@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T08:45:57.091114Z",
+  "updated_at": "2026-05-16T09:24:57.623386Z",
   "stories": [
     {
       "title": "Frontier AI has broken the open CTF format",
-      "score": 72
+      "score": 100
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 911
+      "score": 926
     },
     {
       "title": "SQL patterns I use to catch transaction fraud",
-      "score": 179
+      "score": 202
     },
     {
       "title": "Ploopy Bean: a trackpoint for every computer",
-      "score": 89
+      "score": 93
     },
     {
       "title": "I believe there are entire companies right now under AI psychosis",
-      "score": 1285
+      "score": 1325
     }
   ]
 }
