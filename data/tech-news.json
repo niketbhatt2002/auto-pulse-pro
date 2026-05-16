@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T10:54:40.287801Z",
+  "updated_at": "2026-05-16T11:47:47.807722Z",
   "stories": [
     {
       "title": "\u0394-Mem: Efficient Online Memory for Large Language Models",
-      "score": 30
+      "score": 51
     },
     {
       "title": "Futhark by Example",
-      "score": 15
+      "score": 31
     },
     {
       "title": "Project Gutenberg \u2013 keeps getting better",
-      "score": 960
+      "score": 974
     },
     {
       "title": "Frontier AI has broken the open CTF format",
-      "score": 151
+      "score": 164
     },
     {
-      "title": "We've made the world too complicated",
-      "score": 13
+      "title": "I believe there are entire companies right now under AI psychosis",
+      "score": 1444
     }
   ]
 }
