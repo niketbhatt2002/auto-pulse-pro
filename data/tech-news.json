@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T17:44:04.678213Z",
+  "updated_at": "2026-05-16T20:52:52.100619Z",
   "stories": [
     {
-      "title": "You don't know HTML Lists",
-      "score": 72
-    },
-    {
-      "title": "How an Australian Teen Team Is Making Radio Astronomy Affordable for Schools",
-      "score": 66
-    },
-    {
-      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
-      "score": 191
-    },
-    {
-      "title": "Moving away from Tailwind, and learning to structure my CSS",
-      "score": 234
+      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
+      "score": 70
     },
     {
       "title": "Windows 9x Subsystem for Linux",
-      "score": 30
+      "score": 136
+    },
+    {
+      "title": "SANA-WM, a 2.6B open-source world model for 1-minute 720p video",
+      "score": 261
+    },
+    {
+      "title": "Accelerando (2005)",
+      "score": 201
+    },
+    {
+      "title": "Technofascism",
+      "score": 88
     }
   ]
 }
