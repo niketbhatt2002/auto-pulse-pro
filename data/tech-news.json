@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-17T09:01:26.892160Z",
+  "updated_at": "2026-05-17T09:29:34.995641Z",
   "stories": [
     {
       "title": "Playing Atari ST Music on the Amiga with Zero CPU",
-      "score": 13
+      "score": 28
     },
     {
       "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "score": 377
+      "score": 384
     },
     {
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "score": 143
+      "score": 160
     },
     {
       "title": "Colossus: The Forbin Project",
-      "score": 96
+      "score": 98
     },
     {
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "score": 122
+      "title": "A nicer voltmeter clock",
+      "score": 174
     }
   ]
 }
