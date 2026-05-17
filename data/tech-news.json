@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-17T10:58:41.254018Z",
+  "updated_at": "2026-05-17T11:58:48.677561Z",
   "stories": [
     {
       "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "score": 411
+      "score": 435
+    },
+    {
+      "title": "Klaxon a livr earthquake map with no back end",
+      "score": 4
     },
     {
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "score": 236
+      "score": 298
     },
     {
       "title": "A nicer voltmeter clock",
-      "score": 200
+      "score": 215
     },
     {
-      "title": "Hosting a website on an 8-bit microcontroller",
-      "score": 140
-    },
-    {
-      "title": "Colossus: The Forbin Project",
-      "score": 110
+      "title": "Prolog Basics Explained with Pok\u00e9mon",
+      "score": 28
     }
   ]
 }
