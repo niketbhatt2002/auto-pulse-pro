@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-16T23:59:06.714228Z",
+  "updated_at": "2026-05-17T08:14:05.412057Z",
   "stories": [
     {
       "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "score": 75
+      "score": 351
     },
     {
-      "title": "MCP Hello Page",
-      "score": 35
+      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
+      "score": 94
     },
     {
-      "title": "Kioxia and Dell cram 10 PB into slim 2RU server",
-      "score": 105
+      "title": "Colossus: The Forbin Project",
+      "score": 89
     },
     {
-      "title": "Windows 9x Subsystem for Linux",
-      "score": 212
+      "title": "Hosting a website on an 8-bit microcontroller",
+      "score": 111
     },
     {
-      "title": "A molecule with half-M\u00f6bius topology",
-      "score": 53
+      "title": "A nicer voltmeter clock",
+      "score": 157
     }
   ]
 }
