@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-17T10:25:06.795963Z",
+  "updated_at": "2026-05-17T10:58:41.254018Z",
   "stories": [
     {
       "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "score": 402
+      "score": 411
     },
     {
       "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "score": 210
+      "score": 236
     },
     {
       "title": "A nicer voltmeter clock",
-      "score": 189
-    },
-    {
-      "title": "Colossus: The Forbin Project",
-      "score": 105
+      "score": 200
     },
     {
       "title": "Hosting a website on an 8-bit microcontroller",
-      "score": 132
+      "score": 140
+    },
+    {
+      "title": "Colossus: The Forbin Project",
+      "score": 110
     }
   ]
 }

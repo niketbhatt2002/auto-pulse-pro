@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-17T10:25:07.805844Z",
+  "updated_at": "2026-05-17T10:58:42.229117Z",
   "repos": [
     {
       "name": "FULU-Foundation/OrcaSlicer-bambulab",
-      "stars": 5511
+      "stars": 5521
     },
     {
       "name": "Nightmare-Eclipse/YellowKey",
-      "stars": 2964
+      "stars": 2970
     },
     {
       "name": "nexu-io/html-anything",
-      "stars": 2634
+      "stars": 2636
     },
     {
       "name": "vercel-labs/zero",
-      "stars": 1272
+      "stars": 1295
     },
     {
       "name": "yetone/native-feel-skill",
-      "stars": 1252
+      "stars": 1254
     }
   ]
 }
