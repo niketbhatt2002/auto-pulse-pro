@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-17T11:58:48.677561Z",
+  "updated_at": "2026-05-17T15:00:40.433959Z",
   "stories": [
     {
-      "title": "Zerostack \u2013 A Unix-inspired coding agent written in pure Rust",
-      "score": 435
+      "title": "I don't think AI will make your processes go faster",
+      "score": 158
     },
     {
-      "title": "Klaxon a livr earthquake map with no back end",
-      "score": 4
+      "title": "Native all the way, until you need text",
+      "score": 196
     },
     {
-      "title": "Mozilla to UK regulators: VPNs are essential privacy and security tools",
-      "score": 298
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "score": 16
     },
     {
-      "title": "A nicer voltmeter clock",
-      "score": 215
+      "title": "Security researcher says Microsoft built a Bitlocker backdoor, releases exploit",
+      "score": 88
     },
     {
-      "title": "Prolog Basics Explained with Pok\u00e9mon",
-      "score": 28
+      "title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
+      "score": 122
     }
   ]
 }
