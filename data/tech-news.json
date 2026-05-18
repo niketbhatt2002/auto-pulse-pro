@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T11:03:44.430268Z",
+  "updated_at": "2026-05-18T11:39:49.425505Z",
   "stories": [
     {
       "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "score": 33
-    },
-    {
-      "title": "Where Are the Vibecoded Photoshops?",
-      "score": 90
+      "score": 43
     },
     {
       "title": "GenCAD",
-      "score": 340
-    },
-    {
-      "title": "Multiple commencement speakers booed for AI comments during graduation speeches",
-      "score": 60
+      "score": 350
     },
     {
       "title": "Crystals found inside wreckage from the first nuclear bomb test",
-      "score": 91
+      "score": 96
+    },
+    {
+      "title": "It is time to give up the dualism introduced by the debate on consciousness",
+      "score": 115
+    },
+    {
+      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
+      "score": 382
     }
   ]
 }
