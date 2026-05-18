@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T16:49:00.724924Z",
+  "updated_at": "2026-05-18T18:25:42.799188Z",
   "stories": [
     {
+      "title": "Anthropic Acquires Stainless",
+      "score": 128
+    },
+    {
       "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-      "score": 137
+      "score": 253
     },
     {
       "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
-      "score": 274
+      "score": 350
+    },
+    {
+      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
+      "score": 180
     },
     {
       "title": "The Quiet Renovation at Bitwarden",
-      "score": 151
-    },
-    {
-      "title": "Project Glasswing: what Mythos showed us",
-      "score": 106
-    },
-    {
-      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
-      "score": 73
+      "score": 275
     }
   ]
 }
