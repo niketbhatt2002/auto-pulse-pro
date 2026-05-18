@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T12:59:41.257438Z",
+  "updated_at": "2026-05-18T14:28:31.523779Z",
   "stories": [
     {
       "title": "I automated opt-outs for 500 data broker sites (open source)",
-      "score": 108
+      "score": 265
+    },
+    {
+      "title": "Show HN: Files.md \u2013 open-source alternative to Obsidian",
+      "score": 46
+    },
+    {
+      "title": "AI eats the world (Spring 26) [pdf]",
+      "score": 84
     },
     {
       "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "score": 57
+      "score": 74
     },
     {
-      "title": "Dogme 25 \u2013 Vow of Chastity",
-      "score": 25
-    },
-    {
-      "title": "GenCAD",
-      "score": 369
-    },
-    {
-      "title": "Eric Schmidt speech about AI booed during graduation",
-      "score": 155
+      "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
+      "score": 46
     }
   ]
 }
