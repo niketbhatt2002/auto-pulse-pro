@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T14:28:31.523779Z",
+  "updated_at": "2026-05-18T16:49:00.724924Z",
   "stories": [
     {
-      "title": "I automated opt-outs for 500 data broker sites (open source)",
-      "score": 265
+      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
+      "score": 137
     },
     {
-      "title": "Show HN: Files.md \u2013 open-source alternative to Obsidian",
-      "score": 46
+      "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
+      "score": 274
     },
     {
-      "title": "AI eats the world (Spring 26) [pdf]",
-      "score": 84
+      "title": "The Quiet Renovation at Bitwarden",
+      "score": 151
     },
     {
-      "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "score": 74
+      "title": "Project Glasswing: what Mythos showed us",
+      "score": 106
     },
     {
-      "title": "Porting my 3D points renderer on a ZX Spectrum 48K",
-      "score": 46
+      "title": "1024000^2 Blocks, 2B2T Minecraft Server World Download Project, and Discoveries",
+      "score": 73
     }
   ]
 }
