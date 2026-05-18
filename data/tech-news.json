@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T12:38:19.481908Z",
+  "updated_at": "2026-05-18T12:59:41.257438Z",
   "stories": [
     {
       "title": "I automated opt-outs for 500 data broker sites (open source)",
-      "score": 74
+      "score": 108
     },
     {
       "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "score": 52
-    },
-    {
-      "title": "Eric Schmidt speech about AI booed during graduation",
-      "score": 96
+      "score": 57
     },
     {
       "title": "Dogme 25 \u2013 Vow of Chastity",
-      "score": 16
+      "score": 25
     },
     {
       "title": "GenCAD",
-      "score": 364
+      "score": 369
+    },
+    {
+      "title": "Eric Schmidt speech about AI booed during graduation",
+      "score": 155
     }
   ]
 }
