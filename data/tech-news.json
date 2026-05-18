@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T11:39:49.425505Z",
+  "updated_at": "2026-05-18T12:38:19.481908Z",
   "stories": [
     {
+      "title": "I automated opt-outs for 500 data broker sites (open source)",
+      "score": 74
+    },
+    {
       "title": "The foundations of a provably secure operating system (PSOS) (1979) [pdf]",
-      "score": 43
+      "score": 52
     },
     {
-      "title": "GenCAD",
-      "score": 350
-    },
-    {
-      "title": "Crystals found inside wreckage from the first nuclear bomb test",
+      "title": "Eric Schmidt speech about AI booed during graduation",
       "score": 96
     },
     {
-      "title": "It is time to give up the dualism introduced by the debate on consciousness",
-      "score": 115
+      "title": "Dogme 25 \u2013 Vow of Chastity",
+      "score": 16
     },
     {
-      "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "score": 382
+      "title": "GenCAD",
+      "score": 364
     }
   ]
 }
