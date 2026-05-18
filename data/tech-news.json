@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T18:25:42.799188Z",
+  "updated_at": "2026-05-18T21:14:45.525298Z",
   "stories": [
     {
-      "title": "Anthropic Acquires Stainless",
-      "score": 128
+      "title": "No More JetBrains Products for Me",
+      "score": 47
+    },
+    {
+      "title": "Anthropic acquires Stainless",
+      "score": 254
+    },
+    {
+      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
+      "score": 61
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-      "score": 253
+      "score": 334
     },
     {
-      "title": "Show HN: Files.md \u2013 Open-source alternative to Obsidian",
-      "score": 350
-    },
-    {
-      "title": "Elon Musk has lost his lawsuit against Sam Altman and OpenAI",
-      "score": 180
-    },
-    {
-      "title": "The Quiet Renovation at Bitwarden",
-      "score": 275
+      "title": "We let AIs run radio stations",
+      "score": 67
     }
   ]
 }
