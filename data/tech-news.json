@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-17T20:56:49.553400Z",
+  "updated_at": "2026-05-18T00:02:45.709923Z",
   "stories": [
     {
-      "title": "Mercurial, 20 years and counting: how are we still alive and kicking? [video]",
-      "score": 99
+      "title": "GenCAD",
+      "score": 36
+    },
+    {
+      "title": "Prolog Coding Horror",
+      "score": 45
+    },
+    {
+      "title": "ThinkPad: From IBM's Bento Box to Lenovo's AI Workstations",
+      "score": 24
+    },
+    {
+      "title": "Fabricked: Misconfiguring Infinity Fabric to Break AMD SEV-SNP",
+      "score": 14
     },
     {
       "title": "I turned a $80 RK3562 Android tablet into a Debian Linux workstation",
-      "score": 186
-    },
-    {
-      "title": "Multi-Species Canopy Latrines in Costa Rican Cloud Forests",
-      "score": 7
-    },
-    {
-      "title": "The occasional ECONNRESET",
-      "score": 66
-    },
-    {
-      "title": "Magical Realism: \u201cNorthern Exposure\u201d 25 Years Later (2015)",
-      "score": 14
+      "score": 223
     }
   ]
 }
