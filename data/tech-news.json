@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T16:50:57.197262Z",
+  "updated_at": "2026-05-19T18:29:42.362555Z",
   "stories": [
     {
-      "title": "I've built a virtual museum with nearly every operating system you can think of",
-      "score": 96
+      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
+      "score": 270
     },
     {
       "title": "Apple unveils new accessibility features",
-      "score": 354
+      "score": 432
     },
     {
       "title": "I\u2019ve joined Anthropic",
-      "score": 471
-    },
-    {
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-      "score": 35
+      "score": 754
     },
     {
       "title": "Gaussian Splat of a Strawberry",
-      "score": 342
+      "score": 383
+    },
+    {
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "score": 59
     }
   ]
 }
