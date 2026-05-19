@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-18T21:14:45.525298Z",
+  "updated_at": "2026-05-19T00:14:03.678026Z",
   "stories": [
     {
-      "title": "No More JetBrains Products for Me",
-      "score": 47
+      "title": "Click",
+      "score": 92
+    },
+    {
+      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
+      "score": 25
     },
     {
       "title": "Anthropic acquires Stainless",
-      "score": 254
+      "score": 342
     },
     {
       "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "score": 61
+      "score": 116
     },
     {
       "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-      "score": 334
-    },
-    {
-      "title": "We let AIs run radio stations",
-      "score": 67
+      "score": 388
     }
   ]
 }
