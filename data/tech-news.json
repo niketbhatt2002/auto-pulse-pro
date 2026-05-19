@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T12:33:42.162610Z",
+  "updated_at": "2026-05-19T13:54:12.257138Z",
   "stories": [
     {
-      "title": "Gaussian Splat of a Strawberry",
-      "score": 148
-    },
-    {
       "title": "New accessibility features powered by Apple Intelligence",
-      "score": 41
+      "score": 159
     },
     {
-      "title": "Photo GIMP \u2013 A Patch for GIMP 3 for Photoshop Users",
-      "score": 65
+      "title": "OpenBSD 7.9 Released",
+      "score": 44
+    },
+    {
+      "title": "Gaussian Splat of a Strawberry",
+      "score": 219
     },
     {
       "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-      "score": 111
+      "score": 144
     },
     {
-      "title": "Show HN: Id-agent \u2013 Token efficient UUID alternative for AI agents",
-      "score": 18
+      "title": "Nim-Presto \u2013 REST API Framework for Nim Language",
+      "score": 22
     }
   ]
 }
