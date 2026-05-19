@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T10:57:22.618292Z",
+  "updated_at": "2026-05-19T12:14:52.260061Z",
   "stories": [
     {
+      "title": "Gaussian Splat of a Strawberry",
+      "score": 113
+    },
+    {
+      "title": "Photo GIMP \u2013 A Patch for GIMP 3 for Photoshop Users",
+      "score": 53
+    },
+    {
       "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-      "score": 69
+      "score": 106
     },
     {
-      "title": "Polypad",
-      "score": 79
+      "title": "New accessibility features powered by Apple Intelligence",
+      "score": 12
     },
     {
-      "title": "Peter Neumann has died",
-      "score": 132
-    },
-    {
-      "title": "The last six months in LLMs in five minutes",
-      "score": 474
-    },
-    {
-      "title": "Click (2016)",
-      "score": 312
+      "title": "Show HN: Id-agent \u2013 Token efficient UUID alternative for AI agents",
+      "score": 12
     }
   ]
 }
