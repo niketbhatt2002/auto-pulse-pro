@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T00:14:03.678026Z",
+  "updated_at": "2026-05-19T09:33:34.324997Z",
   "stories": [
     {
-      "title": "Click",
-      "score": 92
+      "title": "The last six months in LLMs in five minutes",
+      "score": 420
     },
     {
-      "title": "Anthropic co-founder to present AI encyclical alongside Pope Leo XIV",
-      "score": 25
+      "title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
+      "score": 91
     },
     {
-      "title": "Anthropic acquires Stainless",
-      "score": 342
+      "title": "Peter Neumann has died",
+      "score": 96
     },
     {
-      "title": "Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp",
-      "score": 116
+      "title": "Click (2016)",
+      "score": 298
     },
     {
-      "title": "We stopped AI bot spam in our GitHub repo using Git's \u2013author flag",
-      "score": 388
+      "title": "Mini Shai-Hulud Strikes Again: 314 npm Packages Compromised",
+      "score": 83
     }
   ]
 }
