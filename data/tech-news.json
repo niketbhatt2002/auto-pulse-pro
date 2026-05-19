@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T13:54:12.257138Z",
+  "updated_at": "2026-05-19T16:50:57.197262Z",
   "stories": [
     {
-      "title": "New accessibility features powered by Apple Intelligence",
-      "score": 159
+      "title": "I've built a virtual museum with nearly every operating system you can think of",
+      "score": 96
     },
     {
-      "title": "OpenBSD 7.9 Released",
-      "score": 44
+      "title": "Apple unveils new accessibility features",
+      "score": 354
+    },
+    {
+      "title": "I\u2019ve joined Anthropic",
+      "score": 471
+    },
+    {
+      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
+      "score": 35
     },
     {
       "title": "Gaussian Splat of a Strawberry",
-      "score": 219
-    },
-    {
-      "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-      "score": 144
-    },
-    {
-      "title": "Nim-Presto \u2013 REST API Framework for Nim Language",
-      "score": 22
+      "score": 342
     }
   ]
 }

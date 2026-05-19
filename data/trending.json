@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-19T13:54:13.580237Z",
+  "updated_at": "2026-05-19T16:50:58.616989Z",
   "repos": [
     {
       "name": "vercel-labs/zero",
-      "stars": 2652
+      "stars": 2833
     },
     {
       "name": "yetone/native-feel-skill",
@@ -11,15 +11,15 @@
     },
     {
       "name": "facebookresearch/vggt-omega",
-      "stars": 1150
+      "stars": 1182
     },
     {
       "name": "DenisSergeevitch/agents-best-practices",
-      "stars": 835
+      "stars": 839
     },
     {
-      "name": "DuskMosquito/Lossless-Scaling-Desktop-2026",
-      "stars": 778
+      "name": "Kappaemme-git/codex-complexity-optimizer",
+      "stars": 781
     }
   ]
 }
