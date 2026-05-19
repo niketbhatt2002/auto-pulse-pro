@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T18:29:42.362555Z",
+  "updated_at": "2026-05-19T21:22:00.096208Z",
   "stories": [
     {
+      "title": "Gemini 3.5 Flash",
+      "score": 328
+    },
+    {
+      "title": "Google changes its search box",
+      "score": 190
+    },
+    {
       "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "score": 270
+      "score": 444
     },
     {
-      "title": "Apple unveils new accessibility features",
-      "score": 432
+      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
+      "score": 72
     },
     {
-      "title": "I\u2019ve joined Anthropic",
-      "score": 754
-    },
-    {
-      "title": "Gaussian Splat of a Strawberry",
-      "score": 383
-    },
-    {
-      "title": "Gentoo News: Copy Fail, Dirty Frag, and Fragnesia Kernel Vulnerabilities",
-      "score": 59
+      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
+      "score": 78
     }
   ]
 }
