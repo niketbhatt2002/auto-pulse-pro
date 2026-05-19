@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T10:35:13.864418Z",
+  "updated_at": "2026-05-19T10:57:22.618292Z",
   "stories": [
     {
       "title": "I Found Ultra-Pure Quantum Crystals in an Abandoned Mine in the Atacama Desert",
-      "score": 50
+      "score": 69
     },
     {
-      "title": "The last six months in LLMs in five minutes",
-      "score": 464
+      "title": "Polypad",
+      "score": 79
     },
     {
       "title": "Peter Neumann has died",
-      "score": 123
+      "score": 132
+    },
+    {
+      "title": "The last six months in LLMs in five minutes",
+      "score": 474
     },
     {
       "title": "Click (2016)",
-      "score": 310
-    },
-    {
-      "title": "Kv4p HT \u2013 A homebrew 1W radio (VHF or UHF) that plugs into an Android phone",
-      "score": 96
+      "score": 312
     }
   ]
 }
