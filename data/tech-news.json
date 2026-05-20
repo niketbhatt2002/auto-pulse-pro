@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T19:10:39.517796Z",
+  "updated_at": "2026-05-20T21:57:59.546750Z",
   "stories": [
     {
-      "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
-      "score": 241
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "score": 456
     },
     {
-      "title": "How fast is N tokens per second really?",
-      "score": 115
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "score": 293
     },
     {
-      "title": "Qwen3.7-Max: The Agent Frontier",
-      "score": 471
+      "title": "Google Declaring War on the Web",
+      "score": 23
     },
     {
-      "title": "SBCL: the ultimate assembly code breadboard (2014)",
-      "score": 74
+      "title": "Flipper One Tech Specs",
+      "score": 141
     },
     {
-      "title": "Saying Goodbye to Asm.js",
-      "score": 224
+      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
+      "score": 69
     }
   ]
 }

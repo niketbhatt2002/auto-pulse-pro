@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-05-20T19:10:41.002968Z",
+  "updated_at": "2026-05-20T21:58:00.873824Z",
   "repos": [
     {
       "name": "vercel-labs/zerolang",
-      "stars": 3925
+      "stars": 3950
     },
     {
       "name": "yetone/native-feel-skill",
@@ -11,15 +11,15 @@
     },
     {
       "name": "facebookresearch/vggt-omega",
-      "stars": 1336
+      "stars": 1342
     },
     {
       "name": "FoundZiGu/GuJumpgate",
-      "stars": 915
+      "stars": 920
     },
     {
       "name": "DenisSergeevitch/agents-best-practices",
-      "stars": 895
+      "stars": 900
     }
   ]
 }
