@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-19T21:22:00.096208Z",
+  "updated_at": "2026-05-20T00:13:10.842030Z",
   "stories": [
     {
       "title": "Gemini 3.5 Flash",
-      "score": 328
-    },
-    {
-      "title": "Google changes its search box",
-      "score": 190
+      "score": 497
     },
     {
       "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "score": 444
+      "score": 543
+    },
+    {
+      "title": "Google changes its search box",
+      "score": 329
     },
     {
       "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "score": 72
+      "score": 158
     },
     {
-      "title": "Mistral AI Acquires Emmi AI to Create the Leading AI Stack",
-      "score": 78
+      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
+      "score": 209
     }
   ]
 }
