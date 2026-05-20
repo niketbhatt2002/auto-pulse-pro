@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T10:44:55.640505Z",
+  "updated_at": "2026-05-20T11:51:44.587779Z",
   "stories": [
     {
-      "title": "Everything in C is undefined behavior",
-      "score": 200
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "score": 63
     },
     {
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "score": 14
+      "title": "Everything in C is undefined behavior",
+      "score": 255
+    },
+    {
+      "title": "Map of Metal",
+      "score": 23
     },
     {
       "title": "Gemini 3.5 Flash",
-      "score": 807
+      "score": 831
     },
     {
       "title": "FiveThirtyEight articles on the Internet Archive",
-      "score": 209
-    },
-    {
-      "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "score": 791
+      "score": 231
     }
   ]
 }
