@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T16:56:30.111632Z",
+  "updated_at": "2026-05-20T19:10:39.517796Z",
   "stories": [
     {
-      "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
-      "score": 654
+      "title": "Incident Report: May 19, 2026 \u2013 GCP Account Suspension",
+      "score": 241
     },
     {
-      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-      "score": 656
+      "title": "How fast is N tokens per second really?",
+      "score": 115
     },
     {
       "title": "Qwen3.7-Max: The Agent Frontier",
-      "score": 363
+      "score": 471
+    },
+    {
+      "title": "SBCL: the ultimate assembly code breadboard (2014)",
+      "score": 74
     },
     {
       "title": "Saying Goodbye to Asm.js",
-      "score": 172
-    },
-    {
-      "title": "SBCL: The Assembly Code Breadboard (2014)",
-      "score": 29
+      "score": 224
     }
   ]
 }
