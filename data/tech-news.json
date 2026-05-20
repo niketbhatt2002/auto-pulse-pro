@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T08:58:45.599493Z",
+  "updated_at": "2026-05-20T10:22:21.359758Z",
   "stories": [
     {
-      "title": "FiveThirtyEight articles on the Internet Archive",
-      "score": 181
+      "title": "Everything in C is undefined behavior",
+      "score": 189
     },
     {
       "title": "Gemini 3.5 Flash",
-      "score": 762
+      "score": 797
+    },
+    {
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "score": 206
+    },
+    {
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "score": 4
     },
     {
       "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "score": 754
-    },
-    {
-      "title": "Everything in C is undefined behavior",
-      "score": 150
-    },
-    {
-      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
-      "score": 41
+      "score": 783
     }
   ]
 }
