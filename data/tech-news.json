@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T13:36:34.512071Z",
+  "updated_at": "2026-05-20T16:56:30.111632Z",
   "stories": [
     {
       "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
-      "score": 121
+      "score": 654
     },
     {
       "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
-      "score": 63
-    },
-    {
-      "title": "Map of Metal",
-      "score": 149
-    },
-    {
-      "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
-      "score": 15
+      "score": 656
     },
     {
       "title": "Qwen3.7-Max: The Agent Frontier",
-      "score": 125
+      "score": 363
+    },
+    {
+      "title": "Saying Goodbye to Asm.js",
+      "score": 172
+    },
+    {
+      "title": "SBCL: The Assembly Code Breadboard (2014)",
+      "score": 29
     }
   ]
 }
