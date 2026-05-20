@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T11:51:44.587779Z",
+  "updated_at": "2026-05-20T12:15:06.448877Z",
   "stories": [
     {
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "score": 63
-    },
-    {
       "title": "Everything in C is undefined behavior",
-      "score": 255
+      "score": 274
     },
     {
       "title": "Map of Metal",
-      "score": 23
+      "score": 44
+    },
+    {
+      "title": "Learnings from 100K lines of Rust with AI (2025)",
+      "score": 73
     },
     {
       "title": "Gemini 3.5 Flash",
-      "score": 831
+      "score": 838
     },
     {
-      "title": "FiveThirtyEight articles on the Internet Archive",
-      "score": 231
+      "title": "The weird, wild story of humanity's obsession with gold",
+      "score": 27
     }
   ]
 }
