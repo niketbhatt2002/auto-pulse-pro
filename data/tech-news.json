@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T00:13:10.842030Z",
+  "updated_at": "2026-05-20T08:58:45.599493Z",
   "stories": [
     {
+      "title": "FiveThirtyEight articles on the Internet Archive",
+      "score": 181
+    },
+    {
       "title": "Gemini 3.5 Flash",
-      "score": 497
+      "score": 762
     },
     {
       "title": "I\u2019ve built a virtual museum with nearly every operating system you can think of",
-      "score": 543
+      "score": 754
     },
     {
-      "title": "Google changes its search box",
-      "score": 329
+      "title": "Everything in C is undefined behavior",
+      "score": 150
     },
     {
-      "title": "OpenAI Adopts Google's SynthID Watermark for AI Images with Verification Tool",
-      "score": 158
-    },
-    {
-      "title": "Show HN: Forge \u2013 Guardrails take an 8B model from 53% to 99% on agentic tasks",
-      "score": 209
+      "title": "Infomaniak transitions to a foundation model to protect user data privacy",
+      "score": 41
     }
   ]
 }
