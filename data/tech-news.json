@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T12:15:06.448877Z",
+  "updated_at": "2026-05-20T13:36:34.512071Z",
   "stories": [
     {
-      "title": "Everything in C is undefined behavior",
-      "score": 274
+      "title": "Meta blocks human rights accounts from reaching audiences in Arabia and the UAE",
+      "score": 121
+    },
+    {
+      "title": "Goodbye Visa and Mastercard: 130M Europeans switching to sovereign payment",
+      "score": 63
     },
     {
       "title": "Map of Metal",
-      "score": 44
+      "score": 149
     },
     {
-      "title": "Learnings from 100K lines of Rust with AI (2025)",
-      "score": 73
+      "title": "America's Greatest Strategic Blunder: The Imprisonment of Qian Xuesen",
+      "score": 15
     },
     {
-      "title": "Gemini 3.5 Flash",
-      "score": 838
-    },
-    {
-      "title": "The weird, wild story of humanity's obsession with gold",
-      "score": 27
+      "title": "Qwen3.7-Max: The Agent Frontier",
+      "score": 125
     }
   ]
 }

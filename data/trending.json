@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T12:15:07.749824Z",
+  "updated_at": "2026-05-20T13:36:35.559827Z",
   "repos": [
     {
       "name": "vercel-labs/zerolang",
-      "stars": 3776
+      "stars": 3798
     },
     {
       "name": "yetone/native-feel-skill",
-      "stars": 1342
+      "stars": 1343
     },
     {
       "name": "facebookresearch/vggt-omega",
-      "stars": 1303
+      "stars": 1313
     },
     {
       "name": "DenisSergeevitch/agents-best-practices",
-      "stars": 881
+      "stars": 882
     },
     {
       "name": "Kappaemme-git/codex-complexity-optimizer",
-      "stars": 794
+      "stars": 795
     }
   ]
 }
