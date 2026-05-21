@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T18:49:38.190105Z",
+  "updated_at": "2026-05-21T21:39:04.502471Z",
   "stories": [
     {
-      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
-      "score": 153
-    },
-    {
-      "title": "BBEdit 16",
-      "score": 43
-    },
-    {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "score": 159
+      "score": 331
     },
     {
       "title": "Flipper One \u2013 we need your help",
-      "score": 824
+      "score": 952
     },
     {
-      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
-      "score": 45
+      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+      "score": 66
+    },
+    {
+      "title": "Show HN: Freenet, a peer-to-peer platform for decentralized apps",
+      "score": 110
+    },
+    {
+      "title": "Using Kagi Search with Low Vision",
+      "score": 35
     }
   ]
 }
