@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T16:40:27.468619Z",
+  "updated_at": "2026-05-21T18:49:38.190105Z",
   "stories": [
     {
+      "title": "Amazon, Facebook, FBI have access to a private intelligence-sharing network",
+      "score": 153
+    },
+    {
+      "title": "BBEdit 16",
+      "score": 43
+    },
+    {
+      "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
+      "score": 159
+    },
+    {
       "title": "Flipper One \u2013 we need your help",
-      "score": 678
+      "score": 824
     },
     {
-      "title": "Indexing a year of video locally on a 2021 MacBook with Gemma4-31B (50GB swap)",
-      "score": 75
-    },
-    {
-      "title": "Python 3.15: features that didn't make the headlines",
-      "score": 201
-    },
-    {
-      "title": "Michael Keating has died",
+      "title": "More than 340 local news outlets are limiting the Internet Archive's access",
       "score": 45
-    },
-    {
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "score": 449
     }
   ]
 }
