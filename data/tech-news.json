@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-20T21:57:59.546750Z",
+  "updated_at": "2026-05-21T00:13:05.765138Z",
   "stories": [
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "score": 456
+      "score": 643
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "score": 293
+      "score": 459
     },
     {
-      "title": "Google Declaring War on the Web",
-      "score": 23
+      "title": "DOS Zone",
+      "score": 47
     },
     {
       "title": "Flipper One Tech Specs",
-      "score": 141
+      "score": 212
     },
     {
-      "title": "Not alive, but not dead: disembodied human brains used for drug testing",
-      "score": 69
+      "title": "How fast is N tokens per second really?",
+      "score": 279
     }
   ]
 }
