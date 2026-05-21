@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T00:13:05.765138Z",
+  "updated_at": "2026-05-21T09:30:05.500685Z",
   "stories": [
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "score": 643
+      "score": 1143
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "score": 459
+      "score": 827
     },
     {
-      "title": "DOS Zone",
-      "score": 47
+      "title": "Vivaldi 8.0",
+      "score": 107
     },
     {
-      "title": "Flipper One Tech Specs",
-      "score": 212
+      "title": "Haskell Foundation 2026 Update",
+      "score": 111
     },
     {
-      "title": "How fast is N tokens per second really?",
-      "score": 279
+      "title": "Show HN: I reverse engineered Apple's video wallpapers",
+      "score": 275
     }
   ]
 }

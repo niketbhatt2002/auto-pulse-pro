@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T00:13:06.869813Z",
+  "updated_at": "2026-05-21T09:30:12.196976Z",
   "repos": [
     {
       "name": "vercel-labs/zerolang",
-      "stars": 3969
+      "stars": 4086
     },
     {
       "name": "FoundZiGu/GuJumpgate",
-      "stars": 929
-    },
-    {
-      "name": "DenisSergeevitch/agents-best-practices",
-      "stars": 902
+      "stars": 1169
     },
     {
       "name": "thananon/9arm-skills",
-      "stars": 850
+      "stars": 1049
     },
     {
       "name": "Doorman11991/smallcode",
-      "stars": 837
+      "stars": 927
+    },
+    {
+      "name": "DenisSergeevitch/agents-best-practices",
+      "stars": 921
     }
   ]
 }
