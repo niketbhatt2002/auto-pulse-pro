@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T09:30:05.500685Z",
+  "updated_at": "2026-05-21T10:36:43.944081Z",
   "stories": [
     {
+      "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
+      "score": 28
+    },
+    {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "score": 1143
+      "score": 1191
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "score": 827
-    },
-    {
-      "title": "Vivaldi 8.0",
-      "score": 107
-    },
-    {
-      "title": "Haskell Foundation 2026 Update",
-      "score": 111
+      "score": 858
     },
     {
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "score": 275
+      "score": 295
+    },
+    {
+      "title": "Haskell Foundation 2026 Update",
+      "score": 122
     }
   ]
 }
