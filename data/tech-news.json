@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T12:20:28.010939Z",
+  "updated_at": "2026-05-21T12:38:29.386789Z",
   "stories": [
     {
       "title": "Flipper One \u2013 we need your help",
-      "score": 125
+      "score": 160
     },
     {
       "title": "Python 3.15: features that didn't make the headlines",
-      "score": 46
-    },
-    {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "score": 1230
+      "score": 58
     },
     {
       "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
-      "score": 82
+      "score": 88
     },
     {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "score": 902
+      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
+      "score": 1240
+    },
+    {
+      "title": "Fender escalates legal campaign against S-style guitars",
+      "score": 34
     }
   ]
 }
