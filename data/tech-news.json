@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T10:36:43.944081Z",
+  "updated_at": "2026-05-21T11:16:13.880539Z",
   "stories": [
     {
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "score": 79
+    },
+    {
       "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
-      "score": 28
+      "score": 45
     },
     {
       "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "score": 1191
+      "score": 1206
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "score": 858
+      "score": 876
     },
     {
       "title": "Show HN: I reverse engineered Apple's video wallpapers",
-      "score": 295
-    },
-    {
-      "title": "Haskell Foundation 2026 Update",
-      "score": 122
+      "score": 305
     }
   ]
 }
