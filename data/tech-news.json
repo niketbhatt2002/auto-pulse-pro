@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-21T12:38:29.386789Z",
+  "updated_at": "2026-05-21T14:13:08.403604Z",
   "stories": [
     {
+      "title": "AI is just unauthorised plagiarism at a bigger scale",
+      "score": 114
+    },
+    {
       "title": "Flipper One \u2013 we need your help",
-      "score": 160
+      "score": 401
     },
     {
       "title": "Python 3.15: features that didn't make the headlines",
-      "score": 58
+      "score": 126
     },
     {
-      "title": "Show HN: Rmux \u2013 A programmable terminal multiplexer with a Playwright-style SDK",
-      "score": 88
+      "title": "Google officially announces that ads will be included in AI Mode search results",
+      "score": 309
     },
     {
-      "title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-      "score": 1240
-    },
-    {
-      "title": "Fender escalates legal campaign against S-style guitars",
-      "score": 34
+      "title": "Hating AI Is Good",
+      "score": 126
     }
   ]
 }
