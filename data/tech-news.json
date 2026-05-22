@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T18:25:53.047300Z",
+  "updated_at": "2026-05-22T21:14:19.311019Z",
   "stories": [
     {
+      "title": "Project Glasswing: An Initial Update",
+      "score": 129
+    },
+    {
       "title": "Why Japanese companies do so many different things",
-      "score": 253
+      "score": 367
     },
     {
       "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-      "score": 118
+      "score": 245
     },
     {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "score": 267
+      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
+      "score": 24
     },
     {
-      "title": "Deno 2.8",
-      "score": 165
-    },
-    {
-      "title": "Yt-dlp \u2013 [Announcement] Bun support is now limited and deprecated",
-      "score": 17
+      "title": "Open source Kanban desktop app that runs parallel agents on every card",
+      "score": 90
     }
   ]
 }
