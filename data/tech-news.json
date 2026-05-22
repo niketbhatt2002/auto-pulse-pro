@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T00:10:22.080203Z",
+  "updated_at": "2026-05-22T08:53:49.979712Z",
   "stories": [
     {
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "score": 54
+    },
+    {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "score": 490
+      "score": 869
     },
     {
-      "title": "Using Kagi Search with Low Vision",
-      "score": 99
+      "title": "We should get rid of average CPU utilization",
+      "score": 10
     },
     {
-      "title": "Blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-      "score": 143
+      "title": "Slumber a TUI HTTP Client",
+      "score": 58
     },
     {
-      "title": "We're testing new ad formats in Search and expanding our Direct Offers pilot",
-      "score": 556
-    },
-    {
-      "title": "Was my $48K GPU server worth it?",
-      "score": 245
+      "title": "The surprising story behind the first British person in space",
+      "score": 47
     }
   ]
 }

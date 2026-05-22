@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T00:10:23.452711Z",
+  "updated_at": "2026-05-22T08:53:51.292482Z",
   "repos": [
     {
       "name": "FoundZiGu/GuJumpgate",
-      "stars": 1403
+      "stars": 1593
     },
     {
       "name": "thananon/9arm-skills",
-      "stars": 1159
+      "stars": 1223
     },
     {
       "name": "Doorman11991/smallcode",
-      "stars": 1071
+      "stars": 1137
+    },
+    {
+      "name": "datawhalechina/Agent-Learning-Hub",
+      "stars": 964
     },
     {
       "name": "sapientinc/HRM-Text",
-      "stars": 626
-    },
-    {
-      "name": "xw7872081123/wallpaper-engine-steam",
-      "stars": 617
+      "stars": 638
     }
   ]
 }
