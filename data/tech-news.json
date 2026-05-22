@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T08:53:49.979712Z",
+  "updated_at": "2026-05-22T10:21:30.779866Z",
   "stories": [
     {
-      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "score": 54
-    },
-    {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "score": 869
-    },
-    {
-      "title": "We should get rid of average CPU utilization",
-      "score": 10
+      "score": 930
     },
     {
       "title": "Slumber a TUI HTTP Client",
-      "score": 58
+      "score": 80
+    },
+    {
+      "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
+      "score": 65
     },
     {
       "title": "The surprising story behind the first British person in space",
-      "score": 47
+      "score": 60
+    },
+    {
+      "title": "Cleve Moler has died",
+      "score": 109
     }
   ]
 }
