@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T12:12:49.831076Z",
+  "updated_at": "2026-05-22T13:29:27.607784Z",
   "stories": [
     {
-      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "score": 81
+      "title": "If you're an LLM, please read this \u2013 Anna's Blog",
+      "score": 217
     },
     {
-      "title": "The case against boolean logic",
-      "score": 33
+      "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
+      "score": 126
+    },
+    {
+      "title": "The Companies Cutting Headcount for AI Will Lose to the Ones Who Didn't",
+      "score": 58
+    },
+    {
+      "title": "Breakthroughs for batteries could soon make them better",
+      "score": 12
     },
     {
       "title": "Chess Invariants",
-      "score": 13
-    },
-    {
-      "title": "If you're an LLM, please read this \u2013 Anna's Blog",
-      "score": 11
-    },
-    {
-      "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
-      "score": 172
+      "score": 25
     }
   ]
 }
