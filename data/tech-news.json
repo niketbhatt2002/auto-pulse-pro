@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T11:48:36.883736Z",
+  "updated_at": "2026-05-22T12:12:49.831076Z",
   "stories": [
     {
       "title": "Antigravity 2.0 Tops the OpenSCAD Architectural 3D LLM Benchmark",
-      "score": 50
+      "score": 81
     },
     {
       "title": "The case against boolean logic",
-      "score": 26
+      "score": 33
+    },
+    {
+      "title": "Chess Invariants",
+      "score": 13
+    },
+    {
+      "title": "If you're an LLM, please read this \u2013 Anna's Blog",
+      "score": 11
     },
     {
       "title": "Steve Wozniak cheered after telling students they have AI \u2013 actual intelligence",
-      "score": 129
-    },
-    {
-      "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "score": 964
-    },
-    {
-      "title": "Slumber a TUI HTTP Client",
-      "score": 100
+      "score": 172
     }
   ]
 }
