@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T10:21:30.779866Z",
+  "updated_at": "2026-05-22T10:44:10.930774Z",
   "stories": [
     {
       "title": "Project Hail Mary \u2013 Stellar Navigation Chart",
-      "score": 930
+      "score": 944
     },
     {
       "title": "Slumber a TUI HTTP Client",
-      "score": 80
+      "score": 86
     },
     {
       "title": "CODA: Rewriting Transformer Blocks as GEMM-Epilogue Programs",
-      "score": 65
+      "score": 70
     },
     {
       "title": "The surprising story behind the first British person in space",
-      "score": 60
+      "score": 65
     },
     {
       "title": "Cleve Moler has died",
-      "score": 109
+      "score": 115
     }
   ]
 }
