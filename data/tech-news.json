@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-23T08:59:58.946851Z",
+  "updated_at": "2026-05-23T09:45:41.862456Z",
   "stories": [
     {
       "title": "Shipping a laptop to a refugee camp in Uganda",
-      "score": 425
+      "score": 450
     },
     {
       "title": "Why Japanese companies do so many different things",
-      "score": 662
+      "score": 678
+    },
+    {
+      "title": "Rubish: A Unix shell written in pure Ruby",
+      "score": 20
     },
     {
       "title": "The quadratic sandwich",
-      "score": 30
+      "score": 40
     },
     {
       "title": "Project Glasswing: An Initial Update",
-      "score": 426
-    },
-    {
-      "title": "Kindle loyalists scramble as Amazon turns page on old e-readers",
-      "score": 28
+      "score": 432
     }
   ]
 }
