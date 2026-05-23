@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-23T17:50:37.976375Z",
+  "updated_at": "2026-05-23T20:56:44.768924Z",
   "stories": [
     {
-      "title": "Oura says it gets government demands for user data",
-      "score": 164
+      "title": "It's time to talk about my writerdeck",
+      "score": 109
     },
     {
-      "title": "On The <dl>",
-      "score": 235
+      "title": "Texas woman arrested for Facebook post about town water quality",
+      "score": 387
+    },
+    {
+      "title": "On The <dl> (2021)",
+      "score": 302
     },
     {
       "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
-      "score": 23
-    },
-    {
-      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
       "score": 62
     },
     {
-      "title": "80386 Microcode Disassembled",
-      "score": 159
+      "title": "Hengefinder: Finding When the Sun Aligns with Your Street",
+      "score": 64
     }
   ]
 }
