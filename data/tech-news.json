@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-23T11:03:09.790333Z",
+  "updated_at": "2026-05-23T11:58:08.075035Z",
   "stories": [
     {
       "title": "Shipping a laptop to a refugee camp in Uganda",
-      "score": 485
+      "score": 514
     },
     {
       "title": "Rubish: A Unix shell written in pure Ruby",
-      "score": 52
+      "score": 64
     },
     {
       "title": "Why Japanese companies do so many different things",
-      "score": 697
+      "score": 713
     },
     {
-      "title": "The quadratic sandwich",
-      "score": 54
+      "title": "US tech firms share Dutch regulator officials' names with Senate",
+      "score": 41
     },
     {
       "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "score": 74
+      "score": 121
     }
   ]
 }
