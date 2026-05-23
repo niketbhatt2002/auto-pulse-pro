@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-23T15:04:47.759930Z",
+  "updated_at": "2026-05-23T17:50:37.976375Z",
   "stories": [
     {
+      "title": "Oura says it gets government demands for user data",
+      "score": 164
+    },
+    {
       "title": "On The <dl>",
-      "score": 94
+      "score": 235
+    },
+    {
+      "title": "Reverse engineering circuitry in a Spacelab computer from 1980",
+      "score": 23
+    },
+    {
+      "title": "z386: An Open-Source 80386 Built Around Original Microcode",
+      "score": 62
     },
     {
       "title": "80386 Microcode Disassembled",
-      "score": 99
-    },
-    {
-      "title": "I Miss Terry Pratchett",
-      "score": 173
-    },
-    {
-      "title": "Making Deep Learning Go Brrrr from First Principles",
-      "score": 51
-    },
-    {
-      "title": "Oura says it gets government demands for user data. Will it share how many?",
-      "score": 16
+      "score": 159
     }
   ]
 }
