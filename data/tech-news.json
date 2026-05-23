@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-23T09:45:41.862456Z",
+  "updated_at": "2026-05-23T10:39:19.599883Z",
   "stories": [
     {
       "title": "Shipping a laptop to a refugee camp in Uganda",
-      "score": 450
-    },
-    {
-      "title": "Why Japanese companies do so many different things",
-      "score": 678
+      "score": 474
     },
     {
       "title": "Rubish: A Unix shell written in pure Ruby",
-      "score": 20
+      "score": 43
+    },
+    {
+      "title": "Why Japanese companies do so many different things",
+      "score": 690
     },
     {
       "title": "The quadratic sandwich",
-      "score": 40
+      "score": 50
     },
     {
-      "title": "Project Glasswing: An Initial Update",
-      "score": 432
+      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
+      "score": 54
     }
   ]
 }
