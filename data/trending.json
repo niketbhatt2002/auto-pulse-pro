@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-23T11:58:09.186385Z",
+  "updated_at": "2026-05-23T15:04:49.179584Z",
   "repos": [
     {
       "name": "FoundZiGu/GuJumpgate",
-      "stars": 1951
+      "stars": 1993
     },
     {
       "name": "thananon/9arm-skills",
-      "stars": 1741
+      "stars": 1799
     },
     {
       "name": "Doorman11991/smallcode",
-      "stars": 1255
+      "stars": 1269
     },
     {
       "name": "datawhalechina/Agent-Learning-Hub",
-      "stars": 1170
+      "stars": 1192
     },
     {
-      "name": "sapientinc/HRM-Text",
-      "stars": 662
+      "name": "perplexityai/bumblebee",
+      "stars": 705
     }
   ]
 }

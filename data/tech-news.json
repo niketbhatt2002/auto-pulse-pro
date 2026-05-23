@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-23T11:58:08.075035Z",
+  "updated_at": "2026-05-23T15:04:47.759930Z",
   "stories": [
     {
-      "title": "Shipping a laptop to a refugee camp in Uganda",
-      "score": 514
+      "title": "On The <dl>",
+      "score": 94
     },
     {
-      "title": "Rubish: A Unix shell written in pure Ruby",
-      "score": 64
+      "title": "80386 Microcode Disassembled",
+      "score": 99
     },
     {
-      "title": "Why Japanese companies do so many different things",
-      "score": 713
+      "title": "I Miss Terry Pratchett",
+      "score": 173
     },
     {
-      "title": "US tech firms share Dutch regulator officials' names with Senate",
-      "score": 41
+      "title": "Making Deep Learning Go Brrrr from First Principles",
+      "score": 51
     },
     {
-      "title": "BambuStudio has been violating PrusaSlicer AGPL license since their fork",
-      "score": 121
+      "title": "Oura says it gets government demands for user data. Will it share how many?",
+      "score": 16
     }
   ]
 }
