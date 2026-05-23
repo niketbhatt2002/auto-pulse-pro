@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-22T21:14:19.311019Z",
+  "updated_at": "2026-05-23T00:12:08.936696Z",
   "stories": [
     {
+      "title": "Shipping a Laptop to a Refugee Camp in Uganda",
+      "score": 122
+    },
+    {
       "title": "Project Glasswing: An Initial Update",
-      "score": 129
+      "score": 276
     },
     {
       "title": "Why Japanese companies do so many different things",
-      "score": 367
+      "score": 450
     },
     {
-      "title": "U.S. researchers face new restrictions on publishing with foreign collaborators",
-      "score": 245
+      "title": "A Wayland Compositor in Minecraft",
+      "score": 95
     },
     {
-      "title": "Models.dev: open-source database of AI model specs, pricing, and capabilities",
-      "score": 24
-    },
-    {
-      "title": "Open source Kanban desktop app that runs parallel agents on every card",
-      "score": 90
+      "title": "Why We've Filed a Referendum",
+      "score": 29
     }
   ]
 }
