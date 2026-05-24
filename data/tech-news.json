@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T11:59:17.392766Z",
+  "updated_at": "2026-05-24T15:08:57.145056Z",
   "stories": [
     {
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "score": 51
+      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
+      "score": 44
+    },
+    {
+      "title": "Mastering Dyalog APL",
+      "score": 67
+    },
+    {
+      "title": "Childhood Computing",
+      "score": 65
+    },
+    {
+      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
+      "score": 49
     },
     {
       "title": "I spent 50 hours drawing a line graph",
-      "score": 76
-    },
-    {
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 296
-    },
-    {
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "score": 197
-    },
-    {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 173
+      "score": 205
     }
   ]
 }
