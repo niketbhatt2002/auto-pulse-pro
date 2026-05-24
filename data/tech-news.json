@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T15:08:57.145056Z",
+  "updated_at": "2026-05-24T17:47:28.165109Z",
   "stories": [
     {
-      "title": "Microsoft's 6502 BASIC is now Open Source (2025)",
-      "score": 44
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "score": 50
     },
     {
-      "title": "Mastering Dyalog APL",
-      "score": 67
+      "title": "Usborne 1980s Computer Books",
+      "score": 78
     },
     {
-      "title": "Childhood Computing",
-      "score": 65
+      "title": "Ruby for Good",
+      "score": 45
     },
     {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 49
+      "score": 184
     },
     {
-      "title": "I spent 50 hours drawing a line graph",
-      "score": 205
+      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
+      "score": 75
     }
   ]
 }
