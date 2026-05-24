@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T11:07:29.039419Z",
+  "updated_at": "2026-05-24T11:59:17.392766Z",
   "stories": [
     {
-      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 274
-    },
-    {
-      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "score": 181
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "score": 51
     },
     {
       "title": "I spent 50 hours drawing a line graph",
-      "score": 44
+      "score": 76
     },
     {
-      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
-      "score": 27
+      "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
+      "score": 296
+    },
+    {
+      "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
+      "score": 197
     },
     {
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 161
+      "score": 173
     }
   ]
 }
