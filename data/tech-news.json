@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T08:22:29.685386Z",
+  "updated_at": "2026-05-24T09:18:32.124296Z",
   "stories": [
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 214
+      "score": 233
     },
     {
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "score": 110
+      "score": 137
     },
     {
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 129
+      "score": 139
     },
     {
       "title": "Wake up! 16b",
-      "score": 192
+      "score": 217
     },
     {
-      "title": "Alexander Grothendieck Revolutionized 20th-Century Mathematics",
-      "score": 48
+      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
+      "score": 26
     }
   ]
 }
