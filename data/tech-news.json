@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T09:49:36.494015Z",
+  "updated_at": "2026-05-24T10:44:55.081016Z",
   "stories": [
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 244
+      "score": 267
     },
     {
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "score": 151
+      "score": 171
     },
     {
-      "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 144
+      "title": "I spent 50 hours drawing a line graph",
+      "score": 29
     },
     {
-      "title": "Wake up! 16b",
-      "score": 226
+      "title": "Greg Brockman: Inside the 72 Hours That Almost Killed OpenAI",
+      "score": 16
     },
     {
-      "title": "The C64 Dead Test Font",
-      "score": 46
+      "title": "Silk: Open-source cooperative fiber scheduler",
+      "score": 35
     }
   ]
 }
