@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T17:47:28.165109Z",
+  "updated_at": "2026-05-24T20:59:20.496798Z",
   "stories": [
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "score": 50
-    },
-    {
-      "title": "Usborne 1980s Computer Books",
-      "score": 78
-    },
-    {
-      "title": "Ruby for Good",
-      "score": 45
-    },
-    {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 184
+      "score": 319
     },
     {
-      "title": "Constraint Decay: The Fragility of LLM Agents in Back End Code Generation",
-      "score": 75
+      "title": "Migrating from Go to Rust",
+      "score": 32
+    },
+    {
+      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
+      "score": 211
+    },
+    {
+      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
+      "score": 14
+    },
+    {
+      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
+      "score": 15
     }
   ]
 }
