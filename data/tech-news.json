@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T09:18:32.124296Z",
+  "updated_at": "2026-05-24T09:49:36.494015Z",
   "stories": [
     {
       "title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
-      "score": 233
+      "score": 244
     },
     {
       "title": "Why is Vivado 2026.1 dropping Linux support for free tier?",
-      "score": 137
+      "score": 151
     },
     {
       "title": "Scammers are abusing an internal Microsoft account to send spam links",
-      "score": 139
+      "score": 144
     },
     {
       "title": "Wake up! 16b",
-      "score": 217
+      "score": 226
     },
     {
-      "title": "Converting an Integer to a Decimal String in Under Two Nanoseconds",
-      "score": 26
+      "title": "The C64 Dead Test Font",
+      "score": 46
     }
   ]
 }
