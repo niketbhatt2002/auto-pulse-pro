@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T20:59:21.465577Z",
+  "updated_at": "2026-05-25T00:06:35.579991Z",
   "repos": [
     {
       "name": "FoundZiGu/GuJumpgate",
-      "stars": 2308
+      "stars": 2319
     },
     {
       "name": "perplexityai/bumblebee",
-      "stars": 2087
+      "stars": 2139
     },
     {
       "name": "thananon/9arm-skills",
-      "stars": 1984
+      "stars": 1990
     },
     {
-      "name": "Doorman11991/smallcode",
-      "stars": 1379
+      "name": "kageroumado/phosphene",
+      "stars": 653
     },
     {
-      "name": "sapientinc/HRM-Text",
-      "stars": 701
+      "name": "open-gsd/get-shit-done-redux",
+      "stars": 553
     }
   ]
 }

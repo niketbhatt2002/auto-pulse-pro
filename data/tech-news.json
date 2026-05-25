@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-24T20:59:20.496798Z",
+  "updated_at": "2026-05-25T00:06:34.114913Z",
   "stories": [
     {
+      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+      "score": 95
+    },
+    {
       "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 319
+      "score": 396
     },
     {
-      "title": "Migrating from Go to Rust",
-      "score": 32
+      "title": "Defeating Git Rigour Fatigue with Jujutsu",
+      "score": 76
     },
     {
-      "title": "Memory has grown to nearly two-thirds of AI chip component costs",
-      "score": 211
+      "title": "Australia Four-Day Work Week Study Data Shows Boosted Productivity",
+      "score": 220
     },
     {
-      "title": "Using HTTP/2 Cleartext for a server in Go 1.24",
-      "score": 14
-    },
-    {
-      "title": "CBP Directive 3340-049B: Border Search of Electronic Devices",
-      "score": 15
+      "title": "LAN-LOK: The Antarctic DOS Sabotage Game Lost for 34 Years",
+      "score": 41
     }
   ]
 }
