@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-25T11:06:55.717502Z",
+  "updated_at": "2026-05-25T11:47:33.137928Z",
   "stories": [
     {
       "title": "Magnifica Humanitas (Encyclical Letter)",
-      "score": 45
+      "score": 113
     },
     {
       "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "score": 153
-    },
-    {
-      "title": "Show HN: Geomatic \u2013 a command-driven geometry studio enabled with autodiff",
-      "score": 20
+      "score": 166
     },
     {
       "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
-      "score": 382
+      "score": 391
     },
     {
-      "title": "DeepSeek reasonix, DeepSeek native coding agent with high caching and low cost",
-      "score": 576
+      "title": "Show HN: Geomatic \u2013 a command-driven geometry studio enabled with autodiff",
+      "score": 25
+    },
+    {
+      "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
+      "score": 8
     }
   ]
 }
