@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-25T11:47:33.137928Z",
+  "updated_at": "2026-05-25T12:36:12.510014Z",
   "stories": [
     {
       "title": "Magnifica Humanitas (Encyclical Letter)",
-      "score": 113
+      "score": 199
     },
     {
-      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
-      "score": 166
-    },
-    {
-      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
-      "score": 391
-    },
-    {
-      "title": "Show HN: Geomatic \u2013 a command-driven geometry studio enabled with autodiff",
-      "score": 25
+      "title": "GPT Guesses Between 1 and 100",
+      "score": 29
     },
     {
       "title": "IBM Spins Off the First Pure-Play Quantum Chip Foundry",
-      "score": 8
+      "score": 31
+    },
+    {
+      "title": "Didgeridoo playing as alternative treatment for obstructive sleep apnoea (2006)",
+      "score": 173
+    },
+    {
+      "title": "Show HN: Audiomass \u2013 a free, open-source multitrack audio editor for the web",
+      "score": 404
     }
   ]
 }
