@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-26T09:42:20.031812Z",
+  "updated_at": "2026-05-26T12:34:38.845268Z",
   "stories": [
     {
+      "title": "GitHub Actions down again today",
+      "score": 135
+    },
+    {
       "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "score": 91
+      "score": 173
     },
     {
       "title": "Using AI to write better code more slowly",
-      "score": 634
+      "score": 781
     },
     {
       "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "score": 288
+      "score": 369
     },
     {
-      "title": "Use Boring Languages with LLMs",
-      "score": 39
-    },
-    {
-      "title": "Earthion: A New Mega Drive-Style Shoot-Em-Up",
-      "score": 66
+      "title": "Phantasy Star IV \u2013 1993 Developer Interviews",
+      "score": 41
     }
   ]
 }
