@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-26T12:34:38.845268Z",
+  "updated_at": "2026-05-26T13:52:07.411532Z",
   "stories": [
     {
       "title": "GitHub Actions down again today",
-      "score": 135
+      "score": 320
     },
     {
       "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "score": 173
+      "score": 199
     },
     {
       "title": "Using AI to write better code more slowly",
-      "score": 781
+      "score": 837
     },
     {
-      "title": "Taking a walk may lead to more creativity than sitting, study finds (2014)",
-      "score": 369
+      "title": "AWS Fired the One Employee Who Gave a Damn",
+      "score": 145
     },
     {
-      "title": "Phantasy Star IV \u2013 1993 Developer Interviews",
-      "score": 41
+      "title": "Netherlands blocks US takeover of vital digital supplier",
+      "score": 133
     }
   ]
 }
