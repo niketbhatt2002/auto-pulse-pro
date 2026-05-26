@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-26T13:52:07.411532Z",
+  "updated_at": "2026-05-26T17:28:02.525640Z",
   "stories": [
     {
-      "title": "GitHub Actions down again today",
-      "score": 320
+      "title": "Language Models Need Sleep",
+      "score": 93
     },
     {
-      "title": "DynIP \u2013 Dynamic DNS with RFC 2136, IPv6, DNSSEC, and BYOD",
-      "score": 199
+      "title": "The Ballad of TIGIT",
+      "score": 30
     },
     {
-      "title": "Using AI to write better code more slowly",
-      "score": 837
+      "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
+      "score": 112
     },
     {
-      "title": "AWS Fired the One Employee Who Gave a Damn",
-      "score": 145
+      "title": "What Color is Your Function? (2015)",
+      "score": 27
     },
     {
-      "title": "Netherlands blocks US takeover of vital digital supplier",
-      "score": 133
+      "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
+      "score": 33
     }
   ]
 }
