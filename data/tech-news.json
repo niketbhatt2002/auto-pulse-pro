@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-26T17:28:02.525640Z",
+  "updated_at": "2026-05-26T19:11:27.480535Z",
   "stories": [
     {
-      "title": "Language Models Need Sleep",
-      "score": 93
+      "title": "Stop Advertising in Your Commits",
+      "score": 23
     },
     {
       "title": "The Ballad of TIGIT",
-      "score": 30
+      "score": 61
     },
     {
-      "title": "Uber, Lyft drivers in Massachusetts form first US ride-share union",
-      "score": 112
-    },
-    {
-      "title": "What Color is Your Function? (2015)",
-      "score": 27
+      "title": "A few interesting modern pixel fonts",
+      "score": 40
     },
     {
       "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
-      "score": 33
+      "score": 49
+    },
+    {
+      "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
+      "score": 462
     }
   ]
 }
