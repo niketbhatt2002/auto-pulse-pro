@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-25T21:12:00.137424Z",
+  "updated_at": "2026-05-26T00:11:55.911470Z",
   "stories": [
     {
-      "title": "Exit IP VPN servers mitigation rollout",
-      "score": 160
+      "title": "Microsoft Copilot Cowork Exfiltrates Files",
+      "score": 161
     },
     {
-      "title": "California moves to exempt Linux from its age-verification law after backlash",
-      "score": 315
+      "title": "Nobody cracks open a programming book anymore",
+      "score": 49
     },
     {
       "title": "Norway's 2 petabytes of Huawei flash storage and LLM training",
-      "score": 35
+      "score": 130
     },
     {
-      "title": "Magnifica Humanitas",
-      "score": 1157
+      "title": "Exit IP VPN servers mitigation rollout",
+      "score": 240
     },
     {
-      "title": "Jony Ive's Ferrari",
-      "score": 4
+      "title": "California moves to exempt Linux from its age-verification law after backlash",
+      "score": 567
     }
   ]
 }
