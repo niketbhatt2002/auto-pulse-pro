@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-26T00:11:57.294586Z",
+  "updated_at": "2026-05-26T09:42:21.130873Z",
   "repos": [
     {
       "name": "perplexityai/bumblebee",
-      "stars": 2577
+      "stars": 2710
     },
     {
       "name": "thananon/9arm-skills",
-      "stars": 2148
+      "stars": 2293
+    },
+    {
+      "name": "joeseesun/wechat-radar",
+      "stars": 1110
     },
     {
       "name": "open-gsd/get-shit-done-redux",
-      "stars": 846
+      "stars": 943
     },
     {
       "name": "Tong89/smartNode",
-      "stars": 675
-    },
-    {
-      "name": "kageroumado/phosphene",
-      "stars": 671
+      "stars": 860
     }
   ]
 }
