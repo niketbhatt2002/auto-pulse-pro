@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-26T19:11:27.480535Z",
+  "updated_at": "2026-05-26T21:46:58.168814Z",
   "stories": [
     {
-      "title": "Stop Advertising in Your Commits",
-      "score": 23
-    },
-    {
-      "title": "The Ballad of TIGIT",
-      "score": 61
+      "title": "Chemistry behind the Garden Grove chemical tank",
+      "score": 93
     },
     {
       "title": "A few interesting modern pixel fonts",
-      "score": 40
+      "score": 159
     },
     {
-      "title": "Launch HN: Minicor (YC P26) \u2013 Windows desktop automations at scale",
-      "score": 49
+      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
+      "score": 96
+    },
+    {
+      "title": "Rosalind: A genomics toolkit in Rust running whole-genome pipelines on a laptop",
+      "score": 97
     },
     {
       "title": "Spain blocks prediction markets Polymarket, Kalshi over lack of gambling licence",
-      "score": 462
+      "score": 641
     }
   ]
 }
