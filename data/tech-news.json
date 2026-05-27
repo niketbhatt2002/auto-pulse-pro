@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-27T09:36:16.225604Z",
+  "updated_at": "2026-05-27T10:52:44.799087Z",
   "stories": [
     {
+      "title": "Mini Micro Fantasy Computer",
+      "score": 31
+    },
+    {
       "title": "The Melancholy of Slaying Monsters",
-      "score": 78
+      "score": 108
     },
     {
-      "title": "Cloudflare Flagship",
-      "score": 214
-    },
-    {
-      "title": "What Gets Kept",
-      "score": 27
-    },
-    {
-      "title": "That Methyl Methacrylate Tank",
-      "score": 327
+      "title": "Raft Consensus with a Minority of Nodes",
+      "score": 29
     },
     {
       "title": "BadHost \u2013 CVE-2026-48710: Starlette Host-Header Auth Bypass",
-      "score": 43
+      "score": 61
+    },
+    {
+      "title": "Cloudflare Flagship",
+      "score": 232
     }
   ]
 }
