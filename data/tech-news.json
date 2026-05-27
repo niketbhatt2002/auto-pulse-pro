@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-27T00:14:33.868337Z",
+  "updated_at": "2026-05-27T09:36:16.225604Z",
   "stories": [
     {
-      "title": "Chemistry behind the Garden Grove chemical tank",
-      "score": 196
+      "title": "The Melancholy of Slaying Monsters",
+      "score": 78
     },
     {
-      "title": "A few interesting modern pixel fonts",
-      "score": 224
+      "title": "Cloudflare Flagship",
+      "score": 214
     },
     {
-      "title": "I Bypassed Adobe and Microsoft to Build a Git-Tracked Book Production Pipeline",
-      "score": 147
+      "title": "What Gets Kept",
+      "score": 27
     },
     {
-      "title": "Big tech's anti-labor playbook has come for Wikipedia",
-      "score": 224
+      "title": "That Methyl Methacrylate Tank",
+      "score": 327
     },
     {
-      "title": "A portentous reunion",
-      "score": 32
+      "title": "BadHost \u2013 CVE-2026-48710: Starlette Host-Header Auth Bypass",
+      "score": 43
     }
   ]
 }
