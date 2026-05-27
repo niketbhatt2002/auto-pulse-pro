@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-27T12:24:05.905765Z",
+  "updated_at": "2026-05-27T12:46:59.959036Z",
   "stories": [
     {
       "title": "I'm Tired of Talking to AI",
-      "score": 326
-    },
-    {
-      "title": "Mini Micro Fantasy Computer",
-      "score": 73
+      "score": 419
     },
     {
       "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "score": 15
+      "score": 63
+    },
+    {
+      "title": "Mini Micro Fantasy Computer",
+      "score": 82
+    },
+    {
+      "title": "Private Equity Bought America's Essential Services",
+      "score": 14
     },
     {
       "title": "The Melancholy of Slaying Monsters",
-      "score": 146
-    },
-    {
-      "title": "Raft Consensus with a Minority of Nodes",
-      "score": 59
+      "score": 152
     }
   ]
 }
