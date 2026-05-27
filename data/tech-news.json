@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-27T12:46:59.959036Z",
+  "updated_at": "2026-05-27T14:24:57.622710Z",
   "stories": [
     {
       "title": "I'm Tired of Talking to AI",
-      "score": 419
+      "score": 838
     },
     {
-      "title": "Incident with Pull Requests, Issues, Git Operations and API Requests",
-      "score": 63
+      "title": "Why AI Agents Cannot Change Software Systems",
+      "score": 29
     },
     {
       "title": "Mini Micro Fantasy Computer",
-      "score": 82
+      "score": 121
+    },
+    {
+      "title": "XLIDE: VBA without excel",
+      "score": 25
     },
     {
       "title": "Private Equity Bought America's Essential Services",
-      "score": 14
-    },
-    {
-      "title": "The Melancholy of Slaying Monsters",
-      "score": 152
+      "score": 183
     }
   ]
 }
