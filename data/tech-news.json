@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-27T21:58:48.277371Z",
+  "updated_at": "2026-05-28T00:04:30.939650Z",
   "stories": [
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "score": 269
+      "score": 453
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 493
+      "score": 592
+    },
+    {
+      "title": "Internet traffic in Iran increasing",
+      "score": 40
+    },
+    {
+      "title": "What Apple and Google are doing to push notifications",
+      "score": 150
     },
     {
       "title": "SimCity 3k in 4k (2025)",
-      "score": 214
-    },
-    {
-      "title": "Rust (and Slint) on a Jailbroken Kindle",
-      "score": 45
-    },
-    {
-      "title": "DuckDuckGo search saw 28% more visits after Google said people love AI mode",
-      "score": 541
+      "score": 256
     }
   ]
 }

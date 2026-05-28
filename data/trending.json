@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-27T21:58:49.682655Z",
+  "updated_at": "2026-05-28T00:04:32.169245Z",
   "repos": [
     {
-      "name": "Tong89/smartNode",
-      "stars": 1497
-    },
-    {
       "name": "open-gsd/get-shit-done-redux",
-      "stars": 1320
-    },
-    {
-      "name": "run-liyi/wechatpay",
-      "stars": 1020
+      "stars": 1329
     },
     {
       "name": "MoonshotAI/kimi-code",
-      "stars": 869
+      "stars": 876
     },
     {
       "name": "0xSero/codex-shim",
       "stars": 655
+    },
+    {
+      "name": "study8677/awesome-architecture",
+      "stars": 562
+    },
+    {
+      "name": "zhaoyue4810/pianke",
+      "stars": 502
     }
   ]
 }
