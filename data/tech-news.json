@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-28T00:04:30.939650Z",
+  "updated_at": "2026-05-28T09:52:58.527262Z",
   "stories": [
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "score": 453
+      "score": 869
+    },
+    {
+      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
+      "score": 68
+    },
+    {
+      "title": "I analysed 20 years of my chats",
+      "score": 122
+    },
+    {
+      "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
+      "score": 198
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 592
-    },
-    {
-      "title": "Internet traffic in Iran increasing",
-      "score": 40
-    },
-    {
-      "title": "What Apple and Google are doing to push notifications",
-      "score": 150
-    },
-    {
-      "title": "SimCity 3k in 4k (2025)",
-      "score": 256
+      "score": 868
     }
   ]
 }
