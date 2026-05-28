@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-28T09:52:58.527262Z",
+  "updated_at": "2026-05-28T10:51:18.825672Z",
   "stories": [
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "score": 869
+      "score": 907
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "score": 68
+      "score": 74
     },
     {
       "title": "I analysed 20 years of my chats",
-      "score": 122
-    },
-    {
-      "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
-      "score": 198
+      "score": 144
     },
     {
       "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 868
+      "score": 885
+    },
+    {
+      "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
+      "score": 222
     }
   ]
 }

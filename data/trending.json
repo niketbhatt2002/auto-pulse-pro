@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-05-28T09:52:59.506999Z",
+  "updated_at": "2026-05-28T10:51:20.346736Z",
   "repos": [
     {
       "name": "open-gsd/get-shit-done-redux",
-      "stars": 1430
+      "stars": 1446
     },
     {
       "name": "OpenBMB/PilotDeck",
-      "stars": 1124
+      "stars": 1190
     },
     {
       "name": "MoonshotAI/kimi-code",
-      "stars": 939
+      "stars": 949
     },
     {
       "name": "0xSero/codex-shim",
@@ -19,7 +19,7 @@
     },
     {
       "name": "study8677/awesome-architecture",
-      "stars": 642
+      "stars": 655
     }
   ]
 }
