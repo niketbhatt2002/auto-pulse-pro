@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-28T11:31:49.262614Z",
+  "updated_at": "2026-05-28T12:33:47.736879Z",
   "stories": [
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "score": 941
+      "score": 988
     },
     {
       "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "score": 83
+      "score": 102
     },
     {
-      "title": "I analysed 20 years of my chats",
-      "score": 155
-    },
-    {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 900
+      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
+      "score": 101
     },
     {
       "title": "Hallucinate \u2013 Massively Multiplayer Online Rave",
-      "score": 229
+      "score": 253
+    },
+    {
+      "title": "I analysed 20 years of my chats",
+      "score": 178
     }
   ]
 }
