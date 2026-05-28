@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-28T17:35:34.629093Z",
+  "updated_at": "2026-05-28T19:31:15.072542Z",
   "stories": [
     {
       "title": "Claude Opus 4.8",
-      "score": 353
+      "score": 752
     },
     {
-      "title": "Dynamic Workflows in Claude Code",
-      "score": 46
+      "title": "Just Use Postgres for Durable Workflows",
+      "score": 62
     },
     {
-      "title": "Indoor Wi-Fi Roaming with OpenWRT",
-      "score": 114
+      "title": "About LLMs at Zig Days",
+      "score": 43
     },
     {
       "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
-      "score": 86
+      "score": 147
     },
     {
       "title": "The Permanent Upper Crow",
-      "score": 45
+      "score": 91
     }
   ]
 }
