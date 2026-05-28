@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-28T14:36:06.462170Z",
+  "updated_at": "2026-05-28T17:35:34.629093Z",
   "stories": [
     {
-      "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "score": 266
+      "title": "Claude Opus 4.8",
+      "score": 353
     },
     {
-      "title": "AGI timelines shift with whichever lab is dominant",
-      "score": 11
+      "title": "Dynamic Workflows in Claude Code",
+      "score": 46
     },
     {
-      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "title": "Indoor Wi-Fi Roaming with OpenWRT",
+      "score": 114
+    },
+    {
+      "title": "Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue",
+      "score": 86
+    },
+    {
+      "title": "The Permanent Upper Crow",
       "score": 45
-    },
-    {
-      "title": "YouTube to automatically label AI-generated videos",
-      "score": 1070
-    },
-    {
-      "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "score": 225
     }
   ]
 }
