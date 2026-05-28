@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-28T13:40:38.353347Z",
+  "updated_at": "2026-05-28T14:36:06.462170Z",
   "stories": [
     {
       "title": "Five frontier LLMs disagree on 67% of 1k real-world fact-check claims",
-      "score": 154
+      "score": 266
+    },
+    {
+      "title": "AGI timelines shift with whichever lab is dominant",
+      "score": 11
+    },
+    {
+      "title": "Citing 'severe' math deficits, UC faculty demand a return to SAT tests for STEM",
+      "score": 45
     },
     {
       "title": "YouTube to automatically label AI-generated videos",
-      "score": 1034
-    },
-    {
-      "title": "A Eureka machine that thinks like nature and explores what AI cannot",
-      "score": 120
+      "score": 1070
     },
     {
       "title": "AMD pulls a bait-and-switch on Linux users with Vivado licensing changes",
-      "score": 162
-    },
-    {
-      "title": "I think Anthropic and OpenAI have found product-market fit",
-      "score": 962
+      "score": 225
     }
   ]
 }
