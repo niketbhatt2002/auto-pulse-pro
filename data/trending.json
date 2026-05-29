@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-29T10:41:16.466141Z",
+  "updated_at": "2026-05-29T11:22:09.530990Z",
   "repos": [
     {
       "name": "op7418/guizang-social-card-skill",
-      "stars": 1055
+      "stars": 1062
     },
     {
       "name": "study8677/awesome-architecture",
-      "stars": 766
-    },
-    {
-      "name": "UditAkhourii/adhd",
-      "stars": 500
+      "stars": 768
     },
     {
       "name": "helloianneo/ian-xiaohei-illustrations",
-      "stars": 484
+      "stars": 512
+    },
+    {
+      "name": "UditAkhourii/adhd",
+      "stars": 502
     },
     {
       "name": "withkynam/vibecode-pro-max-kit",
-      "stars": 449
+      "stars": 451
     }
   ]
 }
