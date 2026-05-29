@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-29T19:24:31.896753Z",
+  "updated_at": "2026-05-29T21:53:26.219703Z",
   "stories": [
     {
       "title": "SQLite is all you need for durable workflows",
-      "score": 90
-    },
-    {
-      "title": "Notes from the Mistral AI Now Summit in Paris",
-      "score": 194
+      "score": 235
     },
     {
       "title": "The dead economy theory",
-      "score": 295
+      "score": 476
     },
     {
-      "title": "Bijou64: A variable-length integer encoding",
-      "score": 165
+      "title": "Notes from the Mistral AI Now Summit in Paris",
+      "score": 272
     },
     {
-      "title": "Rothko for your current weather conditions",
-      "score": 31
+      "title": "The California state assembly has passed the 'Protect Our Games Act'",
+      "score": 121
+    },
+    {
+      "title": "On Rendering Diffs",
+      "score": 93
     }
   ]
 }
