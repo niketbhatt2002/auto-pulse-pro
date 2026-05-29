@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-29T11:22:08.174818Z",
+  "updated_at": "2026-05-29T12:20:06.693493Z",
   "stories": [
     {
+      "title": "Is AI causing a repeat of Front end's Lost Decade?",
+      "score": 31
+    },
+    {
       "title": "Claude Opus 4.8",
-      "score": 1564
+      "score": 1594
     },
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "score": 1005
-    },
-    {
-      "title": "The $500K AI Film That \"Premiered at Cannes\" Was Not in the Official Festival",
-      "score": 16
-    },
-    {
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "score": 23
+      "score": 1043
     },
     {
       "title": "Is This Sustainable?",
-      "score": 6
+      "score": 25
+    },
+    {
+      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
+      "score": 47
     }
   ]
 }
