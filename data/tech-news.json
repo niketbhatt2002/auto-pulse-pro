@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-29T12:20:06.693493Z",
+  "updated_at": "2026-05-29T12:40:59.763870Z",
   "stories": [
     {
       "title": "Is AI causing a repeat of Front end's Lost Decade?",
-      "score": 31
+      "score": 77
+    },
+    {
+      "title": "We should be more tired than the model",
+      "score": 8
     },
     {
       "title": "Claude Opus 4.8",
-      "score": 1594
+      "score": 1606
     },
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "score": 1043
+      "score": 1064
     },
     {
-      "title": "Is This Sustainable?",
-      "score": 25
-    },
-    {
-      "title": "Real-time LLM Inference on Standard GPUs: 3k tokens/s per request",
-      "score": 47
+      "title": "Tulip mania: when a single flower was worth more than a house",
+      "score": 11
     }
   ]
 }
