@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-29T17:36:00.710942Z",
+  "updated_at": "2026-05-29T19:24:31.896753Z",
   "stories": [
     {
+      "title": "SQLite is all you need for durable workflows",
+      "score": 90
+    },
+    {
       "title": "Notes from the Mistral AI Now Summit in Paris",
-      "score": 61
+      "score": 194
+    },
+    {
+      "title": "The dead economy theory",
+      "score": 295
     },
     {
       "title": "Bijou64: A variable-length integer encoding",
-      "score": 131
+      "score": 165
     },
     {
-      "title": "GTA 6 Developers Unionize",
-      "score": 236
-    },
-    {
-      "title": "I am retiring from tech to live offline",
-      "score": 461
-    },
-    {
-      "title": "Danish Pension Blacklists SpaceX over 'Catastrophic Governance'",
-      "score": 191
+      "title": "Rothko for your current weather conditions",
+      "score": 31
     }
   ]
 }
