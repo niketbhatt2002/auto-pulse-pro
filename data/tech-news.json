@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-29T12:40:59.763870Z",
+  "updated_at": "2026-05-29T13:58:10.666918Z",
   "stories": [
     {
-      "title": "Is AI causing a repeat of Front end's Lost Decade?",
-      "score": 77
+      "title": "Tulip mania: when a single flower was worth more than a house",
+      "score": 53
     },
     {
-      "title": "We should be more tired than the model",
-      "score": 8
+      "title": "The UK Government's Low Value Purchase System Is a Waste of Time",
+      "score": 60
+    },
+    {
+      "title": "Show HN: AISlop, a CLI for catching AI generated code smells",
+      "score": 11
     },
     {
       "title": "Claude Opus 4.8",
-      "score": 1606
+      "score": 1640
     },
     {
       "title": "Bricks and Minifigs Stole a Man's $200k Lego Collection",
-      "score": 1064
-    },
-    {
-      "title": "Tulip mania: when a single flower was worth more than a house",
-      "score": 11
+      "score": 1124
     }
   ]
 }
