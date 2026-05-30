@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-29T21:53:26.219703Z",
+  "updated_at": "2026-05-30T00:13:59.893940Z",
   "stories": [
     {
+      "title": "You can just say it",
+      "score": 117
+    },
+    {
       "title": "SQLite is all you need for durable workflows",
-      "score": 235
+      "score": 314
     },
     {
       "title": "The dead economy theory",
-      "score": 476
+      "score": 624
     },
     {
-      "title": "Notes from the Mistral AI Now Summit in Paris",
-      "score": 272
+      "title": "Notes from the Mistral AI Now Summit",
+      "score": 299
     },
     {
-      "title": "The California state assembly has passed the 'Protect Our Games Act'",
-      "score": 121
-    },
-    {
-      "title": "On Rendering Diffs",
-      "score": 93
+      "title": "Shift will clean homes for free to train future robots",
+      "score": 68
     }
   ]
 }
