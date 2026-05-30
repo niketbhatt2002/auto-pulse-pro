@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-30T09:12:05.299450Z",
+  "updated_at": "2026-05-30T09:52:53.820284Z",
   "stories": [
     {
-      "title": "Algebraic Effects for the Rest of Us",
-      "score": 44
-    },
-    {
       "title": "SQLite is all you need for durable workflows",
-      "score": 523
+      "score": 537
     },
     {
-      "title": "'Mind-blowing': Iron-rich immune cells help homing pigeons navigate",
-      "score": 9
+      "title": "Zig: Build System Reworked",
+      "score": 12
     },
     {
-      "title": "Snowboard Kids 2 is 100% Decompiled",
-      "score": 192
+      "title": "Algebraic Effects for the Rest of Us",
+      "score": 54
     },
     {
-      "title": "Notes from the Mistral AI Now Summit",
-      "score": 368
+      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
+      "score": 87
+    },
+    {
+      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "score": 3
     }
   ]
 }
