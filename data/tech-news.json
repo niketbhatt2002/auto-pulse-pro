@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-30T17:54:35.264074Z",
+  "updated_at": "2026-05-30T21:01:32.618920Z",
   "stories": [
     {
       "title": "OpenRouter raises $113M Series B",
-      "score": 32
+      "score": 248
     },
     {
-      "title": "Voxel Space",
-      "score": 151
+      "title": "I found a seashell in the middle of the desert",
+      "score": 70
     },
     {
       "title": "Zig ELF Linker Improvements Devlog",
-      "score": 12
+      "score": 128
     },
     {
-      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "score": 205
+      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
+      "score": 106
     },
     {
-      "title": "Pandoc Templates",
-      "score": 286
+      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
+      "score": 43
     }
   ]
 }
