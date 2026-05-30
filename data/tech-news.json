@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-30T12:03:46.115386Z",
+  "updated_at": "2026-05-30T15:12:51.333738Z",
   "stories": [
     {
+      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
+      "score": 154
+    },
+    {
+      "title": "Voxel Space",
+      "score": 30
+    },
+    {
       "title": "Pandoc Templates",
-      "score": 58
+      "score": 228
+    },
+    {
+      "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
+      "score": 105
     },
     {
       "title": "Zig: Build System Reworked",
-      "score": 131
-    },
-    {
-      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "score": 45
-    },
-    {
-      "title": "SQLite is all you need for durable workflows",
-      "score": 569
-    },
-    {
-      "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "score": 221
+      "score": 216
     }
   ]
 }
