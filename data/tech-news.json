@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-30T00:13:59.893940Z",
+  "updated_at": "2026-05-30T08:22:01.999097Z",
   "stories": [
     {
-      "title": "You can just say it",
-      "score": 117
-    },
-    {
       "title": "SQLite is all you need for durable workflows",
-      "score": 314
+      "score": 503
     },
     {
-      "title": "The dead economy theory",
-      "score": 624
+      "title": "Algebraic Effects for the Rest of Us",
+      "score": 30
+    },
+    {
+      "title": "Snowboard Kids 2 is 100% Decompiled",
+      "score": 178
+    },
+    {
+      "title": "Perry Compiles TypeScript directly to executables using SWC and LLVM",
+      "score": 81
     },
     {
       "title": "Notes from the Mistral AI Now Summit",
-      "score": 299
-    },
-    {
-      "title": "Shift will clean homes for free to train future robots",
-      "score": 68
+      "score": 361
     }
   ]
 }
