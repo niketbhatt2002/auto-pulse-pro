@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-30T10:49:02.566074Z",
+  "updated_at": "2026-05-30T11:12:31.569051Z",
   "stories": [
     {
       "title": "Zig: Build System Reworked",
-      "score": 71
-    },
-    {
-      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
-      "score": 23
+      "score": 92
     },
     {
       "title": "Pandoc Templates",
-      "score": 9
+      "score": 20
+    },
+    {
+      "title": "The Kaiser and a \"Mediocre Man\" Theory of History",
+      "score": 33
     },
     {
       "title": "SQLite is all you need for durable workflows",
-      "score": 548
+      "score": 556
     },
     {
       "title": "Danish pension fund excludes SpaceX citing governance and valuation",
-      "score": 152
+      "score": 174
     }
   ]
 }
