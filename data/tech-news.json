@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-30T15:12:51.333738Z",
+  "updated_at": "2026-05-30T17:54:35.264074Z",
   "stories": [
     {
-      "title": "Anthropic surpasses OpenAI to become most valuable AI startup",
-      "score": 154
+      "title": "OpenRouter raises $113M Series B",
+      "score": 32
     },
     {
       "title": "Voxel Space",
-      "score": 30
+      "score": 151
     },
     {
-      "title": "Pandoc Templates",
-      "score": 228
+      "title": "Zig ELF Linker Improvements Devlog",
+      "score": 12
     },
     {
       "title": "Openrsync: An implementation of rsync, by the OpenBSD team",
-      "score": 105
+      "score": 205
     },
     {
-      "title": "Zig: Build System Reworked",
-      "score": 216
+      "title": "Pandoc Templates",
+      "score": 286
     }
   ]
 }
