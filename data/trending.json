@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-31T15:19:29.164572Z",
+  "updated_at": "2026-05-31T17:51:22.883592Z",
   "repos": [
     {
+      "name": "pewdiepie-archdaemon/odysseus",
+      "stars": 2709
+    },
+    {
       "name": "op7418/guizang-social-card-skill",
-      "stars": 1937
+      "stars": 1991
     },
     {
       "name": "helloianneo/ian-xiaohei-illustrations",
-      "stars": 1357
+      "stars": 1396
     },
     {
       "name": "Sophomoresty/gemini-web2api",
-      "stars": 789
+      "stars": 824
     },
     {
       "name": "MatinSenPai/SenPaiScanner",
-      "stars": 737
-    },
-    {
-      "name": "withkynam/vibecode-pro-max-kit",
-      "stars": 654
+      "stars": 764
     }
   ]
 }
