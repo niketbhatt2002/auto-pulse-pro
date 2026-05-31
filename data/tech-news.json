@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-31T12:09:23.191752Z",
+  "updated_at": "2026-05-31T15:19:28.047835Z",
   "stories": [
     {
+      "title": "Dav2d",
+      "score": 252
+    },
+    {
+      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+      "score": 72
+    },
+    {
+      "title": "The solution might be cancelling my AI subscription",
+      "score": 25
+    },
+    {
       "title": "The Website Specification",
-      "score": 222
+      "score": 319
     },
     {
       "title": "London's Free Roof Terraces",
-      "score": 112
-    },
-    {
-      "title": "Domain expertise has always been the real moat",
-      "score": 652
-    },
-    {
-      "title": "Security Envelope Pattern collection \u2013 S.E.C.R.E.T",
-      "score": 19
-    },
-    {
-      "title": "Shantell Sans (2023)",
-      "score": 284
+      "score": 178
     }
   ]
 }
