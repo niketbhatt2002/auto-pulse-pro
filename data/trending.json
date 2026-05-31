@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-31T00:06:32.229525Z",
+  "updated_at": "2026-05-31T08:38:21.073349Z",
   "repos": [
     {
       "name": "op7418/guizang-social-card-skill",
-      "stars": 1593
+      "stars": 1796
     },
     {
       "name": "helloianneo/ian-xiaohei-illustrations",
-      "stars": 1119
+      "stars": 1250
     },
     {
-      "name": "UditAkhourii/adhd",
-      "stars": 599
-    },
-    {
-      "name": "withkynam/vibecode-pro-max-kit",
-      "stars": 588
+      "name": "Sophomoresty/gemini-web2api",
+      "stars": 670
     },
     {
       "name": "MatinSenPai/SenPaiScanner",
-      "stars": 588
+      "stars": 647
+    },
+    {
+      "name": "withkynam/vibecode-pro-max-kit",
+      "stars": 627
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-31T00:06:31.155910Z",
+  "updated_at": "2026-05-31T08:38:19.606443Z",
   "stories": [
     {
-      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
-      "score": 64
+      "title": "The Website Specification",
+      "score": 87
     },
     {
       "title": "Domain expertise has always been the real moat",
-      "score": 201
+      "score": 551
     },
     {
-      "title": "I found a seashell in the middle of the desert",
-      "score": 170
+      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
+      "score": 74
     },
     {
-      "title": "Accenture to acquire Ookla",
-      "score": 223
+      "title": "Shantell Sans (2023)",
+      "score": 222
     },
     {
-      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
-      "score": 57
+      "title": "Show HN: Breathe CLI \u2013 Paced resonance breathing in the macOS terminal",
+      "score": 12
     }
   ]
 }
