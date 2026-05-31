@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-30T21:01:32.618920Z",
+  "updated_at": "2026-05-31T00:06:31.155910Z",
   "stories": [
     {
-      "title": "OpenRouter raises $113M Series B",
-      "score": 248
+      "title": "Microsoft degrades functionality of perpetually-licensed offline products",
+      "score": 64
+    },
+    {
+      "title": "Domain expertise has always been the real moat",
+      "score": 201
     },
     {
       "title": "I found a seashell in the middle of the desert",
-      "score": 70
+      "score": 170
     },
     {
-      "title": "Zig ELF Linker Improvements Devlog",
-      "score": 128
+      "title": "Accenture to acquire Ookla",
+      "score": 223
     },
     {
-      "title": "Hormuz crisis side effect: a sharp rise in container shipping rates",
-      "score": 106
-    },
-    {
-      "title": "Show HN: 500 years of Joseon court omens as an observability dashboard",
-      "score": 43
+      "title": "Jef Raskin, the Visionary Behind the Mac (2013)",
+      "score": 57
     }
   ]
 }
