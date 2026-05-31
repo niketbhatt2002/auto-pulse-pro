@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-31T08:38:19.606443Z",
+  "updated_at": "2026-05-31T09:45:38.197947Z",
   "stories": [
     {
       "title": "The Website Specification",
-      "score": 87
+      "score": 137
+    },
+    {
+      "title": "London's Free Roof Terraces",
+      "score": 30
     },
     {
       "title": "Domain expertise has always been the real moat",
-      "score": 551
+      "score": 578
     },
     {
-      "title": "A Gentle Introduction to Lattice-Based Cryptography [pdf]",
-      "score": 74
+      "title": "Avian Visitors",
+      "score": 36
     },
     {
       "title": "Shantell Sans (2023)",
-      "score": 222
-    },
-    {
-      "title": "Show HN: Breathe CLI \u2013 Paced resonance breathing in the macOS terminal",
-      "score": 12
+      "score": 245
     }
   ]
 }
