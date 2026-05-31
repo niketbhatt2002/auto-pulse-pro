@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-31T10:09:35.347958Z",
+  "updated_at": "2026-05-31T11:02:29.359914Z",
   "stories": [
     {
       "title": "The Website Specification",
-      "score": 152
+      "score": 183
     },
     {
       "title": "London's Free Roof Terraces",
-      "score": 48
+      "score": 79
     },
     {
       "title": "Domain expertise has always been the real moat",
-      "score": 589
-    },
-    {
-      "title": "Avian Visitors",
-      "score": 41
+      "score": 625
     },
     {
       "title": "Show HN: Breathe CLI \u2013 Paced resonance breathing in the macOS terminal",
-      "score": 27
+      "score": 45
+    },
+    {
+      "title": "Shantell Sans (2023)",
+      "score": 263
     }
   ]
 }
