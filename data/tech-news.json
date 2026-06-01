@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-01T12:32:41.248133Z",
+  "updated_at": "2026-06-01T13:30:38.506842Z",
   "stories": [
     {
-      "title": "A 10 year old Xeon is all you need",
-      "score": 269
-    },
-    {
-      "title": "Nvidia announces new AI chip for personal computers",
-      "score": 35
-    },
-    {
       "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "score": 7
+      "score": 63
+    },
+    {
+      "title": "A 10 year old Xeon is all you need",
+      "score": 334
     },
     {
       "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "score": 66
+      "score": 88
     },
     {
-      "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
-      "score": 46
+      "title": "Movwin: My (Unpublished) TUI Framework",
+      "score": 19
+    },
+    {
+      "title": "Cessation of public development of Kefir C compiler",
+      "score": 76
     }
   ]
 }
