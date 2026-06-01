@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-01T13:30:38.506842Z",
+  "updated_at": "2026-06-01T15:27:25.087851Z",
   "stories": [
     {
-      "title": "When AI Crosses the Line: The Matplotlib Incident",
-      "score": 63
+      "title": "NPM packages from Red Hat have been compromised",
+      "score": 427
+    },
+    {
+      "title": "CS336: Language Modeling from Scratch",
+      "score": 50
+    },
+    {
+      "title": "Windows GOG DOS Games on M-Series Macs",
+      "score": 46
+    },
+    {
+      "title": "Flipper Zero Zig Template",
+      "score": 47
     },
     {
       "title": "A 10 year old Xeon is all you need",
-      "score": 334
-    },
-    {
-      "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "score": 88
-    },
-    {
-      "title": "Movwin: My (Unpublished) TUI Framework",
-      "score": 19
-    },
-    {
-      "title": "Cessation of public development of Kefir C compiler",
-      "score": 76
+      "score": 457
     }
   ]
 }
