@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-05-31T21:02:00.735532Z",
+  "updated_at": "2026-06-01T00:11:03.714046Z",
   "stories": [
     {
+      "title": "Chuwi Minibook X: the netbook we deserve",
+      "score": 35
+    },
+    {
       "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "score": 377
+      "score": 474
     },
     {
       "title": "1-Bit Bonsai Image 4B Image Generation for Local Devices",
-      "score": 197
+      "score": 260
     },
     {
-      "title": "Creatine raises brain energy levels and slows cognitive decline: study",
-      "score": 347
+      "title": "New Beam Spring Keyboards",
+      "score": 39
     },
     {
       "title": "Dav2d",
-      "score": 363
-    },
-    {
-      "title": "Codex just found a \"workaround\" of not having sudo on my PC",
-      "score": 161
+      "score": 385
     }
   ]
 }
