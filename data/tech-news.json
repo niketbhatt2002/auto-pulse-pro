@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-01T19:21:41.859865Z",
+  "updated_at": "2026-06-01T20:48:49.193172Z",
   "stories": [
     {
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "score": 626
+      "score": 838
+    },
+    {
+      "title": "Florida sues OpenAI and Sam Altman over AI risks",
+      "score": 63
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "score": 146
+      "score": 200
     },
     {
-      "title": "GitHub and the Crime Against Software",
-      "score": 17
-    },
-    {
-      "title": "Lifelike biochemistry continued to unfold in sterilized soil",
-      "score": 127
+      "title": "Forget LASIK: Safer, cheaper vision correction without lasers or surgery",
+      "score": 31
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
-      "score": 38
+      "score": 89
     }
   ]
 }
