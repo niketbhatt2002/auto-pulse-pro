@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-01T15:27:25.087851Z",
+  "updated_at": "2026-06-01T15:47:43.359580Z",
   "stories": [
     {
       "title": "NPM packages from Red Hat have been compromised",
-      "score": 427
+      "score": 480
     },
     {
       "title": "CS336: Language Modeling from Scratch",
-      "score": 50
+      "score": 71
     },
     {
       "title": "Windows GOG DOS Games on M-Series Macs",
-      "score": 46
+      "score": 51
     },
     {
       "title": "Flipper Zero Zig Template",
-      "score": 47
+      "score": 51
     },
     {
-      "title": "A 10 year old Xeon is all you need",
-      "score": 457
+      "title": "The Pirate Bay Remains Resilient, 20 Years After the Raid",
+      "score": 123
     }
   ]
 }
