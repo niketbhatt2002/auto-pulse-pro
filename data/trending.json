@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-01T00:11:04.997828Z",
+  "updated_at": "2026-06-01T11:21:55.239974Z",
   "repos": [
     {
       "name": "pewdiepie-archdaemon/odysseus",
-      "stars": 7448
+      "stars": 13412
     },
     {
       "name": "op7418/guizang-social-card-skill",
-      "stars": 2026
+      "stars": 2334
     },
     {
       "name": "helloianneo/ian-xiaohei-illustrations",
-      "stars": 1422
+      "stars": 1569
+    },
+    {
+      "name": "GordenSun/GordenPPTSkill",
+      "stars": 1273
     },
     {
       "name": "Sophomoresty/gemini-web2api",
-      "stars": 878
-    },
-    {
-      "name": "MatinSenPai/SenPaiScanner",
-      "stars": 798
+      "stars": 996
     }
   ]
 }
