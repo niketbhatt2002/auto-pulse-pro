@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-01T11:21:54.259249Z",
+  "updated_at": "2026-06-01T12:32:41.248133Z",
   "stories": [
     {
       "title": "A 10 year old Xeon is all you need",
-      "score": 181
+      "score": 269
+    },
+    {
+      "title": "Nvidia announces new AI chip for personal computers",
+      "score": 35
+    },
+    {
+      "title": "When AI Crosses the Line: The Matplotlib Incident",
+      "score": 7
     },
     {
       "title": "Tracing HTTP Requests with Go's net/HTTP/httptrace",
-      "score": 41
+      "score": 66
     },
     {
-      "title": "Chuwi Minibook X",
-      "score": 301
-    },
-    {
-      "title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-      "score": 689
-    },
-    {
-      "title": "two strangers. one call. no names",
-      "score": 6
+      "title": "Benchmarking SurrealDB 3.x vs. Postgres, Mongo, Neo4j and Redis (With Fsync)",
+      "score": 46
     }
   ]
 }
