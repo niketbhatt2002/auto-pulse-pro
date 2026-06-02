@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-02T19:59:04.553982Z",
+  "updated_at": "2026-06-02T22:23:46.077756Z",
   "stories": [
     {
       "title": "MAI-Code-1-Flash",
-      "score": 144
+      "score": 289
     },
     {
-      "title": "The advertising cartel coming to your web browser",
-      "score": 17
+      "title": "CT scans of BYD car parts",
+      "score": 106
     },
     {
       "title": "Gmail thinks I'm stupid, so I left",
-      "score": 66
+      "score": 430
     },
     {
-      "title": "A walking tour of surveillance infrastructure in Seattle",
-      "score": 317
+      "title": "Open Repair Data Standard \u2013 Open Repair Alliance",
+      "score": 63
     },
     {
-      "title": "GitHub Copilot App",
-      "score": 48
+      "title": "My thoughts after using Clojure for about a month",
+      "score": 47
     }
   ]
 }
