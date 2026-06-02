@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-02T11:59:33.392018Z",
+  "updated_at": "2026-06-02T12:46:40.156857Z",
   "stories": [
     {
       "title": "Why Janet? (2023)",
-      "score": 163
+      "score": 184
+    },
+    {
+      "title": "Apple rejected my dictation app for using the accessibility API",
+      "score": 29
     },
     {
       "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "score": 116
+      "score": 165
     },
     {
       "title": "CSS-Native Parallax Effect",
-      "score": 33
+      "score": 44
     },
     {
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "score": 1886
-    },
-    {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "score": 424
+      "score": 1912
     }
   ]
 }
