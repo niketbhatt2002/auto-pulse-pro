@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-01T22:33:34.189807Z",
+  "updated_at": "2026-06-02T00:18:51.901022Z",
   "stories": [
     {
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "score": 1093
+      "score": 1239
     },
     {
       "title": "Debug Project",
-      "score": 77
+      "score": 129
+    },
+    {
+      "title": "OpenAI frontier models and Codex are now available on AWS",
+      "score": 58
     },
     {
       "title": "AI Agent Guidelines for CS336 at Stanford",
-      "score": 256
+      "score": 303
     },
     {
       "title": "Should you normalize RGB values by 255 or 256?",
-      "score": 141
-    },
-    {
-      "title": "CS336: Language Modeling from Scratch",
-      "score": 299
+      "score": 172
     }
   ]
 }
