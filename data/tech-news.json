@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-02T00:18:51.901022Z",
+  "updated_at": "2026-06-02T10:12:52.531496Z",
   "stories": [
     {
+      "title": "Why Janet?",
+      "score": 56
+    },
+    {
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "score": 1239
+      "score": 1822
     },
     {
-      "title": "Debug Project",
-      "score": 129
+      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+      "score": 377
     },
     {
-      "title": "OpenAI frontier models and Codex are now available on AWS",
-      "score": 58
+      "title": "macOS needs its grid back",
+      "score": 263
     },
     {
-      "title": "AI Agent Guidelines for CS336 at Stanford",
-      "score": 303
-    },
-    {
-      "title": "Should you normalize RGB values by 255 or 256?",
-      "score": 172
+      "title": "Muxcard, a dyi credit card size computer",
+      "score": 40
     }
   ]
 }
