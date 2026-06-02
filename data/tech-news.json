@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-02T10:12:52.531496Z",
+  "updated_at": "2026-06-02T11:14:09.312924Z",
   "stories": [
     {
-      "title": "Why Janet?",
-      "score": 56
+      "title": "Why Janet? (2023)",
+      "score": 122
+    },
+    {
+      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
+      "score": 53
+    },
+    {
+      "title": "CSS-Native Parallax Effect",
+      "score": 15
     },
     {
       "title": "The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
-      "score": 1822
-    },
-    {
-      "title": "Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
-      "score": 377
-    },
-    {
-      "title": "macOS needs its grid back",
-      "score": 263
+      "score": 1869
     },
     {
       "title": "Muxcard, a dyi credit card size computer",
-      "score": 40
+      "score": 66
     }
   ]
 }
