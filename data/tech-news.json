@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-02T18:06:33.852633Z",
+  "updated_at": "2026-06-02T19:59:04.553982Z",
   "stories": [
     {
+      "title": "MAI-Code-1-Flash",
+      "score": 144
+    },
+    {
+      "title": "The advertising cartel coming to your web browser",
+      "score": 17
+    },
+    {
+      "title": "Gmail thinks I'm stupid, so I left",
+      "score": 66
+    },
+    {
       "title": "A walking tour of surveillance infrastructure in Seattle",
-      "score": 215
+      "score": 317
     },
     {
-      "title": "Coreutils for Windows",
-      "score": 95
-    },
-    {
-      "title": "Larry Ellison: \"Citizens will be on their best behavior because we\u2019re recording\" (2024)",
-      "score": 72
-    },
-    {
-      "title": "Fidonet: Technology, Use, Tools, and History (1993)",
-      "score": 100
-    },
-    {
-      "title": "Adafruit Receives Demand Letter from Fenwick Legal Counsel on Behalf of Flux.ai",
-      "score": 473
+      "title": "GitHub Copilot App",
+      "score": 48
     }
   ]
 }
