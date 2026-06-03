@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T12:37:24.376463Z",
+  "updated_at": "2026-06-03T13:20:35.652315Z",
   "stories": [
     {
       "title": "Hacking your PC using your speaker without ever touching it",
-      "score": 139
+      "score": 210
     },
     {
       "title": "Every Byte Matters",
-      "score": 58
+      "score": 90
     },
     {
-      "title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
-      "score": 102
+      "title": "Uber's $1,500/Month AI Limit Is a Useful Signal for AI Tool Pricing",
+      "score": 15
+    },
+    {
+      "title": "PlayStation Architecture",
+      "score": 64
     },
     {
       "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
-      "score": 29
-    },
-    {
-      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "score": 500
+      "score": 40
     }
   ]
 }
