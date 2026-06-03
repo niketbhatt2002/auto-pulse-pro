@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T01:43:19.546421Z",
+  "updated_at": "2026-06-03T10:48:55.557649Z",
   "repos": [
     {
       "name": "pewdiepie-archdaemon/odysseus",
-      "stars": 33496
+      "stars": 37591
     },
     {
       "name": "Gloridust/WechatOnCloud",
-      "stars": 1461
+      "stars": 1794
     },
     {
       "name": "Sophomoresty/gemini-web2api",
-      "stars": 1253
+      "stars": 1311
     },
     {
       "name": "asz798838958/aBaiAutoplus",
-      "stars": 1037
+      "stars": 1252
     },
     {
-      "name": "MatinSenPai/SenPaiScanner",
-      "stars": 905
+      "name": "b-nnett/goose",
+      "stars": 1138
     }
   ]
 }

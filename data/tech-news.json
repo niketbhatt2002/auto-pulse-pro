@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T01:43:18.261234Z",
+  "updated_at": "2026-06-03T10:48:54.170683Z",
   "stories": [
     {
+      "title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
+      "score": 56
+    },
+    {
+      "title": "1-Click GitHub Token Stealing via a VSCode Bug",
+      "score": 431
+    },
+    {
+      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+      "score": 110
+    },
+    {
       "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "score": 113
+      "score": 326
     },
     {
-      "title": "MAI-Code-1-Flash",
-      "score": 386
-    },
-    {
-      "title": "CT scans of BYD car parts",
-      "score": 211
-    },
-    {
-      "title": "More than 6 out of 10 people turn to AI for psychological support",
-      "score": 41
-    },
-    {
-      "title": "I Don't Want My Search Engine to Think for Me",
-      "score": 19
+      "title": "AI outperforms law professors in Stanford Law study",
+      "score": 261
     }
   ]
 }
