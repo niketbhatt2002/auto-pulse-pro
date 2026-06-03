@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T15:26:21.477278Z",
+  "updated_at": "2026-06-03T18:23:50.221272Z",
   "stories": [
     {
-      "title": "Hacking your PC using your speaker without ever touching it",
-      "score": 378
+      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
+      "score": 323
+    },
+    {
+      "title": "Bots have now passed human traffic online for the first time",
+      "score": 45
+    },
+    {
+      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
+      "score": 103
+    },
+    {
+      "title": "ESP32-S31",
+      "score": 135
     },
     {
       "title": "DaVinci Resolve 21",
-      "score": 42
-    },
-    {
-      "title": "Meta workers can opt out of being tracked at work up to 30 min",
-      "score": 287
-    },
-    {
-      "title": "Every Byte Matters",
-      "score": 143
-    },
-    {
-      "title": "PlayStation Architecture",
-      "score": 127
+      "score": 224
     }
   ]
 }

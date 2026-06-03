@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T15:26:22.957534Z",
+  "updated_at": "2026-06-03T18:23:51.686301Z",
   "repos": [
     {
       "name": "pewdiepie-archdaemon/odysseus",
-      "stars": 40030
+      "stars": 41435
     },
     {
       "name": "Gloridust/WechatOnCloud",
-      "stars": 1872
-    },
-    {
-      "name": "asz798838958/aBaiAutoplus",
-      "stars": 1333
-    },
-    {
-      "name": "Sophomoresty/gemini-web2api",
-      "stars": 1330
+      "stars": 1897
     },
     {
       "name": "b-nnett/goose",
-      "stars": 1305
+      "stars": 1373
+    },
+    {
+      "name": "asz798838958/aBaiAutoplus",
+      "stars": 1355
+    },
+    {
+      "name": "Sophomoresty/gemini-web2api",
+      "stars": 1340
     }
   ]
 }
