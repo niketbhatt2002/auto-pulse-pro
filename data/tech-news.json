@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T10:48:54.170683Z",
+  "updated_at": "2026-06-03T11:52:19.619107Z",
   "stories": [
     {
+      "title": "Hacking your PC using your speaker without ever touching it",
+      "score": 80
+    },
+    {
+      "title": "Every Byte Matters",
+      "score": 36
+    },
+    {
       "title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
-      "score": 56
+      "score": 92
     },
     {
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "score": 431
+      "score": 477
     },
     {
-      "title": "Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
-      "score": 110
-    },
-    {
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "score": 326
-    },
-    {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "score": 261
+      "title": "Mathematicians issue warning as AI rapidly gains ground",
+      "score": 37
     }
   ]
 }
