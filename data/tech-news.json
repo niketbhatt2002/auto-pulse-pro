@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T20:11:47.707712Z",
+  "updated_at": "2026-06-03T22:29:00.396383Z",
   "stories": [
     {
-      "title": "Elixir v1.20 released: now a gradually typed language",
-      "score": 160
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "score": 389
     },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "score": 472
+      "score": 602
     },
     {
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "score": 277
-    },
-    {
-      "title": "ESP32-S31",
-      "score": 192
+      "score": 397
     },
     {
       "title": "DaVinci Resolve 21",
-      "score": 289
+      "score": 341
+    },
+    {
+      "title": "Gooey: A GPU-accelerated UI framework for Zig",
+      "score": 112
     }
   ]
 }
