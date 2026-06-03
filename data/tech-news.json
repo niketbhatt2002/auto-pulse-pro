@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T11:52:19.619107Z",
+  "updated_at": "2026-06-03T12:37:24.376463Z",
   "stories": [
     {
       "title": "Hacking your PC using your speaker without ever touching it",
-      "score": 80
+      "score": 139
     },
     {
       "title": "Every Byte Matters",
-      "score": 36
+      "score": 58
     },
     {
       "title": "Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
-      "score": 92
+      "score": 102
+    },
+    {
+      "title": "Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+      "score": 29
     },
     {
       "title": "1-Click GitHub Token Stealing via a VSCode Bug",
-      "score": 477
-    },
-    {
-      "title": "Mathematicians issue warning as AI rapidly gains ground",
-      "score": 37
+      "score": 500
     }
   ]
 }
