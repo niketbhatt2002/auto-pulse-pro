@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T19:10:09.809591Z",
+  "updated_at": "2026-06-04T21:42:54.991552Z",
   "stories": [
     {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "score": 116
+    },
+    {
       "title": "VoidZero Is Joining Cloudflare",
-      "score": 435
+      "score": 521
     },
     {
-      "title": "Retro-Tech Parenting",
-      "score": 112
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "score": 188
     },
     {
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "score": 78
+      "title": "Castor: CERN Advanced STORage Manager",
+      "score": 34
     },
     {
       "title": "Ian's Secure Shoelace Knot",
-      "score": 355
-    },
-    {
-      "title": "American Wealth, Sliced Up",
-      "score": 10
+      "score": 431
     }
   ]
 }
