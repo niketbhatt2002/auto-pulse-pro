@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-03T22:29:00.396383Z",
+  "updated_at": "2026-06-04T01:45:16.545434Z",
   "stories": [
     {
       "title": "Elixir v1.20: Now a gradually typed language",
-      "score": 389
+      "score": 546
     },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "score": 602
+      "score": 682
+    },
+    {
+      "title": "The ways we contain Claude across products",
+      "score": 32
+    },
+    {
+      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
+      "score": 25
     },
     {
       "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "score": 397
-    },
-    {
-      "title": "DaVinci Resolve 21",
-      "score": 341
-    },
-    {
-      "title": "Gooey: A GPU-accelerated UI framework for Zig",
-      "score": 112
+      "score": 498
     }
   ]
 }
