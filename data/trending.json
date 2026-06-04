@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T01:45:18.002709Z",
+  "updated_at": "2026-06-04T09:48:49.695702Z",
   "repos": [
     {
       "name": "pewdiepie-archdaemon/odysseus",
-      "stars": 43930
-    },
-    {
-      "name": "Gloridust/WechatOnCloud",
-      "stars": 1938
-    },
-    {
-      "name": "b-nnett/goose",
-      "stars": 1468
-    },
-    {
-      "name": "asz798838958/aBaiAutoplus",
-      "stars": 1396
+      "stars": 47028
     },
     {
       "name": "zgwl/chinese-buy-us-stock-guide",
-      "stars": 1040
+      "stars": 2018
+    },
+    {
+      "name": "Gloridust/WechatOnCloud",
+      "stars": 2015
+    },
+    {
+      "name": "b-nnett/goose",
+      "stars": 1536
+    },
+    {
+      "name": "asz798838958/aBaiAutoplus",
+      "stars": 1444
     }
   ]
 }

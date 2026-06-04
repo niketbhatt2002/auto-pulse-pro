@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T01:45:16.545434Z",
+  "updated_at": "2026-06-04T09:48:48.669496Z",
   "stories": [
     {
+      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
+      "score": 45
+    },
+    {
+      "title": "They\u2019re made out of weights",
+      "score": 684
+    },
+    {
       "title": "Elixir v1.20: Now a gradually typed language",
-      "score": 546
+      "score": 766
+    },
+    {
+      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
+      "score": 289
     },
     {
       "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "score": 682
-    },
-    {
-      "title": "The ways we contain Claude across products",
-      "score": 32
-    },
-    {
-      "title": "I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",
-      "score": 25
-    },
-    {
-      "title": "I was recently diagnosed with anti-NMDA receptor encephalitis",
-      "score": 498
+      "score": 833
     }
   ]
 }
