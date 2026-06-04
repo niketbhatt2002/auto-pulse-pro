@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T09:48:48.669496Z",
+  "updated_at": "2026-06-04T10:36:17.476592Z",
   "stories": [
     {
       "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "score": 45
+      "score": 81
+    },
+    {
+      "title": "Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites",
+      "score": 41
     },
     {
       "title": "They\u2019re made out of weights",
-      "score": 684
-    },
-    {
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "score": 766
+      "score": 729
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "score": 289
+      "score": 330
     },
     {
-      "title": "Gemma 4 12B: A unified, encoder-free multimodal model",
-      "score": 833
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "score": 780
     }
   ]
 }
