@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T13:56:48.941876Z",
+  "updated_at": "2026-06-04T16:55:53.014899Z",
   "stories": [
     {
-      "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "score": 257
-    },
-    {
       "title": "VoidZero Is Joining Cloudflare",
-      "score": 90
+      "score": 347
     },
     {
-      "title": "Gaussian Point Splatting",
-      "score": 90
-    },
-    {
-      "title": "They\u2019re made out of weights",
-      "score": 952
+      "title": "KVarN: Native vLLM KV-cache quantization back end by Huawei",
+      "score": 39
     },
     {
       "title": "Ian's Secure Shoelace Knot",
-      "score": 46
+      "score": 250
+    },
+    {
+      "title": "Now Is the Best Time to Be a Duct Tape Engineer",
+      "score": 35
+    },
+    {
+      "title": "They\u2019re made out of weights",
+      "score": 1145
     }
   ]
 }
