@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T16:55:53.014899Z",
+  "updated_at": "2026-06-04T19:10:09.809591Z",
   "stories": [
     {
       "title": "VoidZero Is Joining Cloudflare",
-      "score": 347
+      "score": 435
     },
     {
-      "title": "KVarN: Native vLLM KV-cache quantization back end by Huawei",
-      "score": 39
+      "title": "Retro-Tech Parenting",
+      "score": 112
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "score": 78
     },
     {
       "title": "Ian's Secure Shoelace Knot",
-      "score": 250
+      "score": 355
     },
     {
-      "title": "Now Is the Best Time to Be a Duct Tape Engineer",
-      "score": 35
-    },
-    {
-      "title": "They\u2019re made out of weights",
-      "score": 1145
+      "title": "American Wealth, Sliced Up",
+      "score": 10
     }
   ]
 }
