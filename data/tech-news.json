@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T12:37:54.841782Z",
+  "updated_at": "2026-06-04T13:56:48.941876Z",
   "stories": [
     {
       "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "score": 195
+      "score": 257
+    },
+    {
+      "title": "VoidZero Is Joining Cloudflare",
+      "score": 90
     },
     {
       "title": "Gaussian Point Splatting",
-      "score": 53
+      "score": 90
     },
     {
       "title": "They\u2019re made out of weights",
-      "score": 854
+      "score": 952
     },
     {
-      "title": "Elixir v1.20: Now a gradually typed language",
-      "score": 824
-    },
-    {
-      "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "score": 438
+      "title": "Ian's Secure Shoelace Knot",
+      "score": 46
     }
   ]
 }
