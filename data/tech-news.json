@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T12:05:31.316023Z",
+  "updated_at": "2026-06-04T12:37:54.841782Z",
   "stories": [
     {
       "title": "UK media fails to disclose defence sector links in nearly 60% of cases",
-      "score": 159
-    },
-    {
-      "title": "They\u2019re made out of weights",
-      "score": 822
+      "score": 195
     },
     {
       "title": "Gaussian Point Splatting",
-      "score": 38
+      "score": 53
+    },
+    {
+      "title": "They\u2019re made out of weights",
+      "score": 854
+    },
+    {
+      "title": "Elixir v1.20: Now a gradually typed language",
+      "score": 824
     },
     {
       "title": "Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",
-      "score": 404
-    },
-    {
-      "title": "U.S. Army Corps of Engineers Bay Model",
-      "score": 29
+      "score": 438
     }
   ]
 }
