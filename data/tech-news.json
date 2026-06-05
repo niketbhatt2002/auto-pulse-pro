@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-05T13:50:35.361634Z",
+  "updated_at": "2026-06-05T16:31:14.279993Z",
   "stories": [
     {
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "score": 194
+      "title": "Astronauts on ISS told to shelter as repairs under way to fix air leaks",
+      "score": 130
+    },
+    {
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "score": 38
     },
     {
       "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-      "score": 54
+      "score": 250
     },
     {
-      "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "score": 74
+      "title": "Cooldown Support for Ruby Bundler",
+      "score": 69
     },
     {
-      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "score": 74
-    },
-    {
-      "title": "Changing How We Develop Ladybird",
-      "score": 513
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "score": 270
     }
   ]
 }
