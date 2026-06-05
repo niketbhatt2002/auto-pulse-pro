@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-05T09:37:07.503946Z",
+  "updated_at": "2026-06-05T10:43:05.769855Z",
   "stories": [
     {
       "title": "Changing How We Develop Ladybird",
-      "score": 152
+      "score": 281
     },
     {
-      "title": "C++: The Documentary",
-      "score": 147
-    },
-    {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "score": 223
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "score": 51
     },
     {
       "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
-      "score": 9
+      "score": 25
     },
     {
-      "title": "Fine-tuning an LLM to write docs like it's 1995",
-      "score": 57
+      "title": "databow: a Rust CLI to query any database with an ADBC driver",
+      "score": 27
+    },
+    {
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "score": 228
     }
   ]
 }
