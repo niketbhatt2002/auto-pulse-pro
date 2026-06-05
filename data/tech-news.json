@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-05T12:31:09.332045Z",
+  "updated_at": "2026-06-05T13:50:35.361634Z",
   "stories": [
     {
-      "title": "US tobacco firms applied tobacco strategies to globalize ultra-processed foods",
-      "score": 46
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "score": 194
     },
     {
-      "title": "Tracing a powerful GNSS interference source over Europe",
-      "score": 141
+      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+      "score": 54
     },
     {
       "title": "Redis 8.8: New array data structure, rate limiter, performance improvements",
-      "score": 32
+      "score": 74
     },
     {
-      "title": "We spent $50 to measure Pearl's \"AI mining\" \u2013 320K GPUs produce zero AI",
-      "score": 26
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "score": 74
     },
     {
       "title": "Changing How We Develop Ladybird",
-      "score": 435
+      "score": 513
     }
   ]
 }
