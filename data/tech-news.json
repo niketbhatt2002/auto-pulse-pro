@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-05T18:52:46.857781Z",
+  "updated_at": "2026-06-05T21:27:03.410771Z",
   "stories": [
     {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "score": 252
+      "score": 312
     },
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "score": 163
+      "score": 235
+    },
+    {
+      "title": "Three of our worst VC stories",
+      "score": 89
     },
     {
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "score": 110
+      "score": 189
     },
     {
-      "title": "Conventional Commits encourages focus on the wrong things",
-      "score": 166
-    },
-    {
-      "title": "Adyen Selected as Payment Services Provider for GOV.UK Pay",
-      "score": 44
+      "title": "Hacker News, Sans AI",
+      "score": 19
     }
   ]
 }
