@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-04T21:42:54.991552Z",
+  "updated_at": "2026-06-05T00:15:11.143690Z",
   "stories": [
     {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "score": 52
+    },
+    {
       "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "score": 116
+      "score": 226
     },
     {
       "title": "VoidZero Is Joining Cloudflare",
-      "score": 521
+      "score": 551
+    },
+    {
+      "title": "IPv6 zones in URLs are a mistake",
+      "score": 62
     },
     {
       "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "score": 188
-    },
-    {
-      "title": "Castor: CERN Advanced STORage Manager",
-      "score": 34
-    },
-    {
-      "title": "Ian's Secure Shoelace Knot",
-      "score": 431
+      "score": 295
     }
   ]
 }
