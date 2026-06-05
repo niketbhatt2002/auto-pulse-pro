@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-05T00:15:11.143690Z",
+  "updated_at": "2026-06-05T09:37:07.503946Z",
   "stories": [
     {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "score": 52
+      "title": "Changing How We Develop Ladybird",
+      "score": 152
     },
     {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "score": 226
+      "title": "C++: The Documentary",
+      "score": 147
     },
     {
-      "title": "VoidZero Is Joining Cloudflare",
-      "score": 551
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "score": 223
     },
     {
-      "title": "IPv6 zones in URLs are a mistake",
-      "score": 62
+      "title": "Entanglement Builds Space-Time. Now \"Magic\" Gives It Gravity",
+      "score": 9
     },
     {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "score": 295
+      "title": "Fine-tuning an LLM to write docs like it's 1995",
+      "score": 57
     }
   ]
 }
