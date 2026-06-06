@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-06T15:19:18.095799Z",
+  "updated_at": "2026-06-06T17:57:55.218192Z",
   "stories": [
     {
+      "title": "Zeroserve: A zero-config web server you can script with eBPF",
+      "score": 47
+    },
+    {
       "title": "Moving beyond fork() + exec()",
-      "score": 23
+      "score": 158
     },
     {
       "title": "Benchmarks in Leipzig",
-      "score": 45
-    },
-    {
-      "title": "How LLMs work",
-      "score": 603
-    },
-    {
-      "title": "Pokemon Emerald Ported to WebAssembly (100k FPS)",
       "score": 78
     },
     {
-      "title": "Building Rust Procedural Macros from the Grounds Up",
-      "score": 26
+      "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
+      "score": 93
+    },
+    {
+      "title": "You Can Run",
+      "score": 15
     }
   ]
 }
