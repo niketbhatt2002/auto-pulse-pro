@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-05T21:27:03.410771Z",
+  "updated_at": "2026-06-06T00:14:38.890714Z",
   "stories": [
     {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "score": 312
+      "score": 345
     },
     {
       "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "score": 235
-    },
-    {
-      "title": "Three of our worst VC stories",
-      "score": 89
+      "score": 288
     },
     {
       "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "score": 189
+      "score": 238
     },
     {
-      "title": "Hacker News, Sans AI",
-      "score": 19
+      "title": "New method turns ocean water into drinking water, without waste",
+      "score": 219
+    },
+    {
+      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
+      "score": 432
     }
   ]
 }
