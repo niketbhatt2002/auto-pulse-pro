@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-06T17:57:55.218192Z",
+  "updated_at": "2026-06-06T21:07:29.970442Z",
   "stories": [
     {
+      "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
+      "score": 101
+    },
+    {
+      "title": "Universal Memory Protocol \u2013 a shared format for agent memory",
+      "score": 8
+    },
+    {
       "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "score": 47
+      "score": 141
     },
     {
-      "title": "Moving beyond fork() + exec()",
-      "score": 158
-    },
-    {
-      "title": "Benchmarks in Leipzig",
-      "score": 78
+      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
+      "score": 155
     },
     {
       "title": "Nvidia is proposing a beast of a CPU system for Windows PCs",
-      "score": 93
-    },
-    {
-      "title": "You Can Run",
-      "score": 15
+      "score": 182
     }
   ]
 }
