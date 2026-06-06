@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-06T10:56:03.130925Z",
+  "updated_at": "2026-06-06T11:16:35.465453Z",
   "stories": [
     {
       "title": "GrapheneOS user reported to authorities for using GrapheneOS",
-      "score": 236
+      "score": 272
     },
     {
       "title": "Zig Zen Update",
-      "score": 53
+      "score": 60
     },
     {
       "title": "How LLMs work",
-      "score": 384
+      "score": 396
     },
     {
       "title": "The intracies of modern camera lens repair (2024)",
-      "score": 176
+      "score": 177
     },
     {
       "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
-      "score": 526
+      "score": 552
     }
   ]
 }
