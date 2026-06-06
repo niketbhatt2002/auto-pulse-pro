@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-06T00:14:38.890714Z",
+  "updated_at": "2026-06-06T08:27:31.721779Z",
   "stories": [
     {
+      "title": "How LLMs work",
+      "score": 271
+    },
+    {
+      "title": "The intracies of modern camera lens repair (2024)",
+      "score": 156
+    },
+    {
+      "title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+      "score": 326
+    },
+    {
+      "title": "Pre-Modern Armies for Worldbuilders, Part I: Why They Fight",
+      "score": 60
+    },
+    {
       "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
-      "score": 345
-    },
-    {
-      "title": "pg_durable: Microsoft open sources in-database durable execution",
-      "score": 288
-    },
-    {
-      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
-      "score": 238
-    },
-    {
-      "title": "New method turns ocean water into drinking water, without waste",
-      "score": 219
-    },
-    {
-      "title": "Mouseless \u2013 keyboard-driven control of macOS/Linux/Windows",
-      "score": 432
+      "score": 387
     }
   ]
 }
