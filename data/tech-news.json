@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-07T00:11:36.535743Z",
+  "updated_at": "2026-06-07T08:48:48.324037Z",
   "stories": [
     {
-      "title": "Ntsc-rs \u2013 open-source video emulation of analog TV and VHS artifacts",
-      "score": 231
+      "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
+      "score": 119
     },
     {
-      "title": "Meta confirms 1000s of Instagram accounts were hacked by abusing its AI chatbot",
-      "score": 356
+      "title": "I design with Claude more than Figma now",
+      "score": 123
     },
     {
-      "title": "Moving beyond fork() + exec()",
-      "score": 227
+      "title": "Valve P2P networking broken for more than 2 months",
+      "score": 140
     },
     {
-      "title": "Zeroserve: A zero-config web server you can script with eBPF",
-      "score": 180
+      "title": "Field of clones: How horse replicas came to dominate polo",
+      "score": 75
     },
     {
-      "title": "DoD Officially Drops 180 Faiths from Military's Recognized Religion List",
-      "score": 25
+      "title": "My Software North Star",
+      "score": 51
     }
   ]
 }
