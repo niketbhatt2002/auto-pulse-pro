@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-07T15:25:25.988425Z",
+  "updated_at": "2026-06-07T17:56:43.640079Z",
   "repos": [
     {
       "name": "b-nnett/goose",
-      "stars": 2214
+      "stars": 2227
     },
     {
       "name": "cpaczek/skylight",
-      "stars": 2198
+      "stars": 2213
     },
     {
       "name": "jd-opensource/JoyAI-Echo",
-      "stars": 809
+      "stars": 819
     },
     {
       "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
-      "stars": 596
+      "stars": 599
     },
     {
       "name": "VAST-AI-Research/TripoSplat",
-      "stars": 512
+      "stars": 516
     }
   ]
 }

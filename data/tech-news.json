@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-07T15:25:24.589291Z",
+  "updated_at": "2026-06-07T17:56:42.598694Z",
   "stories": [
     {
-      "title": "The OnlyFans Economy of American AI",
-      "score": 48
+      "title": "Vitamin D3 During Pregnancy and Cognitive Performance at 10 Years",
+      "score": 132
+    },
+    {
+      "title": "Cloning a Sennheiser BA2015 battery pack",
+      "score": 47
+    },
+    {
+      "title": "Powering up a module from the IBM 604: an electronic calculator from 1948",
+      "score": 10
     },
     {
       "title": "LLMs are eroding my software engineering career and I don't know what to do",
-      "score": 367
-    },
-    {
-      "title": "Anthropic, please ship an official Claude Desktop for Linux",
-      "score": 162
+      "score": 594
     },
     {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "score": 280
-    },
-    {
-      "title": "Yon \u2013 a topos-oriented language with a content-addressed lattice heap",
-      "score": 33
+      "score": 306
     }
   ]
 }
