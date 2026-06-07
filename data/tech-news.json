@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-07T12:18:31.167308Z",
+  "updated_at": "2026-06-07T15:25:24.589291Z",
   "stories": [
     {
+      "title": "The OnlyFans Economy of American AI",
+      "score": 48
+    },
+    {
+      "title": "LLMs are eroding my software engineering career and I don't know what to do",
+      "score": 367
+    },
+    {
+      "title": "Anthropic, please ship an official Claude Desktop for Linux",
+      "score": 162
+    },
+    {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "score": 222
+      "score": 280
     },
     {
-      "title": "Win16 Memory Management",
-      "score": 52
-    },
-    {
-      "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00d7",
-      "score": 67
-    },
-    {
-      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
-      "score": 127
-    },
-    {
-      "title": "Valve P2P networking broken for more than 2 months",
-      "score": 202
+      "title": "Yon \u2013 a topos-oriented language with a content-addressed lattice heap",
+      "score": 33
     }
   ]
 }
