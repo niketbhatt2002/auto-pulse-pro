@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-07T11:11:43.895139Z",
+  "updated_at": "2026-06-07T11:42:25.887196Z",
   "stories": [
     {
       "title": "The 29th International Obfuscated C Code Contest (IOCCC) 2025 Winners",
-      "score": 187
+      "score": 204
     },
     {
       "title": "Speculative KV coding: losslessly compressing KV cache by up to ~4\u00d7",
-      "score": 54
+      "score": 59
     },
     {
       "title": "Win16 Memory Management",
-      "score": 33
+      "score": 38
+    },
+    {
+      "title": "Scientists ejected from diabetes conference for distributing journal reprints",
+      "score": 67
     },
     {
       "title": "Valve P2P networking broken for more than 2 months",
-      "score": 181
-    },
-    {
-      "title": "My Software North Star",
-      "score": 91
+      "score": 187
     }
   ]
 }
