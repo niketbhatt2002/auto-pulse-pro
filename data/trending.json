@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-06T21:07:31.268881Z",
+  "updated_at": "2026-06-07T00:11:37.562774Z",
   "repos": [
     {
-      "name": "pewdiepie-archdaemon/odysseus",
-      "stars": 58530
-    },
-    {
       "name": "b-nnett/goose",
-      "stars": 2165
+      "stars": 2167
     },
     {
       "name": "cpaczek/skylight",
-      "stars": 2049
+      "stars": 2066
     },
     {
-      "name": "asz798838958/aBaiAutoplus",
-      "stars": 1557
+      "name": "jd-opensource/JoyAI-Echo",
+      "stars": 702
     },
     {
-      "name": "ClaudioDrews/memory-os",
-      "stars": 936
+      "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
+      "stars": 590
+    },
+    {
+      "name": "VAST-AI-Research/TripoSplat",
+      "stars": 492
     }
   ]
 }
