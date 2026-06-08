@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T13:58:11.852906Z",
+  "updated_at": "2026-06-08T14:45:57.210877Z",
   "stories": [
     {
       "title": "Zig by Example",
-      "score": 55
+      "score": 87
     },
     {
       "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "score": 77
+      "score": 162
     },
     {
       "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
+      "score": 38
+    },
+    {
+      "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
       "score": 21
     },
     {
-      "title": "Spanish traders set the standard forGnuCash database design",
-      "score": 27
-    },
-    {
       "title": "The Cypherpunk Library",
-      "score": 178
+      "score": 193
     }
   ]
 }
