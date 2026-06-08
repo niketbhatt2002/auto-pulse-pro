@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T17:24:42.035254Z",
+  "updated_at": "2026-06-08T19:12:07.516448Z",
   "stories": [
     {
-      "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
-      "score": 360
+      "title": "Stop the Apple Music app from launching",
+      "score": 275
     },
     {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "score": 214
+      "score": 347
     },
     {
-      "title": "Apple WWDC 2026 Livestream",
-      "score": 14
+      "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
+      "score": 524
     },
     {
-      "title": "Launch HN: Intuned (YC S22) \u2013 Build and run reliable browser automations as code",
-      "score": 82
+      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
+      "score": 57
     },
     {
-      "title": "OCaml Onboarding: Introduction to the Dune build system",
-      "score": 45
+      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
+      "score": 391
     }
   ]
 }
