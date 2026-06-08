@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T14:45:58.266006Z",
+  "updated_at": "2026-06-08T17:24:43.108928Z",
   "repos": [
     {
       "name": "cpaczek/skylight",
-      "stars": 2341
+      "stars": 2352
     },
     {
       "name": "b-nnett/goose",
-      "stars": 2304
+      "stars": 2310
     },
     {
       "name": "jd-opensource/JoyAI-Echo",
-      "stars": 1022
+      "stars": 1045
     },
     {
       "name": "tastyeffectco/sandboxd",
-      "stars": 511
+      "stars": 512
     },
     {
       "name": "JimLiu/baoyu-design",
-      "stars": 483
+      "stars": 501
     }
   ]
 }
