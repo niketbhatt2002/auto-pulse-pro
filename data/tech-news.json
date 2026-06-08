@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T19:12:07.516448Z",
+  "updated_at": "2026-06-08T21:51:37.681997Z",
   "stories": [
     {
-      "title": "Stop the Apple Music app from launching",
-      "score": 275
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "score": 160
+    },
+    {
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "score": 256
+    },
+    {
+      "title": "Siri AI",
+      "score": 259
     },
     {
       "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "score": 347
+      "score": 437
     },
     {
-      "title": "Show HN: Performative-UI \u2013 a react component library of design tropes",
-      "score": 524
-    },
-    {
-      "title": "Full Reverse Engineering of the TI-84 Plus Operating System",
-      "score": 57
-    },
-    {
-      "title": "Anti-social: It's fads, not friends, which now dominate social media feeds",
-      "score": 391
+      "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
+      "score": 663
     }
   ]
 }
