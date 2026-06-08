@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T00:16:41.741733Z",
+  "updated_at": "2026-06-08T10:26:21.501945Z",
   "repos": [
     {
       "name": "cpaczek/skylight",
-      "stars": 2254
+      "stars": 2316
     },
     {
       "name": "b-nnett/goose",
-      "stars": 2251
+      "stars": 2288
     },
     {
       "name": "jd-opensource/JoyAI-Echo",
-      "stars": 837
+      "stars": 971
     },
     {
       "name": "tastyeffectco/sandboxd",
-      "stars": 494
+      "stars": 506
     },
     {
       "name": "Jane-xiaoer/xiaoer-videolab",
-      "stars": 463
+      "stars": 479
     }
   ]
 }
