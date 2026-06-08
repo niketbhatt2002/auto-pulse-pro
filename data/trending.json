@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-07T21:16:20.902826Z",
+  "updated_at": "2026-06-08T00:16:41.741733Z",
   "repos": [
     {
-      "name": "b-nnett/goose",
-      "stars": 2245
+      "name": "cpaczek/skylight",
+      "stars": 2254
     },
     {
-      "name": "cpaczek/skylight",
-      "stars": 2237
+      "name": "b-nnett/goose",
+      "stars": 2251
     },
     {
       "name": "jd-opensource/JoyAI-Echo",
-      "stars": 830
+      "stars": 837
     },
     {
-      "name": "qiuqiubuchongle-cloud/chokepoint-atlas",
-      "stars": 600
+      "name": "tastyeffectco/sandboxd",
+      "stars": 494
     },
     {
-      "name": "VAST-AI-Research/TripoSplat",
-      "stars": 519
+      "name": "Jane-xiaoer/xiaoer-videolab",
+      "stars": 463
     }
   ]
 }
