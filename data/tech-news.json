@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T11:52:48.786558Z",
+  "updated_at": "2026-06-08T12:23:19.074949Z",
   "stories": [
     {
       "title": "The Cypherpunk Library",
-      "score": 122
+      "score": 139
     },
     {
       "title": "Dopamine Fracking",
-      "score": 396
+      "score": 438
     },
     {
       "title": "1k Data Breaches Later, the Disclosure Lag Is Worse",
-      "score": 170
+      "score": 188
+    },
+    {
+      "title": "How much of Thermo Fisher's antibody data has been manipulated?",
+      "score": 67
     },
     {
       "title": "A Family Project (2022)",
-      "score": 37
-    },
-    {
-      "title": "Building from zero after addiction, prison, and a felony",
-      "score": 675
+      "score": 43
     }
   ]
 }
