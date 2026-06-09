@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T21:51:37.681997Z",
+  "updated_at": "2026-06-09T00:10:20.037565Z",
   "stories": [
     {
-      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-      "score": 160
+      "title": "OpenAI Submits S-1 Draft to SEC",
+      "score": 231
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "score": 256
+      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
+      "score": 336
     },
     {
       "title": "Siri AI",
-      "score": 259
-    },
-    {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "score": 437
+      "score": 363
     },
     {
       "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
-      "score": 663
+      "score": 730
+    },
+    {
+      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
+      "score": 477
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-08T21:51:39.070218Z",
+  "updated_at": "2026-06-09T00:10:21.009786Z",
   "repos": [
     {
-      "name": "cpaczek/skylight",
-      "stars": 2375
-    },
-    {
-      "name": "b-nnett/goose",
-      "stars": 2318
-    },
-    {
-      "name": "jd-opensource/JoyAI-Echo",
-      "stars": 1066
-    },
-    {
       "name": "NoopApp/noop",
-      "stars": 519
+      "stars": 527
+    },
+    {
+      "name": "JimLiu/baoyu-design",
+      "stars": 515
     },
     {
       "name": "tastyeffectco/sandboxd",
       "stars": 514
+    },
+    {
+      "name": "Jane-xiaoer/xiaoer-videolab",
+      "stars": 481
+    },
+    {
+      "name": "amElnagdy/guard-skills",
+      "stars": 467
     }
   ]
 }
