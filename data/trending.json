@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-09T10:31:22.591790Z",
+  "updated_at": "2026-06-09T10:54:59.784358Z",
   "repos": [
     {
       "name": "diffusionstudio/lottie",
-      "stars": 865
+      "stars": 887
     },
     {
       "name": "JimLiu/baoyu-design",
-      "stars": 579
+      "stars": 581
     },
     {
       "name": "NoopApp/noop",
@@ -19,7 +19,7 @@
     },
     {
       "name": "tastyeffectco/sandboxd",
-      "stars": 519
+      "stars": 520
     }
   ]
 }
