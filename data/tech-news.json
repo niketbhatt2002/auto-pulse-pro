@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-09T10:54:58.543101Z",
+  "updated_at": "2026-06-09T12:08:27.501053Z",
   "stories": [
     {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "score": 186
-    },
-    {
       "title": "GentleOS \u2013 Classic operating system with a lovely retro GUI",
-      "score": 44
+      "score": 117
     },
     {
-      "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
-      "score": 31
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "score": 241
+    },
+    {
+      "title": "Making Graphics Like it's 1993",
+      "score": 30
     },
     {
       "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "score": 225
+      "score": 304
     },
     {
-      "title": "Apple reveals new AI architecture built around Google Gemini models",
-      "score": 610
+      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
+      "score": 53
     }
   ]
 }
