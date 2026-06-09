@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-09T00:10:21.009786Z",
+  "updated_at": "2026-06-09T09:31:59.462936Z",
   "repos": [
     {
-      "name": "NoopApp/noop",
-      "stars": 527
+      "name": "diffusionstudio/lottie",
+      "stars": 824
     },
     {
       "name": "JimLiu/baoyu-design",
-      "stars": 515
+      "stars": 575
+    },
+    {
+      "name": "NoopApp/noop",
+      "stars": 571
+    },
+    {
+      "name": "nevertoday/zhongguo-traditional-colors",
+      "stars": 546
     },
     {
       "name": "tastyeffectco/sandboxd",
-      "stars": 514
-    },
-    {
-      "name": "Jane-xiaoer/xiaoer-videolab",
-      "stars": 481
-    },
-    {
-      "name": "amElnagdy/guard-skills",
-      "stars": 467
+      "stars": 519
     }
   ]
 }

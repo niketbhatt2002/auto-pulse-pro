@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-09T00:10:20.037565Z",
+  "updated_at": "2026-06-09T09:31:58.279367Z",
   "stories": [
     {
-      "title": "OpenAI Submits S-1 Draft to SEC",
-      "score": 231
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "score": 114
     },
     {
-      "title": "Surveillance Is Not Safety: A statement on the UK's latest threat to privacy [pdf]",
-      "score": 336
+      "title": "Forever Young: how one molecule can lock plants in a youthful state.(2025)",
+      "score": 14
     },
     {
-      "title": "Siri AI",
-      "score": 363
+      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
+      "score": 149
     },
     {
-      "title": "Show HN: Performative-UI \u2013 A react component library of design tropes",
-      "score": 730
+      "title": "Eagle Computer: The rise and fall of an early PC clone",
+      "score": 4
     },
     {
-      "title": "MiMo-v2.5-Pro-UltraSpeed: 1T model with 1000 tokens per second",
-      "score": 477
+      "title": "Apple reveals new AI architecture built around Google Gemini models",
+      "score": 588
     }
   ]
 }
