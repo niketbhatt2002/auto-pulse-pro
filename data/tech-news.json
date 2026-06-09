@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-09T12:30:19.760288Z",
+  "updated_at": "2026-06-09T13:42:47.640911Z",
   "stories": [
     {
       "title": "GentleOS \u2013 Classic operating system with a lovely retro GUI",
-      "score": 135
-    },
-    {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "score": 264
+      "score": 215
     },
     {
       "title": "Making Graphics Like it's 1993",
-      "score": 59
+      "score": 167
     },
     {
-      "title": "OpenCV 5 Is Here: The Biggest Leap in Years for Computer Vision",
-      "score": 321
+      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
+      "score": 312
     },
     {
-      "title": "Forever Young: how one molecule can lock plants in a youthful state (2025)",
-      "score": 57
+      "title": "The better the autopilot the worse the pilot",
+      "score": 10
+    },
+    {
+      "title": "Cleaning up after AI rockstar developers",
+      "score": 103
     }
   ]
 }

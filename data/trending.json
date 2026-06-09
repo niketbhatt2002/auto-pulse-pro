@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-09T12:30:22.587726Z",
+  "updated_at": "2026-06-09T13:42:48.986893Z",
   "repos": [
     {
       "name": "diffusionstudio/lottie",
-      "stars": 947
+      "stars": 999
     },
     {
       "name": "NoopApp/noop",
-      "stars": 618
+      "stars": 665
     },
     {
       "name": "JimLiu/baoyu-design",
-      "stars": 595
+      "stars": 599
     },
     {
       "name": "nevertoday/zhongguo-traditional-colors",
-      "stars": 565
+      "stars": 587
     },
     {
       "name": "GordenSun/GordenSuperPPTSkills",
-      "stars": 525
+      "stars": 532
     }
   ]
 }
