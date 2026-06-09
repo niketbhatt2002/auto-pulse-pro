@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-09T16:32:59.455743Z",
+  "updated_at": "2026-06-09T19:04:47.543559Z",
   "stories": [
     {
+      "title": "Claude Fable 5",
+      "score": 883
+    },
+    {
       "title": "Apple decided not to roll out Siri in EU after denied request for exemption",
-      "score": 38
+      "score": 226
+    },
+    {
+      "title": "System Card: Claude Fable 5 and Claude Mythos 5 [pdf]",
+      "score": 202
     },
     {
       "title": "Making Graphics Like it's 1993",
-      "score": 434
+      "score": 574
     },
     {
-      "title": "Microsoft's open source tools were hacked to steal passwords of AI developers",
-      "score": 401
-    },
-    {
-      "title": "'Sloppenheimer:' Amazon Employees Mock the Company's AI on Slack",
-      "score": 52
-    },
-    {
-      "title": "Launch HN: transload (YC P26) \u2013 Measuring Freight Items with CCTV",
-      "score": 4
+      "title": "Brexit Ten Years On: The Economy",
+      "score": 8
     }
   ]
 }
