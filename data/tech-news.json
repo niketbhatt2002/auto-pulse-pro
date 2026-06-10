@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-10T14:20:39.965940Z",
+  "updated_at": "2026-06-10T17:23:56.120595Z",
   "stories": [
     {
       "title": "Building an HTML-first site doubled our users overnight",
-      "score": 141
+      "score": 656
     },
     {
-      "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-      "score": 294
+      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
+      "score": 199
     },
     {
-      "title": "I Hate (Most) Keyboard 'Fn' Keys",
-      "score": 93
+      "title": "PgDog is funded and coming to a database near you",
+      "score": 182
     },
     {
-      "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
-      "score": 57
+      "title": "Apache Burr: Build reliable AI agents and applications",
+      "score": 78
     },
     {
-      "title": "macOS Container Machines",
-      "score": 962
+      "title": "GitHub Authentication issues related to API requests",
+      "score": 61
     }
   ]
 }

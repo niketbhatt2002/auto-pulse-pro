@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-10T14:20:41.077923Z",
+  "updated_at": "2026-06-10T17:23:58.044776Z",
   "repos": [
     {
       "name": "diffusionstudio/lottie",
-      "stars": 1939
+      "stars": 1975
     },
     {
       "name": "NoopApp/noop",
-      "stars": 1337
-    },
-    {
-      "name": "GordenSun/GordenSuperPPTSkills",
-      "stars": 708
+      "stars": 1354
     },
     {
       "name": "MSNightmare/RoguePlanet",
-      "stars": 682
+      "stars": 772
+    },
+    {
+      "name": "GordenSun/GordenSuperPPTSkills",
+      "stars": 720
     },
     {
       "name": "JimLiu/baoyu-design",
-      "stars": 667
+      "stars": 675
     }
   ]
 }
