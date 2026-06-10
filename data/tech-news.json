@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-10T17:23:56.120595Z",
+  "updated_at": "2026-06-10T19:27:19.755414Z",
   "stories": [
     {
-      "title": "Building an HTML-first site doubled our users overnight",
-      "score": 656
+      "title": "Claude Desktop spins up a VM without no way of stopping it",
+      "score": 145
+    },
+    {
+      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
+      "score": 73
     },
     {
       "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
-      "score": 199
+      "score": 345
+    },
+    {
+      "title": "Why SpaceX 2040 Revenue FCST $4.3T in highly unlikely",
+      "score": 105
     },
     {
       "title": "PgDog is funded and coming to a database near you",
-      "score": 182
-    },
-    {
-      "title": "Apache Burr: Build reliable AI agents and applications",
-      "score": 78
-    },
-    {
-      "title": "GitHub Authentication issues related to API requests",
-      "score": 61
+      "score": 271
     }
   ]
 }
