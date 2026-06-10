@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-10T00:19:31.323516Z",
+  "updated_at": "2026-06-10T09:47:49.354243Z",
   "stories": [
     {
+      "title": "macOS Container Machines",
+      "score": 751
+    },
+    {
+      "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
+      "score": 55
+    },
+    {
       "title": "Claude Fable 5",
-      "score": 1678
+      "score": 2233
     },
     {
-      "title": "Upcoming breaking changes for NPM v12",
-      "score": 151
+      "title": "Port React Compiler to Rust",
+      "score": 12
     },
     {
-      "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "score": 141
-    },
-    {
-      "title": "If Claude Fable stops helping you, you'll never know",
-      "score": 360
-    },
-    {
-      "title": "Making Graphics Like it's 1993",
-      "score": 749
+      "title": "Upcoming breaking changes for npm v12",
+      "score": 365
     }
   ]
 }
