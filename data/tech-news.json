@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-10T11:33:45.252685Z",
+  "updated_at": "2026-06-10T12:27:14.091998Z",
   "stories": [
     {
       "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-      "score": 149
+      "score": 198
     },
     {
       "title": "macOS Container Machines",
-      "score": 837
+      "score": 871
     },
     {
       "title": "Claude Fable 5",
-      "score": 2292
+      "score": 2331
     },
     {
-      "title": "Port React Compiler to Rust",
-      "score": 59
+      "title": "Hacking for Defense Stanford 2026 \u2013 Lessons Learned Presentations",
+      "score": 21
     },
     {
-      "title": "AWS Bedrock to require sharing data with Anthropic for Mythos and future models",
-      "score": 112
+      "title": "Reviving Papers with Code",
+      "score": 75
     }
   ]
 }
