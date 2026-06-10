@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-09T21:49:04.151362Z",
+  "updated_at": "2026-06-10T00:19:31.323516Z",
   "stories": [
     {
       "title": "Claude Fable 5",
-      "score": 1441
+      "score": 1678
     },
     {
-      "title": "Alpine Linux 3.24.0 Released",
-      "score": 44
+      "title": "Upcoming breaking changes for NPM v12",
+      "score": 151
     },
     {
       "title": "Ultrafast machine learning on FPGAs via Kolmogorov-Arnold Networks",
-      "score": 94
+      "score": 141
+    },
+    {
+      "title": "If Claude Fable stops helping you, you'll never know",
+      "score": 360
     },
     {
       "title": "Making Graphics Like it's 1993",
-      "score": 693
-    },
-    {
-      "title": "Test-case reducers are underappreciated debugging tools",
-      "score": 49
+      "score": 749
     }
   ]
 }
