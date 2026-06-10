@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-10T12:48:16.142437Z",
+  "updated_at": "2026-06-10T14:20:39.965940Z",
   "stories": [
     {
+      "title": "Building an HTML-first site doubled our users overnight",
+      "score": 141
+    },
+    {
       "title": "Mercedes\u2011Benz starts large\u2011scale production of electric axial flux motor",
-      "score": 211
+      "score": 294
     },
     {
-      "title": "macOS Container Machines",
-      "score": 889
-    },
-    {
-      "title": "Claude Fable 5",
-      "score": 2342
-    },
-    {
-      "title": "Buy a train, bridge or tracks from the Swiss Railway",
-      "score": 23
+      "title": "I Hate (Most) Keyboard 'Fn' Keys",
+      "score": 93
     },
     {
       "title": "All 9,300 Japanese train station, animated by the year it opened (1872\u20132026)",
-      "score": 11
+      "score": 57
+    },
+    {
+      "title": "macOS Container Machines",
+      "score": 962
     }
   ]
 }
