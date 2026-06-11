@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-10T22:04:41.112423Z",
+  "updated_at": "2026-06-11T00:22:05.769895Z",
   "stories": [
     {
+      "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
+      "score": 130
+    },
+    {
       "title": "\u03c0FS",
-      "score": 266
+      "score": 468
     },
     {
-      "title": "Organic foods are not healthier or pesticide free",
-      "score": 16
+      "title": "Raspberry Pi 5 \u2013 16GB RAM",
+      "score": 139
     },
     {
-      "title": "How JPL keeps the 13-year-old Curiosity rover doing science",
-      "score": 121
+      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
+      "score": 60
     },
     {
-      "title": "I'm Eric Ries, author of \"The Lean Startup\" and new book \"Incorruptible\" \u2013 AMA",
-      "score": 447
-    },
-    {
-      "title": "What Is It Like to Be a Bat? [pdf] (1974)",
-      "score": 34
+      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
+      "score": 122
     }
   ]
 }
