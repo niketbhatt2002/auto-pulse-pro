@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T11:19:43.959963Z",
+  "updated_at": "2026-06-11T12:05:24.078710Z",
   "stories": [
     {
       "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-      "score": 332
+      "score": 369
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "score": 430
+      "score": 443
     },
     {
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "score": 467
+      "score": 479
     },
     {
       "title": "Web Browsers on Video Game Consoles",
-      "score": 37
+      "score": 51
     },
     {
-      "title": "\u03c0FS",
-      "score": 780
+      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
+      "score": 40
     }
   ]
 }
