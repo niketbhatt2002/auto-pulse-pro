@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T17:37:39.921912Z",
+  "updated_at": "2026-06-11T19:27:47.253948Z",
   "stories": [
     {
-      "title": "MiMo Code is now released and open-source",
-      "score": 234
-    },
-    {
       "title": "Show HN: Homebrew 6.0.0",
-      "score": 133
+      "score": 467
     },
     {
-      "title": "Anthropic apologizes for invisible Claude Fable guardrails",
-      "score": 126
+      "title": "MiMo Code is now released and open-source",
+      "score": 312
     },
     {
       "title": "The RCE that AMD wouldn't fix",
-      "score": 59
+      "score": 127
     },
     {
-      "title": "Lines of code got a better publicist",
-      "score": 274
+      "title": "Petition to Withdraw Canada's Bill C-22",
+      "score": 178
+    },
+    {
+      "title": "Software Is Made Between Commits",
+      "score": 112
     }
   ]
 }
