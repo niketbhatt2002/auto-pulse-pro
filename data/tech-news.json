@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T12:50:19.069858Z",
+  "updated_at": "2026-06-11T13:51:51.888314Z",
   "stories": [
     {
       "title": "Lines of Code Got a Better Publicist",
-      "score": 18
+      "score": 96
     },
     {
       "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-      "score": 418
+      "score": 465
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "score": 455
-    },
-    {
-      "title": "Web Browsers on Video Game Consoles",
-      "score": 68
+      "score": 476
     },
     {
       "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "score": 57
+      "score": 79
+    },
+    {
+      "title": "Web Browsers on Video Game Consoles",
+      "score": 84
     }
   ]
 }
