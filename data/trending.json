@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T10:14:54.108400Z",
+  "updated_at": "2026-06-11T11:19:54.637569Z",
   "repos": [
     {
       "name": "XiaomiMiMo/MiMo-Code",
-      "stars": 2938
+      "stars": 3102
     },
     {
       "name": "NoopApp/noop",
-      "stars": 1430
+      "stars": 1434
     },
     {
       "name": "shadcn/improve",
-      "stars": 1302
+      "stars": 1344
     },
     {
       "name": "MSNightmare/RoguePlanet",
-      "stars": 1006
+      "stars": 1020
     },
     {
       "name": "GordenSun/GordenSuperPPTSkills",
-      "stars": 757
+      "stars": 760
     }
   ]
 }

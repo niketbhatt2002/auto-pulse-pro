@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T10:14:25.681679Z",
+  "updated_at": "2026-06-11T11:19:43.959963Z",
   "stories": [
     {
       "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-      "score": 256
+      "score": 332
     },
     {
       "title": "AI agent runs amok in Fedora and elsewhere",
-      "score": 408
+      "score": 430
     },
     {
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "score": 443
+      "score": 467
+    },
+    {
+      "title": "Web Browsers on Video Game Consoles",
+      "score": 37
     },
     {
       "title": "\u03c0FS",
-      "score": 754
-    },
-    {
-      "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "score": 435
+      "score": 780
     }
   ]
 }
