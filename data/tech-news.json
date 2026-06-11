@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T13:51:51.888314Z",
+  "updated_at": "2026-06-11T14:33:28.646489Z",
   "stories": [
     {
       "title": "Lines of Code Got a Better Publicist",
-      "score": 96
+      "score": 136
+    },
+    {
+      "title": "US-Canada border library gets new Quebec-only entrance",
+      "score": 38
+    },
+    {
+      "title": "Nextcloud Hub 26 Spring: Built together, designed for the future",
+      "score": 15
     },
     {
       "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
-      "score": 465
+      "score": 508
     },
     {
-      "title": "AI agent runs amok in Fedora and elsewhere",
-      "score": 476
-    },
-    {
-      "title": "Build a Basic AI Agent from Scratch: Long Task Planning",
-      "score": 79
-    },
-    {
-      "title": "Web Browsers on Video Game Consoles",
-      "score": 84
+      "title": "Open Reproduction of DeepSeek-R1",
+      "score": 33
     }
   ]
 }
