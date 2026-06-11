@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T00:22:05.769895Z",
+  "updated_at": "2026-06-11T10:14:25.681679Z",
   "stories": [
     {
+      "title": "Pok\u00e9mon Go Scans Trained the Navigation Tech for Military Drones",
+      "score": 256
+    },
+    {
+      "title": "AI agent runs amok in Fedora and elsewhere",
+      "score": 408
+    },
+    {
       "title": "Cybersecurity researchers aren't happy about the guardrails on Anthropic's Fable",
-      "score": 130
+      "score": 443
     },
     {
       "title": "\u03c0FS",
-      "score": 468
-    },
-    {
-      "title": "Raspberry Pi 5 \u2013 16GB RAM",
-      "score": 139
-    },
-    {
-      "title": "A Written Language for the Cherokee So Efficient It Was Thought to Be Magic",
-      "score": 60
+      "score": 754
     },
     {
       "title": "Anthropic requires 30 day data retention for Fable and Mythos",
-      "score": 122
+      "score": 435
     }
   ]
 }
