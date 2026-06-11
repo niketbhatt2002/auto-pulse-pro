@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-11T19:27:47.253948Z",
+  "updated_at": "2026-06-11T22:03:38.032115Z",
   "stories": [
     {
       "title": "Show HN: Homebrew 6.0.0",
-      "score": 467
+      "score": 794
     },
     {
       "title": "MiMo Code is now released and open-source",
-      "score": 312
+      "score": 378
     },
     {
-      "title": "The RCE that AMD wouldn't fix",
-      "score": 127
+      "title": "Show HN: FablePool \u2013 pool money behind a prompt, and Fable builds it in public",
+      "score": 25
+    },
+    {
+      "title": "Shall we play a game? \u2013 LLMs use tactical nukes in 95% of simulations",
+      "score": 83
     },
     {
       "title": "Petition to Withdraw Canada's Bill C-22",
-      "score": 178
-    },
-    {
-      "title": "Software Is Made Between Commits",
-      "score": 112
+      "score": 281
     }
   ]
 }
