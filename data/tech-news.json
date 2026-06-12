@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-12T10:58:04.780703Z",
+  "updated_at": "2026-06-12T11:39:00.067652Z",
   "stories": [
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "score": 652
-    },
-    {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "score": 797
-    },
-    {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "score": 488
+      "score": 705
     },
     {
       "title": "The Future of Email",
-      "score": 6
+      "score": 43
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "score": 854
+    },
+    {
+      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
+      "score": 499
     },
     {
       "title": "Show HN: Homebrew 6.0.0",
-      "score": 1255
+      "score": 1269
     }
   ]
 }
