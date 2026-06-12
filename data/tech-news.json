@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-12T10:01:52.651738Z",
+  "updated_at": "2026-06-12T10:58:04.780703Z",
   "stories": [
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "score": 562
+      "score": 652
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
-      "score": 742
+      "score": 797
     },
     {
       "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "score": 462
+      "score": 488
+    },
+    {
+      "title": "The Future of Email",
+      "score": 6
     },
     {
       "title": "Show HN: Homebrew 6.0.0",
-      "score": 1230
-    },
-    {
-      "title": "How we made hit video game Prince of Persia",
-      "score": 122
+      "score": 1255
     }
   ]
 }
