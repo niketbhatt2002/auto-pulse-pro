@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-12T18:55:22.720322Z",
+  "updated_at": "2026-06-12T21:48:57.475953Z",
   "stories": [
     {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "score": 339
+      "score": 555
     },
     {
       "title": "I Am Not a Reverse Centaur",
-      "score": 64
+      "score": 211
     },
     {
-      "title": "How to Setup a Local Coding Agent on macOS",
-      "score": 36
+      "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "score": 44
     },
     {
-      "title": "A PDF that changes based on how its read",
-      "score": 66
+      "title": "How to setup a local coding agent on macOS",
+      "score": 159
     },
     {
-      "title": "I Won't Buy You a Coffee",
-      "score": 10
+      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
+      "score": 213
     }
   ]
 }
