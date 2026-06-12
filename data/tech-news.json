@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-12T12:22:50.297861Z",
+  "updated_at": "2026-06-12T12:49:08.516893Z",
   "stories": [
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "score": 791
-    },
-    {
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "score": 51
+      "score": 830
     },
     {
       "title": "If you are asking for human attention, demonstrate human effort",
-      "score": 916
+      "score": 951
     },
     {
       "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "score": 524
+      "score": 540
     },
     {
-      "title": "Show HN: Homebrew 6.0.0",
-      "score": 1289
+      "title": "Maxproof",
+      "score": 16
+    },
+    {
+      "title": "Ryanair dark UX patterns summer 2026 refresher",
+      "score": 86
     }
   ]
 }
