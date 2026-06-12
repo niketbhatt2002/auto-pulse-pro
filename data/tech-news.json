@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-12T12:49:08.516893Z",
+  "updated_at": "2026-06-12T14:08:06.641530Z",
   "stories": [
     {
       "title": "AI agent bankrupted their operator while trying to scan DN42",
-      "score": 830
-    },
-    {
-      "title": "If you are asking for human attention, demonstrate human effort",
-      "score": 951
-    },
-    {
-      "title": "Nobody ever gets credit for fixing problems that never happened (2001) [pdf]",
-      "score": 540
+      "score": 978
     },
     {
       "title": "Maxproof",
-      "score": 16
+      "score": 56
     },
     {
-      "title": "Ryanair dark UX patterns summer 2026 refresher",
-      "score": 86
+      "title": "The Future of Email",
+      "score": 106
+    },
+    {
+      "title": "If you are asking for human attention, demonstrate human effort",
+      "score": 1077
+    },
+    {
+      "title": "The Unsung Hero of the Lord of the Rings",
+      "score": 12
     }
   ]
 }
