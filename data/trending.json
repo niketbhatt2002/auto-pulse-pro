@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-13T11:46:58.506436Z",
+  "updated_at": "2026-06-13T12:23:33.351102Z",
   "repos": [
     {
       "name": "XiaomiMiMo/MiMo-Code",
-      "stars": 7628
+      "stars": 7648
     },
     {
       "name": "shadcn/improve",
-      "stars": 2564
+      "stars": 2565
     },
     {
       "name": "NoopApp/noop",
-      "stars": 1560
+      "stars": 1567
     },
     {
       "name": "MSNightmare/RoguePlanet",
-      "stars": 1233
+      "stars": 1236
     },
     {
       "name": "DietrichGebert/ponytail",
-      "stars": 1088
+      "stars": 1105
     }
   ]
 }
