@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-12T21:48:57.475953Z",
+  "updated_at": "2026-06-13T00:22:38.221987Z",
   "stories": [
     {
+      "title": "Renault: Electric motors with no rare earths",
+      "score": 126
+    },
+    {
       "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "score": 555
+      "score": 671
     },
     {
-      "title": "I Am Not a Reverse Centaur",
-      "score": 211
-    },
-    {
-      "title": "Swift at Apple: Migrating the TrueType Hinting Interpreter",
+      "title": "Show HN: Putt.day a daily mini golf game",
       "score": 44
     },
     {
-      "title": "How to setup a local coding agent on macOS",
-      "score": 159
+      "title": "Swift at Apple: Migrating the TrueType hinting interpreter",
+      "score": 112
     },
     {
-      "title": "Malware developers added nuclear and biological weapons text to to their spyware",
-      "score": 213
+      "title": "Twenty One Zero-Days in FFmpeg",
+      "score": 60
     }
   ]
 }
