@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-13T18:01:14.777495Z",
+  "updated_at": "2026-06-13T21:19:08.954340Z",
   "stories": [
     {
-      "title": "US bans differential privacy in Census data",
-      "score": 373
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "score": 593
+    },
+    {
+      "title": "GameBoy Workboy",
+      "score": 110
     },
     {
       "title": "Treating pancreatic tumours may have revealed cancer's master switch",
-      "score": 131
+      "score": 230
     },
     {
       "title": "Every Frame Perfect",
-      "score": 234
+      "score": 386
     },
     {
-      "title": "Appreciating Exif",
-      "score": 53
-    },
-    {
-      "title": "Amazon CEO's Talks with U.S. Officials Triggered Crackdown on Anthropic Models",
-      "score": 75
+      "title": "Running DOS on Behringers DDX3216 with a DIY x86-Bios from Scratch",
+      "score": 39
     }
   ]
 }
