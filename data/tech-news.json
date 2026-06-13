@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-13T10:23:08.429320Z",
+  "updated_at": "2026-06-13T11:19:44.517660Z",
   "stories": [
     {
       "title": "Leaving Mozilla",
-      "score": 181
+      "score": 228
     },
     {
       "title": "Electric motors with no rare earths",
-      "score": 470
+      "score": 497
+    },
+    {
+      "title": "Show HN: Paca \u2013 Lightweight Jira alternative for human-AI collaboration",
+      "score": 20
     },
     {
       "title": "Statement on US government directive to suspend access to Fable 5 and Mythos 5",
-      "score": 2328
+      "score": 2429
     },
     {
-      "title": "CRISPR tech selectively shreds cancer cells, including \"undruggable\" cancers",
-      "score": 823
-    },
-    {
-      "title": "Open source AI must win",
-      "score": 941
+      "title": "A low-carbon computing platform from your retired phones",
+      "score": 12
     }
   ]
 }
