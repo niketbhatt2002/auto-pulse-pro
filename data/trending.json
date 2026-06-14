@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-14T10:45:04.920775Z",
+  "updated_at": "2026-06-14T11:33:23.253556Z",
   "repos": [
     {
       "name": "XiaomiMiMo/MiMo-Code",
-      "stars": 8113
+      "stars": 8125
     },
     {
       "name": "shadcn/improve",
-      "stars": 3829
+      "stars": 3864
     },
     {
       "name": "DietrichGebert/ponytail",
-      "stars": 2901
+      "stars": 3320
     },
     {
       "name": "MSNightmare/RoguePlanet",
@@ -19,7 +19,7 @@
     },
     {
       "name": "SkyBlue997/enableMacosAI",
-      "stars": 1098
+      "stars": 1102
     }
   ]
 }
