@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-14T15:49:45.799605Z",
+  "updated_at": "2026-06-14T18:05:26.892021Z",
   "stories": [
     {
-      "title": "No, everyone is not using AI for everything",
-      "score": 65
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "score": 110
     },
     {
-      "title": "The Birth and Death of JavaScript (2014)",
-      "score": 117
+      "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+      "score": 23
     },
     {
       "title": "Firewood Splitting Simulator",
-      "score": 226
+      "score": 352
     },
     {
-      "title": "Lisp's Influence on Ruby",
-      "score": 118
+      "title": "The Birth and Death of JavaScript (2014)",
+      "score": 158
     },
     {
-      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
-      "score": 49
+      "title": "Ask HN: What are you working on? (June 2026)",
+      "score": 40
     }
   ]
 }
