@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-14T12:58:54.823756Z",
+  "updated_at": "2026-06-14T15:49:45.799605Z",
   "stories": [
     {
+      "title": "No, everyone is not using AI for everything",
+      "score": 65
+    },
+    {
       "title": "The Birth and Death of JavaScript (2014)",
-      "score": 8
+      "score": 117
     },
     {
-      "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
-      "score": 231
+      "title": "Firewood Splitting Simulator",
+      "score": 226
     },
     {
-      "title": "Honda Civics and the Evil Valet",
-      "score": 317
+      "title": "Lisp's Influence on Ruby",
+      "score": 118
     },
     {
-      "title": "GLM 5.2 Is Out",
-      "score": 656
-    },
-    {
-      "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
-      "score": 46
+      "title": "Caddy compatibility for zeroserve: 3x throughput and 70% lower latency",
+      "score": 49
     }
   ]
 }
