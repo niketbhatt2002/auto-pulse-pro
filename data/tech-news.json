@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-14T11:49:00.487754Z",
+  "updated_at": "2026-06-14T12:58:54.823756Z",
   "stories": [
     {
-      "title": "Honda Civics and the Evil Valet",
-      "score": 298
+      "title": "The Birth and Death of JavaScript (2014)",
+      "score": 8
     },
     {
       "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
-      "score": 185
+      "score": 231
+    },
+    {
+      "title": "Honda Civics and the Evil Valet",
+      "score": 317
     },
     {
       "title": "GLM 5.2 Is Out",
-      "score": 623
-    },
-    {
-      "title": "Noise infusion banned from statistical products published by Census Bureau",
-      "score": 837
+      "score": 656
     },
     {
       "title": "500-year-old monasteries outperform at digital transformation (U. of Zurich)",
-      "score": 32
+      "score": 46
     }
   ]
 }
