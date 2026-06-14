@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-14T18:05:26.892021Z",
+  "updated_at": "2026-06-14T21:15:32.310590Z",
   "stories": [
     {
-      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "score": 110
+      "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
+      "score": 235
     },
     {
-      "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
-      "score": 23
+      "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
+      "score": 216
+    },
+    {
+      "title": "Yserver: A modern X11 server written in Rust",
+      "score": 37
+    },
+    {
+      "title": "Chaosnet (1981)",
+      "score": 34
     },
     {
       "title": "Firewood Splitting Simulator",
-      "score": 352
-    },
-    {
-      "title": "The Birth and Death of JavaScript (2014)",
-      "score": 158
-    },
-    {
-      "title": "Ask HN: What are you working on? (June 2026)",
-      "score": 40
+      "score": 508
     }
   ]
 }
