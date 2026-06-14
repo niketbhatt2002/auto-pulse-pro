@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-14T09:24:57.131741Z",
+  "updated_at": "2026-06-14T10:21:35.068658Z",
   "stories": [
     {
-      "title": "Phoenix LiveView 1.2 Released",
-      "score": 104
-    },
-    {
       "title": "Honda Civics and the Evil Valet",
-      "score": 264
-    },
-    {
-      "title": "Don't trust large context windows",
-      "score": 79
+      "score": 270
     },
     {
       "title": "Free SQL\u2192ER diagram tool, runs in the browser, nothing uploaded",
-      "score": 105
+      "score": 133
     },
     {
       "title": "GLM 5.2 Is Out",
-      "score": 568
+      "score": 586
+    },
+    {
+      "title": "Noise infusion banned from statistical products published by Census Bureau",
+      "score": 826
+    },
+    {
+      "title": "Every Frame Perfect",
+      "score": 719
     }
   ]
 }
