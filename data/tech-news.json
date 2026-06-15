@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-14T21:15:32.310590Z",
+  "updated_at": "2026-06-15T00:18:46.886276Z",
   "stories": [
     {
+      "title": "Your ePub Is Fine. Kobo Disagrees. Blame Adobe",
+      "score": 72
+    },
+    {
       "title": "Show HN: Kage \u2013 Shadow any website to a single binary for offline viewing",
-      "score": 235
+      "score": 373
+    },
+    {
+      "title": "What even is food authenticity? Why we guard carbonara, and flatten chicken rice",
+      "score": 23
     },
     {
       "title": "Rio de Janeiro's \"homegrown\" LLM appears to be a merge of an existing model",
-      "score": 216
-    },
-    {
-      "title": "Yserver: A modern X11 server written in Rust",
-      "score": 37
-    },
-    {
-      "title": "Chaosnet (1981)",
-      "score": 34
+      "score": 261
     },
     {
       "title": "Firewood Splitting Simulator",
-      "score": 508
+      "score": 605
     }
   ]
 }
