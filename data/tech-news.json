@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-15T15:19:29.715252Z",
+  "updated_at": "2026-06-15T15:36:17.634443Z",
   "stories": [
     {
       "title": "CrankGPT",
-      "score": 189
+      "score": 241
+    },
+    {
+      "title": "Iroh 1.0",
+      "score": 42
     },
     {
       "title": "Hetzner increased dedicated server prices 3-4x",
-      "score": 70
-    },
-    {
-      "title": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
-      "score": 21
+      "score": 117
     },
     {
       "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
-      "score": 177
+      "score": 183
     },
     {
       "title": "Apple Foundation Models",
-      "score": 333
+      "score": 341
     }
   ]
 }
