@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-15T13:09:21.193372Z",
+  "updated_at": "2026-06-15T13:48:46.439943Z",
   "stories": [
     {
       "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
-      "score": 47
-    },
-    {
-      "title": "Your ePub Is fine",
-      "score": 721
+      "score": 98
     },
     {
       "title": "What the Fuck Happened to Nerds",
-      "score": 402
+      "score": 493
+    },
+    {
+      "title": "Your ePub Is fine",
+      "score": 745
     },
     {
       "title": "Apple Foundation Models",
-      "score": 252
+      "score": 275
     },
     {
-      "title": "Foreign business owners are scrambling to raise capital to stay in Japan",
-      "score": 76
+      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
+      "score": 56
     }
   ]
 }
