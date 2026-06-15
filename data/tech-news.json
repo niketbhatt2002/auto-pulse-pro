@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-15T18:42:09.554157Z",
+  "updated_at": "2026-06-15T20:18:24.616332Z",
   "stories": [
     {
       "title": "Iroh 1.0",
-      "score": 543
+      "score": 707
     },
     {
       "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "score": 230
+      "score": 377
+    },
+    {
+      "title": "Typst 0.15.0",
+      "score": 171
     },
     {
       "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "score": 168
+      "score": 354
     },
     {
       "title": "My Homelab AI Dev Platform",
-      "score": 109
-    },
-    {
-      "title": "How TimescaleDB compresses time-series data",
-      "score": 36
+      "score": 156
     }
   ]
 }
