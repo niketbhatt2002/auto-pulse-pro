@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-15T20:18:24.616332Z",
+  "updated_at": "2026-06-15T22:21:01.299405Z",
   "stories": [
     {
+      "title": "A backdoor in a LinkedIn job offer",
+      "score": 364
+    },
+    {
+      "title": "US battery manufacturing output continues to break records",
+      "score": 80
+    },
+    {
       "title": "Iroh 1.0",
-      "score": 707
+      "score": 822
     },
     {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "score": 377
+      "title": "Techno-libertarians are flocking to the Caribbean",
+      "score": 29
     },
     {
-      "title": "Typst 0.15.0",
-      "score": 171
-    },
-    {
-      "title": "Ask HN: Has anyone replaced Claude/GPT with a local model for daily coding?",
-      "score": 354
-    },
-    {
-      "title": "My Homelab AI Dev Platform",
-      "score": 156
+      "title": "I Love the Computer",
+      "score": 69
     }
   ]
 }
