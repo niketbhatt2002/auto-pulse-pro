@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-15T13:48:46.439943Z",
+  "updated_at": "2026-06-15T15:19:29.715252Z",
   "stories": [
     {
+      "title": "CrankGPT",
+      "score": 189
+    },
+    {
+      "title": "Hetzner increased dedicated server prices 3-4x",
+      "score": 70
+    },
+    {
+      "title": "Show HN: Can Europe train a frontier AI model on the compute it owns?",
+      "score": 21
+    },
+    {
       "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
-      "score": 98
-    },
-    {
-      "title": "What the Fuck Happened to Nerds",
-      "score": 493
-    },
-    {
-      "title": "Your ePub Is fine",
-      "score": 745
+      "score": 177
     },
     {
       "title": "Apple Foundation Models",
-      "score": 275
-    },
-    {
-      "title": "Show HN: I wrote a C++ ray tracer from scratch without AI",
-      "score": 56
+      "score": 333
     }
   ]
 }
