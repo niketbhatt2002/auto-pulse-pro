@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-15T15:36:17.634443Z",
+  "updated_at": "2026-06-15T16:15:38.173526Z",
   "stories": [
     {
-      "title": "CrankGPT",
-      "score": 241
+      "title": "Iroh 1.0",
+      "score": 187
     },
     {
-      "title": "Iroh 1.0",
-      "score": 42
+      "title": "CrankGPT",
+      "score": 338
+    },
+    {
+      "title": "Copper transport drug restores memory and clears toxic Alzheimer's proteins",
+      "score": 44
+    },
+    {
+      "title": "My Homelab AI Dev Platform",
+      "score": 12
     },
     {
       "title": "Hetzner increased dedicated server prices 3-4x",
-      "score": 117
-    },
-    {
-      "title": "Salesforce to Acquire Fin (formerly Intercom) for $3.6BN",
-      "score": 183
-    },
-    {
-      "title": "Apple Foundation Models",
-      "score": 341
+      "score": 191
     }
   ]
 }
