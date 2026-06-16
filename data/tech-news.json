@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T14:13:34.148059Z",
+  "updated_at": "2026-06-16T14:51:23.105483Z",
   "stories": [
     {
       "title": "Mechanical Watch (2022)",
-      "score": 262
+      "score": 328
+    },
+    {
+      "title": "I Fired Google",
+      "score": 29
     },
     {
       "title": "Correlated randomness in Slay the Spire 2",
-      "score": 102
-    },
-    {
-      "title": "John Carmack on Fabrice Bellard",
-      "score": 506
+      "score": 128
     },
     {
       "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "score": 388
+      "score": 406
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "score": 1371
+      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
+      "score": 557
     }
   ]
 }
