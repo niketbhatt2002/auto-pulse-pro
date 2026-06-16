@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T14:51:23.105483Z",
+  "updated_at": "2026-06-16T15:50:45.169290Z",
   "stories": [
     {
-      "title": "Mechanical Watch (2022)",
-      "score": 328
+      "title": "Running local models is good now",
+      "score": 148
     },
     {
-      "title": "I Fired Google",
-      "score": 29
+      "title": "Mechanical Watch (2022)",
+      "score": 415
+    },
+    {
+      "title": "Subquadratic \u2013 Introducing SubQ 1.1 Small",
+      "score": 35
     },
     {
       "title": "Correlated randomness in Slay the Spire 2",
-      "score": 128
+      "score": 171
     },
     {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "score": 406
-    },
-    {
-      "title": "I admire Fabrice Bellard. He is almost certainly a better overall programmer",
-      "score": 557
+      "title": "Fable ban was never about a jailbreak",
+      "score": 10
     }
   ]
 }
