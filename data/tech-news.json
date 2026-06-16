@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T18:29:34.080412Z",
+  "updated_at": "2026-06-16T19:59:31.904767Z",
   "stories": [
     {
-      "title": "Running local models is good now",
-      "score": 557
+      "title": "U.S. pulling ocean sensors a 'shock' for Canadian research as El Ni\u00f1o nears",
+      "score": 70
     },
     {
-      "title": "Claude: Elevated errors across many models",
-      "score": 100
+      "title": "Running local models is good now",
+      "score": 695
     },
     {
       "title": "SpaceX to buy Cursor for $60B",
-      "score": 509
-    },
-    {
-      "title": "Mechanical Watch (2022)",
-      "score": 516
+      "score": 624
     },
     {
       "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
-      "score": 65
+      "score": 130
+    },
+    {
+      "title": "Apple is about to make Hide My Email useless",
+      "score": 36
     }
   ]
 }
