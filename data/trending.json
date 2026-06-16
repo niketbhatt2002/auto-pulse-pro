@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T15:50:46.258990Z",
+  "updated_at": "2026-06-16T18:29:35.353683Z",
   "repos": [
     {
       "name": "DietrichGebert/ponytail",
-      "stars": 22204
+      "stars": 23314
     },
     {
       "name": "XiaomiMiMo/MiMo-Code",
-      "stars": 9302
+      "stars": 9330
     },
     {
       "name": "shadcn/improve",
-      "stars": 4975
+      "stars": 4989
     },
     {
       "name": "omnigent-ai/omnigent",
-      "stars": 2448
+      "stars": 2584
     },
     {
       "name": "tamnd/kage",
-      "stars": 1711
+      "stars": 1733
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T15:50:45.169290Z",
+  "updated_at": "2026-06-16T18:29:34.080412Z",
   "stories": [
     {
       "title": "Running local models is good now",
-      "score": 148
+      "score": 557
+    },
+    {
+      "title": "Claude: Elevated errors across many models",
+      "score": 100
+    },
+    {
+      "title": "SpaceX to buy Cursor for $60B",
+      "score": 509
     },
     {
       "title": "Mechanical Watch (2022)",
-      "score": 415
+      "score": 516
     },
     {
-      "title": "Subquadratic \u2013 Introducing SubQ 1.1 Small",
-      "score": 35
-    },
-    {
-      "title": "Correlated randomness in Slay the Spire 2",
-      "score": 171
-    },
-    {
-      "title": "Fable ban was never about a jailbreak",
-      "score": 10
+      "title": "TIL: You can make HTTP requests without curl using Bash /dev/TCP",
+      "score": 65
     }
   ]
 }
