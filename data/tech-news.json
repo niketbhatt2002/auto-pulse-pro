@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T11:01:09.961154Z",
+  "updated_at": "2026-06-16T12:08:36.331662Z",
   "stories": [
     {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "score": 285
+      "title": "Mechanical Watch",
+      "score": 27
     },
     {
-      "title": "John Carmack on Fabrice Bellard",
-      "score": 318
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "score": 321
     },
     {
       "title": "A backdoor in a LinkedIn job offer",
-      "score": 1227
+      "score": 1284
     },
     {
-      "title": "Getting Creative with Perlin Noise Fields",
-      "score": 30
+      "title": "John Carmack on Fabrice Bellard",
+      "score": 377
     },
     {
-      "title": "Iroh 1.0",
-      "score": 1209
+      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
+      "score": 42
     }
   ]
 }
