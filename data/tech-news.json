@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T01:42:54.408235Z",
+  "updated_at": "2026-06-16T11:01:09.961154Z",
   "stories": [
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "score": 678
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "score": 285
     },
     {
-      "title": "Banned Book Library in a Wi-Fi Smart Light Bulb",
-      "score": 152
+      "title": "John Carmack on Fabrice Bellard",
+      "score": 318
+    },
+    {
+      "title": "A backdoor in a LinkedIn job offer",
+      "score": 1227
+    },
+    {
+      "title": "Getting Creative with Perlin Noise Fields",
+      "score": 30
     },
     {
       "title": "Iroh 1.0",
-      "score": 931
-    },
-    {
-      "title": "TinyWind: A pixel pirate sailing game with real wind physics (380k+ kms sailed)",
-      "score": 596
-    },
-    {
-      "title": "I Love the Computer",
-      "score": 136
+      "score": 1209
     }
   ]
 }
