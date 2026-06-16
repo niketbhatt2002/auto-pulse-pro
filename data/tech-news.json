@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T12:08:36.331662Z",
+  "updated_at": "2026-06-16T12:47:47.108536Z",
   "stories": [
     {
       "title": "Mechanical Watch",
-      "score": 27
+      "score": 121
+    },
+    {
+      "title": "SpaceX Is Buying Cursor",
+      "score": 17
     },
     {
       "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "score": 321
+      "score": 342
     },
     {
-      "title": "A backdoor in a LinkedIn job offer",
-      "score": 1284
+      "title": "Correlated randomness in Slay the Spire 2",
+      "score": 36
     },
     {
       "title": "John Carmack on Fabrice Bellard",
-      "score": 377
-    },
-    {
-      "title": "Trinket.io shutting down, so we saved it and hosted it a trinket.strivemath.org",
-      "score": 42
+      "score": 423
     }
   ]
 }
