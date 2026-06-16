@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-16T12:47:47.108536Z",
+  "updated_at": "2026-06-16T14:13:34.148059Z",
   "stories": [
     {
-      "title": "Mechanical Watch",
-      "score": 121
-    },
-    {
-      "title": "SpaceX Is Buying Cursor",
-      "score": 17
-    },
-    {
-      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
-      "score": 342
+      "title": "Mechanical Watch (2022)",
+      "score": 262
     },
     {
       "title": "Correlated randomness in Slay the Spire 2",
-      "score": 36
+      "score": 102
     },
     {
       "title": "John Carmack on Fabrice Bellard",
-      "score": 423
+      "score": 506
+    },
+    {
+      "title": "The time the x86 emulator team found code so bad they fixed it during emulation",
+      "score": 388
+    },
+    {
+      "title": "A backdoor in a LinkedIn job offer",
+      "score": 1371
     }
   ]
 }
