@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-17T14:24:59.826341Z",
+  "updated_at": "2026-06-17T16:56:04.896370Z",
   "stories": [
     {
+      "title": "Epic Games announces Lore version control system",
+      "score": 402
+    },
+    {
       "title": "Want your images back? Sure... That'll be $5!",
-      "score": 189
+      "score": 463
     },
     {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "score": 408
+      "title": "Volkswagen started blocking GrapheneOS users",
+      "score": 171
     },
     {
-      "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "score": 377
+      "title": "French physicist and media star loses doctorate after plagiarism investigation",
+      "score": 56
     },
     {
-      "title": "RFC 10008: The new HTTP Query Method",
-      "score": 128
-    },
-    {
-      "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
-      "score": 45
+      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
+      "score": 24
     }
   ]
 }
