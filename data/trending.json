@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-17T12:12:01.912156Z",
+  "updated_at": "2026-06-17T12:54:17.844163Z",
   "repos": [
     {
       "name": "DietrichGebert/ponytail",
-      "stars": 28711
+      "stars": 28943
     },
     {
       "name": "omnigent-ai/omnigent",
-      "stars": 3249
+      "stars": 3257
     },
     {
       "name": "tamnd/kage",
-      "stars": 1820
+      "stars": 1822
     },
     {
       "name": "lenucksi/aur-malware-check",
-      "stars": 1407
+      "stars": 1409
     },
     {
       "name": "EEliberto/IPA-Download",
-      "stars": 942
+      "stars": 946
     }
   ]
 }
