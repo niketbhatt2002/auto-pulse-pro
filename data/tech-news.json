@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-17T13:35:58.915573Z",
+  "updated_at": "2026-06-17T14:24:59.826341Z",
   "stories": [
     {
       "title": "Want your images back? Sure... That'll be $5!",
-      "score": 60
+      "score": 189
     },
     {
       "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "score": 356
+      "score": 408
     },
     {
       "title": "Sixty percent of US consumers say 'AI' in brand messaging is a turnoff",
-      "score": 253
+      "score": 377
     },
     {
       "title": "RFC 10008: The new HTTP Query Method",
-      "score": 106
+      "score": 128
     },
     {
       "title": "MicroUI \u2013 A tiny, portable, immediate-mode UI library written in ANSI C",
-      "score": 26
+      "score": 45
     }
   ]
 }
