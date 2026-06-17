@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-17T19:15:37.857223Z",
+  "updated_at": "2026-06-17T22:02:35.065663Z",
   "stories": [
     {
-      "title": "Epic Games announces Lore version control system",
-      "score": 640
+      "title": "A robot is sprinting towards you. Do you want it running on Claude or Grok?",
+      "score": 63
     },
     {
-      "title": "Only 16 Percent of Americans Think AI Will Have a Positive Impact on Society",
-      "score": 292
+      "title": "Lore \u2013 Open source version control system designed for scalability",
+      "score": 830
     },
     {
-      "title": "Launch HN: Adam (YC W25) \u2013 Open-Source AI CAD",
-      "score": 77
-    },
-    {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "score": 636
+      "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
+      "score": 243
     },
     {
       "title": "How we run Firecracker VMs inside EC2 and start browsers in less than 1s",
-      "score": 75
+      "score": 147
+    },
+    {
+      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
+      "score": 717
     }
   ]
 }
