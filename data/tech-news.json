@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-18T12:45:04.000211Z",
+  "updated_at": "2026-06-18T14:08:04.433157Z",
   "stories": [
     {
+      "title": "Emacs 31 Is Around the Corner: The Changes I'm Daily Driving",
+      "score": 122
+    },
+    {
+      "title": "Has W Social switched to closed source?",
+      "score": 61
+    },
+    {
       "title": "Hospitals and universities repurposing drugs at 90% lower cost",
-      "score": 64
+      "score": 110
+    },
+    {
+      "title": "I found 10k GitHub repositories distributing Trojan malware",
+      "score": 70
     },
     {
       "title": "Midjourney Medical",
-      "score": 933
-    },
-    {
-      "title": "DeepSeek Introduces Vision",
-      "score": 221
-    },
-    {
-      "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "score": 284
-    },
-    {
-      "title": "Lore \u2013 Open source version control system designed for scalability",
-      "score": 1173
+      "score": 1020
     }
   ]
 }
