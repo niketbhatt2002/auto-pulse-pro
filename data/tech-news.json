@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-18T10:13:01.645775Z",
+  "updated_at": "2026-06-18T11:06:13.533019Z",
   "stories": [
     {
       "title": "Midjourney Medical",
-      "score": 758
-    },
-    {
-      "title": "DeepSeek Introduces Vision",
-      "score": 148
+      "score": 802
     },
     {
       "title": "I need your clothes, your boots, and your motorcycle",
-      "score": 23
+      "score": 44
+    },
+    {
+      "title": "DeepSeek Introduces Vision",
+      "score": 171
     },
     {
       "title": "Local Qwen isn't a worse Opus, it's a different tool",
-      "score": 217
+      "score": 236
     },
     {
       "title": "Lore \u2013 Open source version control system designed for scalability",
-      "score": 1145
+      "score": 1156
     }
   ]
 }
