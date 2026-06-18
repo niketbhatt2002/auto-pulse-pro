@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-18T11:06:14.998109Z",
+  "updated_at": "2026-06-18T11:46:19.916838Z",
   "repos": [
     {
       "name": "DietrichGebert/ponytail",
-      "stars": 34173
+      "stars": 34295
     },
     {
       "name": "tamnd/kage",
-      "stars": 1932
+      "stars": 1936
     },
     {
       "name": "lenucksi/aur-malware-check",
-      "stars": 1494
+      "stars": 1495
     },
     {
       "name": "vercel/eve",
-      "stars": 1081
+      "stars": 1099
     },
     {
       "name": "EEliberto/IPA-Download",
-      "stars": 1051
+      "stars": 1052
     }
   ]
 }
