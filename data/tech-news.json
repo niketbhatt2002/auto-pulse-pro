@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-18T00:20:32.795498Z",
+  "updated_at": "2026-06-18T10:13:01.645775Z",
   "stories": [
     {
+      "title": "Midjourney Medical",
+      "score": 758
+    },
+    {
+      "title": "DeepSeek Introduces Vision",
+      "score": 148
+    },
+    {
+      "title": "I need your clothes, your boots, and your motorcycle",
+      "score": 23
+    },
+    {
+      "title": "Local Qwen isn't a worse Opus, it's a different tool",
+      "score": 217
+    },
+    {
       "title": "Lore \u2013 Open source version control system designed for scalability",
-      "score": 927
-    },
-    {
-      "title": "Storied Colors \u2013 a catalogue of named colors",
-      "score": 64
-    },
-    {
-      "title": "US holds off\u00a0blacklisting DeepSeek, more than 100 firms deemed security risks",
-      "score": 315
-    },
-    {
-      "title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-      "score": 214
-    },
-    {
-      "title": "GLM-5.2 is the new leading open weights model on Artificial Analysis",
-      "score": 764
+      "score": 1145
     }
   ]
 }
