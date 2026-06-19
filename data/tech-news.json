@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-19T12:00:40.479751Z",
+  "updated_at": "2026-06-19T12:51:13.213858Z",
   "stories": [
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "score": 204
+      "score": 254
     },
     {
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "score": 214
+      "score": 241
+    },
+    {
+      "title": "Google is turning Android into a 'sloperating' system. Your thoughts?",
+      "score": 7
     },
     {
       "title": "To study how chips work, MIT researchers built their own operating system",
-      "score": 208
+      "score": 230
     },
     {
       "title": "So You Want to Define a Well-Known URI",
-      "score": 83
-    },
-    {
-      "title": "Zen and the Art of Machine Learning Research",
-      "score": 87
+      "score": 97
     }
   ]
 }
