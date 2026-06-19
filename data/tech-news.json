@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-19T14:12:07.989630Z",
+  "updated_at": "2026-06-19T16:32:44.874543Z",
   "stories": [
     {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "score": 313
-    },
-    {
-      "title": "Leave a Trace",
-      "score": 42
+      "score": 394
     },
     {
       "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "score": 279
+      "score": 337
     },
     {
-      "title": "To study how chips work, MIT researchers built their own operating system",
-      "score": 255
+      "title": "The Productivity J-Curve [pdf] (2018)",
+      "score": 21
     },
     {
       "title": "Zen and the Art of Machine Learning Research",
-      "score": 123
+      "score": 168
+    },
+    {
+      "title": "Ten years of ClickHouse in open source",
+      "score": 186
     }
   ]
 }
