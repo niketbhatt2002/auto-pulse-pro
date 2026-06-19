@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-19T01:46:53.483510Z",
+  "updated_at": "2026-06-19T10:18:08.814107Z",
   "stories": [
     {
-      "title": "Zero-Touch OAuth for MCP",
-      "score": 87
+      "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
+      "score": 130
     },
     {
-      "title": "How Japan's railways stayed one while splitting apart",
-      "score": 20
+      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
+      "score": 182
     },
     {
-      "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "score": 662
+      "title": "So You Want to Define a Well-Known URI",
+      "score": 69
     },
     {
-      "title": "Cell-based architecture for resilient payment systems",
-      "score": 85
+      "title": "Ten years of ClickHouse in open source",
+      "score": 31
     },
     {
-      "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "score": 253
+      "title": "To study how chips work, MIT researchers built their own operating system",
+      "score": 187
     }
   ]
 }
