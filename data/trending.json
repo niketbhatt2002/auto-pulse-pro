@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-18T22:12:18.654630Z",
+  "updated_at": "2026-06-19T01:46:54.503069Z",
   "repos": [
     {
-      "name": "DietrichGebert/ponytail",
-      "stars": 36397
-    },
-    {
       "name": "tamnd/kage",
-      "stars": 1999
-    },
-    {
-      "name": "lenucksi/aur-malware-check",
-      "stars": 1534
+      "stars": 2010
     },
     {
       "name": "vercel/eve",
-      "stars": 1329
+      "stars": 1374
     },
     {
       "name": "EEliberto/IPA-Download",
-      "stars": 1069
+      "stars": 1072
+    },
+    {
+      "name": "Waishnav/devspace",
+      "stars": 862
+    },
+    {
+      "name": "alchaincyf/loop-engineering-orange-book",
+      "stars": 672
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-18T22:12:17.287169Z",
+  "updated_at": "2026-06-19T01:46:53.483510Z",
   "stories": [
     {
-      "title": "Noam Shazeer Joins OpenAI",
-      "score": 211
+      "title": "Zero-Touch OAuth for MCP",
+      "score": 87
+    },
+    {
+      "title": "How Japan's railways stayed one while splitting apart",
+      "score": 20
     },
     {
       "title": "I found 10k GitHub repositories distributing Trojan malware",
-      "score": 586
+      "score": 662
     },
     {
-      "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop \u20ac1.8M",
-      "score": 84
-    },
-    {
-      "title": "American Express: Cell-Based Architecture for Resilient Payment Systems",
-      "score": 33
+      "title": "Cell-based architecture for resilient payment systems",
+      "score": 85
     },
     {
       "title": "Ubiquiti: Enterprise NAS, Built on ZFS",
-      "score": 218
+      "score": 253
     }
   ]
 }
