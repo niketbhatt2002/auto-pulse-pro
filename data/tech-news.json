@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-19T16:32:44.874543Z",
+  "updated_at": "2026-06-19T18:26:40.965963Z",
   "stories": [
     {
+      "title": "There Are No Instances in ATProto",
+      "score": 110
+    },
+    {
+      "title": "Amateur may have cracked Linear A, a 120-year-old puzzle",
+      "score": 173
+    },
+    {
+      "title": "Hyundai buys Boston Dynamics",
+      "score": 160
+    },
+    {
+      "title": "Is AI ruining our skills? Early results are in \u2013 and they're not good",
+      "score": 39
+    },
+    {
       "title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28",
-      "score": 394
-    },
-    {
-      "title": "DuckDB Internals: Why Is DuckDB Fast? (Part 1)",
-      "score": 337
-    },
-    {
-      "title": "The Productivity J-Curve [pdf] (2018)",
-      "score": 21
-    },
-    {
-      "title": "Zen and the Art of Machine Learning Research",
-      "score": 168
-    },
-    {
-      "title": "Ten years of ClickHouse in open source",
-      "score": 186
+      "score": 455
     }
   ]
 }
