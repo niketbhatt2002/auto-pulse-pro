@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-19T11:17:02.829488Z",
+  "updated_at": "2026-06-19T12:00:41.649765Z",
   "repos": [
     {
       "name": "tamnd/kage",
-      "stars": 2034
+      "stars": 2038
     },
     {
       "name": "vercel/eve",
-      "stars": 1508
-    },
-    {
-      "name": "EEliberto/IPA-Download",
-      "stars": 1098
+      "stars": 1518
     },
     {
       "name": "Waishnav/devspace",
-      "stars": 1096
+      "stars": 1111
+    },
+    {
+      "name": "EEliberto/IPA-Download",
+      "stars": 1099
     },
     {
       "name": "alchaincyf/loop-engineering-orange-book",
-      "stars": 680
+      "stars": 683
     }
   ]
 }
