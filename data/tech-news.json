@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-20T15:46:22.298848Z",
+  "updated_at": "2026-06-20T18:02:58.400414Z",
   "stories": [
     {
+      "title": "SMPTE Makes Its Standards Freely Accessible",
+      "score": 44
+    },
+    {
+      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
+      "score": 25
+    },
+    {
+      "title": "DOS Game \"F-15 Strike Eagle II\" reversing project needs DOS test pilots",
+      "score": 82
+    },
+    {
       "title": "CSSQuake",
-      "score": 249
+      "score": 341
     },
     {
-      "title": "VPN ban update for UK households as government looks at 'age-gate'",
-      "score": 35
-    },
-    {
-      "title": "The European Social Stack",
-      "score": 21
-    },
-    {
-      "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
-      "score": 50
-    },
-    {
-      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
-      "score": 56
+      "title": "Ember, a native iOS Hacker News reader I built around accessibility",
+      "score": 26
     }
   ]
 }
