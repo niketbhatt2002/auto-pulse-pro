@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-20T12:25:22.720767Z",
+  "updated_at": "2026-06-20T15:46:22.298848Z",
   "stories": [
     {
       "title": "CSSQuake",
-      "score": 49
+      "score": 249
     },
     {
-      "title": "I Stored a Website in a Favicon",
-      "score": 179
+      "title": "VPN ban update for UK households as government looks at 'age-gate'",
+      "score": 35
     },
     {
-      "title": "Where to Find the Colors Your Screen Can't Show You",
-      "score": 188
+      "title": "The European Social Stack",
+      "score": 21
     },
     {
-      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
-      "score": 16
+      "title": "Bootimus \u2013 A Self-Contained PXE and HTTP Boot Server",
+      "score": 50
     },
     {
-      "title": "The Cold War's Accidental Whale Observatory",
-      "score": 14
+      "title": "From PGP to Mythos: a brief history of export controls that didn't stop anyone",
+      "score": 56
     }
   ]
 }
