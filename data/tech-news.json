@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-20T11:50:36.232739Z",
+  "updated_at": "2026-06-20T12:25:22.720767Z",
   "stories": [
     {
+      "title": "CSSQuake",
+      "score": 49
+    },
+    {
       "title": "I Stored a Website in a Favicon",
-      "score": 169
+      "score": 179
     },
     {
       "title": "Where to Find the Colors Your Screen Can't Show You",
-      "score": 168
+      "score": 188
     },
     {
-      "title": "Data Compression Explained (2012)",
-      "score": 143
+      "title": "16-year-old SATA II SSD survives 1 petabyte of writes, 25x the drive's rating",
+      "score": 16
     },
     {
-      "title": "There are no instances in ATProto",
-      "score": 464
-    },
-    {
-      "title": "Can you see three trees?",
-      "score": 145
+      "title": "The Cold War's Accidental Whale Observatory",
+      "score": 14
     }
   ]
 }
