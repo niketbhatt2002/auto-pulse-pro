@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-20T00:15:45.088830Z",
+  "updated_at": "2026-06-20T08:46:28.850628Z",
   "repos": [
     {
       "name": "tamnd/kage",
-      "stars": 2095
+      "stars": 2118
     },
     {
       "name": "vercel/eve",
-      "stars": 1641
+      "stars": 1711
     },
     {
       "name": "Waishnav/devspace",
-      "stars": 1385
+      "stars": 1509
     },
     {
       "name": "alchaincyf/loop-engineering-orange-book",
-      "stars": 700
+      "stars": 708
     },
     {
       "name": "Plaer1/junction",
-      "stars": 512
+      "stars": 515
     }
   ]
 }
