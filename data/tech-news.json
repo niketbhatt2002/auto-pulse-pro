@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-21T00:15:17.340394Z",
+  "updated_at": "2026-06-21T09:41:26.896855Z",
   "stories": [
     {
-      "title": "Pre-2022 Books",
-      "score": 113
+      "title": "Google Hits 50% IPv6",
+      "score": 61
     },
     {
-      "title": "Not just books: renting a sewing machine from the library can improve democracy",
-      "score": 47
+      "title": "A 3D voxel game engine written in APL",
+      "score": 29
     },
     {
-      "title": "Epoll vs. Io_uring in Linux",
-      "score": 25
+      "title": "Developers don't understand CORS (2019)",
+      "score": 192
     },
     {
-      "title": "SMPTE Makes Its Standards Freely Accessible",
-      "score": 215
+      "title": "Zigzag Decoding with AVX-512",
+      "score": 73
     },
     {
-      "title": "Show HN: TownSquare, a tiny presence layer for websites",
-      "score": 19
+      "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
+      "score": 279
     }
   ]
 }
