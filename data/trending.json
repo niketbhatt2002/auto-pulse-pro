@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-21T10:27:09.171646Z",
+  "updated_at": "2026-06-21T11:11:23.151497Z",
   "repos": [
     {
       "name": "vercel/eve",
-      "stars": 1922
+      "stars": 1931
     },
     {
       "name": "alchaincyf/loop-engineering-orange-book",
@@ -11,15 +11,15 @@
     },
     {
       "name": "zhongerxin/cowart",
-      "stars": 679
+      "stars": 708
     },
     {
       "name": "rebel0789/codexpro",
-      "stars": 587
+      "stars": 590
     },
     {
       "name": "Forsy-AI/agent-apprenticeship",
-      "stars": 562
+      "stars": 564
     }
   ]
 }
