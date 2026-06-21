@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-21T13:03:15.507980Z",
+  "updated_at": "2026-06-21T15:56:50.122824Z",
   "stories": [
     {
-      "title": "The case against geometric algebra (2024)",
-      "score": 40
+      "title": "(How to Write a (Lisp) Interpreter (In Python))",
+      "score": 14
     },
     {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "score": 34
+      "score": 225
     },
     {
-      "title": "A 3D voxel game engine written in APL",
-      "score": 79
+      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
+      "score": 65
     },
     {
-      "title": "Google Hits 50% IPv6",
-      "score": 202
+      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
+      "score": 33
     },
     {
-      "title": "David Ahl's Basic Computer Games Ported to C",
-      "score": 4
+      "title": "The case against geometric algebra (2024)",
+      "score": 92
     }
   ]
 }
