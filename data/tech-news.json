@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-21T15:56:50.122824Z",
+  "updated_at": "2026-06-21T18:13:28.886474Z",
   "stories": [
     {
-      "title": "(How to Write a (Lisp) Interpreter (In Python))",
-      "score": 14
+      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
+      "score": 176
+    },
+    {
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "score": 69
     },
     {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "score": 225
+      "score": 296
     },
     {
-      "title": "Who Owns Your ATProto Identity? Hint: It's Probably Not You",
-      "score": 65
+      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
+      "score": 27
     },
     {
-      "title": "Commodore Made a Digital Detox Phone That Isn't Dumb",
-      "score": 33
-    },
-    {
-      "title": "The case against geometric algebra (2024)",
-      "score": 92
+      "title": "The Minimum Viable Unit of Saleable Software",
+      "score": 28
     }
   ]
 }
