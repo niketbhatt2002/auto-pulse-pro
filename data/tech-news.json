@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-21T18:13:28.886474Z",
+  "updated_at": "2026-06-21T21:16:59.280513Z",
   "stories": [
     {
-      "title": "Code duplication is far cheaper than the wrong abstraction (2016)",
-      "score": 176
+      "title": "JSON-LD Explained for Personal Websites",
+      "score": 95
     },
     {
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
-      "score": 69
+      "title": "Ask for no, don't ask for yes (2022)",
+      "score": 21
+    },
+    {
+      "title": "Prefer duplication over the wrong abstraction (2016)",
+      "score": 359
     },
     {
       "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "score": 296
+      "score": 376
     },
     {
-      "title": "Burnout Is Real in the OSS World, Says John-David Dalton, Creator of Lodash",
-      "score": 27
-    },
-    {
-      "title": "The Minimum Viable Unit of Saleable Software",
-      "score": 28
+      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "score": 141
     }
   ]
 }
