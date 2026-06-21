@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-21T09:41:26.896855Z",
+  "updated_at": "2026-06-21T10:27:07.754640Z",
   "stories": [
     {
       "title": "Google Hits 50% IPv6",
-      "score": 61
+      "score": 105
     },
     {
       "title": "A 3D voxel game engine written in APL",
-      "score": 29
+      "score": 48
     },
     {
       "title": "Developers don't understand CORS (2019)",
-      "score": 192
+      "score": 205
     },
     {
       "title": "Zigzag Decoding with AVX-512",
-      "score": 73
+      "score": 75
     },
     {
       "title": "Loupe \u2013 A iOS app that raises awareness about what native apps can see",
-      "score": 279
+      "score": 292
     }
   ]
 }
