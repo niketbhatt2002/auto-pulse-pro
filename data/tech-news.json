@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-20T21:20:32.591599Z",
+  "updated_at": "2026-06-21T00:15:17.340394Z",
   "stories": [
     {
-      "title": "UK Home Office launches \u00a375M 'PoliceAI' to capitalise on artificial intelligence",
-      "score": 16
+      "title": "Pre-2022 Books",
+      "score": 113
+    },
+    {
+      "title": "Not just books: renting a sewing machine from the library can improve democracy",
+      "score": 47
+    },
+    {
+      "title": "Epoll vs. Io_uring in Linux",
+      "score": 25
     },
     {
       "title": "SMPTE Makes Its Standards Freely Accessible",
-      "score": 149
+      "score": 215
     },
     {
-      "title": "PostgresBench: A Reproducible Benchmark for Postgres Services",
-      "score": 37
-    },
-    {
-      "title": "UHF X11: X11 Built for VisionOS and Apple Vision Pro",
-      "score": 103
-    },
-    {
-      "title": "The Wholesale Plagiarism of Obscure Sorrows",
-      "score": 262
+      "title": "Show HN: TownSquare, a tiny presence layer for websites",
+      "score": 19
     }
   ]
 }
