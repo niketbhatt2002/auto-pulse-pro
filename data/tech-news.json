@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-22T15:49:10.596810Z",
+  "updated_at": "2026-06-22T18:13:44.964146Z",
   "stories": [
     {
-      "title": "Pledging Another $400k to the Zig Software Foundation",
-      "score": 368
-    },
-    {
-      "title": "Never Give Them Your Face",
-      "score": 301
-    },
-    {
-      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
-      "score": 73
+      "title": "Steam Machine",
+      "score": 154
     },
     {
       "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "score": 50
+      "score": 123
     },
     {
       "title": "Deno Desktop",
-      "score": 783
+      "score": 879
+    },
+    {
+      "title": "Show HN: Oak \u2013 Git replacement designed for agents",
+      "score": 44
+    },
+    {
+      "title": "Prompt Injection as Role Confusion",
+      "score": 49
     }
   ]
 }
