@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-22T11:43:16.821838Z",
+  "updated_at": "2026-06-22T12:45:12.914887Z",
   "stories": [
     {
       "title": "Deno Desktop",
-      "score": 498
+      "score": 595
+    },
+    {
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "score": 188
     },
     {
       "title": "Help I accidentally a wigglegram",
-      "score": 295
+      "score": 331
     },
     {
       "title": "Did my old job only exist because of fraud?",
-      "score": 610
+      "score": 647
     },
     {
-      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
-      "score": 423
-    },
-    {
-      "title": "Munich 1991: The Roots of the Current AI Boom",
-      "score": 93
+      "title": "Investors get real-time view of UK bond market activity for the first time",
+      "score": 52
     }
   ]
 }
