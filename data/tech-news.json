@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-22T19:58:47.867706Z",
+  "updated_at": "2026-06-22T22:05:09.276622Z",
   "stories": [
     {
-      "title": "Steam Machine",
-      "score": 586
+      "title": "Steam Machine launches today",
+      "score": 924
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "score": 65
+    },
+    {
+      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
+      "score": 28
+    },
+    {
+      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
+      "score": 48
     },
     {
       "title": "My Mathematical Regression",
-      "score": 83
-    },
-    {
-      "title": "Deno Desktop",
-      "score": 935
-    },
-    {
-      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
-      "score": 159
-    },
-    {
-      "title": "Linux and Secure Boot certificate expiration",
-      "score": 19
+      "score": 148
     }
   ]
 }
