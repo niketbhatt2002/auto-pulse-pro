@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-22T12:45:12.914887Z",
+  "updated_at": "2026-06-22T13:28:46.551320Z",
   "stories": [
     {
       "title": "Deno Desktop",
-      "score": 595
-    },
-    {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "score": 188
-    },
-    {
-      "title": "Help I accidentally a wigglegram",
-      "score": 331
-    },
-    {
-      "title": "Did my old job only exist because of fraud?",
       "score": 647
     },
     {
-      "title": "Investors get real-time view of UK bond market activity for the first time",
-      "score": 52
+      "title": "window.showDirectoryPicker opens up a whole new world",
+      "score": 12
+    },
+    {
+      "title": "GLM 5.2 vs. Opus",
+      "score": 233
+    },
+    {
+      "title": "Codex logging bug may write TBs to local SSDs",
+      "score": 214
+    },
+    {
+      "title": "Help I accidentally a wigglegram",
+      "score": 351
     }
   ]
 }
