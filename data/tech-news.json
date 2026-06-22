@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-22T14:46:12.500827Z",
+  "updated_at": "2026-06-22T15:12:59.801016Z",
   "stories": [
     {
       "title": "Pledging Another $400k to the Zig Software Foundation",
-      "score": 211
+      "score": 273
     },
     {
       "title": "Never Give Them Your Face",
-      "score": 120
+      "score": 208
+    },
+    {
+      "title": "Claude Code's \"extended thinking\" is a summary- not authentic thinking",
+      "score": 35
     },
     {
       "title": "Deno Desktop",
-      "score": 728
+      "score": 751
     },
     {
-      "title": "GLM 5.2 vs. Opus",
-      "score": 305
-    },
-    {
-      "title": "Codex logging bug may write TBs to local SSDs",
-      "score": 268
+      "title": "Moebius: 0.2B image inpainting model with 10B-level performance",
+      "score": 16
     }
   ]
 }
