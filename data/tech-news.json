@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-21T21:16:59.280513Z",
+  "updated_at": "2026-06-22T00:17:48.757307Z",
   "stories": [
     {
-      "title": "JSON-LD Explained for Personal Websites",
-      "score": 95
+      "title": "Apertus \u2013 Open Foundation Model for Sovereign AI",
+      "score": 139
     },
     {
-      "title": "Ask for no, don't ask for yes (2022)",
-      "score": 21
-    },
-    {
-      "title": "Prefer duplication over the wrong abstraction (2016)",
-      "score": 359
-    },
-    {
-      "title": "Beyond All Reason (Free Total Annihilation Inspired RTS)",
-      "score": 376
-    },
-    {
-      "title": "(How to Write a (Lisp) Interpreter (In Python)) (2010)",
+      "title": "Did my old job only exist because of fraud?",
       "score": 141
+    },
+    {
+      "title": "Everything is logarithms",
+      "score": 75
+    },
+    {
+      "title": "PowerFox Browser",
+      "score": 53
+    },
+    {
+      "title": "JSON-LD Explained for Personal Websites",
+      "score": 144
     }
   ]
 }
