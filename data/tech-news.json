@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T13:42:08.160075Z",
+  "updated_at": "2026-06-23T16:28:10.731722Z",
   "stories": [
     {
+      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
+      "score": 144
+    },
+    {
       "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "score": 123
+      "score": 284
     },
     {
-      "title": "Steam Machine launches today",
-      "score": 1730
+      "title": "Spying on kids to save kids from spying is stupid",
+      "score": 276
     },
     {
-      "title": "The Coming Loop",
-      "score": 87
+      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
+      "score": 35
     },
     {
-      "title": "Plotnine",
-      "score": 120
-    },
-    {
-      "title": "Will It Mythos?",
-      "score": 210
+      "title": "Mistral OCR 4",
+      "score": 181
     }
   ]
 }
