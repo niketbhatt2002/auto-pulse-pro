@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-22T22:05:09.276622Z",
+  "updated_at": "2026-06-23T00:15:09.737971Z",
   "stories": [
     {
       "title": "Steam Machine launches today",
-      "score": 924
+      "score": 1103
     },
     {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "score": 65
-    },
-    {
-      "title": "Nearly Half of LG Smart TV Apps Contain Residential Proxy SDKs",
-      "score": 28
+      "title": "Unsloth GLM-5.2 \u2013 How to Run Locally",
+      "score": 114
     },
     {
       "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "score": 48
+      "score": 81
+    },
+    {
+      "title": "British Columbia, Time Zones, and Postgres",
+      "score": 93
     },
     {
       "title": "My Mathematical Regression",
-      "score": 148
+      "score": 181
     }
   ]
 }
