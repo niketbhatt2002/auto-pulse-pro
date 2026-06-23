@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T18:58:43.496651Z",
+  "updated_at": "2026-06-23T21:43:51.722195Z",
   "stories": [
     {
-      "title": "F3",
-      "score": 380
+      "title": "Jerry's Map",
+      "score": 223
     },
     {
-      "title": "San Diego photologs from the 1970s",
-      "score": 86
+      "title": "German Rail Service Suspended Due to Radio Interference",
+      "score": 37
     },
     {
-      "title": "Swift Package Index Joins Apple",
+      "title": "All train services in Germany halted after train radio communications disruption",
       "score": 41
     },
     {
-      "title": "Jerry's Map",
-      "score": 18
+      "title": "Don't verify email addresses by sending spam to them",
+      "score": 63
     },
     {
-      "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
-      "score": 242
+      "title": "Swift Package Index joins Apple",
+      "score": 129
     }
   ]
 }
