@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T00:15:09.737971Z",
+  "updated_at": "2026-06-23T09:29:05.215840Z",
   "stories": [
     {
+      "title": "The new HTTP QUERY method explained",
+      "score": 82
+    },
+    {
       "title": "Steam Machine launches today",
-      "score": 1103
+      "score": 1578
     },
     {
-      "title": "Unsloth GLM-5.2 \u2013 How to Run Locally",
-      "score": 114
+      "title": "AI Built a Nuke and Still Lost",
+      "score": 32
     },
     {
-      "title": "Optocam Zero: a Pi Zero based digital camera made using off the shelf components",
-      "score": 81
+      "title": "Will It Mythos?",
+      "score": 157
     },
     {
-      "title": "British Columbia, Time Zones, and Postgres",
-      "score": 93
-    },
-    {
-      "title": "My Mathematical Regression",
-      "score": 181
+      "title": "Polymarket has flooded social media with deceptive videos by paid creators",
+      "score": 285
     }
   ]
 }

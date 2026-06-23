@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T00:15:11.166740Z",
+  "updated_at": "2026-06-23T09:29:06.804034Z",
   "repos": [
     {
       "name": "zhongerxin/Cowart",
-      "stars": 1954
+      "stars": 2201
     },
     {
-      "name": "Forsy-AI/agent-apprenticeship",
-      "stars": 682
-    },
-    {
-      "name": "aidenybai/cnfast",
-      "stars": 655
+      "name": "baidu/Unlimited-OCR",
+      "stars": 1197
     },
     {
       "name": "lyra81604/zhengxi-views",
-      "stars": 653
+      "stars": 780
     },
     {
-      "name": "kanavtwtgg/birds.cafe",
-      "stars": 541
+      "name": "Forsy-AI/agent-apprenticeship",
+      "stars": 753
+    },
+    {
+      "name": "aidenybai/cnfast",
+      "stars": 706
     }
   ]
 }
