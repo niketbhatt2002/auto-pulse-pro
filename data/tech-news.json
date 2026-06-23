@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T16:28:10.731722Z",
+  "updated_at": "2026-06-23T18:58:43.496651Z",
   "stories": [
     {
+      "title": "F3",
+      "score": 380
+    },
+    {
+      "title": "San Diego photologs from the 1970s",
+      "score": 86
+    },
+    {
+      "title": "Swift Package Index Joins Apple",
+      "score": 41
+    },
+    {
+      "title": "Jerry's Map",
+      "score": 18
+    },
+    {
       "title": "Show HN: TikZ Editor \u2013 WYSIWYG editor for figures in LaTeX",
-      "score": 144
-    },
-    {
-      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "score": 284
-    },
-    {
-      "title": "Spying on kids to save kids from spying is stupid",
-      "score": 276
-    },
-    {
-      "title": "Lift4D: Harmonizing Single-View 3D Estimation for 4D Reconstruction In-the-Wild",
-      "score": 35
-    },
-    {
-      "title": "Mistral OCR 4",
-      "score": 181
+      "score": 242
     }
   ]
 }
