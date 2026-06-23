@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T10:57:05.142628Z",
+  "updated_at": "2026-06-23T12:10:20.011676Z",
   "repos": [
     {
       "name": "zhongerxin/Cowart",
-      "stars": 2227
+      "stars": 2243
     },
     {
       "name": "baidu/Unlimited-OCR",
-      "stars": 1337
+      "stars": 1489
     },
     {
       "name": "lyra81604/zhengxi-views",
-      "stars": 800
+      "stars": 819
     },
     {
       "name": "Forsy-AI/agent-apprenticeship",
-      "stars": 767
+      "stars": 779
     },
     {
       "name": "aidenybai/cnfast",
-      "stars": 714
+      "stars": 721
     }
   ]
 }

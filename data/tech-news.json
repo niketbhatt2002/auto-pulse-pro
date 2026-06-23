@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T10:57:03.827354Z",
+  "updated_at": "2026-06-23T12:10:18.926419Z",
   "stories": [
     {
-      "title": "Crypto in 2026: Oh, This Is the Bad Place",
-      "score": 45
-    },
-    {
       "title": "Steam Machine launches today",
-      "score": 1611
+      "score": 1674
     },
     {
       "title": "The new HTTP QUERY method explained",
-      "score": 138
+      "score": 170
+    },
+    {
+      "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
+      "score": 17
+    },
+    {
+      "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
+      "score": 7
     },
     {
       "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "score": 325
-    },
-    {
-      "title": "Plotnine",
-      "score": 50
+      "score": 387
     }
   ]
 }
