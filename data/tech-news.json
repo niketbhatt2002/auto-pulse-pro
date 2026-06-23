@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T12:10:18.926419Z",
+  "updated_at": "2026-06-23T12:27:49.344336Z",
   "stories": [
     {
-      "title": "Steam Machine launches today",
-      "score": 1674
-    },
-    {
-      "title": "The new HTTP QUERY method explained",
-      "score": 170
-    },
-    {
-      "title": "The Reversal Curse: LLMs trained on \"A is B\" fail to learn \"B is A\"",
-      "score": 17
-    },
-    {
       "title": "Unlimited OCR: One-Shot Long-Horizon Parsing",
-      "score": 7
+      "score": 31
+    },
+    {
+      "title": "Steam Machine launches today",
+      "score": 1691
+    },
+    {
+      "title": "Oracle shed about 20k roles globally in the last year",
+      "score": 34
+    },
+    {
+      "title": "The Coming Loop",
+      "score": 10
     },
     {
       "title": "Polymarket has flooded social media with deceptive videos by paid creators",
-      "score": 387
+      "score": 405
     }
   ]
 }
