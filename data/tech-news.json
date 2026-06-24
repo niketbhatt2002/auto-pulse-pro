@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-23T21:43:51.722195Z",
+  "updated_at": "2026-06-24T00:03:41.084123Z",
   "stories": [
     {
       "title": "Jerry's Map",
-      "score": 223
+      "score": 291
     },
     {
-      "title": "German Rail Service Suspended Due to Radio Interference",
-      "score": 37
-    },
-    {
-      "title": "All train services in Germany halted after train radio communications disruption",
-      "score": 41
-    },
-    {
-      "title": "Don't verify email addresses by sending spam to them",
-      "score": 63
+      "title": "FUTO Swipe \u2013 A new swipe typing model",
+      "score": 208
     },
     {
       "title": "Swift Package Index joins Apple",
-      "score": 129
+      "score": 160
+    },
+    {
+      "title": "Printing Gaussian Splats",
+      "score": 135
+    },
+    {
+      "title": "In memory of the man who put red and green squiggles under words",
+      "score": 94
     }
   ]
 }
