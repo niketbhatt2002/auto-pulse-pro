@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-24T16:24:36.715560Z",
+  "updated_at": "2026-06-24T18:25:17.135615Z",
   "stories": [
     {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "score": 133
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "score": 80
     },
     {
-      "title": "John Carmack on the mistakes around Quake that ruined id software",
-      "score": 61
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "score": 227
+    },
+    {
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "score": 49
+    },
+    {
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "score": 333
     },
     {
       "title": "We\u2019re making Bunny DNS free",
-      "score": 610
-    },
-    {
-      "title": "Show HN: Nub \u2013 A Bun-like all-in-one toolkit for Node.js",
-      "score": 77
-    },
-    {
-      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
-      "score": 14
+      "score": 688
     }
   ]
 }
