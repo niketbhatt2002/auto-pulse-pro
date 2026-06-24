@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-24T10:18:29.826459Z",
+  "updated_at": "2026-06-24T10:42:59.435865Z",
   "stories": [
     {
       "title": "We're making Bunny DNS free: because a faster internet won't build itself",
-      "score": 82
+      "score": 139
     },
     {
       "title": "Vulnerability reports are not special anymore",
-      "score": 287
+      "score": 289
     },
     {
       "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
-      "score": 141
+      "score": 148
     },
     {
       "title": "Jerry's Map",
-      "score": 474
+      "score": 479
     },
     {
-      "title": "Why eval startups fail (2025)",
-      "score": 21
+      "title": "In memory of the man who put red and green squiggles under words",
+      "score": 398
     }
   ]
 }
