@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-24T18:25:18.457768Z",
+  "updated_at": "2026-06-24T21:25:05.909086Z",
   "repos": [
     {
       "name": "baidu/Unlimited-OCR",
-      "stars": 6066
+      "stars": 6242
     },
     {
       "name": "zhongerxin/Cowart",
-      "stars": 2633
+      "stars": 2635
     },
     {
       "name": "bozhouDev/codex-orange-book",
-      "stars": 1279
+      "stars": 1332
     },
     {
       "name": "lyra81604/zhengxi-views",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Forsy-AI/agent-apprenticeship",
-      "stars": 899
+      "stars": 902
     }
   ]
 }
