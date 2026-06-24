@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-24T13:19:59.271223Z",
+  "updated_at": "2026-06-24T16:24:36.715560Z",
   "stories": [
     {
-      "title": "We're making Bunny DNS free: because a faster internet won't build itself",
-      "score": 387
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "score": 133
     },
     {
-      "title": "Founding a company in Germany: \u20ac9600, 152 days and I still can't send an invoice",
-      "score": 67
+      "title": "John Carmack on the mistakes around Quake that ruined id software",
+      "score": 61
     },
     {
-      "title": "Krea 2 Technical Report",
-      "score": 47
+      "title": "We\u2019re making Bunny DNS free",
+      "score": 610
     },
     {
-      "title": "Minimus container images are now free",
-      "score": 33
+      "title": "Show HN: Nub \u2013 A Bun-like all-in-one toolkit for Node.js",
+      "score": 77
     },
     {
-      "title": "Too many R packages: CRAN is inundated with submissions",
-      "score": 33
+      "title": "Edsger Dijkstra's Library (Housed and Archived in Leuven, Belgium)",
+      "score": 14
     }
   ]
 }
