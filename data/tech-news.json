@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-24T00:03:41.084123Z",
+  "updated_at": "2026-06-24T08:57:44.283214Z",
   "stories": [
     {
+      "title": "Vulnerability reports are not special anymore",
+      "score": 252
+    },
+    {
+      "title": "Raspberry Pi Pico W as USB Wi-Fi Adapter",
+      "score": 118
+    },
+    {
+      "title": "Show HN: An ASCII 3D Rendering Engine",
+      "score": 111
+    },
+    {
       "title": "Jerry's Map",
-      "score": 291
+      "score": 459
     },
     {
       "title": "FUTO Swipe \u2013 A new swipe typing model",
-      "score": 208
-    },
-    {
-      "title": "Swift Package Index joins Apple",
-      "score": 160
-    },
-    {
-      "title": "Printing Gaussian Splats",
-      "score": 135
-    },
-    {
-      "title": "In memory of the man who put red and green squiggles under words",
-      "score": 94
+      "score": 525
     }
   ]
 }
