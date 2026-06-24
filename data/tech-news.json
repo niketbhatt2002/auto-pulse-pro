@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-24T12:13:27.869489Z",
+  "updated_at": "2026-06-24T13:19:59.271223Z",
   "stories": [
     {
       "title": "We're making Bunny DNS free: because a faster internet won't build itself",
-      "score": 276
+      "score": 387
     },
     {
-      "title": "Statistics that live in your SQL",
-      "score": 43
-    },
-    {
-      "title": "Vulnerability reports are not special anymore",
-      "score": 314
-    },
-    {
-      "title": "A deadly fungus that can infect cats and people is spreading",
-      "score": 29
+      "title": "Founding a company in Germany: \u20ac9600, 152 days and I still can't send an invoice",
+      "score": 67
     },
     {
       "title": "Krea 2 Technical Report",
-      "score": 7
+      "score": 47
+    },
+    {
+      "title": "Minimus container images are now free",
+      "score": 33
+    },
+    {
+      "title": "Too many R packages: CRAN is inundated with submissions",
+      "score": 33
     }
   ]
 }
