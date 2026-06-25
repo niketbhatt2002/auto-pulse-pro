@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T10:12:56.906250Z",
+  "updated_at": "2026-06-25T10:36:59.989757Z",
   "stories": [
     {
       "title": "Half-Life 2 in a Browser",
-      "score": 241
+      "score": 261
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "score": 429
+      "score": 435
     },
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 703
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "score": 76
+      "score": 708
     },
     {
       "title": "Cloudflare launched self-managed OAuth for all",
-      "score": 167
+      "score": 173
+    },
+    {
+      "title": "Bohemia Interactive: Cold War Assault Remastered Source Code on GitHub",
+      "score": 77
     }
   ]
 }
