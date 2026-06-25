@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-06-25T08:52:30.989653Z",
+  "updated_at": "2026-06-25T10:12:58.022556Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
-      "stars": 1665
+      "stars": 1708
     },
     {
       "name": "lyra81604/zhengxi-views",
-      "stars": 1014
+      "stars": 1019
     },
     {
       "name": "Forsy-AI/agent-apprenticeship",
@@ -15,11 +15,11 @@
     },
     {
       "name": "aidenybai/cnfast",
-      "stars": 899
+      "stars": 902
     },
     {
       "name": "kanavtwtgg/birds.cafe",
-      "stars": 783
+      "stars": 784
     }
   ]
 }

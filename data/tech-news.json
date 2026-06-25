@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T08:52:29.712892Z",
+  "updated_at": "2026-06-25T10:12:56.906250Z",
   "stories": [
     {
       "title": "Half-Life 2 in a Browser",
-      "score": 182
-    },
-    {
-      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
-      "score": 46
+      "score": 241
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "score": 391
+      "score": 429
     },
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 691
+      "score": 703
+    },
+    {
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "score": 76
     },
     {
       "title": "Cloudflare launched self-managed OAuth for all",
-      "score": 146
+      "score": 167
     }
   ]
 }
