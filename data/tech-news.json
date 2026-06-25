@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T12:11:42.530606Z",
+  "updated_at": "2026-06-25T13:13:35.086087Z",
   "stories": [
     {
-      "title": "Dolphin Emulator Progress Release 2606",
-      "score": 87
+      "title": "Half-Life 2 in a Browser",
+      "score": 376
     },
     {
-      "title": "Half-Life 2 in a Browser",
-      "score": 333
+      "title": "You can't unit test for taste",
+      "score": 12
     },
     {
       "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "score": 493
+      "score": 540
+    },
+    {
+      "title": "LastPass notifies users of yet another data breach",
+      "score": 113
     },
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 724
-    },
-    {
-      "title": "Cloudflare launched self-managed OAuth for all",
-      "score": 205
+      "score": 742
     }
   ]
 }
