@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T16:28:30.486868Z",
+  "updated_at": "2026-06-25T18:59:13.971939Z",
   "stories": [
     {
-      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
-      "score": 244
+      "title": "A Herculaneum scroll has been read for the first time",
+      "score": 319
     },
     {
-      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
-      "score": 303
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "score": 108
     },
     {
-      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
-      "score": 68
+      "title": "Oxide computer 3D rack guided tour",
+      "score": 63
     },
     {
-      "title": "You can't unit test for taste",
-      "score": 152
+      "title": "I built a GPU back end for Emacs",
+      "score": 88
     },
     {
-      "title": "Apple increases MacBook and iPad prices by 20%",
-      "score": 138
+      "title": "Zig's new bitCast semantics and LLVM back end improvements",
+      "score": 146
     }
   ]
 }
