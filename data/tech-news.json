@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T00:18:15.862818Z",
+  "updated_at": "2026-06-25T08:52:29.712892Z",
   "stories": [
     {
+      "title": "Half-Life 2 in a Browser",
+      "score": 182
+    },
+    {
+      "title": "Wikipedia Workers in Britain set global first by seeking union recognition",
+      "score": 46
+    },
+    {
+      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
+      "score": 391
+    },
+    {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 472
+      "score": 691
     },
     {
-      "title": "PostgreSQL is enough (2024)",
-      "score": 76
-    },
-    {
-      "title": "Qualcomm to Acquire Modular",
-      "score": 119
-    },
-    {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "score": 334
-    },
-    {
-      "title": "We\u2019re making Bunny DNS free",
-      "score": 837
+      "title": "Cloudflare launched self-managed OAuth for all",
+      "score": 146
     }
   ]
 }
