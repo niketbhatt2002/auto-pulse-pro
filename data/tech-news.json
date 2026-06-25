@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T18:59:13.971939Z",
+  "updated_at": "2026-06-25T21:45:47.912879Z",
   "stories": [
     {
-      "title": "A Herculaneum scroll has been read for the first time",
-      "score": 319
-    },
-    {
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "score": 108
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "score": 709
     },
     {
       "title": "Oxide computer 3D rack guided tour",
-      "score": 63
+      "score": 219
     },
     {
-      "title": "I built a GPU back end for Emacs",
-      "score": 88
+      "title": "IBM debuts sub-1 nanometer chip technology",
+      "score": 208
     },
     {
-      "title": "Zig's new bitCast semantics and LLVM back end improvements",
-      "score": 146
+      "title": "Un-0: Generating Images with Coupled Oscillators",
+      "score": 26
+    },
+    {
+      "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
+      "score": 120
     }
   ]
 }
