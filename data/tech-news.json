@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T13:13:35.086087Z",
+  "updated_at": "2026-06-25T16:28:30.486868Z",
   "stories": [
     {
-      "title": "Half-Life 2 in a Browser",
-      "score": 376
+      "title": "Show HN: I made Google Trends for Hacker News by indexing 18 years of comments",
+      "score": 244
+    },
+    {
+      "title": "Ford rehires 350 engineers after AI fails to preserve expertise or train juniors",
+      "score": 303
+    },
+    {
+      "title": "Zig's New BitCast Semantics and LLVM Back End Improvements",
+      "score": 68
     },
     {
       "title": "You can't unit test for taste",
-      "score": 12
+      "score": 152
     },
     {
-      "title": "Anthropic says Alibaba illicitly extracted Claude AI model capabilities",
-      "score": 540
-    },
-    {
-      "title": "LastPass notifies users of yet another data breach",
-      "score": 113
-    },
-    {
-      "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 742
+      "title": "Apple increases MacBook and iPad prices by 20%",
+      "score": 138
     }
   ]
 }
