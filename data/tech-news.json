@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-24T21:25:04.564481Z",
+  "updated_at": "2026-06-25T00:18:15.862818Z",
   "stories": [
     {
       "title": "OpenAI unveils its first custom chip, built by Broadcom",
-      "score": 336
+      "score": 472
     },
     {
-      "title": "RubyLLM: A Ruby framework for all major AI providers",
-      "score": 296
+      "title": "PostgreSQL is enough (2024)",
+      "score": 76
     },
     {
       "title": "Qualcomm to Acquire Modular",
-      "score": 28
+      "score": 119
     },
     {
-      "title": "Zero-Downtime Deployments with Docker Compose \u2013 No Kubernetes Required",
-      "score": 28
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "score": 334
     },
     {
       "title": "We\u2019re making Bunny DNS free",
-      "score": 777
+      "score": 837
     }
   ]
 }
