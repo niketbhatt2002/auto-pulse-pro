@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-25T21:45:47.912879Z",
+  "updated_at": "2026-06-26T00:16:03.776680Z",
   "stories": [
     {
       "title": "An entire Herculaneum scroll has been read for the first time",
-      "score": 709
+      "score": 900
     },
     {
-      "title": "Oxide computer 3D rack guided tour",
-      "score": 219
-    },
-    {
-      "title": "IBM debuts sub-1 nanometer chip technology",
-      "score": 208
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "score": 288
     },
     {
       "title": "Un-0: Generating Images with Coupled Oscillators",
-      "score": 26
+      "score": 94
     },
     {
-      "title": "Show HN: OpenKnowledge \u2013 open source AI-first alternative to Obsidian/Notion",
-      "score": 120
+      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
+      "score": 66
+    },
+    {
+      "title": "Oxide computer 3D rack guided tour",
+      "score": 273
     }
   ]
 }
