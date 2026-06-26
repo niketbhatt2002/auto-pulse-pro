@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-26T00:16:04.888133Z",
+  "updated_at": "2026-06-26T08:55:27.362586Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
-      "stars": 1934
+      "stars": 2052
     },
     {
       "name": "lyra81604/zhengxi-views",
-      "stars": 1034
+      "stars": 1051
     },
     {
       "name": "kanavtwtgg/birds.cafe",
-      "stars": 787
+      "stars": 788
     },
     {
       "name": "yo-WASSUP/Good-Badminton",
-      "stars": 515
+      "stars": 534
     },
     {
-      "name": "BohemiaInteractive/CWR",
-      "stars": 490
+      "name": "QwenLM/Qwen-AgentWorld",
+      "stars": 533
     }
   ]
 }

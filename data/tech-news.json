@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-26T00:16:03.776680Z",
+  "updated_at": "2026-06-26T08:55:26.158856Z",
   "stories": [
     {
+      "title": "Why current LLM costs are not sustainable",
+      "score": 47
+    },
+    {
+      "title": "Om Malik has died",
+      "score": 854
+    },
+    {
       "title": "An entire Herculaneum scroll has been read for the first time",
-      "score": 900
+      "score": 1280
     },
     {
-      "title": "The 'papers, please' era of the internet will decimate your privacy",
-      "score": 288
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "score": 61
     },
     {
-      "title": "Un-0: Generating Images with Coupled Oscillators",
-      "score": 94
-    },
-    {
-      "title": "A game where you're an OS and have to manage processes, memory and I/O events",
-      "score": 66
-    },
-    {
-      "title": "Oxide computer 3D rack guided tour",
-      "score": 273
+      "title": "Libre Barcode Project",
+      "score": 132
     }
   ]
 }
