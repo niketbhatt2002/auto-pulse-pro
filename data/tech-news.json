@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-26T18:19:22.711714Z",
+  "updated_at": "2026-06-26T21:20:52.154994Z",
   "stories": [
     {
+      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
+      "score": 625
+    },
+    {
+      "title": "U.S. government will decide who gets to use GPT-5.6",
+      "score": 507
+    },
+    {
       "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "score": 129
+      "score": 205
+    },
+    {
+      "title": "The \"Bizarre Headgear\" Exhibit at the Sam Noble Museum Is Incredible",
+      "score": 47
     },
     {
       "title": "Show HN: Smart model routing directly in Claude, Codex and Cursor",
-      "score": 49
-    },
-    {
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "score": 279
-    },
-    {
-      "title": "Ultrasound imaging of the brain",
-      "score": 140
-    },
-    {
-      "title": "Om Malik has died",
-      "score": 1200
+      "score": 106
     }
   ]
 }
