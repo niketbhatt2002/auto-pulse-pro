@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-26T08:55:26.158856Z",
+  "updated_at": "2026-06-26T10:19:50.157407Z",
   "stories": [
     {
-      "title": "Why current LLM costs are not sustainable",
-      "score": 47
+      "title": "We All Depend on Open Source. We Will Defend It Together",
+      "score": 128
     },
     {
       "title": "Om Malik has died",
-      "score": 854
+      "score": 911
     },
     {
       "title": "An entire Herculaneum scroll has been read for the first time",
-      "score": 1280
-    },
-    {
-      "title": "We All Depend on Open Source. We Will Defend It Together",
-      "score": 61
+      "score": 1309
     },
     {
       "title": "Libre Barcode Project",
-      "score": 132
+      "score": 155
+    },
+    {
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "score": 175
     }
   ]
 }
