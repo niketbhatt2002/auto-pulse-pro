@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-26T21:20:53.260909Z",
+  "updated_at": "2026-06-27T00:15:00.359923Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
-      "stars": 2128
-    },
-    {
-      "name": "lyra81604/zhengxi-views",
-      "stars": 1059
+      "stars": 2135
     },
     {
       "name": "kanavtwtgg/birds.cafe",
-      "stars": 783
+      "stars": 735
     },
     {
       "name": "BohemiaInteractive/CWR",
-      "stars": 610
+      "stars": 621
     },
     {
       "name": "QwenLM/Qwen-AgentWorld",
-      "stars": 564
+      "stars": 565
+    },
+    {
+      "name": "benchflow-ai/awesome-evals",
+      "stars": 460
     }
   ]
 }
