@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-27T08:29:53.985176Z",
+  "updated_at": "2026-06-27T09:26:07.117642Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
-      "stars": 2168
+      "stars": 2171
     },
     {
       "name": "kanavtwtgg/birds.cafe",
@@ -11,15 +11,15 @@
     },
     {
       "name": "BohemiaInteractive/CWR",
-      "stars": 638
+      "stars": 640
     },
     {
       "name": "QwenLM/Qwen-AgentWorld",
-      "stars": 575
+      "stars": 578
     },
     {
       "name": "Yu9191/wloc",
-      "stars": 534
+      "stars": 551
     }
   ]
 }
