@@ -1,9 +1,13 @@
 {
-  "updated_at": "2026-06-27T12:07:34.015516Z",
+  "updated_at": "2026-06-27T15:18:59.263858Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
-      "stars": 2173
+      "stars": 2194
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "stars": 883
     },
     {
       "name": "kanavtwtgg/birds.cafe",
@@ -11,15 +15,11 @@
     },
     {
       "name": "BohemiaInteractive/CWR",
-      "stars": 648
+      "stars": 652
     },
     {
-      "name": "deepseek-ai/DeepSpec",
-      "stars": 605
-    },
-    {
-      "name": "QwenLM/Qwen-AgentWorld",
-      "stars": 582
+      "name": "Yu9191/wloc",
+      "stars": 603
     }
   ]
 }

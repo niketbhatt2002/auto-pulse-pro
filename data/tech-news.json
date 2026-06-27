@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-27T12:07:32.931863Z",
+  "updated_at": "2026-06-27T15:18:58.283345Z",
   "stories": [
     {
-      "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
-      "score": 373
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "score": 575
+    },
+    {
+      "title": "OpenRA",
+      "score": 177
     },
     {
       "title": "Fintech Engineering Handbook",
-      "score": 81
+      "score": 250
     },
     {
-      "title": "Beer CSS \u2013 Build material design in record time",
-      "score": 42
+      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
+      "score": 23
     },
     {
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "score": 1028
-    },
-    {
-      "title": "Long Wave radio era set to end with switch-off",
-      "score": 59
+      "title": "Underarm Bowling Incident of 1981",
+      "score": 28
     }
   ]
 }
