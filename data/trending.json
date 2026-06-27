@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T11:20:25.371352Z",
+  "updated_at": "2026-06-27T12:07:34.015516Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
@@ -11,15 +11,15 @@
     },
     {
       "name": "BohemiaInteractive/CWR",
-      "stars": 644
+      "stars": 648
+    },
+    {
+      "name": "deepseek-ai/DeepSpec",
+      "stars": 605
     },
     {
       "name": "QwenLM/Qwen-AgentWorld",
-      "stars": 580
-    },
-    {
-      "name": "Yu9191/wloc",
-      "stars": 569
+      "stars": 582
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-27T11:20:24.314349Z",
+  "updated_at": "2026-06-27T12:07:32.931863Z",
   "stories": [
     {
       "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
-      "score": 277
+      "score": 373
     },
     {
       "title": "Fintech Engineering Handbook",
+      "score": 81
+    },
+    {
+      "title": "Beer CSS \u2013 Build material design in record time",
       "score": 42
     },
     {
       "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "score": 1025
-    },
-    {
-      "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "score": 75
+      "score": 1028
     },
     {
       "title": "Long Wave radio era set to end with switch-off",
-      "score": 46
+      "score": 59
     }
   ]
 }
