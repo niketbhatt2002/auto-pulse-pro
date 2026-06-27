@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-27T15:18:58.283345Z",
+  "updated_at": "2026-06-27T17:52:41.628249Z",
   "stories": [
     {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "score": 575
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "score": 262
     },
     {
       "title": "OpenRA",
-      "score": 177
+      "score": 327
+    },
+    {
+      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "score": 648
+    },
+    {
+      "title": "Suspicious Discontinuities (2020)",
+      "score": 118
     },
     {
       "title": "Fintech Engineering Handbook",
-      "score": 250
-    },
-    {
-      "title": "Post-Mythos Cybersecurity: Keep calm and carry on",
-      "score": 23
-    },
-    {
-      "title": "Underarm Bowling Incident of 1981",
-      "score": 28
+      "score": 332
     }
   ]
 }
