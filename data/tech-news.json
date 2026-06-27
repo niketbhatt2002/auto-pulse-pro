@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-27T17:52:41.628249Z",
+  "updated_at": "2026-06-27T21:06:53.321732Z",
   "stories": [
     {
+      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
+      "score": 76
+    },
+    {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "score": 262
+      "score": 513
     },
     {
       "title": "OpenRA",
-      "score": 327
+      "score": 472
+    },
+    {
+      "title": "AI learns the \u201cdark art\u201d of RFIC design",
+      "score": 140
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "score": 648
-    },
-    {
-      "title": "Suspicious Discontinuities (2020)",
-      "score": 118
-    },
-    {
-      "title": "Fintech Engineering Handbook",
-      "score": 332
+      "score": 692
     }
   ]
 }
