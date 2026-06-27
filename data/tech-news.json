@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-27T09:26:05.653780Z",
+  "updated_at": "2026-06-27T09:58:23.561790Z",
   "stories": [
     {
+      "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
+      "score": 60
+    },
+    {
       "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "score": 994
+      "score": 1003
     },
     {
       "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "score": 36
+      "score": 46
     },
     {
       "title": "Long Wave radio era set to end with switch-off",
-      "score": 21
+      "score": 28
     },
     {
       "title": "WordStar: A Writer's Word Processor (1996)",
-      "score": 89
-    },
-    {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "score": 231
+      "score": 92
     }
   ]
 }
