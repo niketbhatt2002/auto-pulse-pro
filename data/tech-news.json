@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-27T09:58:23.561790Z",
+  "updated_at": "2026-06-27T10:59:57.629463Z",
   "stories": [
     {
       "title": "DeepSeek open-sources inference optimizations with 60\u201385% faster generation [pdf]",
-      "score": 60
+      "score": 223
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "score": 22
     },
     {
       "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "score": 1003
+      "score": 1022
     },
     {
       "title": "Linux on Older Hardware: The Complete Revival Guide",
-      "score": 46
+      "score": 68
     },
     {
       "title": "Long Wave radio era set to end with switch-off",
-      "score": 28
-    },
-    {
-      "title": "WordStar: A Writer's Word Processor (1996)",
-      "score": 92
+      "score": 40
     }
   ]
 }
