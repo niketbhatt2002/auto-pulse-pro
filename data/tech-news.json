@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-27T21:06:53.321732Z",
+  "updated_at": "2026-06-28T00:08:29.188647Z",
   "stories": [
     {
       "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "score": 76
+      "score": 203
     },
     {
       "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "score": 513
+      "score": 622
     },
     {
       "title": "OpenRA",
-      "score": 472
-    },
-    {
-      "title": "AI learns the \u201cdark art\u201d of RFIC design",
-      "score": 140
+      "score": 553
     },
     {
       "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "score": 692
+      "score": 714
+    },
+    {
+      "title": "Show HN: Adrafinil \u2013 keep a lid-closed Mac awake only while agents work",
+      "score": 73
     }
   ]
 }
