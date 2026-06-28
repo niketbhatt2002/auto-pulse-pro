@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T10:22:29.888629Z",
+  "updated_at": "2026-06-28T11:11:35.676795Z",
   "stories": [
     {
       "title": "Marfa Public Radio Puts You to Sleep",
-      "score": 241
+      "score": 250
     },
     {
       "title": "Bashblog \u2013 a single bash script to create blogs",
-      "score": 50
+      "score": 56
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "score": 142
-    },
-    {
-      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "score": 69
+      "score": 147
     },
     {
       "title": "OpenRA",
-      "score": 719
+      "score": 732
+    },
+    {
+      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+      "score": 136
     }
   ]
 }
