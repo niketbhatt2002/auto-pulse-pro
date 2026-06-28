@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T11:41:49.501886Z",
+  "updated_at": "2026-06-28T12:14:39.494681Z",
   "stories": [
     {
       "title": "Marfa Public Radio Puts You to Sleep",
-      "score": 262
+      "score": 272
     },
     {
       "title": "Bashblog \u2013 a single bash script to create blogs",
-      "score": 62
+      "score": 65
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "score": 157
+      "score": 161
     },
     {
       "title": "OpenRA",
-      "score": 742
+      "score": 750
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "score": 834
+      "title": "DLL that was not present in memory despite not being formally unloaded",
+      "score": 12
     }
   ]
 }
