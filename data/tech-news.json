@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T00:08:29.188647Z",
+  "updated_at": "2026-06-28T08:44:45.774817Z",
   "stories": [
     {
-      "title": "IP Crawl: Living atlas of open webcams discovered on the public internet",
-      "score": 203
+      "title": "Marfa Public Radio Puts You to Sleep",
+      "score": 199
     },
     {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "score": 622
+      "title": "Bashblog \u2013 a single bash script to create blogs",
+      "score": 32
     },
     {
-      "title": "OpenRA",
-      "score": 553
+      "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
+      "score": 57
     },
     {
-      "title": "DSpark: Speculative decoding accelerates LLM inference [pdf]",
-      "score": 714
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "score": 125
     },
     {
-      "title": "Show HN: Adrafinil \u2013 keep a lid-closed Mac awake only while agents work",
-      "score": 73
+      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+      "score": 116
     }
   ]
 }
