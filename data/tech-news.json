@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T11:11:35.676795Z",
+  "updated_at": "2026-06-28T11:41:49.501886Z",
   "stories": [
     {
       "title": "Marfa Public Radio Puts You to Sleep",
-      "score": 250
+      "score": 262
     },
     {
       "title": "Bashblog \u2013 a single bash script to create blogs",
-      "score": 56
+      "score": 62
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "score": 147
+      "score": 157
     },
     {
       "title": "OpenRA",
-      "score": 732
+      "score": 742
     },
     {
-      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
-      "score": 136
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "score": 834
     }
   ]
 }
