@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T09:55:02.520972Z",
+  "updated_at": "2026-06-28T10:22:29.888629Z",
   "stories": [
     {
       "title": "Marfa Public Radio Puts You to Sleep",
-      "score": 228
+      "score": 241
     },
     {
       "title": "Bashblog \u2013 a single bash script to create blogs",
-      "score": 48
+      "score": 50
     },
     {
       "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "score": 137
+      "score": 142
     },
     {
       "title": "Wayfinder Router: deterministic routing of queries between local and hosted LLM",
-      "score": 65
+      "score": 69
     },
     {
       "title": "OpenRA",
-      "score": 711
+      "score": 719
     }
   ]
 }

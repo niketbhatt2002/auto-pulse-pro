@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T09:55:03.979648Z",
+  "updated_at": "2026-06-28T10:22:31.236817Z",
   "repos": [
     {
       "name": "bozhouDev/codex-orange-book",
-      "stars": 2235
+      "stars": 2236
     },
     {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 1711
+      "stars": 1727
     },
     {
       "name": "bikini/exploitarium",
-      "stars": 1542
+      "stars": 1556
     },
     {
       "name": "Yu9191/wloc",
-      "stars": 877
+      "stars": 888
     },
     {
       "name": "winsznx/theeleven",
-      "stars": 676
+      "stars": 677
     }
   ]
 }
