@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T17:56:06.975042Z",
+  "updated_at": "2026-06-28T21:04:41.233223Z",
   "stories": [
     {
-      "title": "5k Restaurant Menus, Years 1880-1920",
-      "score": 187
+      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
+      "score": 287
     },
     {
       "title": "I used Claude Code to get a second opinion on my MRI",
-      "score": 66
+      "score": 220
     },
     {
-      "title": "Working around dragons with the Lemote Yeeloong laptop and OpenBSD",
-      "score": 27
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "score": 69
     },
     {
-      "title": "Daisugi the Japanese Technique of Trees Out of Trees, Making Exact Straight Wood (2020)",
-      "score": 43
+      "title": "Librepods: AirPods liberated",
+      "score": 146
     },
     {
-      "title": "Examining circuit boards from the Space Shuttle's I/O Processor",
-      "score": 40
+      "title": "Historical memory prices 1960-2026",
+      "score": 45
     }
   ]
 }
