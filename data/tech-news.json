@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T18:55:25.824751Z",
+  "updated_at": "2026-06-29T21:37:10.132687Z",
   "stories": [
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "score": 209
+      "score": 432
+    },
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "score": 81
     },
     {
       "title": "Rocketlab acquires Iridium",
-      "score": 225
-    },
-    {
-      "title": "A native graphical shell for SSH",
-      "score": 114
+      "score": 315
     },
     {
       "title": "Ornith-1.0: self-improving open-source models for agentic coding",
-      "score": 24
+      "score": 103
     },
     {
-      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
-      "score": 116
+      "title": "A native graphical shell for SSH",
+      "score": 188
     }
   ]
 }
