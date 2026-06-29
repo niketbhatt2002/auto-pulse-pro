@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T13:58:05.991845Z",
+  "updated_at": "2026-06-29T14:49:09.654257Z",
   "stories": [
     {
       "title": "Tidal AI Policy",
-      "score": 54
+      "score": 128
     },
     {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "score": 80
+      "title": "Mag 7 starting to underperform [pdf]",
+      "score": 36
+    },
+    {
+      "title": "A field guide to the modern front end for developers who hand-wrote HTML",
+      "score": 15
     },
     {
       "title": "Building Principia for Windows XP",
-      "score": 10
+      "score": 37
     },
     {
-      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-      "score": 688
-    },
-    {
-      "title": "Type-checked non-empty strings",
-      "score": 17
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "score": 93
     }
   ]
 }
