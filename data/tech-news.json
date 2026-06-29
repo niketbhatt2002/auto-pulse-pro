@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T10:46:06.848629Z",
+  "updated_at": "2026-06-29T11:55:36.823772Z",
   "stories": [
     {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-      "score": 485
+      "score": 558
     },
     {
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "score": 871
-    },
-    {
-      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
-      "score": 85
+      "score": 902
     },
     {
       "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "score": 115
+      "score": 273
     },
     {
       "title": "NUMA: Cores, memory, and the distance between them",
-      "score": 30
+      "score": 39
+    },
+    {
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "score": 9
     }
   ]
 }
