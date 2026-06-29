@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T14:49:09.654257Z",
+  "updated_at": "2026-06-29T16:54:19.759728Z",
   "stories": [
     {
-      "title": "Tidal AI Policy",
-      "score": 128
+      "title": "Rocketlab acquires Iridium",
+      "score": 141
     },
     {
-      "title": "Mag 7 starting to underperform [pdf]",
-      "score": 36
+      "title": "WATaBoy: JIT-Ing Game Boy Instructions to WASM Beats a Native Interpreter",
+      "score": 69
     },
     {
-      "title": "A field guide to the modern front end for developers who hand-wrote HTML",
-      "score": 15
+      "title": "What happens when you run a CUDA kernel?",
+      "score": 101
+    },
+    {
+      "title": "A native graphical shell for SSH",
+      "score": 25
     },
     {
       "title": "Building Principia for Windows XP",
-      "score": 37
-    },
-    {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "score": 93
+      "score": 79
     }
   ]
 }
