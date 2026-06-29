@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-28T21:04:41.233223Z",
+  "updated_at": "2026-06-29T00:14:17.265982Z",
   "stories": [
     {
-      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
-      "score": 287
-    },
-    {
-      "title": "I used Claude Code to get a second opinion on my MRI",
-      "score": 220
-    },
-    {
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "score": 69
+      "score": 351
     },
     {
-      "title": "Librepods: AirPods liberated",
-      "score": 146
+      "title": "Xonaly \u2013 Canada's Independent Search Engine",
+      "score": 38
+    },
+    {
+      "title": "A QNX-inspired operating system with selectable kernels",
+      "score": 22
     },
     {
       "title": "Historical memory prices 1960-2026",
-      "score": 45
+      "score": 129
+    },
+    {
+      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
+      "score": 312
     }
   ]
 }
