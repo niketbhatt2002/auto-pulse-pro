@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T11:55:36.823772Z",
+  "updated_at": "2026-06-29T12:25:28.124006Z",
   "stories": [
     {
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "score": 32
+    },
+    {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-      "score": 558
+      "score": 587
     },
     {
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "score": 902
+      "score": 912
     },
     {
       "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "score": 273
+      "score": 328
     },
     {
       "title": "NUMA: Cores, memory, and the distance between them",
-      "score": 39
-    },
-    {
-      "title": "Sandia National Labs SA3000 8085 CPU",
-      "score": 9
+      "score": 44
     }
   ]
 }
