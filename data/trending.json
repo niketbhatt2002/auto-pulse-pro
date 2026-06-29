@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T00:14:18.600877Z",
+  "updated_at": "2026-06-29T10:46:07.820329Z",
   "repos": [
     {
-      "name": "bozhouDev/codex-orange-book",
-      "stars": 2277
-    },
-    {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 2135
+      "stars": 2755
     },
     {
-      "name": "bikini/exploitarium",
-      "stars": 2100
+      "name": "bozhouDev/codex-orange-book",
+      "stars": 2325
     },
     {
       "name": "Yu9191/wloc",
-      "stars": 1065
+      "stars": 1331
     },
     {
       "name": "winsznx/theeleven",
-      "stars": 694
+      "stars": 710
+    },
+    {
+      "name": "Krishnagangwal/CS-Fundamentals",
+      "stars": 646
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T00:14:17.265982Z",
+  "updated_at": "2026-06-29T10:46:06.848629Z",
   "stories": [
     {
+      "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
+      "score": 485
+    },
+    {
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "score": 351
+      "score": 871
     },
     {
-      "title": "Xonaly \u2013 Canada's Independent Search Engine",
-      "score": 38
+      "title": "Dissecting Apple's Sparse Image Format (ASIF)",
+      "score": 85
     },
     {
-      "title": "A QNX-inspired operating system with selectable kernels",
-      "score": 22
+      "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
+      "score": 115
     },
     {
-      "title": "Historical memory prices 1960-2026",
-      "score": 129
-    },
-    {
-      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
-      "score": 312
+      "title": "NUMA: Cores, memory, and the distance between them",
+      "score": 30
     }
   ]
 }
