@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-29T16:54:20.750707Z",
+  "updated_at": "2026-06-29T18:55:27.138543Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 3417
+      "stars": 3551
     },
     {
       "name": "bozhouDev/codex-orange-book",
@@ -11,15 +11,15 @@
     },
     {
       "name": "Yu9191/wloc",
-      "stars": 1415
+      "stars": 1449
     },
     {
       "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 870
+      "stars": 922
     },
     {
       "name": "winsznx/theeleven",
-      "stars": 713
+      "stars": 714
     }
   ]
 }
