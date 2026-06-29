@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T12:25:28.124006Z",
+  "updated_at": "2026-06-29T13:10:43.902309Z",
   "stories": [
     {
       "title": "Sandia National Labs SA3000 8085 CPU",
-      "score": 32
+      "score": 63
+    },
+    {
+      "title": "Caffeinated and decaffeinated coffee lower stress, depression and impulsivity",
+      "score": 23
     },
     {
       "title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74. No \u2013 88",
-      "score": 587
+      "score": 636
     },
     {
       "title": "GLM 5.2 beats Claude in our benchmarks",
-      "score": 912
+      "score": 940
     },
     {
       "title": "Pollen (CEO Negus-Fancey, CTO Wright) tried to remove article, and Google helped",
-      "score": 328
-    },
-    {
-      "title": "NUMA: Cores, memory, and the distance between them",
-      "score": 44
+      "score": 424
     }
   ]
 }
