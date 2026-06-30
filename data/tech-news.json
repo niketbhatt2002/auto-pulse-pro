@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T10:29:22.945048Z",
+  "updated_at": "2026-06-30T10:50:54.609834Z",
   "stories": [
     {
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "score": 37
+    },
+    {
       "title": "Open Source Low Tech",
-      "score": 253
+      "score": 274
+    },
+    {
+      "title": "Antares Achieves Criticality of Mark-0 Reactor",
+      "score": 17
     },
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "score": 937
+      "score": 945
     },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
-      "score": 523
-    },
-    {
-      "title": "Free the Icons",
-      "score": 485
-    },
-    {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "score": 11
+      "score": 529
     }
   ]
 }
