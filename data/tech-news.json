@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T12:03:55.928102Z",
+  "updated_at": "2026-06-30T13:08:13.105286Z",
   "stories": [
     {
       "title": "European digital ID wallets are a gift to Google and Apple",
-      "score": 170
-    },
-    {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "score": 83
-    },
-    {
-      "title": "Exercise intensity influences body composition in healthy older adults",
-      "score": 32
-    },
-    {
-      "title": "Open Source Low Tech",
-      "score": 328
+      "score": 339
     },
     {
       "title": "The US ambassador had Belgian police stop our reporting",
-      "score": 35
+      "score": 204
+    },
+    {
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "score": 111
+    },
+    {
+      "title": "Parse, Don't Validate \u2013 In a Language That Doesn't Want You To",
+      "score": 44
+    },
+    {
+      "title": "Open Source Low Tech",
+      "score": 371
     }
   ]
 }
