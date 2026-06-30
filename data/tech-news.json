@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T00:12:09.238229Z",
+  "updated_at": "2026-06-30T09:24:04.316959Z",
   "stories": [
     {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "score": 255
+      "title": "Open Source Low Tech",
+      "score": 171
     },
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "score": 555
+      "score": 903
+    },
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "score": 503
     },
     {
       "title": "Free the Icons",
-      "score": 138
+      "score": 451
     },
     {
-      "title": "Scientists find molecular-level evidence for two structures in liquid water",
-      "score": 39
-    },
-    {
-      "title": "Rocketlab acquires Iridium",
-      "score": 342
+      "title": "Memory Safe Context Switching",
+      "score": 125
     }
   ]
 }
