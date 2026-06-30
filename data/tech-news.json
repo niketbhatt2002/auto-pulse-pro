@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T13:08:13.105286Z",
+  "updated_at": "2026-06-30T16:23:56.977077Z",
   "stories": [
     {
-      "title": "European digital ID wallets are a gift to Google and Apple",
-      "score": 339
+      "title": "The labor share of income in the US is at its lowest post-war level",
+      "score": 212
     },
     {
-      "title": "The US ambassador had Belgian police stop our reporting",
-      "score": 204
+      "title": "Claude Code Is Steganographically Marking Requests",
+      "score": 178
     },
     {
-      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "title": "Looking Ahead to Postgres 19",
       "score": 111
     },
     {
-      "title": "Parse, Don't Validate \u2013 In a Language That Doesn't Want You To",
-      "score": 44
+      "title": "Memoirs of Extraordinary Popular Delusions and the Madness of Crowds (1852)",
+      "score": 100
     },
     {
-      "title": "Open Source Low Tech",
-      "score": 371
+      "title": "We moved our Bluesky data to Eurosky",
+      "score": 43
     }
   ]
 }
