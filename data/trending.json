@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-29T21:37:11.242710Z",
+  "updated_at": "2026-06-30T00:12:10.279101Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 3666
-    },
-    {
-      "name": "bozhouDev/codex-orange-book",
-      "stars": 2346
+      "stars": 3783
     },
     {
       "name": "Yu9191/wloc",
-      "stars": 1458
+      "stars": 1477
     },
     {
       "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 943
+      "stars": 949
     },
     {
       "name": "winsznx/theeleven",
       "stars": 714
+    },
+    {
+      "name": "baairon/torlink",
+      "stars": 588
     }
   ]
 }
