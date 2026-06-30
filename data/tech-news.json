@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T09:24:04.316959Z",
+  "updated_at": "2026-06-30T10:29:22.945048Z",
   "stories": [
     {
       "title": "Open Source Low Tech",
-      "score": 171
+      "score": 253
     },
     {
       "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "score": 903
+      "score": 937
     },
     {
       "title": ".self: A new top-level domain designed to support self-hosting",
-      "score": 503
+      "score": 523
     },
     {
       "title": "Free the Icons",
-      "score": 451
+      "score": 485
     },
     {
-      "title": "Memory Safe Context Switching",
-      "score": 125
+      "title": "Building a custom octocopter from scratch with no prior hardware experience",
+      "score": 11
     }
   ]
 }
