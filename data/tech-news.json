@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T10:50:54.609834Z",
+  "updated_at": "2026-06-30T11:47:09.296677Z",
   "stories": [
     {
+      "title": "European digital ID wallets are a gift to Google and Apple",
+      "score": 131
+    },
+    {
       "title": "Building a custom octocopter from scratch with no prior hardware experience",
-      "score": 37
+      "score": 74
+    },
+    {
+      "title": "Exercise intensity influences body composition in healthy older adults",
+      "score": 22
     },
     {
       "title": "Open Source Low Tech",
-      "score": 274
+      "score": 314
     },
     {
-      "title": "Antares Achieves Criticality of Mark-0 Reactor",
-      "score": 17
-    },
-    {
-      "title": "Qwen 3.6 27B is the sweet spot for local development",
-      "score": 945
-    },
-    {
-      "title": ".self: A new top-level domain designed to support self-hosting",
-      "score": 529
+      "title": "Should every baby's DNA be sequenced?",
+      "score": 12
     }
   ]
 }
