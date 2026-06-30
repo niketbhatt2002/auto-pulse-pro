@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T18:26:09.371386Z",
+  "updated_at": "2026-06-30T21:40:01.330086Z",
   "stories": [
     {
       "title": "Claude Sonnet 5",
-      "score": 158
+      "score": 691
     },
     {
       "title": "Claude Code is steganographically marking requests",
-      "score": 648
+      "score": 1112
+    },
+    {
+      "title": "I ported Kubernetes to the browser",
+      "score": 60
     },
     {
       "title": "Claude Science",
-      "score": 106
+      "score": 280
     },
     {
       "title": "Nano Banana 2 Lite",
-      "score": 109
-    },
-    {
-      "title": "We Are the Last People Who Know How It Works",
-      "score": 75
+      "score": 239
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T18:26:10.750439Z",
+  "updated_at": "2026-06-30T21:40:03.673041Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 5087
+      "stars": 5196
     },
     {
       "name": "Yu9191/wloc",
-      "stars": 1884
+      "stars": 1907
     },
     {
       "name": "baairon/torlink",
-      "stars": 1401
+      "stars": 1585
     },
     {
       "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 1186
+      "stars": 1206
     },
     {
       "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 752
+      "stars": 763
     }
   ]
 }
