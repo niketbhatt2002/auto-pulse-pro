@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-01T16:29:01.670341Z",
+  "updated_at": "2026-07-01T18:52:41.128262Z",
   "stories": [
     {
       "title": "For first time, a cell built from scratch grows and divides",
-      "score": 188
+      "score": 454
     },
     {
-      "title": "Announcing the release of Box3D, an open source 3D physics engine",
-      "score": 158
+      "title": "What to Learn to Be a Graphics Programmer",
+      "score": 45
+    },
+    {
+      "title": "FFmpeg 9.1's new AAC encoder",
+      "score": 105
     },
     {
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "score": 161
+      "score": 350
     },
     {
-      "title": "Monetization Gateway",
-      "score": 70
-    },
-    {
-      "title": "Internal Combustion Engine",
-      "score": 54
+      "title": "How We Made IPFS Content Publishing 10x Faster",
+      "score": 80
     }
   ]
 }
