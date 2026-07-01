@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-01T18:52:42.389621Z",
+  "updated_at": "2026-07-01T21:39:25.298796Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 5726
+      "stars": 5740
     },
     {
       "name": "baairon/torlink",
-      "stars": 2219
+      "stars": 2265
     },
     {
       "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 1318
+      "stars": 1328
     },
     {
       "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 1000
+      "stars": 1002
     },
     {
-      "name": "TianhangZhuzth/Fundamental-Ava",
-      "stars": 712
+      "name": "Kulaxyz/self-learning-skills",
+      "stars": 731
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-01T18:52:41.128262Z",
+  "updated_at": "2026-07-01T21:39:23.929929Z",
   "stories": [
     {
-      "title": "For first time, a cell built from scratch grows and divides",
-      "score": 454
+      "title": "ZCode: Claude Code from the Makers of GLM",
+      "score": 237
     },
     {
-      "title": "What to Learn to Be a Graphics Programmer",
-      "score": 45
+      "title": "For first time, a cell built from scratch grows and divides",
+      "score": 609
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
+      "score": 160
     },
     {
       "title": "FFmpeg 9.1's new AAC encoder",
-      "score": 105
+      "score": 202
     },
     {
       "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "score": 350
-    },
-    {
-      "title": "How We Made IPFS Content Publishing 10x Faster",
-      "score": 80
+      "score": 471
     }
   ]
 }
