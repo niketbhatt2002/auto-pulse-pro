@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-01T00:14:19.703885Z",
+  "updated_at": "2026-07-01T09:36:38.525438Z",
   "stories": [
     {
-      "title": "Claude Sonnet 5",
-      "score": 823
-    },
-    {
       "title": "Claude Code is steganographically marking requests",
-      "score": 1336
+      "score": 1990
     },
     {
-      "title": "From brain waves to words: a new path to communication without surgery",
-      "score": 96
+      "title": "Claude Sonnet 5",
+      "score": 1118
     },
     {
-      "title": "Hatari \u2013 Online Atari ST/STE/TT/Falcon Emulator",
-      "score": 21
+      "title": "ArXiv's Next Chapter",
+      "score": 109
     },
     {
-      "title": "Claude Science",
-      "score": 340
+      "title": "Godot will no longer accept AI-authored code contributions",
+      "score": 97
+    },
+    {
+      "title": "Google copybara: moving code between repositories",
+      "score": 205
     }
   ]
 }

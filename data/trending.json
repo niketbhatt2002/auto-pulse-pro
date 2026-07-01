@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-01T00:14:20.778661Z",
+  "updated_at": "2026-07-01T09:36:39.842298Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 5251
+      "stars": 5618
     },
     {
       "name": "baairon/torlink",
-      "stars": 1658
+      "stars": 1960
     },
     {
       "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 1211
+      "stars": 1266
     },
     {
       "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 780
+      "stars": 925
     },
     {
       "name": "winsznx/theeleven",
-      "stars": 691
+      "stars": 681
     }
   ]
 }
