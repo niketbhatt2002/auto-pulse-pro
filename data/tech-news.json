@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-01T09:36:38.525438Z",
+  "updated_at": "2026-07-01T10:38:54.371344Z",
   "stories": [
     {
+      "title": "Asahi Linux 7.1 Progress Report",
+      "score": 47
+    },
+    {
       "title": "Claude Code is steganographically marking requests",
-      "score": 1990
+      "score": 2073
+    },
+    {
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "score": 44
     },
     {
       "title": "Claude Sonnet 5",
-      "score": 1118
-    },
-    {
-      "title": "ArXiv's Next Chapter",
-      "score": 109
+      "score": 1141
     },
     {
       "title": "Godot will no longer accept AI-authored code contributions",
-      "score": 97
-    },
-    {
-      "title": "Google copybara: moving code between repositories",
-      "score": 205
+      "score": 180
     }
   ]
 }
