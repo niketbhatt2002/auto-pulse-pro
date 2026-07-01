@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-06-30T21:40:01.330086Z",
+  "updated_at": "2026-07-01T00:14:19.703885Z",
   "stories": [
     {
       "title": "Claude Sonnet 5",
-      "score": 691
+      "score": 823
     },
     {
       "title": "Claude Code is steganographically marking requests",
-      "score": 1112
+      "score": 1336
     },
     {
-      "title": "I ported Kubernetes to the browser",
-      "score": 60
+      "title": "From brain waves to words: a new path to communication without surgery",
+      "score": 96
+    },
+    {
+      "title": "Hatari \u2013 Online Atari ST/STE/TT/Falcon Emulator",
+      "score": 21
     },
     {
       "title": "Claude Science",
-      "score": 280
-    },
-    {
-      "title": "Nano Banana 2 Lite",
-      "score": 239
+      "score": 340
     }
   ]
 }
