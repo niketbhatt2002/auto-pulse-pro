@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-02T18:21:02.483552Z",
+  "updated_at": "2026-07-02T21:10:27.313297Z",
   "stories": [
     {
+      "title": "Exapunks (2018)",
+      "score": 146
+    },
+    {
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "score": 235
+      "score": 330
     },
     {
-      "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
-      "score": 70
+      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
+      "score": 42
     },
     {
-      "title": "PeerTube is a free, decentralized and federated video platform",
-      "score": 227
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "score": 24
     },
     {
-      "title": "Android Developer Verification: Threat masquerading as protection",
-      "score": 1402
-    },
-    {
-      "title": "How to ask for help from people who don't know you",
-      "score": 168
+      "title": "Podman v6.0.0",
+      "score": 228
     }
   ]
 }
