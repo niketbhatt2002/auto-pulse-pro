@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-02T11:37:42.149622Z",
+  "updated_at": "2026-07-02T12:02:11.950318Z",
   "stories": [
     {
-      "title": "A new Android malware from Google",
-      "score": 741
+      "title": "Android Developer Verification: Threat masquerading as Protection",
+      "score": 802
     },
     {
       "title": "Kimi K2.7 Code is generally available in GitHub Copilot",
-      "score": 191
+      "score": 203
     },
     {
       "title": "The Fall of the Theorem Economy",
-      "score": 79
+      "score": 84
     },
     {
       "title": "Oomwoo, an open-source robot vacuum you build yourself",
-      "score": 337
+      "score": 344
     },
     {
       "title": "ZCode \u2013 Harness for GLM-5.2",
-      "score": 415
+      "score": 422
     }
   ]
 }
