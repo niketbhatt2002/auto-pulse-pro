@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-01T21:39:23.929929Z",
+  "updated_at": "2026-07-02T00:15:04.654703Z",
   "stories": [
     {
-      "title": "ZCode: Claude Code from the Makers of GLM",
-      "score": 237
+      "title": "ZCode \u2013 Harness for GLM-5.2",
+      "score": 141
+    },
+    {
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "score": 161
     },
     {
       "title": "For first time, a cell built from scratch grows and divides",
-      "score": 609
+      "score": 692
+    },
+    {
+      "title": "Healthy but Sedentary People Show Early Decline in Cellular Energy Production",
+      "score": 34
     },
     {
       "title": "What to learn to be a graphics programmer",
-      "score": 160
-    },
-    {
-      "title": "FFmpeg 9.1's new AAC encoder",
-      "score": 202
-    },
-    {
-      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
-      "score": 471
+      "score": 214
     }
   ]
 }
