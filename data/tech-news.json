@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-02T16:06:13.339863Z",
+  "updated_at": "2026-07-02T18:21:02.483552Z",
   "stories": [
     {
-      "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
-      "score": 35
+      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
+      "score": 235
     },
     {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "score": 30
+      "title": "Launch HN: Manufact (YC S25) \u2013 MCP Cloud",
+      "score": 70
+    },
+    {
+      "title": "PeerTube is a free, decentralized and federated video platform",
+      "score": 227
     },
     {
       "title": "Android Developer Verification: Threat masquerading as protection",
-      "score": 1251
+      "score": 1402
     },
     {
-      "title": "Show HN: Mail Memories \u2013 A desktop app to rescue photos from Gmail",
-      "score": 46
-    },
-    {
-      "title": "AI can't be listed as inventor on patent applications, Japan's top court rules",
-      "score": 139
+      "title": "How to ask for help from people who don't know you",
+      "score": 168
     }
   ]
 }
