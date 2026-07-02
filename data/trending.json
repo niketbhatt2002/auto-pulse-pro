@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-02T00:15:05.714301Z",
+  "updated_at": "2026-07-02T08:47:20.120549Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepSpec",
-      "stars": 5745
+      "stars": 5817
     },
     {
       "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 1330
+      "stars": 1370
     },
     {
       "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 1007
+      "stars": 1066
+    },
+    {
+      "name": "mekos2772/ios-location-spoofer",
+      "stars": 894
     },
     {
       "name": "Kulaxyz/self-learning-skills",
-      "stars": 742
-    },
-    {
-      "name": "TianhangZhuzth/Fundamental-Ava",
-      "stars": 717
+      "stars": 798
     }
   ]
 }
