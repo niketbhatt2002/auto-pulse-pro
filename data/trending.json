@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-07-03T00:13:06.977270Z",
-  "repos": []
+  "updated_at": "2026-07-03T08:54:20.588604Z",
+  "repos": [
+    {
+      "name": "Krishnagangwal/CS-Fundamentals",
+      "stars": 1464
+    },
+    {
+      "name": "mekos2772/ios-location-spoofer",
+      "stars": 1192
+    },
+    {
+      "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
+      "stars": 1161
+    },
+    {
+      "name": "Kulaxyz/self-learning-skills",
+      "stars": 941
+    },
+    {
+      "name": "TianhangZhuzth/Fundamental-Ava",
+      "stars": 758
+    }
+  ]
 }
