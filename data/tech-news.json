@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T15:53:50.405231Z",
+  "updated_at": "2026-07-03T18:05:55.937008Z",
   "stories": [
     {
+      "title": "Claude, please stop trying to memorize random crap",
+      "score": 94
+    },
+    {
+      "title": "The Life and Times of Maxis, Part 1: SimEverything",
+      "score": 51
+    },
+    {
       "title": "Half-Baked Product",
-      "score": 823
-    },
-    {
-      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
-      "score": 69
-    },
-    {
-      "title": "Markets are competitive if and only if P = NP",
-      "score": 7
+      "score": 1004
     },
     {
       "title": "Jamesob's guide to running SOTA LLMs locally",
-      "score": 15
+      "score": 81
     },
     {
-      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
-      "score": 216
+      "title": "International chess federation sanctions Kramnik",
+      "score": 25
     }
   ]
 }
