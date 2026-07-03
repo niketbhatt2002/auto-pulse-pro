@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T10:28:52.687187Z",
+  "updated_at": "2026-07-03T11:36:13.123603Z",
   "stories": [
     {
-      "title": "Virginia bans sale of geolocation data",
-      "score": 799
+      "title": "Half-Baked Product",
+      "score": 228
     },
     {
-      "title": "Half-Baked Product",
-      "score": 84
+      "title": "Virginia bans sale of geolocation data",
+      "score": 826
+    },
+    {
+      "title": "Gun Mistakes in Fiction Writing: Handgun Edition",
+      "score": 6
     },
     {
       "title": "Right to Local Intelligence",
-      "score": 275
+      "score": 295
     },
     {
       "title": "CarPlay Is Additive",
-      "score": 313
-    },
-    {
-      "title": "Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-      "score": 76
+      "score": 344
     }
   ]
 }
