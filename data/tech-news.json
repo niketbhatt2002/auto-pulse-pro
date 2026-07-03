@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-02T21:10:27.313297Z",
+  "updated_at": "2026-07-03T00:13:05.639971Z",
   "stories": [
     {
+      "title": "Virginia bans sale of geolocation data",
+      "score": 345
+    },
+    {
+      "title": "crustc: entirety of `rustc`, translated to C",
+      "score": 81
+    },
+    {
       "title": "Exapunks (2018)",
-      "score": 146
+      "score": 208
+    },
+    {
+      "title": "Reality has a surprising amount of detail (2017)",
+      "score": 95
     },
     {
       "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "score": 330
-    },
-    {
-      "title": "EFF letter to FTC on X consent order (2 July 2026) [pdf]",
-      "score": 42
-    },
-    {
-      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
-      "score": 24
-    },
-    {
-      "title": "Podman v6.0.0",
-      "score": 228
+      "score": 386
     }
   ]
 }
