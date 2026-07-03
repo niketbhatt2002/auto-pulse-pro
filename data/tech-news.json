@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T12:54:08.809538Z",
+  "updated_at": "2026-07-03T15:53:50.405231Z",
   "stories": [
     {
       "title": "Half-Baked Product",
-      "score": 408
+      "score": 823
     },
     {
-      "title": "Virginia bans sale of geolocation data",
-      "score": 846
+      "title": "PostgreSQL and the OOM Killer: Why We Use Strict Memory Overcommit",
+      "score": 69
     },
     {
-      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
-      "score": 70
+      "title": "Markets are competitive if and only if P = NP",
+      "score": 7
     },
     {
-      "title": "Right to Local Intelligence",
-      "score": 331
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "score": 15
     },
     {
-      "title": "CarPlay Is Additive",
-      "score": 388
+      "title": "Valve open source the Steam Machine e-ink screen so you can make your own",
+      "score": 216
     }
   ]
 }
