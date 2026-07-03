@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T18:05:55.937008Z",
+  "updated_at": "2026-07-03T21:10:00.094577Z",
   "stories": [
     {
-      "title": "Claude, please stop trying to memorize random crap",
-      "score": 94
-    },
-    {
-      "title": "The Life and Times of Maxis, Part 1: SimEverything",
-      "score": 51
-    },
-    {
-      "title": "Half-Baked Product",
-      "score": 1004
+      "title": "SearXNG: A free internet metasearch engine",
+      "score": 16
     },
     {
       "title": "Jamesob's guide to running SOTA LLMs locally",
-      "score": 81
+      "score": 205
     },
     {
-      "title": "International chess federation sanctions Kramnik",
-      "score": 25
+      "title": "Costco is the anti-Amazon",
+      "score": 174
+    },
+    {
+      "title": "FreeBSD ate my RAM",
+      "score": 33
+    },
+    {
+      "title": "Pet projects are getting too big to pet",
+      "score": 10
     }
   ]
 }

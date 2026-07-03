@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T18:05:57.017749Z",
+  "updated_at": "2026-07-03T21:26:59.290431Z",
   "repos": [
     {
       "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 1498
+      "stars": 1507
     },
     {
       "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 1279
+      "stars": 1285
     },
     {
       "name": "mekos2772/ios-location-spoofer",
-      "stars": 1238
+      "stars": 1244
     },
     {
       "name": "Kulaxyz/self-learning-skills",
-      "stars": 776
+      "stars": 785
     },
     {
-      "name": "aquace/CVE-2026-41940-PoC",
-      "stars": 574
+      "name": "diinki/linux-antiquity",
+      "stars": 561
     }
   ]
 }
