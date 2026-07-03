@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T08:54:19.023758Z",
+  "updated_at": "2026-07-03T09:52:43.115775Z",
   "stories": [
     {
       "title": "Virginia bans sale of geolocation data",
-      "score": 743
+      "score": 772
     },
     {
       "title": "CarPlay Is Additive",
-      "score": 267
+      "score": 304
     },
     {
       "title": "Right to Local Intelligence",
-      "score": 220
+      "score": 253
+    },
+    {
+      "title": "Half-Baked Product",
+      "score": 20
     },
     {
       "title": "crustc: entirety of `rustc`, translated to C",
-      "score": 266
-    },
-    {
-      "title": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory",
-      "score": 459
+      "score": 278
     }
   ]
 }
