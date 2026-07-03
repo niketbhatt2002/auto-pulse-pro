@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T11:36:13.123603Z",
+  "updated_at": "2026-07-03T11:59:53.794429Z",
   "stories": [
     {
+      "title": "Gun Mistakes in Fiction Writing: Handgun Edition",
+      "score": 24
+    },
+    {
       "title": "Half-Baked Product",
-      "score": 228
+      "score": 286
     },
     {
       "title": "Virginia bans sale of geolocation data",
-      "score": 826
-    },
-    {
-      "title": "Gun Mistakes in Fiction Writing: Handgun Edition",
-      "score": 6
+      "score": 829
     },
     {
       "title": "Right to Local Intelligence",
-      "score": 295
+      "score": 308
     },
     {
-      "title": "CarPlay Is Additive",
-      "score": 344
+      "title": "Wordgard: The new in-browser rich-text editor from the creator of ProseMirror",
+      "score": 44
     }
   ]
 }
