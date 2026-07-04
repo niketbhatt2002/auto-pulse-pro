@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-04T09:19:05.437258Z",
+  "updated_at": "2026-07-04T10:02:21.328941Z",
   "stories": [
     {
       "title": "The bottleneck might be the air in the room",
-      "score": 182
-    },
-    {
-      "title": "Agentic coding notes from Galapagos Island",
-      "score": 84
-    },
-    {
-      "title": "Leanstral 1.5: Proof abundance for all",
       "score": 226
     },
     {
+      "title": "Agentic coding notes from Galapagos Island",
+      "score": 90
+    },
+    {
       "title": "Performance per dollar is getting faster and cheaper",
-      "score": 238
+      "score": 245
     },
     {
       "title": "Mir Books \u2013 Books from the Soviet Era",
-      "score": 60
+      "score": 72
+    },
+    {
+      "title": "Leanstral 1.5: Proof abundance for all",
+      "score": 232
     }
   ]
 }
