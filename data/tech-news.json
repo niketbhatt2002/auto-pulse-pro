@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-03T21:10:00.094577Z",
+  "updated_at": "2026-07-04T00:11:28.194640Z",
   "stories": [
     {
+      "title": "Giant trees have no trouble pumping water to top branches",
+      "score": 45
+    },
+    {
+      "title": "Odin, Wikipedia and Engagement Farming",
+      "score": 21
+    },
+    {
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "score": 35
+    },
+    {
       "title": "SearXNG: A free internet metasearch engine",
+      "score": 110
+    },
+    {
+      "title": "The circuit that lets your brain think and see",
       "score": 16
-    },
-    {
-      "title": "Jamesob's guide to running SOTA LLMs locally",
-      "score": 205
-    },
-    {
-      "title": "Costco is the anti-Amazon",
-      "score": 174
-    },
-    {
-      "title": "FreeBSD ate my RAM",
-      "score": 33
-    },
-    {
-      "title": "Pet projects are getting too big to pet",
-      "score": 10
     }
   ]
 }
