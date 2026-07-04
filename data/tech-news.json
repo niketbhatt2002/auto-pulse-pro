@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-04T17:52:30.223989Z",
+  "updated_at": "2026-07-04T21:00:06.476102Z",
   "stories": [
     {
-      "title": "Leaking YouTube creators' private videos",
-      "score": 109
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "score": 95
     },
     {
-      "title": "Google Books (or similar) all book scans \u2013 $200k bounty",
-      "score": 43
+      "title": "Leaking YouTube creators' private videos",
+      "score": 354
+    },
+    {
+      "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
+      "score": 208
+    },
+    {
+      "title": "Verizon is About to Break our Watches",
+      "score": 82
     },
     {
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "score": 204
-    },
-    {
-      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "score": 248
-    },
-    {
-      "title": "Curveball",
-      "score": 20
+      "score": 244
     }
   ]
 }
