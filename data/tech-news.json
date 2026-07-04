@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-04T15:09:00.353163Z",
+  "updated_at": "2026-07-04T17:52:30.223989Z",
   "stories": [
     {
+      "title": "Leaking YouTube creators' private videos",
+      "score": 109
+    },
+    {
+      "title": "Google Books (or similar) all book scans \u2013 $200k bounty",
+      "score": 43
+    },
+    {
       "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "score": 60
+      "score": 204
     },
     {
-      "title": "Explanation of everything you can see in htop/top on Linux",
-      "score": 104
+      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
+      "score": 248
     },
     {
-      "title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
-      "score": 111
-    },
-    {
-      "title": "Maybe you should learn something",
-      "score": 255
-    },
-    {
-      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
-      "score": 94
+      "title": "Curveball",
+      "score": 20
     }
   ]
 }
