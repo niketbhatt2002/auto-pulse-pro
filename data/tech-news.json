@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-04T12:04:44.318790Z",
+  "updated_at": "2026-07-04T15:09:00.353163Z",
   "stories": [
     {
-      "title": "The bottleneck might be the air in the room",
-      "score": 376
+      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
+      "score": 60
     },
     {
-      "title": "Astrophysicists Puzzle over Webb's New Universe",
-      "score": 44
+      "title": "Explanation of everything you can see in htop/top on Linux",
+      "score": 104
     },
     {
-      "title": "Mir Books \u2013 Books from the Soviet Era",
-      "score": 101
-    },
-    {
-      "title": "Performance per dollar is getting faster and cheaper",
-      "score": 267
+      "title": "Astrophysicists Puzzle over Webb\u2019s New Universe",
+      "score": 111
     },
     {
       "title": "Maybe you should learn something",
-      "score": 143
+      "score": 255
+    },
+    {
+      "title": "Postgres data stored in Parquet on S3: LTAP architecture explained",
+      "score": 94
     }
   ]
 }
