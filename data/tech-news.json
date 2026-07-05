@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T12:13:37.521110Z",
+  "updated_at": "2026-07-05T15:16:16.445407Z",
   "stories": [
     {
-      "title": "Europe's new climate in seven charts",
-      "score": 88
+      "title": "Organic Maps",
+      "score": 91
     },
     {
-      "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "score": 162
+      "title": "Phosh 0.56.0",
+      "score": 86
     },
     {
-      "title": "If you're a button, you have one job",
-      "score": 279
+      "title": "Introduction to Compilers and Language Design",
+      "score": 94
     },
     {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "score": 304
+      "title": "Airplane Boneyards List and Map",
+      "score": 20
     },
     {
-      "title": "Fast Software, the Best Software",
-      "score": 38
+      "title": "Cannabis Users Face Substantially Higher Risk of Heart Attack (2025)",
+      "score": 75
     }
   ]
 }

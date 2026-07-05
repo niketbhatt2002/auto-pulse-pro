@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T12:13:38.646031Z",
+  "updated_at": "2026-07-05T15:16:17.481645Z",
   "repos": [
     {
       "name": "mekos2772/ios-location-spoofer",
-      "stars": 1309
-    },
-    {
-      "name": "HUANGCHIHHUNGLeo/claude-real-video",
-      "stars": 859
-    },
-    {
-      "name": "jamesob/local-llm",
-      "stars": 831
+      "stars": 1315
     },
     {
       "name": "elder-plinius/T3MP3ST",
-      "stars": 830
+      "stars": 1096
+    },
+    {
+      "name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "stars": 885
+    },
+    {
+      "name": "jamesob/local-llm",
+      "stars": 852
     },
     {
       "name": "xuchonglang/investing-for-beginners",
-      "stars": 684
+      "stars": 691
     }
   ]
 }
