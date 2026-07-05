@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T11:23:04.150466Z",
+  "updated_at": "2026-07-05T12:13:37.521110Z",
   "stories": [
     {
-      "title": "Returning to Zig after losing trust in Rust's governance",
-      "score": 10
+      "title": "Europe's new climate in seven charts",
+      "score": 88
     },
     {
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "score": 149
-    },
-    {
-      "title": "Ford rehires human engineers after AI fails to match quality checks",
-      "score": 10
+      "score": 162
     },
     {
       "title": "If you're a button, you have one job",
-      "score": 247
+      "score": 279
     },
     {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "score": 588
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "score": 304
+    },
+    {
+      "title": "Fast Software, the Best Software",
+      "score": 38
     }
   ]
 }
