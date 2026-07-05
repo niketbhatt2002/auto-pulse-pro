@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T17:53:11.303668Z",
+  "updated_at": "2026-07-05T21:03:47.932003Z",
   "stories": [
     {
       "title": "Organic Maps",
-      "score": 411
+      "score": 635
     },
     {
-      "title": "The Great Blogging Collapse: What Happened to 100 Successful Blogs?",
-      "score": 53
+      "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
+      "score": 74
     },
     {
-      "title": "Introduction to Compilers and Language Design",
-      "score": 200
+      "title": "The future of Flipper Zero development",
+      "score": 118
     },
     {
-      "title": "The Computers Used in Movies",
-      "score": 10
+      "title": "Starring the Computer",
+      "score": 116
     },
     {
-      "title": "\"These cameras are just like the Eye of Sauron\"",
-      "score": 16
+      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
+      "score": 39
     }
   ]
 }
