@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-04T21:00:07.593793Z",
+  "updated_at": "2026-07-05T00:06:16.642801Z",
   "repos": [
     {
-      "name": "Krishnagangwal/CS-Fundamentals",
-      "stars": 1573
-    },
-    {
-      "name": "yynxxxxx/Codex-5.5-codex-instruct-5.5",
-      "stars": 1371
-    },
-    {
       "name": "mekos2772/ios-location-spoofer",
-      "stars": 1283
+      "stars": 1284
     },
     {
-      "name": "Kulaxyz/self-learning-skills",
-      "stars": 825
+      "name": "jamesob/local-llm",
+      "stars": 748
     },
     {
       "name": "HUANGCHIHHUNGLeo/claude-real-video",
-      "stars": 717
+      "stars": 738
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "stars": 641
+    },
+    {
+      "name": "jmerelnyc/Talos",
+      "stars": 581
     }
   ]
 }
