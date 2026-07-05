@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T10:05:02.207819Z",
+  "updated_at": "2026-07-05T11:07:27.485253Z",
   "repos": [
     {
       "name": "mekos2772/ios-location-spoofer",
-      "stars": 1303
+      "stars": 1308
     },
     {
       "name": "HUANGCHIHHUNGLeo/claude-real-video",
-      "stars": 837
+      "stars": 848
     },
     {
       "name": "jamesob/local-llm",
-      "stars": 818
-    },
-    {
-      "name": "xuchonglang/investing-for-beginners",
-      "stars": 676
+      "stars": 819
     },
     {
       "name": "elder-plinius/T3MP3ST",
-      "stars": 673
+      "stars": 751
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "stars": 680
     }
   ]
 }

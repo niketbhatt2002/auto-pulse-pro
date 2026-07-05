@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T10:05:00.730037Z",
+  "updated_at": "2026-07-05T11:07:26.454810Z",
   "stories": [
     {
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "score": 126
+      "score": 146
     },
     {
       "title": "If you're a button, you have one job",
-      "score": 222
+      "score": 241
     },
     {
       "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "score": 569
+      "score": 582
     },
     {
       "title": "Web-based cryptography is always snake oil",
-      "score": 22
+      "score": 39
     },
     {
-      "title": "Apocketlypse",
-      "score": 13
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "score": 287
     }
   ]
 }
