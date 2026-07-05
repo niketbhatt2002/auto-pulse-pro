@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T08:45:24.696789Z",
+  "updated_at": "2026-07-05T09:38:48.924991Z",
   "stories": [
     {
       "title": "Shadcn/UI now defaults to Base UI instead of Radix",
-      "score": 106
-    },
-    {
-      "title": "sqlite-utils 4.0rc2, mostly written by Claude Fable (for about $149.25)",
-      "score": 32
-    },
-    {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "score": 551
+      "score": 118
     },
     {
       "title": "If you're a button, you have one job",
-      "score": 178
+      "score": 210
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "score": 564
+    },
+    {
+      "title": "Apocketlypse",
+      "score": 13
     },
     {
       "title": "Pandoc Lua Filters",
-      "score": 56
+      "score": 65
     }
   ]
 }
