@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-06T18:48:37.942544Z",
+  "updated_at": "2026-07-06T21:38:28.669970Z",
   "stories": [
     {
       "title": "OpenWrt One \u2013 Open Hardware Router",
-      "score": 30
+      "score": 252
     },
     {
-      "title": "Pros and Cons of Solo Development",
-      "score": 27
+      "title": "CoMaps \u2013 FOSS Offline Maps",
+      "score": 150
     },
     {
-      "title": "AMD Ryzen AI Halo \u2013 $4k AI Dev Kit",
-      "score": 166
+      "title": "Learning to code is still worthwhile",
+      "score": 37
     },
     {
-      "title": "Aluminum foil (2021)",
-      "score": 182
+      "title": "A global workspace in language models",
+      "score": 165
     },
     {
-      "title": "Kani: A Model Checker for Rust",
-      "score": 60
+      "title": "Linux on the Atari Jaguar",
+      "score": 74
     }
   ]
 }
