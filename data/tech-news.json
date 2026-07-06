@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-05T21:03:47.932003Z",
+  "updated_at": "2026-07-06T00:13:18.483758Z",
   "stories": [
     {
+      "title": "OpenPrinter",
+      "score": 304
+    },
+    {
       "title": "Organic Maps",
-      "score": 635
+      "score": 771
+    },
+    {
+      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
+      "score": 76
+    },
+    {
+      "title": "Connections in Math: the two kinds of random",
+      "score": 7
     },
     {
       "title": "New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf]",
-      "score": 74
-    },
-    {
-      "title": "The future of Flipper Zero development",
-      "score": 118
-    },
-    {
-      "title": "Starring the Computer",
-      "score": 116
-    },
-    {
-      "title": "Mr. Baby Paint and accidentally discovering a new cellular automata",
-      "score": 39
+      "score": 115
     }
   ]
 }
