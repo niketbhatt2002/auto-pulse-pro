@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-06T11:24:13.555143Z",
+  "updated_at": "2026-07-06T11:57:48.714255Z",
   "stories": [
     {
       "title": "Real-time map of Great Britain's rail network",
-      "score": 98
+      "score": 142
     },
     {
       "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "score": 309
-    },
-    {
-      "title": "Has_not_been_viewed_much",
-      "score": 337
-    },
-    {
-      "title": "Organic Maps",
-      "score": 1035
+      "score": 320
     },
     {
       "title": "Introduction to Genomics for Engineers",
-      "score": 41
+      "score": 63
+    },
+    {
+      "title": "Has_not_been_viewed_much",
+      "score": 350
+    },
+    {
+      "title": "Organic Maps",
+      "score": 1047
     }
   ]
 }
