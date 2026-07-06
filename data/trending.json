@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-07-06T13:37:37.356280Z",
-  "repos": []
+  "updated_at": "2026-07-06T14:22:33.479539Z",
+  "repos": [
+    {
+      "name": "elder-plinius/T3MP3ST",
+      "stars": 2287
+    },
+    {
+      "name": "mekos2772/ios-location-spoofer",
+      "stars": 1407
+    },
+    {
+      "name": "HUANGCHIHHUNGLeo/claude-real-video",
+      "stars": 1163
+    },
+    {
+      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "stars": 1017
+    },
+    {
+      "name": "jamesob/local-llm",
+      "stars": 1003
+    }
+  ]
 }

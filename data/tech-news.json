@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-06T13:37:36.290302Z",
+  "updated_at": "2026-07-06T14:22:32.116458Z",
   "stories": [
     {
       "title": "Workers Cache",
-      "score": 41
-    },
-    {
-      "title": "Real-time map of Great Britain's rail network",
-      "score": 235
-    },
-    {
-      "title": "The AI Marketing Backlash: Why 'AI-First' Brands Are Starting to Fall Flat",
-      "score": 23
-    },
-    {
-      "title": "Road to Elm 1.0",
       "score": 102
     },
     {
-      "title": "Regression to the Mean: on LLMs and the quiet death of the new",
-      "score": 8
+      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
+      "score": 98
+    },
+    {
+      "title": "Real-time map of Great Britain's rail network",
+      "score": 256
+    },
+    {
+      "title": "Aluminum Foil",
+      "score": 25
+    },
+    {
+      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
+      "score": 31
     }
   ]
 }
