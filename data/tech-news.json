@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-06T14:22:32.116458Z",
+  "updated_at": "2026-07-06T16:53:16.416435Z",
   "stories": [
     {
-      "title": "Workers Cache",
-      "score": 102
+      "title": "Aluminum foil (2021)",
+      "score": 118
     },
     {
-      "title": "Anthropic's Method to Losing Goodwill in a Few Easy Steps",
-      "score": 98
+      "title": "Multilingual Experience Linked to Delayed Aging in Populations and Individuals",
+      "score": 30
+    },
+    {
+      "title": "1k Words: A Writing Contest",
+      "score": 29
+    },
+    {
+      "title": "Road to Elm 1.0",
+      "score": 201
     },
     {
       "title": "Real-time map of Great Britain's rail network",
-      "score": 256
-    },
-    {
-      "title": "Aluminum Foil",
-      "score": 25
-    },
-    {
-      "title": "Fable 5 On Vending-Bench: Misbehaving, With Plausible Deniability",
-      "score": 31
+      "score": 309
     }
   ]
 }
