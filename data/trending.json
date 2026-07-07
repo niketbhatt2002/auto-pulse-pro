@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-07T11:55:47.072171Z",
+  "updated_at": "2026-07-07T12:21:15.803884Z",
   "repos": [
     {
       "name": "elder-plinius/T3MP3ST",
-      "stars": 2944
+      "stars": 2952
     },
     {
       "name": "ammaarreshi/Generals-Mac-iOS-iPad",
-      "stars": 1231
+      "stars": 1232
     },
     {
       "name": "jamesob/local-llm",
@@ -15,11 +15,11 @@
     },
     {
       "name": "synthetic-sciences/openscience",
-      "stars": 1073
+      "stars": 1090
     },
     {
       "name": "MaximeRivest/riddle",
-      "stars": 877
+      "stars": 886
     }
   ]
 }
