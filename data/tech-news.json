@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-07T00:15:23.919436Z",
+  "updated_at": "2026-07-07T09:31:42.080916Z",
   "stories": [
     {
       "title": "OpenWrt One \u2013 Open Hardware Router",
-      "score": 396
-    },
-    {
-      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
-      "score": 53
+      "score": 607
     },
     {
       "title": "CoMaps \u2013 FOSS Offline Maps",
-      "score": 276
-    },
-    {
-      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
-      "score": 34
+      "score": 551
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "score": 98
+      "score": 407
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "score": 208
+    },
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "score": 451
     }
   ]
 }
