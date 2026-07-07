@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-07T10:49:18.213245Z",
+  "updated_at": "2026-07-07T11:55:46.019626Z",
   "stories": [
     {
+      "title": "Mullvad's co-founder is bankrolling the far right",
+      "score": 8
+    },
+    {
       "title": "OpenWrt One \u2013 Open Hardware Router",
-      "score": 645
+      "score": 685
     },
     {
       "title": "CoMaps \u2013 FOSS Offline Maps",
-      "score": 588
+      "score": 621
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "score": 449
-    },
-    {
-      "title": "How to sequence your own DNA at home",
-      "score": 234
+      "score": 495
     },
     {
       "title": "Dolosse \u2013 a South African invention used over the world",
-      "score": 58
+      "score": 78
     }
   ]
 }
