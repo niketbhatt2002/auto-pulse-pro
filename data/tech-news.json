@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-07T09:31:42.080916Z",
+  "updated_at": "2026-07-07T10:22:11.876159Z",
   "stories": [
     {
       "title": "OpenWrt One \u2013 Open Hardware Router",
-      "score": 607
+      "score": 637
     },
     {
       "title": "CoMaps \u2013 FOSS Offline Maps",
-      "score": 551
+      "score": 577
     },
     {
       "title": "GLM 5.2 and the coming AI margin collapse",
-      "score": 407
+      "score": 432
     },
     {
       "title": "How to sequence your own DNA at home",
-      "score": 208
+      "score": 225
     },
     {
-      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
-      "score": 451
+      "title": "Small AI Models Gain Traction In places with unreliable networks",
+      "score": 148
     }
   ]
 }
