@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-06T21:38:28.669970Z",
+  "updated_at": "2026-07-07T00:15:23.919436Z",
   "stories": [
     {
       "title": "OpenWrt One \u2013 Open Hardware Router",
-      "score": 252
+      "score": 396
+    },
+    {
+      "title": "Fable turned remarkable into Tom Riddle's diary from Harry Potter",
+      "score": 53
     },
     {
       "title": "CoMaps \u2013 FOSS Offline Maps",
-      "score": 150
+      "score": 276
     },
     {
-      "title": "Learning to code is still worthwhile",
-      "score": 37
+      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "score": 34
     },
     {
-      "title": "A global workspace in language models",
-      "score": 165
-    },
-    {
-      "title": "Linux on the Atari Jaguar",
-      "score": 74
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "score": 98
     }
   ]
 }

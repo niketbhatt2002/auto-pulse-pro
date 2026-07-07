@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-06T21:38:29.783477Z",
+  "updated_at": "2026-07-07T00:15:25.277552Z",
   "repos": [
     {
       "name": "elder-plinius/T3MP3ST",
-      "stars": 2564
-    },
-    {
-      "name": "mekos2772/ios-location-spoofer",
-      "stars": 1426
-    },
-    {
-      "name": "HUANGCHIHHUNGLeo/claude-real-video",
-      "stars": 1223
+      "stars": 2634
     },
     {
       "name": "ammaarreshi/Generals-Mac-iOS-iPad",
-      "stars": 1126
+      "stars": 1144
     },
     {
       "name": "jamesob/local-llm",
-      "stars": 1057
+      "stars": 1069
+    },
+    {
+      "name": "synthetic-sciences/openscience",
+      "stars": 763
+    },
+    {
+      "name": "xuchonglang/investing-for-beginners",
+      "stars": 738
     }
   ]
 }
