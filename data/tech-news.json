@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-07T12:21:14.788052Z",
+  "updated_at": "2026-07-07T13:16:57.522397Z",
   "stories": [
     {
+      "title": "98% Isn't Much",
+      "score": 68
+    },
+    {
+      "title": "StreetComplete: Fixing OpenStreetMap, one tiny quest at a time",
+      "score": 13
+    },
+    {
+      "title": "Europe's company websites are mostly served by US vendors",
+      "score": 66
+    },
+    {
+      "title": "Top researchers leave USA for the Netherlands (in Dutch)",
+      "score": 108
+    },
+    {
       "title": "OpenWrt One \u2013 Open Hardware Router",
-      "score": 697
-    },
-    {
-      "title": "CoMaps \u2013 FOSS Offline Maps",
-      "score": 638
-    },
-    {
-      "title": "GLM 5.2 and the coming AI margin collapse",
-      "score": 509
-    },
-    {
-      "title": "Dolosse \u2013 a South African invention used over the world",
-      "score": 85
-    },
-    {
-      "title": "How to sequence your own DNA at home",
-      "score": 261
+      "score": 711
     }
   ]
 }
