@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-08T10:10:14.495836Z",
+  "updated_at": "2026-07-08T11:08:48.828425Z",
   "stories": [
     {
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "score": 86
+      "score": 236
     },
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "score": 189
+      "score": 219
     },
     {
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "score": 198
+      "score": 208
+    },
+    {
+      "title": "Geosql: A Claude/Codex skill for geospatial data",
+      "score": 19
     },
     {
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "score": 216
-    },
-    {
-      "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
-      "score": 77
+      "score": 231
     }
   ]
 }
