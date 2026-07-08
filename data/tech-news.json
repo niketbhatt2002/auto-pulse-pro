@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-08T09:22:48.360165Z",
+  "updated_at": "2026-07-08T10:10:14.495836Z",
   "stories": [
     {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "score": 86
+    },
+    {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "score": 160
+      "score": 189
     },
     {
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "score": 185
-    },
-    {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "score": 11
+      "score": 198
     },
     {
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "score": 204
+      "score": 216
     },
     {
       "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
-      "score": 68
+      "score": 77
     }
   ]
 }
