@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-08T18:11:06.905209Z",
+  "updated_at": "2026-07-08T21:09:51.930951Z",
   "stories": [
     {
-      "title": "GPT\u2011Live",
-      "score": 226
+      "title": "Fable is not a useful model",
+      "score": 74
     },
     {
       "title": "Chatto is now Open Source",
-      "score": 295
-    },
-    {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "score": 263
+      "score": 537
     },
     {
       "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "score": 105
+      "score": 204
     },
     {
-      "title": "Grok 4.5",
-      "score": 28
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "score": 352
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "score": 1190
     }
   ]
 }
