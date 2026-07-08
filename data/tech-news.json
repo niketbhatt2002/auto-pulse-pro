@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-08T08:16:30.663431Z",
+  "updated_at": "2026-07-08T09:22:48.360165Z",
   "stories": [
     {
       "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "score": 99
+      "score": 160
     },
     {
       "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "score": 164
+      "score": 185
+    },
+    {
+      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
+      "score": 11
     },
     {
       "title": "Tenda firmware (multiple versions) contains hidden authentication backdoor",
-      "score": 181
+      "score": 204
     },
     {
       "title": "Copy That Floppy \u2013 Cambridge guide for preserving data from fragile floppy disks",
-      "score": 58
-    },
-    {
-      "title": "Structure and Interpretation of Computer Programs Video Lectures (1986)",
-      "score": 149
+      "score": 68
     }
   ]
 }
