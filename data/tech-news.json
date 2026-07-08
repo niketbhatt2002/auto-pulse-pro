@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-08T12:17:52.615610Z",
+  "updated_at": "2026-07-08T16:02:57.616612Z",
   "stories": [
     {
+      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
+      "score": 135
+    },
+    {
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "score": 409
+      "score": 914
     },
     {
-      "title": "Apple to increase spend with Broadcom to produce billions more U.S. chips",
-      "score": 41
+      "title": "Chatto is now Open Source",
+      "score": 51
     },
     {
-      "title": "GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos",
-      "score": 267
+      "title": "Cloudflare Meerkat - Globally distributed consensus",
+      "score": 85
     },
     {
-      "title": "How to Build a Minimal ZFS NAS Without Synology, QNAP, TrueNAS (2024)",
-      "score": 225
-    },
-    {
-      "title": "Geosql: A Claude/Codex skill for geospatial data",
-      "score": 37
+      "title": "OpenBSD has a use-after-free allowing local privilege escalation to root",
+      "score": 99
     }
   ]
 }

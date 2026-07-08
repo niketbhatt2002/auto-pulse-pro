@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-08T12:17:53.619544Z",
+  "updated_at": "2026-07-08T16:02:58.715669Z",
   "repos": [
     {
       "name": "elder-plinius/T3MP3ST",
-      "stars": 3617
-    },
-    {
-      "name": "synthetic-sciences/openscience",
-      "stars": 1608
+      "stars": 3731
     },
     {
       "name": "x4gKing/X4G",
-      "stars": 1540
+      "stars": 1844
+    },
+    {
+      "name": "synthetic-sciences/openscience",
+      "stars": 1675
     },
     {
       "name": "ammaarreshi/Generals-Mac-iOS-iPad",
-      "stars": 1331
+      "stars": 1347
     },
     {
-      "name": "jamesob/local-llm",
-      "stars": 1235
+      "name": "Shpigford/knockoff",
+      "stars": 1310
     }
   ]
 }
