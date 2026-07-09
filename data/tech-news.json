@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-09T09:33:19.113491Z",
+  "updated_at": "2026-07-09T10:25:02.516013Z",
   "stories": [
     {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "score": 813
+      "score": 854
     },
     {
       "title": "Spider venom kills varroa mites without harming honeybees",
-      "score": 111
+      "score": 127
     },
     {
       "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "score": 57
+      "score": 109
+    },
+    {
+      "title": "Meta reuses old RAM in new servers with custom bridge chip",
+      "score": 34
     },
     {
       "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
-      "score": 92
-    },
-    {
-      "title": "Cloudflare Drop",
-      "score": 429
+      "score": 105
     }
   ]
 }
