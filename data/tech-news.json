@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-09T10:48:03.476738Z",
+  "updated_at": "2026-07-09T12:20:06.038390Z",
   "stories": [
     {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "score": 875
+      "score": 975
+    },
+    {
+      "title": "Bonnie Tyler, singer of Total Eclipse of the Heart, dies aged 75",
+      "score": 81
     },
     {
       "title": "Spider venom kills varroa mites without harming honeybees",
-      "score": 136
-    },
-    {
-      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
-      "score": 134
+      "score": 180
     },
     {
       "title": "Meta reuses old RAM in new servers with custom bridge chip",
-      "score": 42
+      "score": 94
     },
     {
-      "title": "I Built the Only 2026 WWII Jeep",
-      "score": 49
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "score": 198
     }
   ]
 }
