@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-08T21:09:51.930951Z",
+  "updated_at": "2026-07-09T00:17:12.180483Z",
   "stories": [
     {
-      "title": "Fable is not a useful model",
-      "score": 74
+      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
+      "score": 64
     },
     {
-      "title": "Chatto is now Open Source",
-      "score": 537
+      "title": "Separating signal from noise in coding evaluations",
+      "score": 128
     },
     {
-      "title": "SWE-1.7 Reach Near GPT 5.5 and Opus Intelligence",
-      "score": 204
+      "title": "FAANG Simulator",
+      "score": 235
     },
     {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "score": 352
+      "title": "Chatto is now open source",
+      "score": 677
     },
     {
       "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "score": 1190
+      "score": 1276
     }
   ]
 }
