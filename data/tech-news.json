@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-09T00:17:12.180483Z",
+  "updated_at": "2026-07-09T09:33:19.113491Z",
   "stories": [
     {
       "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "score": 64
+      "score": 813
     },
     {
-      "title": "Separating signal from noise in coding evaluations",
-      "score": 128
+      "title": "Spider venom kills varroa mites without harming honeybees",
+      "score": 111
     },
     {
-      "title": "FAANG Simulator",
-      "score": 235
+      "title": "Why developers are ditching GitHub for Codeberg and self-hosting alternatives",
+      "score": 57
     },
     {
-      "title": "Chatto is now open source",
-      "score": 677
+      "title": "Cargo-nextest: 3x faster than cargo test, per-test isolation, first-class CI",
+      "score": 92
     },
     {
-      "title": "Decoding the obfuscated bash script on a Uniqlo t-shirt",
-      "score": 1276
+      "title": "Cloudflare Drop",
+      "score": 429
     }
   ]
 }
