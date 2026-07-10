@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-10T10:46:45.715077Z",
+  "updated_at": "2026-07-10T11:56:51.692966Z",
   "stories": [
     {
       "title": "GPT-5.6",
-      "score": 1303
-    },
-    {
-      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
-      "score": 697
+      "score": 1342
     },
     {
       "title": "In Emacs, Everything Looks Like a Service",
-      "score": 24
+      "score": 49
+    },
+    {
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "score": 730
     },
     {
       "title": "EU Parliament greenlights Chat Control 1.0",
-      "score": 1415
+      "score": 1446
     },
     {
       "title": "Train sim created by just one person is being called the best ever made",
-      "score": 622
+      "score": 656
     }
   ]
 }
