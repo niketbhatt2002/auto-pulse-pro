@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-09T21:25:04.481922Z",
+  "updated_at": "2026-07-10T00:11:40.964184Z",
   "repos": [
     {
       "name": "x4gKing/X4G",
-      "stars": 3318
-    },
-    {
-      "name": "synthetic-sciences/openscience",
-      "stars": 1931
-    },
-    {
-      "name": "xuchonglang/investing-for-beginners",
-      "stars": 1624
+      "stars": 3386
     },
     {
       "name": "Shpigford/knockoff",
-      "stars": 1553
+      "stars": 1567
     },
     {
       "name": "ammaarreshi/Generals-Mac-iOS-iPad",
-      "stars": 1391
+      "stars": 1393
+    },
+    {
+      "name": "withmarbleapp/os-taxonomy",
+      "stars": 1362
+    },
+    {
+      "name": "MaximeRivest/riddle",
+      "stars": 1281
     }
   ]
 }
