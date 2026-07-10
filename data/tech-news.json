@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-10T13:09:21.427392Z",
+  "updated_at": "2026-07-10T16:26:57.775452Z",
   "stories": [
     {
-      "title": "Late Bronze Age Collapse",
-      "score": 16
-    },
-    {
-      "title": "Good Tools Are Invisible",
-      "score": 44
-    },
-    {
-      "title": "GPT-5.6",
-      "score": 1386
-    },
-    {
-      "title": "The mathematical secrets of Barcelona's Sagrada Familia",
+      "title": "QuadRF can spot drones and see WiFi through my wall",
       "score": 26
     },
     {
-      "title": "In Emacs, Everything Looks Like a Service",
-      "score": 71
+      "title": "Late Bronze Age Collapse",
+      "score": 187
+    },
+    {
+      "title": "A Love Letter to Flashcards",
+      "score": 30
+    },
+    {
+      "title": "Write code like a human will maintain it",
+      "score": 195
+    },
+    {
+      "title": "Lost city discovered beneath Egypt's desert with ancient church",
+      "score": 46
     }
   ]
 }
