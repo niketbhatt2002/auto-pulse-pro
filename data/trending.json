@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-10T00:11:40.964184Z",
+  "updated_at": "2026-07-10T09:24:40.159232Z",
   "repos": [
     {
       "name": "x4gKing/X4G",
-      "stars": 3386
-    },
-    {
-      "name": "Shpigford/knockoff",
-      "stars": 1567
-    },
-    {
-      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
-      "stars": 1393
+      "stars": 3541
     },
     {
       "name": "withmarbleapp/os-taxonomy",
-      "stars": 1362
+      "stars": 1752
+    },
+    {
+      "name": "Shpigford/knockoff",
+      "stars": 1605
+    },
+    {
+      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
+      "stars": 1398
     },
     {
       "name": "MaximeRivest/riddle",
-      "stars": 1281
+      "stars": 1300
     }
   ]
 }
