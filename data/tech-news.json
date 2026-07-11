@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-11T08:43:21.801112Z",
+  "updated_at": "2026-07-11T09:20:52.383251Z",
   "stories": [
     {
-      "title": "Companies are scrambling to curtail soaring AI costs",
-      "score": 14
-    },
-    {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "score": 222
+      "score": 232
     },
     {
       "title": "QuadRF can spot drones and see WiFi through my wall",
-      "score": 562
+      "score": 576
     },
     {
       "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "score": 1002
+      "score": 1039
     },
     {
       "title": "The vintage beauty of Soviet control rooms (2018)",
-      "score": 72
+      "score": 90
+    },
+    {
+      "title": "An iroh powered smart fan",
+      "score": 102
     }
   ]
 }
