@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-10T21:07:37.327633Z",
+  "updated_at": "2026-07-11T00:04:28.562231Z",
   "repos": [
     {
-      "name": "x4gKing/X4G",
-      "stars": 3947
-    },
-    {
       "name": "withmarbleapp/os-taxonomy",
-      "stars": 2064
+      "stars": 2107
     },
     {
       "name": "Shpigford/knockoff",
-      "stars": 1678
-    },
-    {
-      "name": "ammaarreshi/Generals-Mac-iOS-iPad",
-      "stars": 1404
+      "stars": 1703
     },
     {
       "name": "MaximeRivest/riddle",
-      "stars": 1336
+      "stars": 1338
+    },
+    {
+      "name": "514-labs/dnsglobe",
+      "stars": 794
+    },
+    {
+      "name": "Robbyant/lingbot-world-v2",
+      "stars": 693
     }
   ]
 }
