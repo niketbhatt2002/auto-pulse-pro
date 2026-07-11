@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-11T07:46:02.820206Z",
+  "updated_at": "2026-07-11T08:43:22.792054Z",
   "repos": [
     {
       "name": "withmarbleapp/os-taxonomy",
-      "stars": 2242
+      "stars": 2252
     },
     {
       "name": "Shpigford/knockoff",
-      "stars": 1721
+      "stars": 1723
     },
     {
       "name": "MaximeRivest/riddle",
-      "stars": 1355
+      "stars": 1360
     },
     {
       "name": "514-labs/dnsglobe",
-      "stars": 800
+      "stars": 801
     },
     {
       "name": "Robbyant/lingbot-world-v2",
-      "stars": 724
+      "stars": 732
     }
   ]
 }
