@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-11T11:49:58.465144Z",
+  "updated_at": "2026-07-11T14:58:10.769230Z",
   "stories": [
     {
+      "title": "Networking and the Internet, from First Principles",
+      "score": 130
+    },
+    {
+      "title": "Your code is fast \u2013 if you're lucky",
+      "score": 82
+    },
+    {
       "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "score": 274
+      "score": 316
     },
     {
       "title": "QuadRF can spot drones and see WiFi through my wall",
-      "score": 613
+      "score": 652
     },
     {
-      "title": "Otary \u2013 Image and Geometry Python Library Now Has Tutorials",
-      "score": 34
-    },
-    {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "score": 1158
-    },
-    {
-      "title": "Almost $1B Later, the US Still Can't Make a Medical Glove",
-      "score": 58
+      "title": "Google Search lets creators know more about their reach",
+      "score": 50
     }
   ]
 }
