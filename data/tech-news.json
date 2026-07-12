@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-12T11:04:22.506917Z",
+  "updated_at": "2026-07-12T11:56:40.384026Z",
   "stories": [
     {
+      "title": "Old and new apps, via modern coding agents by Terry Tao",
+      "score": 19
+    },
+    {
       "title": "Vint Cerf, a \u201cfather of the Internet\u201d, is retiring",
-      "score": 95
+      "score": 116
     },
     {
       "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-      "score": 73
+      "score": 84
     },
     {
       "title": "Mesh LLM: distributed AI computing on iroh",
-      "score": 266
+      "score": 272
     },
     {
-      "title": "Protobuf-py: Protobuf for Python, without compromises",
-      "score": 54
-    },
-    {
-      "title": "An agent in 100 lines of Lisp",
-      "score": 163
+      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
+      "score": 28
     }
   ]
 }
