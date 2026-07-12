@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-12T08:07:31.876297Z",
+  "updated_at": "2026-07-12T08:59:17.284997Z",
   "stories": [
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "score": 222
-    },
-    {
-      "title": "The 'Father of the Internet' is finally retiring",
-      "score": 29
-    },
-    {
       "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-      "score": 9
+      "score": 27
+    },
+    {
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "score": 243
+    },
+    {
+      "title": "Protobuf-py: Protobuf for Python, without compromises",
+      "score": 34
+    },
+    {
+      "title": "Vint Cerf, a \u201cfather of the Internet\u201d, is retiring",
+      "score": 47
     },
     {
       "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-      "score": 250
-    },
-    {
-      "title": "Text art tools",
-      "score": 23
+      "score": 260
     }
   ]
 }
