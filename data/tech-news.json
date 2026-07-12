@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-12T17:46:43.881823Z",
+  "updated_at": "2026-07-12T20:52:52.701305Z",
   "stories": [
     {
-      "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "score": 301
+      "title": "Tiny Emulators",
+      "score": 25
     },
     {
-      "title": "How to Read More Books",
-      "score": 110
+      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
+      "score": 256
     },
     {
-      "title": "Don't You Mean Extinct?",
-      "score": 62
+      "title": "Old and new apps, via modern coding agents",
+      "score": 372
     },
     {
-      "title": "Automation Without Understanding",
-      "score": 10
+      "title": "I love LLMs, I hate hype",
+      "score": 175
     },
     {
-      "title": "Understanding the Odin Programming Language",
-      "score": 104
+      "title": "I Learned to Read Again",
+      "score": 33
     }
   ]
 }
