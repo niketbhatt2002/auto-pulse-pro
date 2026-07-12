@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-12T11:56:40.384026Z",
+  "updated_at": "2026-07-12T15:00:34.733538Z",
   "stories": [
     {
       "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "score": 19
+      "score": 169
     },
     {
-      "title": "Vint Cerf, a \u201cfather of the Internet\u201d, is retiring",
-      "score": 116
+      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
+      "score": 31
     },
     {
-      "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
-      "score": 84
+      "title": "Understanding the Odin Programming Language",
+      "score": 50
     },
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "score": 272
+      "title": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "score": 13
     },
     {
-      "title": "Woman in Brazil enslaved for 55 years by 3 generations of the same family",
-      "score": 28
+      "title": "Yt-Dlp Sequence Diagrams",
+      "score": 79
     }
   ]
 }
