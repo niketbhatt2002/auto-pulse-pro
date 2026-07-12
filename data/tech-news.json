@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-12T15:00:34.733538Z",
+  "updated_at": "2026-07-12T17:46:43.881823Z",
   "stories": [
     {
       "title": "Old and new apps, via modern coding agents by Terry Tao",
-      "score": 169
+      "score": 301
     },
     {
-      "title": "AI Boosts Research Careers but Flattens Scientific Discovery",
-      "score": 31
+      "title": "How to Read More Books",
+      "score": 110
+    },
+    {
+      "title": "Don't You Mean Extinct?",
+      "score": 62
+    },
+    {
+      "title": "Automation Without Understanding",
+      "score": 10
     },
     {
       "title": "Understanding the Odin Programming Language",
-      "score": 50
-    },
-    {
-      "title": "Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
-      "score": 13
-    },
-    {
-      "title": "Yt-Dlp Sequence Diagrams",
-      "score": 79
+      "score": 104
     }
   ]
 }
