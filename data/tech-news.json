@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-07-12T00:02:00.349074Z",
+  "updated_at": "2026-07-12T08:07:31.876297Z",
   "stories": [
     {
-      "title": "Stop Telling Me to Ask an LLM",
-      "score": 109
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "score": 222
     },
     {
-      "title": "Weightlifting beats running for blood sugar control, researchers find",
-      "score": 59
+      "title": "The 'Father of the Internet' is finally retiring",
+      "score": 29
+    },
+    {
+      "title": "Show HN: Mindwalk \u2013 Replay coding-agent sessions on a 3D map of your codebase",
+      "score": 9
     },
     {
       "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-      "score": 155
+      "score": 250
     },
     {
-      "title": "Mesh LLM: distributed AI computing on iroh",
-      "score": 26
-    },
-    {
-      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "title": "Text art tools",
       "score": 23
     }
   ]
