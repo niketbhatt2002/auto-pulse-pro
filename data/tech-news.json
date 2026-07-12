@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-11T20:52:01.256951Z",
+  "updated_at": "2026-07-12T00:02:00.349074Z",
   "stories": [
     {
+      "title": "Stop Telling Me to Ask an LLM",
+      "score": 109
+    },
+    {
+      "title": "Weightlifting beats running for blood sugar control, researchers find",
+      "score": 59
+    },
+    {
       "title": "Show HN: Ant \u2013 A JavaScript runtime and ecosystem",
-      "score": 40
+      "score": 155
     },
     {
-      "title": "We scaled PgBouncer to 4x throughput",
-      "score": 140
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "score": 26
     },
     {
-      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-      "score": 67
-    },
-    {
-      "title": "Prefer strict tables in SQLite",
-      "score": 132
-    },
-    {
-      "title": "Who manages the agents?",
-      "score": 60
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "score": 23
     }
   ]
 }

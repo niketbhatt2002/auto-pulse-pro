@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-11T20:52:02.214542Z",
+  "updated_at": "2026-07-12T00:02:01.667689Z",
   "repos": [
     {
       "name": "withmarbleapp/os-taxonomy",
-      "stars": 2360
+      "stars": 2381
     },
     {
       "name": "Shpigford/knockoff",
-      "stars": 1760
-    },
-    {
-      "name": "MaximeRivest/riddle",
-      "stars": 1397
+      "stars": 1769
     },
     {
       "name": "oso95/scroll-world",
-      "stars": 842
+      "stars": 880
     },
     {
-      "name": "514-labs/dnsglobe",
-      "stars": 814
+      "name": "x4gKing/3x-ui-Upgrade",
+      "stars": 796
+    },
+    {
+      "name": "Robbyant/lingbot-world-v2",
+      "stars": 791
     }
   ]
 }
