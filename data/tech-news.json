@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-12T20:52:52.701305Z",
+  "updated_at": "2026-07-13T00:00:29.251051Z",
   "stories": [
     {
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "score": 220
+    },
+    {
       "title": "Tiny Emulators",
-      "score": 25
+      "score": 114
     },
     {
-      "title": "Claude Code sends 33k tokens before reading the prompt; OpenCode sends 7k",
-      "score": 256
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "score": 24
     },
     {
-      "title": "Old and new apps, via modern coding agents",
-      "score": 372
+      "title": "So you want to learn physics (second edition, 2021)",
+      "score": 58
     },
     {
-      "title": "I love LLMs, I hate hype",
-      "score": 175
-    },
-    {
-      "title": "I Learned to Read Again",
-      "score": 33
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "score": 40
     }
   ]
 }
