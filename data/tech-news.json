@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-13T12:25:43.971529Z",
+  "updated_at": "2026-07-13T13:20:34.428904Z",
   "stories": [
     {
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "score": 535
+      "score": 694
     },
     {
       "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
-      "score": 32
+      "score": 81
+    },
+    {
+      "title": "Control the Ideas, Not the Code",
+      "score": 52
     },
     {
       "title": "Show HN: DOM-docx \u2013 HTML to native, editable Word docs (MIT)",
-      "score": 5
+      "score": 24
     },
     {
       "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "score": 103
-    },
-    {
-      "title": "The social physics of conversation: Communication patterns matter",
-      "score": 75
+      "score": 130
     }
   ]
 }
