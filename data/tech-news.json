@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-13T20:58:16.790359Z",
+  "updated_at": "2026-07-13T23:58:03.541248Z",
   "stories": [
     {
+      "title": "Claude is just Mr. Meeseeks",
+      "score": 85
+    },
+    {
+      "title": "\u2018Asia's cleanest village\u2019 bans tourists on Sundays",
+      "score": 42
+    },
+    {
+      "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
+      "score": 253
+    },
+    {
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "score": 326
+      "score": 411
     },
     {
-      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
-      "score": 102
-    },
-    {
-      "title": "The real prices of frontier models. Tokens * Price, right?",
-      "score": 82
-    },
-    {
-      "title": "AI Is a Bad Tool",
-      "score": 47
-    },
-    {
-      "title": "Climate.gov was destroyed. Open data saved it",
-      "score": 162
+      "title": "An Englishwoman who sketched India before photography took hold",
+      "score": 9
     }
   ]
 }
