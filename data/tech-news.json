@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-13T18:24:02.803743Z",
+  "updated_at": "2026-07-13T20:58:16.790359Z",
   "stories": [
     {
       "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "score": 175
+      "score": 326
     },
     {
-      "title": "Show HN: Super Dario",
-      "score": 39
+      "title": "Building and Shipping Mac and iOS Apps Without Ever Opening Xcode",
+      "score": 102
     },
     {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "score": 136
+      "title": "The real prices of frontier models. Tokens * Price, right?",
+      "score": 82
     },
     {
-      "title": "Logseq 2.0 Beta (DB version) is here",
-      "score": 12
+      "title": "AI Is a Bad Tool",
+      "score": 47
     },
     {
-      "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
-      "score": 270
+      "title": "Climate.gov was destroyed. Open data saved it",
+      "score": 162
     }
   ]
 }
