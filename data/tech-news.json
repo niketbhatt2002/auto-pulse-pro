@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-13T10:53:08.531403Z",
+  "updated_at": "2026-07-13T12:11:27.721290Z",
   "stories": [
     {
       "title": "Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "score": 285
+      "score": 497
+    },
+    {
+      "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
+      "score": 24
     },
     {
       "title": "Interrail: 6,379Km and 13 Countries over 7 weeks",
-      "score": 70
-    },
-    {
-      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
-      "score": 284
+      "score": 99
     },
     {
       "title": "The social physics of conversation: Communication patterns matter",
-      "score": 46
+      "score": 69
     },
     {
-      "title": "Beavis Ultrasound PnP ISA Sound Card Replica",
-      "score": 65
+      "title": "GhostLock, a stack-UAF that has existed in all Linux distributions for 15 years",
+      "score": 307
     }
   ]
 }
