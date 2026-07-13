@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-13T16:36:56.054156Z",
+  "updated_at": "2026-07-13T18:24:02.803743Z",
   "stories": [
     {
-      "title": "The art and engineering of Sega CD Silpheed",
-      "score": 93
+      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
+      "score": 175
     },
     {
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "score": 33
+      "title": "Show HN: Super Dario",
+      "score": 39
+    },
+    {
+      "title": "The art and engineering of Sega CD Silpheed",
+      "score": 136
+    },
+    {
+      "title": "Logseq 2.0 Beta (DB version) is here",
+      "score": 12
     },
     {
       "title": "A voxel Tokyo in real Japan time \u2013 ride the Yamanote line and study Japanese",
-      "score": 225
-    },
-    {
-      "title": "Grok uploaded my user directory to xAI's servers",
-      "score": 396
-    },
-    {
-      "title": "DOGE is done. What happened to its records?",
-      "score": 112
+      "score": 270
     }
   ]
 }
