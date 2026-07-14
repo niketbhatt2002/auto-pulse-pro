@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-14T15:25:45.041528Z",
+  "updated_at": "2026-07-14T17:53:58.009567Z",
   "stories": [
     {
-      "title": "Agnes Callard\u2019s theory of the uni-context",
-      "score": 38
+      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
+      "score": 123
+    },
+    {
+      "title": "The Tower Keeps Rising",
+      "score": 39
     },
     {
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "score": 204
+      "score": 434
     },
     {
-      "title": "Beautiful Type Erasure with C++26 Reflection",
-      "score": 56
+      "title": "Show HN: Opening lines of famous literary works",
+      "score": 93
     },
     {
-      "title": "Demis Hassabis has a plan to harness AI safely",
-      "score": 57
-    },
-    {
-      "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
-      "score": 33
+      "title": "How to stop Claude from saying load-bearing",
+      "score": 193
     }
   ]
 }
