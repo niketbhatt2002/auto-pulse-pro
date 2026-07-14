@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-14T10:51:17.729902Z",
+  "updated_at": "2026-07-14T11:17:24.965079Z",
   "stories": [
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "score": 515
+      "score": 534
     },
     {
       "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "score": 48
-    },
-    {
-      "title": "Australian energy retailers must provide three hours of free daytime electricity",
-      "score": 117
+      "score": 55
     },
     {
       "title": "The git history command",
-      "score": 320
+      "score": 327
+    },
+    {
+      "title": "Australian energy retailers must provide three hours of free daytime electricity",
+      "score": 124
     },
     {
       "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
-      "score": 62
+      "score": 69
     }
   ]
 }
