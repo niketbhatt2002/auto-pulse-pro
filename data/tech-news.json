@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-14T17:53:58.009567Z",
+  "updated_at": "2026-07-14T21:01:55.242112Z",
   "stories": [
     {
-      "title": "Measuring Input Latency on Linux: X11 vs. Wayland, VRR, and DXVK",
-      "score": 123
+      "title": "Bonsai 27B: A 27B-Class Model that runs on a phone",
+      "score": 201
     },
     {
       "title": "The Tower Keeps Rising",
-      "score": 39
+      "score": 225
+    },
+    {
+      "title": "Cursor 0day: When Full Disclosure Becomes the Only Protection Left",
+      "score": 83
     },
     {
       "title": "Your 'app' could have been a webpage (so I fixed it for you)",
-      "score": 434
+      "score": 596
     },
     {
-      "title": "Show HN: Opening lines of famous literary works",
-      "score": 93
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "score": 193
+      "title": "The largest available Minecraft world, totalling 15 TB",
+      "score": 79
     }
   ]
 }
