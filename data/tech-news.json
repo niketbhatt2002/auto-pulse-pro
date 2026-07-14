@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-14T07:52:44.865295Z",
+  "updated_at": "2026-07-14T09:01:20.132750Z",
   "stories": [
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "score": 365
+      "score": 433
+    },
+    {
+      "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
+      "score": 16
     },
     {
       "title": "YouTrackDB is a general-use object-oriented graph database",
-      "score": 93
+      "score": 107
     },
     {
-      "title": "The Git history command deserves more attention",
-      "score": 249
+      "title": "European \"age verification\" \"app\" forcing everyone to use Android or iOS",
+      "score": 6
     },
     {
-      "title": "Fundamentals of Wireless Communication (2005)",
-      "score": 116
-    },
-    {
-      "title": "How to build a circular LCD clock",
-      "score": 65
+      "title": "The git history command",
+      "score": 276
     }
   ]
 }
