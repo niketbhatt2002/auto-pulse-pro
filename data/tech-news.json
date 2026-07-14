@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-14T09:50:34.062053Z",
+  "updated_at": "2026-07-14T10:51:17.729902Z",
   "stories": [
     {
       "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
-      "score": 473
+      "score": 515
     },
     {
       "title": "Alternative(s) to run CUDA on non-Nvidia hardware",
-      "score": 33
-    },
-    {
-      "title": "The git history command",
-      "score": 296
-    },
-    {
-      "title": "YouTrackDB is a general-use object-oriented graph database",
-      "score": 121
+      "score": 48
     },
     {
       "title": "Australian energy retailers must provide three hours of free daytime electricity",
-      "score": 91
+      "score": 117
+    },
+    {
+      "title": "The git history command",
+      "score": 320
+    },
+    {
+      "title": "Indian scientists produce most detailed 3D atlas of the human brainstem",
+      "score": 62
     }
   ]
 }
