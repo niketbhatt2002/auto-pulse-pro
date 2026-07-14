@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-13T23:58:05.038572Z",
+  "updated_at": "2026-07-14T07:52:45.912949Z",
   "repos": [
     {
       "name": "withmarbleapp/os-taxonomy",
-      "stars": 2904
+      "stars": 2970
     },
     {
       "name": "Robbyant/lingbot-world-v2",
-      "stars": 1027
+      "stars": 1069
     },
     {
       "name": "x4gKing/3x-ui-Upgrade",
-      "stars": 956
+      "stars": 975
     },
     {
       "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "stars": 851
+      "stars": 919
     },
     {
-      "name": "Robbyant/lingbot-video",
-      "stars": 754
+      "name": "MDX-Tom/gpt-5.6-instruct",
+      "stars": 821
     }
   ]
 }

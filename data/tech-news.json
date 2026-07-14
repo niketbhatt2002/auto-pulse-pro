@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-13T23:58:03.541248Z",
+  "updated_at": "2026-07-14T07:52:44.865295Z",
   "stories": [
     {
-      "title": "Claude is just Mr. Meeseeks",
-      "score": 85
+      "title": "Japan develops a method to recover up to 90% of lithium from used EV batteries",
+      "score": 365
     },
     {
-      "title": "\u2018Asia's cleanest village\u2019 bans tourists on Sundays",
-      "score": 42
+      "title": "YouTrackDB is a general-use object-oriented graph database",
+      "score": 93
     },
     {
-      "title": "Building and shipping Mac and iOS apps without ever opening Xcode",
-      "score": 253
+      "title": "The Git history command deserves more attention",
+      "score": 249
     },
     {
-      "title": "Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor",
-      "score": 411
+      "title": "Fundamentals of Wireless Communication (2005)",
+      "score": 116
     },
     {
-      "title": "An Englishwoman who sketched India before photography took hold",
-      "score": 9
+      "title": "How to build a circular LCD clock",
+      "score": 65
     }
   ]
 }
