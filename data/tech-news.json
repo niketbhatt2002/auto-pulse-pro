@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-14T12:08:14.090601Z",
+  "updated_at": "2026-07-14T15:25:45.041528Z",
   "stories": [
     {
-      "title": "Codex starts encrypting sub-agent prompts",
-      "score": 91
+      "title": "Agnes Callard\u2019s theory of the uni-context",
+      "score": 38
     },
     {
-      "title": "The Future Worth Building Is Human \u2013 Thinking Machines Lab",
+      "title": "Your 'app' could have been a webpage (so I fixed it for you)",
+      "score": 204
+    },
+    {
+      "title": "Beautiful Type Erasure with C++26 Reflection",
+      "score": 56
+    },
+    {
+      "title": "Demis Hassabis has a plan to harness AI safely",
+      "score": 57
+    },
+    {
+      "title": "Show HN: Juggler \u2013 an open-source GUI coding agent, by the creator of JUCE",
       "score": 33
-    },
-    {
-      "title": "Your 'App' Could Have Been a Webpage (so I fixed it for you)",
-      "score": 92
-    },
-    {
-      "title": "How to stop Claude from saying load-bearing",
-      "score": 20
-    },
-    {
-      "title": "The great digital fatigue: How digital burnout is changing social media use",
-      "score": 28
     }
   ]
 }
