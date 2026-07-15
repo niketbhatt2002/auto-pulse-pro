@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-15T09:54:39.852953Z",
+  "updated_at": "2026-07-15T10:55:03.145309Z",
   "stories": [
     {
       "title": "Jurassic Park computers in excruciating detail",
-      "score": 442
-    },
-    {
-      "title": "RISC-V Is Inevitable: State of the Union Keynote Argues",
-      "score": 62
+      "score": 493
     },
     {
       "title": "Vancouver PD website features Quick Escape button that wipes itself from history",
-      "score": 267
+      "score": 279
     },
     {
       "title": "Bonsai 27B: A 27B-Class model that runs on a phone",
-      "score": 593
+      "score": 608
     },
     {
       "title": "TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access",
-      "score": 151
+      "score": 157
+    },
+    {
+      "title": "Who's running all those tiny RPKI servers?",
+      "score": 41
     }
   ]
 }
