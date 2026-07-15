@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-15T17:59:39.897561Z",
+  "updated_at": "2026-07-15T21:02:26.615865Z",
   "stories": [
     {
+      "title": "Inkling: Our Open-Weights Model",
+      "score": 322
+    },
+    {
+      "title": "Duskers, the scary command line game, is getting a sequel",
+      "score": 47
+    },
+    {
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+      "score": 220
+    },
+    {
       "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "score": 80
+      "score": 180
     },
     {
-      "title": "Mysteries of Telegram Data Centers",
-      "score": 163
-    },
-    {
-      "title": "Open-source memory for coding agents, synced over SSH",
-      "score": 43
-    },
-    {
-      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
-      "score": 53
-    },
-    {
-      "title": "Collection of Digital Clock Designs",
-      "score": 29
+      "title": "Voxatron",
+      "score": 19
     }
   ]
 }

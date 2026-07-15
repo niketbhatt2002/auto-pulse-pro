@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-07-15T17:59:41.326961Z",
+  "updated_at": "2026-07-15T21:02:27.709945Z",
   "repos": [
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
-      "stars": 1293
+      "stars": 1313
     },
     {
       "name": "vinhhien112/Three.js-Object-Sculptor-Codex-Plugin",
-      "stars": 996
+      "stars": 1004
     },
     {
       "name": "littledivy/mimic",
-      "stars": 976
+      "stars": 993
     },
     {
       "name": "mereyabdenbekuly-ctrl/clodex-ide",
@@ -19,7 +19,7 @@
     },
     {
       "name": "AlephAITech/WorkBuddyGuide",
-      "stars": 778
+      "stars": 781
     }
   ]
 }
