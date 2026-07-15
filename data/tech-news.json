@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-15T15:36:35.916633Z",
+  "updated_at": "2026-07-15T17:59:39.897561Z",
   "stories": [
     {
-      "title": "Sleep regularity is a stronger predictor of mortality risk than sleep duration (2023)",
-      "score": 407
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "score": 80
     },
     {
       "title": "Mysteries of Telegram Data Centers",
-      "score": 93
+      "score": 163
     },
     {
-      "title": "Prioritize mental health, and why communication is so important",
-      "score": 128
+      "title": "Open-source memory for coding agents, synced over SSH",
+      "score": 43
     },
     {
-      "title": "The well-calibrated Bayesian [pdf] (1982)",
-      "score": 23
+      "title": "Show HN: misa77 - a codec that decodes 2x faster than LZ4 (at better ratios)",
+      "score": 53
     },
     {
-      "title": "Briar Is in Maintenance Mode",
-      "score": 72
+      "title": "Collection of Digital Clock Designs",
+      "score": 29
     }
   ]
 }
