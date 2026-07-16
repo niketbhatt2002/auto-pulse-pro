@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T15:40:18.233409Z",
+  "updated_at": "2026-07-16T17:57:28.205333Z",
   "repos": [
     {
       "name": "xai-org/grok-build",
-      "stars": 10607
+      "stars": 11221
     },
     {
       "name": "Fei-Away/Codex-Dream-Skin",
-      "stars": 4814
+      "stars": 5123
     },
     {
       "name": "MDX-Tom/gpt-5.6-instruct",
-      "stars": 1600
+      "stars": 1626
     },
     {
       "name": "littledivy/mimic",
-      "stars": 1073
+      "stars": 1086
     },
     {
-      "name": "AlephAITech/WorkBuddyGuide",
-      "stars": 971
+      "name": "pixel-point/aval",
+      "stars": 987
     }
   ]
 }

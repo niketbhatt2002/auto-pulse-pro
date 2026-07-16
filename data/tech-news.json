@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T15:40:16.829070Z",
+  "updated_at": "2026-07-16T17:57:27.159595Z",
   "stories": [
     {
       "title": "Kimi K3 is now live",
-      "score": 145
+      "score": 458
+    },
+    {
+      "title": "Microsoft Comic Chat is now open source",
+      "score": 171
+    },
+    {
+      "title": "Decoy Font",
+      "score": 76
+    },
+    {
+      "title": "Detecting LLM-Generated Texts with \u201cClassical\u201d Machine Learning",
+      "score": 44
     },
     {
       "title": "OnePlus halts operations in USA and Europe",
-      "score": 331
-    },
-    {
-      "title": "Goes-19 weather satellite enters Safe Hold mode",
-      "score": 65
-    },
-    {
-      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
-      "score": 77
-    },
-    {
-      "title": "How Our Rust-to-Zig Rewrite Is Going",
-      "score": 97
+      "score": 414
     }
   ]
 }
