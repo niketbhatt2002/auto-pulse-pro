@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T09:09:49.092853Z",
+  "updated_at": "2026-07-16T10:01:16.546052Z",
   "stories": [
     {
       "title": "The lost joy of music piracy",
-      "score": 279
+      "score": 324
     },
     {
       "title": "Inkling: Our Open-Weights Model",
-      "score": 956
+      "score": 976
     },
     {
       "title": "If you want to create a button from scratch, you must first create the universe",
-      "score": 115
-    },
-    {
-      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
-      "score": 29
+      "score": 131
     },
     {
       "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "score": 50
+      "score": 58
+    },
+    {
+      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "score": 39
     }
   ]
 }
