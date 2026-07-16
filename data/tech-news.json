@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T08:02:34.221258Z",
+  "updated_at": "2026-07-16T09:09:49.092853Z",
   "stories": [
     {
       "title": "The lost joy of music piracy",
-      "score": 196
+      "score": 279
     },
     {
       "title": "Inkling: Our Open-Weights Model",
-      "score": 928
+      "score": 956
     },
     {
       "title": "If you want to create a button from scratch, you must first create the universe",
-      "score": 84
+      "score": 115
+    },
+    {
+      "title": "What's the story behind the names of Cloudflare's name servers? (2013)",
+      "score": 29
     },
     {
       "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "score": 28
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "score": 241
+      "score": 50
     }
   ]
 }
