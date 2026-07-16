@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T12:18:18.526603Z",
+  "updated_at": "2026-07-16T15:40:16.829070Z",
   "stories": [
     {
+      "title": "Kimi K3 is now live",
+      "score": 145
+    },
+    {
       "title": "OnePlus halts operations in USA and Europe",
-      "score": 109
+      "score": 331
     },
     {
-      "title": "The lost joy of music piracy",
-      "score": 437
+      "title": "Goes-19 weather satellite enters Safe Hold mode",
+      "score": 65
     },
     {
-      "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "score": 102
+      "title": "Let's Build PlanetScale from Scratch: Infrastructure",
+      "score": 77
     },
     {
-      "title": "The LLM Critics Are Right. I Use LLMs Anyway",
-      "score": 5
-    },
-    {
-      "title": "A Beautiful Theory Falls to Ugly Data",
-      "score": 34
+      "title": "How Our Rust-to-Zig Rewrite Is Going",
+      "score": 97
     }
   ]
 }
