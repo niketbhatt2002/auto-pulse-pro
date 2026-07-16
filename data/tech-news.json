@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T11:03:52.488889Z",
+  "updated_at": "2026-07-16T11:26:19.560020Z",
   "stories": [
     {
+      "title": "OnePlus halts operations in USA and Europe",
+      "score": 34
+    },
+    {
       "title": "The lost joy of music piracy",
-      "score": 378
+      "score": 391
     },
     {
       "title": "Where are YC founders now? OpenAI and Anthropic, mostly",
-      "score": 61
+      "score": 74
     },
     {
       "title": "Inkling: Our Open-Weights Model",
-      "score": 1008
+      "score": 1019
     },
     {
       "title": "If you want to create a button from scratch, you must first create the universe",
-      "score": 155
-    },
-    {
-      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
-      "score": 77
+      "score": 159
     }
   ]
 }
