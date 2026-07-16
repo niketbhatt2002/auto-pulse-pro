@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-15T21:02:26.615865Z",
+  "updated_at": "2026-07-16T00:03:45.108945Z",
   "stories": [
     {
       "title": "Inkling: Our Open-Weights Model",
-      "score": 322
+      "score": 584
     },
     {
-      "title": "Duskers, the scary command line game, is getting a sequel",
-      "score": 47
+      "title": "SQLite should have (Rust-style) editions",
+      "score": 54
     },
     {
-      "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
-      "score": 220
+      "title": "Grok Build is open source",
+      "score": 196
     },
     {
-      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
-      "score": 180
-    },
-    {
-      "title": "Voxatron",
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
       "score": 19
+    },
+    {
+      "title": "The Anti-Mac User Interface (1996)",
+      "score": 29
     }
   ]
 }
