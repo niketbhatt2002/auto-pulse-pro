@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T00:03:45.108945Z",
+  "updated_at": "2026-07-16T08:02:34.221258Z",
   "stories": [
     {
-      "title": "Inkling: Our Open-Weights Model",
-      "score": 584
-    },
-    {
-      "title": "SQLite should have (Rust-style) editions",
-      "score": 54
-    },
-    {
-      "title": "Grok Build is open source",
+      "title": "The lost joy of music piracy",
       "score": 196
     },
     {
-      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials",
-      "score": 19
+      "title": "Inkling: Our Open-Weights Model",
+      "score": 928
     },
     {
-      "title": "The Anti-Mac User Interface (1996)",
-      "score": 29
+      "title": "If you want to create a button from scratch, you must first create the universe",
+      "score": 84
+    },
+    {
+      "title": "Teardown: A Generic 7-Port USB 3.0 Hub That Wasn't",
+      "score": 28
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "score": 241
     }
   ]
 }
