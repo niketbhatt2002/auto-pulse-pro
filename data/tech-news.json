@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-17T17:54:42.024300Z",
+  "updated_at": "2026-07-17T20:58:13.873670Z",
   "stories": [
     {
+      "title": "The Zilog Z80 has turned 50",
+      "score": 60
+    },
+    {
       "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "score": 658
+      "score": 893
     },
     {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "score": 151
+      "score": 282
     },
     {
-      "title": "Mozilla: The state of open source AI",
-      "score": 212
+      "title": "Learning a few things about running SQLite",
+      "score": 85
     },
     {
-      "title": "A Road to Lisp: Which Lisp",
-      "score": 95
-    },
-    {
-      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
-      "score": 86
+      "title": "Frame \u2013 Linux X server in Assembly",
+      "score": 110
     }
   ]
 }
