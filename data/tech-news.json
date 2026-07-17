@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-17T11:14:16.021021Z",
+  "updated_at": "2026-07-17T12:06:24.461224Z",
   "stories": [
     {
+      "title": "Blatant AI slop just won a 25k USD DeepMind Kaggle Grand Prize",
+      "score": 91
+    },
+    {
       "title": "EEG shows brain can simultaneous encode two speech streams",
-      "score": 119
+      "score": 142
     },
     {
       "title": "Kimi K3: Open Frontier Intelligence",
-      "score": 1681
+      "score": 1726
     },
     {
       "title": "Pebble Mega Update \u2013 July 2026",
-      "score": 128
+      "score": 145
     },
     {
       "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
-      "score": 136
-    },
-    {
-      "title": "Microsoft Comic Chat is now open source",
-      "score": 699
+      "score": 154
     }
   ]
 }
