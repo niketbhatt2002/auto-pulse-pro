@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-17T00:03:15.943832Z",
+  "updated_at": "2026-07-17T07:59:43.226919Z",
   "stories": [
     {
+      "title": "EEG shows brain can simultaneous encode two speech streams",
+      "score": 51
+    },
+    {
+      "title": "How Has Roman Concrete Lasted for Millennia? 1,900-Year-Old Latrine Offers Clues",
+      "score": 98
+    },
+    {
       "title": "Kimi K3: Open Frontier Intelligence",
-      "score": 1056
+      "score": 1532
     },
     {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "score": 125
+      "title": "Pebble Mega Update \u2013 July 2026",
+      "score": 80
     },
     {
-      "title": "Microsoft Comic Chat is now open source",
-      "score": 486
-    },
-    {
-      "title": "The Little Book of Reinforcement Learning",
-      "score": 30
-    },
-    {
-      "title": "Decoy Font",
-      "score": 359
+      "title": "An Engineer's Guide to USB Typ\u0435-\u0421 (2024)",
+      "score": 141
     }
   ]
 }
