@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-16T21:02:05.379642Z",
+  "updated_at": "2026-07-17T00:03:15.943832Z",
   "stories": [
     {
-      "title": "Kimi K3 is now live",
-      "score": 752
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "score": 1056
+    },
+    {
+      "title": "LM Studio Bionic: the AI agent for open models",
+      "score": 125
     },
     {
       "title": "Microsoft Comic Chat is now open source",
-      "score": 374
+      "score": 486
+    },
+    {
+      "title": "The Little Book of Reinforcement Learning",
+      "score": 30
     },
     {
       "title": "Decoy Font",
-      "score": 253
-    },
-    {
-      "title": "Kimi K3 Intelligence, Performance and Price Analysis",
-      "score": 33
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "score": 159
+      "score": 359
     }
   ]
 }
