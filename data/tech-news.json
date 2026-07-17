@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-17T15:16:27.732788Z",
+  "updated_at": "2026-07-17T17:54:42.024300Z",
   "stories": [
     {
       "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "score": 268
-    },
-    {
-      "title": "Mozilla: The state of open source AI",
-      "score": 66
+      "score": 658
     },
     {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "score": 31
+      "score": 151
+    },
+    {
+      "title": "Mozilla: The state of open source AI",
+      "score": 212
     },
     {
       "title": "A Road to Lisp: Which Lisp",
-      "score": 32
+      "score": 95
     },
     {
-      "title": "Three ways people respond to a problem (other than solving it)",
-      "score": 27
+      "title": "Kimi K3, and what we can still learn from the pelican benchmark",
+      "score": 86
     }
   ]
 }
