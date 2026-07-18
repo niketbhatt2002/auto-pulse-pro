@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-18T14:57:58.885915Z",
+  "updated_at": "2026-07-18T17:43:58.069082Z",
   "stories": [
     {
       "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "score": 162
+      "score": 315
     },
     {
-      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "score": 95
+      "title": "Gleam Is Now on Tangled",
+      "score": 88
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "score": 56
+    },
+    {
+      "title": "Elixir-lang.org has a new design",
+      "score": 58
     },
     {
       "title": "Is this the end of the once-mighty GoPro?",
-      "score": 49
-    },
-    {
-      "title": "Tech note: making your own V-I plots at home",
-      "score": 16
-    },
-    {
-      "title": "LG monitors silently install software through Windows Update without consent",
-      "score": 509
+      "score": 119
     }
   ]
 }
