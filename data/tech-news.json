@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-18T11:50:51.302507Z",
+  "updated_at": "2026-07-18T14:57:58.885915Z",
   "stories": [
     {
-      "title": "Regressive JPEGs",
-      "score": 415
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "score": 162
+    },
+    {
+      "title": "Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "score": 95
+    },
+    {
+      "title": "Is this the end of the once-mighty GoPro?",
+      "score": 49
+    },
+    {
+      "title": "Tech note: making your own V-I plots at home",
+      "score": 16
     },
     {
       "title": "LG monitors silently install software through Windows Update without consent",
-      "score": 125
-    },
-    {
-      "title": "Why do AI company logos look like buttholes?",
-      "score": 84
-    },
-    {
-      "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "score": 1213
-    },
-    {
-      "title": "Qubes OS Security in the Public Record",
-      "score": 21
+      "score": 509
     }
   ]
 }
