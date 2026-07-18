@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-18T10:55:17.326803Z",
+  "updated_at": "2026-07-18T11:50:51.302507Z",
   "stories": [
     {
       "title": "Regressive JPEGs",
-      "score": 379
+      "score": 415
     },
     {
-      "title": "Funny item co-occurrences in 3.2M Instacart orders",
-      "score": 12
+      "title": "LG monitors silently install software through Windows Update without consent",
+      "score": 125
+    },
+    {
+      "title": "Why do AI company logos look like buttholes?",
+      "score": 84
     },
     {
       "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "score": 1204
+      "score": 1213
     },
     {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "score": 619
-    },
-    {
-      "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-      "score": 37
+      "title": "Qubes OS Security in the Public Record",
+      "score": 21
     }
   ]
 }
