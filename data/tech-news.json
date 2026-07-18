@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-18T10:22:00.580481Z",
+  "updated_at": "2026-07-18T10:55:17.326803Z",
   "stories": [
     {
       "title": "Regressive JPEGs",
-      "score": 358
+      "score": 379
+    },
+    {
+      "title": "Funny item co-occurrences in 3.2M Instacart orders",
+      "score": 12
     },
     {
       "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "score": 1191
+      "score": 1204
     },
     {
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "score": 604
+      "score": 619
     },
     {
       "title": "Porting nanochat to a TPU: what carries over from PyTorch, and what breaks",
-      "score": 33
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "score": 461
+      "score": 37
     }
   ]
 }
