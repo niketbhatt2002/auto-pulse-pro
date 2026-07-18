@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-18T08:45:29.030119Z",
+  "updated_at": "2026-07-18T09:17:45.728414Z",
   "stories": [
     {
       "title": "Regressive JPEGs",
-      "score": 266
+      "score": 304
     },
     {
       "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "score": 1165
-    },
-    {
-      "title": "Reviving a 15-year-old netbook with Arch Linux",
-      "score": 92
+      "score": 1176
     },
     {
       "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "score": 555
+      "score": 575
+    },
+    {
+      "title": "Reviving a 15-year-old netbook with Arch Linux",
+      "score": 102
     },
     {
       "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "score": 445
+      "score": 453
     }
   ]
 }
