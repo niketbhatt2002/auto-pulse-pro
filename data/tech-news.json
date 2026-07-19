@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-18T23:58:45.118983Z",
+  "updated_at": "2026-07-19T08:06:51.564923Z",
   "stories": [
     {
-      "title": "Codex Resets",
-      "score": 29
+      "title": "Transcribe.cpp",
+      "score": 434
+    },
+    {
+      "title": "Searchable field-level encryption on Supabase with CipherStash",
+      "score": 31
     },
     {
       "title": "Speech Recognition and TTS in less than 500kb",
-      "score": 200
+      "score": 424
     },
     {
-      "title": "Classic Amiga titles, free to download",
-      "score": 20
+      "title": "Codex Resets",
+      "score": 158
     },
     {
-      "title": "Judge a book by its first pages",
-      "score": 27
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "score": 481
+      "title": "Better and Cheaper Than IPTV",
+      "score": 162
     }
   ]
 }
