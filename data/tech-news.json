@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-19T09:46:22.324830Z",
+  "updated_at": "2026-07-19T10:38:10.655843Z",
   "stories": [
     {
-      "title": "Transcribe.cpp",
-      "score": 518
+      "title": "Claude Code uses Bun written in Rust now",
+      "score": 21
     },
     {
       "title": "Qwen3.8 is launching and going open-weight soon",
-      "score": 103
+      "score": 182
     },
     {
-      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
-      "score": 11
+      "title": "Transcribe.cpp",
+      "score": 544
     },
     {
       "title": "Speech Recognition and TTS in less than 500kb",
-      "score": 452
+      "score": 464
     },
     {
-      "title": "Codex Resets",
-      "score": 181
+      "title": "Better and Cheaper Than IPTV",
+      "score": 212
     }
   ]
 }
