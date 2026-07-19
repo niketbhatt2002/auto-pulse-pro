@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-19T09:02:42.695070Z",
+  "updated_at": "2026-07-19T09:46:22.324830Z",
   "stories": [
     {
       "title": "Transcribe.cpp",
-      "score": 490
-    },
-    {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "score": 444
+      "score": 518
     },
     {
       "title": "Qwen3.8 is launching and going open-weight soon",
-      "score": 27
+      "score": 103
     },
     {
-      "title": "Searchable field-level encryption on Supabase with CipherStash",
-      "score": 35
+      "title": "Perforce charges $500 for training training videos.. and it's AI narrated",
+      "score": 11
+    },
+    {
+      "title": "Speech Recognition and TTS in less than 500kb",
+      "score": 452
     },
     {
       "title": "Codex Resets",
-      "score": 172
+      "score": 181
     }
   ]
 }
