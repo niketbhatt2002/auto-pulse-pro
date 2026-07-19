@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-19T14:59:58.471294Z",
+  "updated_at": "2026-07-19T17:45:02.212996Z",
   "stories": [
     {
-      "title": "Minecraft: Java Edition now uses SDL3",
-      "score": 87
+      "title": "Qwen 3.8",
+      "score": 537
     },
     {
       "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "score": 177
+      "score": 286
     },
     {
-      "title": "Blender 5.2 LTS",
-      "score": 161
+      "title": "HMD Touch 4G",
+      "score": 10
     },
     {
-      "title": "The death and rebirth of my home server",
-      "score": 56
+      "title": "Claude Code uses Bun written in Rust now",
+      "score": 243
     },
     {
-      "title": "DRIVE \u2013 Operational Excellence for AI-accelerated engineering",
-      "score": 11
+      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
+      "score": 58
     }
   ]
 }
