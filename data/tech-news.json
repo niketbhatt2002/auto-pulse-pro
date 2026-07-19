@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-19T11:54:42.005216Z",
+  "updated_at": "2026-07-19T14:59:58.471294Z",
   "stories": [
     {
-      "title": "Qwen 3.8 Max Preview",
-      "score": 78
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "score": 87
     },
     {
-      "title": "Qwen 3.8 Max",
-      "score": 19
-    },
-    {
-      "title": "Transcribe.cpp",
-      "score": 566
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "score": 177
     },
     {
       "title": "Blender 5.2 LTS",
-      "score": 47
+      "score": 161
     },
     {
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "score": 233
+      "title": "The death and rebirth of my home server",
+      "score": 56
+    },
+    {
+      "title": "DRIVE \u2013 Operational Excellence for AI-accelerated engineering",
+      "score": 11
     }
   ]
 }
