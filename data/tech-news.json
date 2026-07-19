@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-19T10:38:10.655843Z",
+  "updated_at": "2026-07-19T11:03:55.084440Z",
   "stories": [
     {
       "title": "Claude Code uses Bun written in Rust now",
-      "score": 21
+      "score": 53
+    },
+    {
+      "title": "Qwen 3.8 Max Preview",
+      "score": 27
     },
     {
       "title": "Qwen3.8 is launching and going open-weight soon",
-      "score": 182
+      "score": 206
     },
     {
       "title": "Transcribe.cpp",
-      "score": 544
+      "score": 551
     },
     {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "score": 464
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "score": 212
+      "title": "Blender 5.2 LTS",
+      "score": 23
     }
   ]
 }
