@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-19T17:45:02.212996Z",
+  "updated_at": "2026-07-19T20:53:13.564466Z",
   "stories": [
     {
+      "title": "Heavy TV watching associated with smaller brain structures, study finds",
+      "score": 27
+    },
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "score": 726
+    },
+    {
       "title": "Qwen 3.8",
-      "score": 537
+      "score": 670
     },
     {
-      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
-      "score": 286
+      "title": "HomeLab #1: MikroTik as a Home Router",
+      "score": 22
     },
     {
-      "title": "HMD Touch 4G",
-      "score": 10
-    },
-    {
-      "title": "Claude Code uses Bun written in Rust now",
-      "score": 243
-    },
-    {
-      "title": "Bananas sprout in Rayleigh Garden UK after 15 years",
-      "score": 58
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "score": 220
     }
   ]
 }
