@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-19T11:03:55.084440Z",
+  "updated_at": "2026-07-19T11:54:42.005216Z",
   "stories": [
     {
-      "title": "Claude Code uses Bun written in Rust now",
-      "score": 53
-    },
-    {
       "title": "Qwen 3.8 Max Preview",
-      "score": 27
+      "score": 78
     },
     {
-      "title": "Qwen3.8 is launching and going open-weight soon",
-      "score": 206
+      "title": "Qwen 3.8 Max",
+      "score": 19
     },
     {
       "title": "Transcribe.cpp",
-      "score": 551
+      "score": 566
     },
     {
       "title": "Blender 5.2 LTS",
-      "score": 23
+      "score": 47
+    },
+    {
+      "title": "Qwen3.8 is launching and going open-weight soon",
+      "score": 233
     }
   ]
 }
