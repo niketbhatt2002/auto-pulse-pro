@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-20T13:02:46.451595Z",
+  "updated_at": "2026-07-20T15:53:06.970127Z",
   "stories": [
     {
+      "title": "Corners Don't Look Like That: Regarding Screenspace Ambient Occlusion",
+      "score": 36
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "score": 253
+    },
+    {
+      "title": "We're Squandering LEDs' Potential to Save Our Night Skies",
+      "score": 95
+    },
+    {
+      "title": "Kimi K3, Qwen 3.8, and Anthropic's (Potential) Unravelling",
+      "score": 25
+    },
+    {
       "title": "Airport Simulator",
-      "score": 100
-    },
-    {
-      "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "score": 215
-    },
-    {
-      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
-      "score": 63
-    },
-    {
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "score": 2545
-    },
-    {
-      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "score": 247
+      "score": 329
     }
   ]
 }
