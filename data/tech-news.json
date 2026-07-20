@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-20T00:02:30.264695Z",
+  "updated_at": "2026-07-20T08:48:05.160883Z",
   "stories": [
     {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "score": 1302
+      "score": 2221
     },
     {
-      "title": "AI advice made people 3x less accurate but 2x confident, researchers found",
-      "score": 213
+      "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
+      "score": 155
     },
     {
-      "title": "Qwen 3.8",
-      "score": 750
+      "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
+      "score": 64
     },
     {
-      "title": "The Zen of Parallel Programming",
-      "score": 92
+      "title": "Xiaomi-Robotics-1",
+      "score": 174
     },
     {
-      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
-      "score": 35
+      "title": "Self-Powered Trailers Promise Leaner Freight Runs",
+      "score": 31
     }
   ]
 }
