@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-20T10:44:25.751714Z",
+  "updated_at": "2026-07-20T11:49:34.148658Z",
   "stories": [
     {
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "score": 104
+      "score": 166
     },
     {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "score": 2367
+      "score": 2449
     },
     {
       "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "score": 195
+      "score": 218
     },
     {
-      "title": "Sealed tomb filled with paintings and inscriptions discovered in Egypt",
-      "score": 47
+      "title": "Airbus Takes Flight from AWS",
+      "score": 50
     },
     {
       "title": "LoRA Speedrun \u2013 a public wall-clock leaderboard for fine-tuning techniques",
-      "score": 86
+      "score": 97
     }
   ]
 }
