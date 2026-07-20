@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-20T18:46:51.387421Z",
+  "updated_at": "2026-07-20T21:13:29.026465Z",
   "stories": [
     {
       "title": "China's open-weights AI strategy is winning",
-      "score": 445
-    },
-    {
-      "title": "Hacker wipes Romania's land registry database",
-      "score": 414
-    },
-    {
-      "title": "Hyprland 0.55 announced the switch to Lua for its config files",
-      "score": 43
-    },
-    {
-      "title": "Over 30% of new ArXiv submissions now read as AI-written",
-      "score": 117
+      "score": 727
     },
     {
       "title": "Kimi Work",
-      "score": 60
+      "score": 214
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "score": 198
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "score": 497
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "score": 56
     }
   ]
 }
