@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-20T12:08:02.872955Z",
+  "updated_at": "2026-07-20T13:02:46.451595Z",
   "stories": [
     {
+      "title": "Airport Simulator",
+      "score": 100
+    },
+    {
       "title": "Exploit brokers pay $500k for WordPress RCEs. I found one with GPT5.6 and $25",
-      "score": 176
+      "score": 215
+    },
+    {
+      "title": "The EU is about to sell our most sensitive data to the US for visa-free travel",
+      "score": 63
     },
     {
       "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "score": 2479
+      "score": 2545
     },
     {
       "title": "Moonshine: Lets you stream games from your PC to any device running Moonlight",
-      "score": 225
-    },
-    {
-      "title": "Why is it so hard for the U.S. to win wars?",
-      "score": 20
-    },
-    {
-      "title": "Airbus Takes Flight from AWS",
-      "score": 67
+      "score": 247
     }
   ]
 }
