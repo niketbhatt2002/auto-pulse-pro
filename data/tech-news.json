@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-21T18:05:20.868643Z",
+  "updated_at": "2026-07-21T21:12:30.794383Z",
   "stories": [
     {
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "score": 134
+      "title": "OpenAI and Hugging Face partner to address security incident",
+      "score": 212
+    },
+    {
+      "title": "FreeInk: Open ecosystem for e-readers",
+      "score": 232
     },
     {
       "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "score": 358
+      "score": 516
     },
     {
-      "title": "Meta's AI Models Are Powering the First Wave of Genesis Mission Projects",
-      "score": 28
+      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
+      "score": 241
     },
     {
-      "title": "PCjs Machines",
-      "score": 120
-    },
-    {
-      "title": "France's Anssi Will Block PQC-Free Products from Certification Starting 2027",
-      "score": 41
+      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
+      "score": 149
     }
   ]
 }
