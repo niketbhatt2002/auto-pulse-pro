@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-21T12:21:50.153360Z",
+  "updated_at": "2026-07-21T15:46:02.432911Z",
   "stories": [
     {
+      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
+      "score": 84
+    },
+    {
+      "title": "Apple Defeats Liability for Not Scanning iCloud for CSAM",
+      "score": 83
+    },
+    {
+      "title": "PCjs Machines",
+      "score": 53
+    },
+    {
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "score": 202
+      "score": 403
     },
     {
-      "title": "Incremental \u2013 A library for incremental computations",
-      "score": 249
-    },
-    {
-      "title": "Who's afraid of Chinese models?",
-      "score": 721
-    },
-    {
-      "title": "New US homeownership measure puts people first",
-      "score": 3
-    },
-    {
-      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-      "score": 34
+      "title": "ICE to Pay Thomson Reuters $125M to Find Voter Fraud",
+      "score": 66
     }
   ]
 }
