@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-21T11:41:23.638300Z",
+  "updated_at": "2026-07-21T12:21:50.153360Z",
   "stories": [
     {
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "score": 161
-    },
-    {
-      "title": "The Growing Compute Shortage",
-      "score": 22
+      "score": 202
     },
     {
       "title": "Incremental \u2013 A library for incremental computations",
-      "score": 235
+      "score": 249
     },
     {
       "title": "Who's afraid of Chinese models?",
-      "score": 699
+      "score": 721
+    },
+    {
+      "title": "New US homeownership measure puts people first",
+      "score": 3
     },
     {
       "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
-      "score": 26
+      "score": 34
     }
   ]
 }
