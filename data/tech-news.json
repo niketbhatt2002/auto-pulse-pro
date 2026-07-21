@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-21T00:01:54.399769Z",
+  "updated_at": "2026-07-21T08:16:02.213412Z",
   "stories": [
     {
-      "title": "China\u2019s open-weights AI strategy is winning",
-      "score": 920
+      "title": "Incremental \u2013 A library for incremental computations",
+      "score": 152
     },
     {
-      "title": "Who's Afraid of Chinese Models?",
-      "score": 131
+      "title": "Who's afraid of Chinese models?",
+      "score": 590
+    },
+    {
+      "title": "Running Doom on Our Custom CPU and Going Viral",
+      "score": 53
     },
     {
       "title": "Kimi Work",
-      "score": 344
-    },
-    {
-      "title": "Human mathematicians are being outcounterexampled",
-      "score": 161
+      "score": 518
     },
     {
       "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "score": 296
+      "score": 459
     }
   ]
 }
