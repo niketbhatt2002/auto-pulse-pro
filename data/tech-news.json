@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-21T09:24:05.267438Z",
+  "updated_at": "2026-07-21T10:19:05.429356Z",
   "stories": [
     {
       "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
-      "score": 32
+      "score": 80
     },
     {
       "title": "Incremental \u2013 A library for incremental computations",
-      "score": 186
+      "score": 206
     },
     {
       "title": "Who's afraid of Chinese models?",
-      "score": 627
+      "score": 652
     },
     {
-      "title": "Running Doom on Our Custom CPU and Going Viral",
-      "score": 64
+      "title": "Arduino Launches Plug-and-Play Modules for Long-Range Sensor Projects",
+      "score": 18
     },
     {
-      "title": "Linux kernel will support $ORIGIN, sort of",
-      "score": 38
+      "title": "Kimi Work",
+      "score": 561
     }
   ]
 }
