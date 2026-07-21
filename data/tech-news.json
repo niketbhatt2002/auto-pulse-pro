@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-21T08:16:02.213412Z",
+  "updated_at": "2026-07-21T09:24:05.267438Z",
   "stories": [
     {
+      "title": "Qwen-Image-3.0: Rich Content, Authentic Details, Deep Knowledge",
+      "score": 32
+    },
+    {
       "title": "Incremental \u2013 A library for incremental computations",
-      "score": 152
+      "score": 186
     },
     {
       "title": "Who's afraid of Chinese models?",
-      "score": 590
+      "score": 627
     },
     {
       "title": "Running Doom on Our Custom CPU and Going Viral",
-      "score": 53
+      "score": 64
     },
     {
-      "title": "Kimi Work",
-      "score": 518
-    },
-    {
-      "title": "Jelly UI: Soft-body physics for native HTML form controls",
-      "score": 459
+      "title": "Linux kernel will support $ORIGIN, sort of",
+      "score": 38
     }
   ]
 }
