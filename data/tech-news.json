@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-22T11:41:19.317005Z",
+  "updated_at": "2026-07-22T12:23:10.058950Z",
   "stories": [
     {
+      "title": "OverpAId \u2013 Fire your CEO. Hire the future",
+      "score": 68
+    },
+    {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "score": 1251
+      "score": 1284
     },
     {
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "score": 690
-    },
-    {
-      "title": "Intel Starts Shipping High-NA EUV Silicon",
-      "score": 111
+      "score": 711
     },
     {
       "title": "Introduction to Formal Verification with Lean Part 1",
-      "score": 55
+      "score": 74
     },
     {
-      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
-      "score": 91
+      "title": "Intel Starts Shipping High-NA EUV Silicon",
+      "score": 124
     }
   ]
 }
