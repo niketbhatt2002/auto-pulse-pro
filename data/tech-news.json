@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-21T23:58:43.972417Z",
+  "updated_at": "2026-07-22T08:16:54.069977Z",
   "stories": [
     {
       "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "score": 580
+      "score": 1074
     },
     {
       "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "score": 160
+      "score": 571
     },
     {
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "score": 358
+      "title": "Original Apollo 11 Guidance Computer source code for command and lunar modules",
+      "score": 52
     },
     {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "score": 118
+      "title": "Intel Starts Shipping High-NA EUV Silicon",
+      "score": 48
     },
     {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "score": 586
+      "title": "Show HN: ReadKinetic \u2013 a free, local-first speed reader for your own books",
+      "score": 44
     }
   ]
 }
