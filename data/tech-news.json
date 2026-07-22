@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-22T15:44:15.511950Z",
+  "updated_at": "2026-07-22T17:58:31.481681Z",
   "stories": [
     {
+      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
+      "score": 60
+    },
+    {
+      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
+      "score": 337
+    },
+    {
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "score": 30
+    },
+    {
+      "title": "Making",
+      "score": 118
+    },
+    {
       "title": "The startup's Postgres survival guide",
-      "score": 55
-    },
-    {
-      "title": "10 REM\"_(C2SLFF4",
-      "score": 90
-    },
-    {
-      "title": "Why I Am Not Going to Buy a Computer",
-      "score": 5
-    },
-    {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "score": 1455
-    },
-    {
-      "title": "Introduction to Formal Verification with Lean Part 1",
-      "score": 167
+      "score": 168
     }
   ]
 }
