@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-23T09:21:24.320578Z",
+  "updated_at": "2026-07-23T10:13:40.584719Z",
   "stories": [
     {
       "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "score": 53
+      "score": 66
     },
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "score": 864
-    },
-    {
-      "title": "git's \u2013end-of-options Flag",
-      "score": 138
+      "score": 888
     },
     {
       "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-      "score": 43
+      "score": 57
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "score": 355
+      "score": 367
+    },
+    {
+      "title": "git's \u2013end-of-options Flag",
+      "score": 149
     }
   ]
 }
