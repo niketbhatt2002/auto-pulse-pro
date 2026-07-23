@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-23T11:13:55.084473Z",
+  "updated_at": "2026-07-23T11:45:13.228858Z",
   "stories": [
     {
+      "title": "Code mode yields a 99.2% cost reduction in our systems",
+      "score": 38
+    },
+    {
       "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
-      "score": 78
+      "score": 87
     },
     {
       "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "score": 907
+      "score": 923
     },
     {
       "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-      "score": 69
+      "score": 72
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "score": 382
-    },
-    {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "score": 522
+      "score": 390
     }
   ]
 }
