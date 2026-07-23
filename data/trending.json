@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-23T08:20:58.500841Z",
+  "updated_at": "2026-07-23T09:21:25.572826Z",
   "repos": [
     {
       "name": "lopopolo/harness-engineering",
-      "stars": 2215
+      "stars": 2218
     },
     {
       "name": "nethical6/conversation-steganography",
-      "stars": 1023
+      "stars": 1027
     },
     {
       "name": "MIgHTy-alIeN/MEV-Arbitrage-Bot",
-      "stars": 920
+      "stars": 990
     },
     {
       "name": "Blaizzy/nativ",
-      "stars": 778
+      "stars": 779
     },
     {
-      "name": "Jakubantalik/thinking-orbs",
-      "stars": 699
+      "name": "nyblnet/bento",
+      "stars": 736
     }
   ]
 }
