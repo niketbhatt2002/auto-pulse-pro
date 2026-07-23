@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-23T00:06:08.106108Z",
+  "updated_at": "2026-07-23T08:20:57.170484Z",
   "stories": [
     {
-      "title": "Medici family mystery may be solved after more than 400 years",
-      "score": 61
+      "title": "git's \u2013end-of-options Flag",
+      "score": 126
+    },
+    {
+      "title": "Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot",
+      "score": 28
+    },
+    {
+      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
+      "score": 832
     },
     {
       "title": "Quality non-fiction books are the antithesis of AI slop",
-      "score": 77
+      "score": 331
     },
     {
-      "title": "GigaToken: ~1000x faster Language model tokenization",
-      "score": 333
-    },
-    {
-      "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "score": 609
-    },
-    {
-      "title": "Malleable Computing, Emacs, and You",
-      "score": 59
+      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
+      "score": 25
     }
   ]
 }
