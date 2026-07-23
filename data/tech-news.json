@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-23T15:56:37.484977Z",
+  "updated_at": "2026-07-23T18:04:39.266361Z",
   "stories": [
     {
       "title": "Writing by hand is good for your brain",
-      "score": 159
+      "score": 457
     },
     {
-      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
-      "score": 111
-    },
-    {
-      "title": "Astronomers may have found the first exomoon",
-      "score": 99
+      "title": "What happened to TheNumbers.com",
+      "score": 81
     },
     {
       "title": "Software rendering in 500 lines of bare C++",
-      "score": 64
+      "score": 139
+    },
+    {
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "score": 360
     },
     {
       "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
-      "score": 31
+      "score": 91
     }
   ]
 }
