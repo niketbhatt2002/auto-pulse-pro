@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-22T21:15:47.494866Z",
+  "updated_at": "2026-07-23T00:06:08.106108Z",
   "stories": [
     {
-      "title": "John C. Dvorak has died",
-      "score": 180
+      "title": "Medici family mystery may be solved after more than 400 years",
+      "score": 61
     },
     {
-      "title": "Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample",
-      "score": 416
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "score": 77
     },
     {
       "title": "GigaToken: ~1000x faster Language model tokenization",
-      "score": 253
-    },
-    {
-      "title": "I Inspected My Take-Home Interview Project. It Was a Whole Operation",
-      "score": 27
+      "score": 333
     },
     {
       "title": "Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)",
-      "score": 531
+      "score": 609
+    },
+    {
+      "title": "Malleable Computing, Emacs, and You",
+      "score": 59
     }
   ]
 }
