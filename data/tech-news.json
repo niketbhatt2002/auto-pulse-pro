@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-23T12:22:04.162018Z",
+  "updated_at": "2026-07-23T15:56:37.484977Z",
   "stories": [
     {
-      "title": "Understanding the AI Economy",
-      "score": 15
+      "title": "Writing by hand is good for your brain",
+      "score": 159
     },
     {
-      "title": "Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample",
-      "score": 937
+      "title": "Startup founders urge Trump not to shut off Chinese open weight AI",
+      "score": 111
     },
     {
-      "title": "Cruller: Bun's Zig Runtime, Continued on Zig 0.16",
-      "score": 76
+      "title": "Astronomers may have found the first exomoon",
+      "score": 99
     },
     {
-      "title": "Quality non-fiction books are the antithesis of AI slop",
-      "score": 403
+      "title": "Software rendering in 500 lines of bare C++",
+      "score": 64
     },
     {
-      "title": "EU fines Google \u20ac890M for competition breaches over search and apps",
-      "score": 78
+      "title": "Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",
+      "score": 31
     }
   ]
 }
