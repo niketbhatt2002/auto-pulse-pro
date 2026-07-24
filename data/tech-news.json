@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-24T11:29:42.841586Z",
+  "updated_at": "2026-07-24T12:16:25.934741Z",
   "stories": [
     {
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "score": 89
+      "score": 128
     },
     {
       "title": "Flux 3",
-      "score": 339
+      "score": 373
+    },
+    {
+      "title": "The case for MUDs in modern times",
+      "score": 16
     },
     {
       "title": "It's getting harder to focus every day",
-      "score": 121
+      "score": 171
     },
     {
-      "title": "Writing by hand is good for your brain",
-      "score": 1343
-    },
-    {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "score": 968
+      "title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
+      "score": 52
     }
   ]
 }
