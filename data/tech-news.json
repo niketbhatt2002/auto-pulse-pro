@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-24T18:07:53.852499Z",
+  "updated_at": "2026-07-24T21:06:00.797633Z",
   "stories": [
     {
       "title": "Claude Opus 5",
-      "score": 466
+      "score": 976
     },
     {
-      "title": "As of JDK 27, Oracle engineers will thus stop maintaining the macOS/x64 port",
-      "score": 70
+      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
+      "score": 330
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "score": 97
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
-      "score": 366
+      "score": 434
     },
     {
       "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "score": 325
-    },
-    {
-      "title": "Micro-SaaS Is Dead. Service With A Software Replaces It",
-      "score": 37
+      "score": 391
     }
   ]
 }
