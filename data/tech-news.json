@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-24T09:16:38.254770Z",
+  "updated_at": "2026-07-24T10:10:20.542640Z",
   "stories": [
     {
       "title": "Flux 3",
-      "score": 212
+      "score": 278
     },
     {
-      "title": "The PImpl idiom and the C++26 std:indirect type",
-      "score": 38
+      "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
+      "score": 23
+    },
+    {
+      "title": "Nothing works and everyone is euphoric",
+      "score": 28
     },
     {
       "title": "Writing by hand is good for your brain",
-      "score": 1293
+      "score": 1315
     },
     {
       "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "score": 921
-    },
-    {
-      "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
-      "score": 378
+      "score": 940
     }
   ]
 }
