@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-24T12:16:25.934741Z",
+  "updated_at": "2026-07-24T15:27:06.202080Z",
   "stories": [
     {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "score": 197
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
+      "score": 152
+    },
+    {
       "title": "Flux 3 X Mimic: The Next Generation of Video-Action Models",
-      "score": 128
-    },
-    {
-      "title": "Flux 3",
-      "score": 373
-    },
-    {
-      "title": "The case for MUDs in modern times",
-      "score": 16
+      "score": 232
     },
     {
       "title": "It's getting harder to focus every day",
-      "score": 171
+      "score": 433
     },
     {
-      "title": "Buz \u2013 A fork of Bun using modern Zig, with sub-1s incremental builds",
-      "score": 52
+      "title": "3GPP Version 19",
+      "score": 16
     }
   ]
 }
