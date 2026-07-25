@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-25T00:09:49.149701Z",
+  "updated_at": "2026-07-25T07:57:49.560219Z",
   "stories": [
     {
+      "title": "Android May Soon Restrict On-Device ADB",
+      "score": 40
+    },
+    {
+      "title": "ARC-AGI Leaderboard",
+      "score": 48
+    },
+    {
       "title": "Claude Opus 5",
-      "score": 1222
+      "score": 1507
     },
     {
-      "title": "Postgres LISTEN/NOTIFY actually scales",
-      "score": 177
+      "title": "GC and Exceptions in Wasmtime",
+      "score": 69
     },
     {
-      "title": "SpaceX Starship Flight 13 livestream [video]",
-      "score": 53
-    },
-    {
-      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
-      "score": 86
-    },
-    {
-      "title": "My security camera shipped a GitHub admin token in its login page",
-      "score": 491
+      "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
+      "score": 126
     }
   ]
 }
