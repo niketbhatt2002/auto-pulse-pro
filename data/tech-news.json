@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-25T09:01:52.789596Z",
+  "updated_at": "2026-07-25T09:39:46.544359Z",
   "stories": [
     {
       "title": "Android May Soon Restrict On-Device ADB",
-      "score": 135
+      "score": 178
     },
     {
       "title": "Claude Opus 5",
-      "score": 1534
-    },
-    {
-      "title": "GC and Exceptions in Wasmtime",
-      "score": 86
+      "score": 1546
     },
     {
       "title": "Hannah Fry Wins the Leelavati Prize in 2026 for Mathematics Outreach",
-      "score": 179
+      "score": 199
     },
     {
-      "title": "ARC-AGI Leaderboard",
-      "score": 62
+      "title": "GC and Exceptions in Wasmtime",
+      "score": 93
+    },
+    {
+      "title": "NYC Apartment Aquaponics",
+      "score": 39
     }
   ]
 }
