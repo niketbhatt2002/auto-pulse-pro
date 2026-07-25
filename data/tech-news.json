@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-25T17:46:23.844287Z",
+  "updated_at": "2026-07-25T20:54:57.285449Z",
   "stories": [
     {
       "title": "Stolen Buttons",
-      "score": 193
-    },
-    {
-      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
-      "score": 81
+      "score": 422
     },
     {
       "title": "Android May Soon Restrict On-Device ADB",
-      "score": 701
+      "score": 801
     },
     {
-      "title": "Bitchat Is Now on Radicle",
-      "score": 88
+      "title": "Open-weight AI is having its Kubernetes moment",
+      "score": 233
     },
     {
-      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
-      "score": 58
+      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
+      "score": 40
+    },
+    {
+      "title": "Show HN: I made some transistor animations",
+      "score": 53
     }
   ]
 }
