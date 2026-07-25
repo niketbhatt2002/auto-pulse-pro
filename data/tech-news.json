@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-25T15:06:49.793791Z",
+  "updated_at": "2026-07-25T17:46:23.844287Z",
   "stories": [
     {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "score": 552
+      "title": "Stolen Buttons",
+      "score": 193
     },
     {
-      "title": "The Silurian Hypothesis (2020)",
-      "score": 19
-    },
-    {
-      "title": "My Images Are Dithered",
+      "title": "Open-weight AI is having its Kubernetes moment. Let's not ruin it",
       "score": 81
     },
     {
-      "title": "The Fedora 45 Sausage Factory",
-      "score": 53
+      "title": "Android May Soon Restrict On-Device ADB",
+      "score": 701
     },
     {
-      "title": "Spatial languages: Writing code in 2D",
-      "score": 32
+      "title": "Bitchat Is Now on Radicle",
+      "score": 88
+    },
+    {
+      "title": "Wind turbine is being used to produce zero-carbon \"green ammonia\" fertilizer",
+      "score": 58
     }
   ]
 }
