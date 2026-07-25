@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-24T21:06:00.797633Z",
+  "updated_at": "2026-07-25T00:09:49.149701Z",
   "stories": [
     {
       "title": "Claude Opus 5",
-      "score": 976
-    },
-    {
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "score": 330
+      "score": 1222
     },
     {
       "title": "Postgres LISTEN/NOTIFY actually scales",
-      "score": 97
+      "score": 177
+    },
+    {
+      "title": "SpaceX Starship Flight 13 livestream [video]",
+      "score": 53
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "score": 86
     },
     {
       "title": "My security camera shipped a GitHub admin token in its login page",
-      "score": 434
-    },
-    {
-      "title": "India's first privately-developed rocket reaches orbit on dramatic debut launch",
-      "score": 391
+      "score": 491
     }
   ]
 }
