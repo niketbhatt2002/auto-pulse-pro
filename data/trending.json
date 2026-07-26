@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-26T09:52:54.069649Z",
+  "updated_at": "2026-07-26T10:47:04.191809Z",
   "repos": [
     {
       "name": "andrewyng/openworker",
-      "stars": 5708
-    },
-    {
-      "name": "Jakubantalik/thinking-orbs",
-      "stars": 1052
+      "stars": 5792
     },
     {
       "name": "slvDev/esp32-ai",
-      "stars": 1042
+      "stars": 1063
+    },
+    {
+      "name": "Jakubantalik/thinking-orbs",
+      "stars": 1057
     },
     {
       "name": "powerycy/goutoujunshi",
-      "stars": 905
+      "stars": 906
     },
     {
       "name": "Blaizzy/nativ",
-      "stars": 887
+      "stars": 888
     }
   ]
 }
