@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-26T10:47:02.858044Z",
+  "updated_at": "2026-07-26T11:12:59.192036Z",
   "stories": [
     {
       "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
-      "score": 58
-    },
-    {
-      "title": "A shell colon does nothing. Use it anyway",
-      "score": 213
+      "score": 77
     },
     {
       "title": "Elevated Errors for Opus 5",
-      "score": 18
+      "score": 25
     },
     {
       "title": "GrapheneOS protections against data extraction from locked devices",
-      "score": 88
+      "score": 104
+    },
+    {
+      "title": "A shell colon does nothing. Use it anyway",
+      "score": 226
     },
     {
       "title": "An ESP32 based plane radar for my desk",
-      "score": 158
+      "score": 166
     }
   ]
 }
