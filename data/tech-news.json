@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-26T09:08:33.039285Z",
+  "updated_at": "2026-07-26T09:52:53.058094Z",
   "stories": [
     {
       "title": "A shell colon does nothing. Use it anyway",
-      "score": 151
+      "score": 190
     },
     {
-      "title": "An ESP32 based plane radar for my desk",
-      "score": 133
+      "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+      "score": 15
     },
     {
       "title": "GrapheneOS protections against data extraction from locked devices",
-      "score": 41
+      "score": 65
+    },
+    {
+      "title": "An ESP32 based plane radar for my desk",
+      "score": 147
     },
     {
       "title": "The new rules of context engineering for Claude 5 generation models",
-      "score": 314
-    },
-    {
-      "title": "Show HN: I mapped every US golf course",
-      "score": 123
+      "score": 327
     }
   ]
 }
