@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-26T08:16:34.679241Z",
+  "updated_at": "2026-07-26T09:08:33.039285Z",
   "stories": [
     {
       "title": "A shell colon does nothing. Use it anyway",
-      "score": 122
+      "score": 151
     },
     {
       "title": "An ESP32 based plane radar for my desk",
-      "score": 118
+      "score": 133
+    },
+    {
+      "title": "GrapheneOS protections against data extraction from locked devices",
+      "score": 41
     },
     {
       "title": "The new rules of context engineering for Claude 5 generation models",
-      "score": 301
-    },
-    {
-      "title": "Stinkpot: SQLite-backed shell history",
-      "score": 42
+      "score": 314
     },
     {
       "title": "Show HN: I mapped every US golf course",
-      "score": 112
+      "score": 123
     }
   ]
 }
