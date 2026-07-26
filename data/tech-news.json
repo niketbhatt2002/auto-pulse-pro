@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-26T12:00:28.719014Z",
+  "updated_at": "2026-07-26T15:08:43.422952Z",
   "stories": [
     {
-      "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
-      "score": 105
+      "title": "Go Analysis Framework: modular static analysis by go team",
+      "score": 73
     },
     {
-      "title": "A shell colon does nothing. Use it anyway",
-      "score": 240
+      "title": "Ruff v0.16.0 \u2013 Significant new updates \u2013 413 default rules up from 59",
+      "score": 225
+    },
+    {
+      "title": "Google Discloses $94.1B in SpaceX Stock, Marking 6% Stake",
+      "score": 154
     },
     {
       "title": "GrapheneOS protections against data extraction from locked devices",
-      "score": 125
+      "score": 235
     },
     {
-      "title": "German Peasants' War",
-      "score": 14
-    },
-    {
-      "title": "An ESP32 based plane radar for my desk",
-      "score": 173
+      "title": "I learned PCB design, 3D printing and C just to listen to music",
+      "score": 53
     }
   ]
 }
