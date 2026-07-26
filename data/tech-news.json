@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-25T20:54:57.285449Z",
+  "updated_at": "2026-07-26T00:05:05.069720Z",
   "stories": [
     {
+      "title": "Did They Ghost You?",
+      "score": 207
+    },
+    {
+      "title": "The new rules of context engineering for Claude 5 generation models",
+      "score": 121
+    },
+    {
       "title": "Stolen Buttons",
-      "score": 422
+      "score": 525
     },
     {
-      "title": "Android May Soon Restrict On-Device ADB",
-      "score": 801
+      "title": "GM Backs Sodium Ion Batteries for U.S. Grid Storage",
+      "score": 87
     },
     {
-      "title": "Open-weight AI is having its Kubernetes moment",
-      "score": 233
-    },
-    {
-      "title": "Producing ammonia and fertiliser using wind power in Morris, Minnesota",
-      "score": 40
-    },
-    {
-      "title": "Show HN: I made some transistor animations",
-      "score": 53
+      "title": "What is happening to jobs? Separating AI hype from reality",
+      "score": 17
     }
   ]
 }
