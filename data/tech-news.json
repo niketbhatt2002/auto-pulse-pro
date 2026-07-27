@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-27T12:29:24.214110Z",
+  "updated_at": "2026-07-27T12:50:02.648055Z",
   "stories": [
     {
       "title": "How is the Bun Rewrite in Rust going?",
-      "score": 82
+      "score": 115
     },
     {
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "score": 496
+      "score": 523
     },
     {
       "title": "The Birth of the American 12-string Guitar",
-      "score": 22
-    },
-    {
-      "title": "If digital computers are conscious, they are conscious at the hardware level",
       "score": 27
     },
     {
       "title": "PGSimCity - How PostgreSQL Works",
-      "score": 699
+      "score": 708
+    },
+    {
+      "title": "Elevated errors on Claude Opus 5",
+      "score": 14
     }
   ]
 }
