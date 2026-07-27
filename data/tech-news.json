@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-27T13:36:47.196831Z",
+  "updated_at": "2026-07-27T16:24:03.196256Z",
   "stories": [
     {
+      "title": "Kimi-K3 Technical Report [pdf]",
+      "score": 173
+    },
+    {
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "score": 582
+      "score": 894
     },
     {
-      "title": "How is the Bun Rewrite in Rust going?",
-      "score": 180
+      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
+      "score": 31
     },
     {
-      "title": "AI companies are shredding rare books",
-      "score": 175
+      "title": "The Computer That Helped Win World War II",
+      "score": 55
     },
     {
-      "title": "Elevated errors on Claude Opus 5",
-      "score": 35
-    },
-    {
-      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity",
-      "score": 48
+      "title": "Removing React.js from the codebase and adapting Htmx for UI interactivity (2023)",
+      "score": 124
     }
   ]
 }

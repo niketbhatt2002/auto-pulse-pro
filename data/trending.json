@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-27T13:36:48.684393Z",
+  "updated_at": "2026-07-27T16:24:04.477213Z",
   "repos": [
     {
       "name": "slvDev/esp32-ai",
-      "stars": 1612
+      "stars": 1661
     },
     {
       "name": "vercel-labs/scriptc",
-      "stars": 1280
+      "stars": 1444
     },
     {
       "name": "Jakubantalik/thinking-orbs",
-      "stars": 1134
-    },
-    {
-      "name": "mikiarlo3/ai-copywriter",
-      "stars": 893
+      "stars": 1144
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 869
+      "stars": 931
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "stars": 913
     }
   ]
 }
