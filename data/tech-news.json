@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-26T21:00:06.247721Z",
+  "updated_at": "2026-07-27T00:05:44.347024Z",
   "stories": [
     {
+      "title": "Show HN: Distill and serve small models with frontier quality for half the cost",
+      "score": 21
+    },
+    {
       "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "score": 96
+      "score": 188
     },
     {
-      "title": "Design is compromise",
-      "score": 135
+      "title": "I wanted a clock that never needed setting. Things escalated",
+      "score": 12
     },
     {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "score": 39
+      "title": "Teaching Kids Forth",
+      "score": 36
     },
     {
-      "title": "Show HN: CheapSecurity \u2013 Lightweight, Self-Hosted CCTV for Linux SBCs",
-      "score": 67
-    },
-    {
-      "title": "It's not empowering to hand off the details",
-      "score": 24
+      "title": "Simulate cassette tape audio profiles using FFmpeg",
+      "score": 49
     }
   ]
 }
