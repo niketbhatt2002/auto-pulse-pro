@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-27T10:37:06.518921Z",
+  "updated_at": "2026-07-27T11:12:55.326952Z",
   "stories": [
     {
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "score": 348
+      "score": 398
     },
     {
       "title": "PGSimCity - How PostgreSQL Works",
-      "score": 625
+      "score": 659
     },
     {
       "title": "Show HN: Physically accurate black hole you can put in your room",
-      "score": 325
-    },
-    {
-      "title": "Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",
-      "score": 192
+      "score": 342
     },
     {
       "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-      "score": 28
+      "score": 54
+    },
+    {
+      "title": "The Birth of the American 12-string Guitar",
+      "score": 4
     }
   ]
 }
