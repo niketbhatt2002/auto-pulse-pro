@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-27T11:12:55.326952Z",
+  "updated_at": "2026-07-27T12:29:24.214110Z",
   "stories": [
     {
+      "title": "How is the Bun Rewrite in Rust going?",
+      "score": 82
+    },
+    {
       "title": "Kimi-K3 Releases on HuggingFace 7/27",
-      "score": 398
-    },
-    {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "score": 659
-    },
-    {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "score": 342
-    },
-    {
-      "title": "Magnolias Are So Old That They're Pollinated by Beetles, Not Bees",
-      "score": 54
+      "score": 496
     },
     {
       "title": "The Birth of the American 12-string Guitar",
-      "score": 4
+      "score": 22
+    },
+    {
+      "title": "If digital computers are conscious, they are conscious at the hardware level",
+      "score": 27
+    },
+    {
+      "title": "PGSimCity - How PostgreSQL Works",
+      "score": 699
     }
   ]
 }
