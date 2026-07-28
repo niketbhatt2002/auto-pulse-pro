@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-28T00:06:37.672367Z",
+  "updated_at": "2026-07-28T08:23:42.558196Z",
   "stories": [
     {
+      "title": "7.1 Earthquake in Japan",
+      "score": 79
+    },
+    {
       "title": "Our position on open-weights models",
-      "score": 326
+      "score": 848
     },
     {
-      "title": "DConf 2026 in London",
-      "score": 25
+      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
+      "score": 152
     },
     {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "score": 39
+      "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
+      "score": 48
     },
     {
-      "title": "America has become an entrepreneur's paradise",
-      "score": 29
-    },
-    {
-      "title": "Watching Go's new garbage collector move through the heap",
-      "score": 157
+      "title": "Neutrino-1 8B",
+      "score": 65
     }
   ]
 }
