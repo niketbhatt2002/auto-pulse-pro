@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-28T11:49:47.108382Z",
+  "updated_at": "2026-07-28T12:50:44.455131Z",
   "stories": [
     {
       "title": "7.1 Earthquake in Japan",
-      "score": 294
+      "score": 372
     },
     {
       "title": "About the security content of macOS Tahoe 26.6",
-      "score": 71
-    },
-    {
-      "title": "Our position on open-weights models",
-      "score": 966
+      "score": 99
     },
     {
       "title": "Google's Beyond Zero: Enterprise Security for the AI Era",
-      "score": 19
+      "score": 37
     },
     {
-      "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "score": 218
+      "title": "Our position on open-weights models",
+      "score": 996
+    },
+    {
+      "title": "How to Survive Boiling Water",
+      "score": 111
     }
   ]
 }
