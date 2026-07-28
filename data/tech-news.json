@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-28T08:23:42.558196Z",
+  "updated_at": "2026-07-28T09:32:46.438416Z",
   "stories": [
     {
       "title": "7.1 Earthquake in Japan",
-      "score": 79
+      "score": 170
     },
     {
       "title": "Our position on open-weights models",
-      "score": 848
+      "score": 894
     },
     {
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "score": 152
+      "score": 179
     },
     {
       "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
-      "score": 48
+      "score": 59
     },
     {
-      "title": "Neutrino-1 8B",
-      "score": 65
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "score": 282
     }
   ]
 }
