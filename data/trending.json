@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-28T18:05:40.426798Z",
+  "updated_at": "2026-07-28T21:09:58.913476Z",
   "repos": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 3225
+      "stars": 3311
     },
     {
       "name": "vercel-labs/scriptc",
-      "stars": 2064
+      "stars": 2095
     },
     {
       "name": "slvDev/esp32-ai",
-      "stars": 2012
+      "stars": 2026
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 1491
+      "stars": 1605
     },
     {
       "name": "kvcache-ai/AgentENV",
-      "stars": 1382
+      "stars": 1407
     }
   ]
 }
