@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-27T21:13:03.652466Z",
+  "updated_at": "2026-07-28T00:06:37.672367Z",
   "stories": [
     {
+      "title": "Our position on open-weights models",
+      "score": 326
+    },
+    {
+      "title": "DConf 2026 in London",
+      "score": 25
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "score": 39
+    },
+    {
+      "title": "America has become an entrepreneur's paradise",
+      "score": 29
+    },
+    {
       "title": "Watching Go's new garbage collector move through the heap",
-      "score": 100
-    },
-    {
-      "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
-      "score": 22
-    },
-    {
-      "title": "Self-contained highly-portable Python distributions",
-      "score": 59
-    },
-    {
-      "title": "Glue bonds to nonstick surfaces and wipes clean with ethanol",
-      "score": 114
-    },
-    {
-      "title": "The computer that helped win World War II",
-      "score": 135
+      "score": 157
     }
   ]
 }
