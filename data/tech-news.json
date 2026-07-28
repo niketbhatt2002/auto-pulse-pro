@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-28T09:32:46.438416Z",
+  "updated_at": "2026-07-28T10:28:23.130118Z",
   "stories": [
     {
       "title": "7.1 Earthquake in Japan",
-      "score": 170
+      "score": 222
     },
     {
       "title": "Our position on open-weights models",
-      "score": 894
+      "score": 926
+    },
+    {
+      "title": "What Even Are Microservices?",
+      "score": 14
+    },
+    {
+      "title": "About the security content of macOS Tahoe 26.6",
+      "score": 20
     },
     {
       "title": "A $500 RL fine-tune of a 9B open model beat frontier models on catalog review",
-      "score": 179
-    },
-    {
-      "title": "Ars Astronomica \u2013 English translations of rare Hebrew and Latin astronomy texts",
-      "score": 59
-    },
-    {
-      "title": "Benchmarking Opus 5 on SlopCodeBench",
-      "score": 282
+      "score": 196
     }
   ]
 }
