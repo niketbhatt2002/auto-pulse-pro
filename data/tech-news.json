@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-29T00:02:41.498108Z",
+  "updated_at": "2026-07-29T08:29:46.128433Z",
   "stories": [
     {
-      "title": "Codex Security",
-      "score": 288
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "score": 144
     },
     {
-      "title": "Half-Life ported to Mac OS 9",
-      "score": 111
+      "title": "User Interfaces of the Demo Scene",
+      "score": 134
+    },
+    {
+      "title": "Codex Security",
+      "score": 487
     },
     {
       "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "score": 67
+      "score": 289
     },
     {
-      "title": "Substack writers, you need a website",
-      "score": 381
-    },
-    {
-      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
-      "score": 51
+      "title": "Cracking Windows Open: Porting RADV to Win32",
+      "score": 36
     }
   ]
 }

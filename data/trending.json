@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-07-29T00:02:42.347542Z",
-  "repos": []
+  "updated_at": "2026-07-29T08:29:47.367735Z",
+  "repos": [
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "stars": 3750
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "stars": 2137
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "stars": 1987
+    },
+    {
+      "name": "kvcache-ai/AgentENV",
+      "stars": 1548
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "stars": 1001
+    }
+  ]
 }
