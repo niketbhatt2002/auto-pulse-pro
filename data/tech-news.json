@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-29T10:32:19.670480Z",
+  "updated_at": "2026-07-29T11:28:52.636043Z",
   "stories": [
     {
       "title": "More Tailscale tricks for your jailbroken Kindle",
-      "score": 187
+      "score": 228
+    },
+    {
+      "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
+      "score": 16
+    },
+    {
+      "title": "SpecForge \u2013 A Platform for Authoring Formal Specifications",
+      "score": 19
+    },
+    {
+      "title": "Amiga Graphics Archive",
+      "score": 15
     },
     {
       "title": "User Interfaces of the Demo Scene",
-      "score": 204
-    },
-    {
-      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
-      "score": 65
-    },
-    {
-      "title": "Lisp moving Forth moving Lisp",
-      "score": 29
-    },
-    {
-      "title": "Codex Security",
-      "score": 505
+      "score": 236
     }
   ]
 }
