@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-29T11:53:31.975275Z",
+  "updated_at": "2026-07-29T12:57:48.803211Z",
   "stories": [
     {
-      "title": "More Tailscale tricks for your jailbroken Kindle",
-      "score": 242
+      "title": "KOReader",
+      "score": 127
     },
     {
-      "title": "National Security Determination Threat Posed by Foreign-Produced Robotic Devices [pdf]",
-      "score": 31
+      "title": "Document-borne AI worms can self-propagate through Copilot for Word",
+      "score": 76
+    },
+    {
+      "title": "More Tailscale tricks for your jailbroken Kindle",
+      "score": 264
     },
     {
       "title": "SpecForge \u2013 A Platform for Authoring Formal Specifications",
-      "score": 22
+      "score": 35
     },
     {
       "title": "Amiga Graphics Archive",
-      "score": 27
-    },
-    {
-      "title": "User Interfaces of the Demo Scene",
-      "score": 247
+      "score": 48
     }
   ]
 }
