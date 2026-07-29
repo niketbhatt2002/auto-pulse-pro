@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-29T08:29:46.128433Z",
+  "updated_at": "2026-07-29T09:34:03.688550Z",
   "stories": [
     {
       "title": "More Tailscale tricks for your jailbroken Kindle",
-      "score": 144
+      "score": 173
     },
     {
       "title": "User Interfaces of the Demo Scene",
-      "score": 134
+      "score": 180
+    },
+    {
+      "title": "SQLite in Production: Optimizing WAL Mode, Concurrency, and VFS Layers",
+      "score": 37
     },
     {
       "title": "Codex Security",
-      "score": 487
+      "score": 496
     },
     {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "score": 289
-    },
-    {
-      "title": "Cracking Windows Open: Porting RADV to Win32",
-      "score": 36
+      "title": "Lisp moving Forth moving Lisp",
+      "score": 12
     }
   ]
 }
