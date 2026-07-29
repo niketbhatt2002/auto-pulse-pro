@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-28T21:09:57.580136Z",
+  "updated_at": "2026-07-29T00:02:41.498108Z",
   "stories": [
     {
+      "title": "Codex Security",
+      "score": 288
+    },
+    {
+      "title": "Half-Life ported to Mac OS 9",
+      "score": 111
+    },
+    {
+      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
+      "score": 67
+    },
+    {
       "title": "Substack writers, you need a website",
-      "score": 278
+      "score": 381
     },
     {
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "score": 136
-    },
-    {
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "score": 199
-    },
-    {
-      "title": "Delayed Gratification \u2013 Proud to Be 'Last to Breaking News'",
-      "score": 181
-    },
-    {
-      "title": "The iPhone Upgrade Program is being replaced by Apple Upgrade",
-      "score": 79
+      "title": "Anthropic publishes a practical key-recovery attack on HAWK-256",
+      "score": 51
     }
   ]
 }
