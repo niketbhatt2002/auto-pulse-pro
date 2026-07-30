@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-30T15:52:57.759851Z",
+  "updated_at": "2026-07-30T18:06:41.498378Z",
   "stories": [
     {
+      "title": "Advancing the price-performance frontier with GPT\u20115.6",
+      "score": 152
+    },
+    {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "score": 74
+      "score": 252
     },
     {
-      "title": "The Lost Civic Life of Movie Rental Stores",
-      "score": 34
+      "title": "Read This Before You Buy That TV Streaming Stick",
+      "score": 95
     },
     {
-      "title": "SDL_GPU minimal, single-header, high-performance 2D graphics painting library",
-      "score": 25
+      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
+      "score": 87
     },
     {
-      "title": "Paging Through a Parquet File in DuckDB: File_row_number or Offset?",
-      "score": 13
-    },
-    {
-      "title": "Launch HN: Prized (YC S26) \u2013 Let non-engineer staff build secure internal tools",
-      "score": 33
+      "title": "The Economic Benefit of Refactoring",
+      "score": 103
     }
   ]
 }
