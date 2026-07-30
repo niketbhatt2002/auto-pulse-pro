@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-30T11:11:59.266251Z",
+  "updated_at": "2026-07-30T11:44:50.714696Z",
   "stories": [
     {
-      "title": "Atomarine: Nuclear Data Centers at Sea",
-      "score": 24
-    },
-    {
-      "title": "Google will expand age checks on Android worldwide till the end of the year",
-      "score": 76
-    },
-    {
       "title": "Gpiozero Flow",
-      "score": 18
+      "score": 42
     },
     {
       "title": "Azulejo",
-      "score": 28
+      "score": 47
     },
     {
       "title": "AI's top startups are barely publishing their research",
-      "score": 494
+      "score": 507
+    },
+    {
+      "title": "Carolina Cloud pays SOFR on unused prepaid credits",
+      "score": 18
+    },
+    {
+      "title": "The coolest use for the Vision Pro",
+      "score": 712
     }
   ]
 }
