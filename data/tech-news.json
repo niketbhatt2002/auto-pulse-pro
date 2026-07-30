@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-30T18:06:41.498378Z",
+  "updated_at": "2026-07-30T21:12:29.428501Z",
   "stories": [
     {
-      "title": "Advancing the price-performance frontier with GPT\u20115.6",
-      "score": 152
+      "title": "Read this before you buy that TV streaming stick",
+      "score": 329
     },
     {
       "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "score": 252
+      "score": 390
     },
     {
-      "title": "Read This Before You Buy That TV Streaming Stick",
-      "score": 95
+      "title": "I obtained Claude Opus 5 system prompt",
+      "score": 16
     },
     {
-      "title": "Physicists Solve a Muon Mystery. Now, Old Results Don't Add Up",
-      "score": 87
+      "title": "Stacked PRs are now live on GitHub",
+      "score": 276
     },
     {
-      "title": "The Economic Benefit of Refactoring",
-      "score": 103
+      "title": "2x, not 10x: coding with LLMs in 2026",
+      "score": 119
     }
   ]
 }
