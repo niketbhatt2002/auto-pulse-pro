@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-30T09:26:23.886998Z",
+  "updated_at": "2026-07-30T10:17:23.078046Z",
   "repos": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 7101
+      "stars": 7236
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 2309
+      "stars": 2315
     },
     {
       "name": "digimata/quill",
-      "stars": 1749
+      "stars": 1762
     },
     {
       "name": "mikiarlo3/ai-copywriter",
-      "stars": 1052
+      "stars": 1053
     },
     {
       "name": "MoonshotAI/MoonEP",
-      "stars": 896
+      "stars": 898
     }
   ]
 }
