@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-29T20:58:35.145757Z",
+  "updated_at": "2026-07-30T00:04:00.639081Z",
   "stories": [
     {
-      "title": "Kimi K3-256k",
-      "score": 189
+      "title": "The coolest use for the Vision Pro",
+      "score": 306
+    },
+    {
+      "title": "AI's top startups are barely publishing their research",
+      "score": 124
     },
     {
       "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "score": 525
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the Incident",
-      "score": 194
-    },
-    {
-      "title": "The coolest use for the Vision Pro",
-      "score": 21
+      "score": 617
     },
     {
       "title": "Superlogical",
-      "score": 383
+      "score": 488
+    },
+    {
+      "title": "Keychron announces first open-source firmware for gaming mice",
+      "score": 264
     }
   ]
 }
