@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-31T18:13:08.181541Z",
+  "updated_at": "2026-07-31T21:07:25.946142Z",
   "stories": [
     {
+      "title": "Tailscale didn't stop the Hugging Face intrusion",
+      "score": 174
+    },
+    {
       "title": "Elevators",
-      "score": 389
+      "score": 669
     },
     {
-      "title": "Big Food vs. the People",
-      "score": 89
+      "title": "qm",
+      "score": 249
     },
     {
-      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
-      "score": 45
+      "title": "Golang proposal: container/: generic collection types",
+      "score": 62
     },
     {
-      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
-      "score": 40
-    },
-    {
-      "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "score": 437
+      "title": "Severance",
+      "score": 106
     }
   ]
 }

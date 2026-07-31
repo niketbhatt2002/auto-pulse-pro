@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-31T18:13:09.364638Z",
+  "updated_at": "2026-07-31T21:07:26.969502Z",
   "repos": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 7684
+      "stars": 7700
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 2487
+      "stars": 2508
     },
     {
       "name": "bashalarmistalt/decimen-optical-transfer",
-      "stars": 1478
+      "stars": 1728
+    },
+    {
+      "name": "yc-software/qm",
+      "stars": 1130
     },
     {
       "name": "VictorTaelin/OptMem",
-      "stars": 1005
-    },
-    {
-      "name": "xikhar/persona",
-      "stars": 707
+      "stars": 1018
     }
   ]
 }
