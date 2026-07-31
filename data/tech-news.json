@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-30T21:12:29.428501Z",
+  "updated_at": "2026-07-31T00:08:57.451900Z",
   "stories": [
     {
       "title": "Read this before you buy that TV streaming stick",
-      "score": 329
+      "score": 508
     },
     {
-      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
-      "score": 390
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "score": 48
     },
     {
-      "title": "I obtained Claude Opus 5 system prompt",
-      "score": 16
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "score": 152
+    },
+    {
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "score": 41
     },
     {
       "title": "Stacked PRs are now live on GitHub",
-      "score": 276
-    },
-    {
-      "title": "2x, not 10x: coding with LLMs in 2026",
-      "score": 119
+      "score": 426
     }
   ]
 }

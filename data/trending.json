@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-30T21:12:30.786188Z",
+  "updated_at": "2026-07-31T00:08:58.484587Z",
   "repos": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 7516
+      "stars": 7529
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 2390
-    },
-    {
-      "name": "digimata/quill",
-      "stars": 2283
-    },
-    {
-      "name": "mikiarlo3/ai-copywriter",
-      "stars": 987
+      "stars": 2397
     },
     {
       "name": "VictorTaelin/OptMem",
-      "stars": 926
+      "stars": 929
+    },
+    {
+      "name": "xikhar/persona",
+      "stars": 672
+    },
+    {
+      "name": "0xwilliamortiz/ponytail-improved",
+      "stars": 564
     }
   ]
 }
