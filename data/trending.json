@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-31T00:08:58.484587Z",
+  "updated_at": "2026-07-31T08:40:31.987100Z",
   "repos": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 7529
+      "stars": 7612
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 2397
+      "stars": 2438
     },
     {
       "name": "VictorTaelin/OptMem",
-      "stars": 929
+      "stars": 959
     },
     {
       "name": "xikhar/persona",
-      "stars": 672
+      "stars": 690
     },
     {
-      "name": "0xwilliamortiz/ponytail-improved",
-      "stars": 564
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "stars": 577
     }
   ]
 }
