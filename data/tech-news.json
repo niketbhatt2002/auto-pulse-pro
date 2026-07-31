@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-31T09:38:49.830035Z",
+  "updated_at": "2026-07-31T10:31:10.892933Z",
   "stories": [
     {
       "title": "The session you cannot take with you",
-      "score": 314
-    },
-    {
-      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "score": 103
-    },
-    {
-      "title": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
-      "score": 22
-    },
-    {
-      "title": "DeepSeek-V4-Flash Update",
-      "score": 245
+      "score": 365
     },
     {
       "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "score": 48
+      "score": 86
+    },
+    {
+      "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
+      "score": 119
+    },
+    {
+      "title": "DeepSeek-V4-Flash Update",
+      "score": 299
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "score": 654
     }
   ]
 }
