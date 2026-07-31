@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-31T16:02:21.750353Z",
+  "updated_at": "2026-07-31T18:13:08.181541Z",
   "stories": [
     {
       "title": "Elevators",
-      "score": 60
+      "score": 389
     },
     {
-      "title": "Is AI Reasoning Right for the Wrong Reasons?",
-      "score": 37
+      "title": "Big Food vs. the People",
+      "score": 89
+    },
+    {
+      "title": "Getting 25 Gbps Thunderbolt Ethernet on My Mac Studio",
+      "score": 45
+    },
+    {
+      "title": "Algorithms on billion-scale graph using 10GB RAM: I love DataFusion",
+      "score": 40
     },
     {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "score": 346
-    },
-    {
-      "title": "A GTK4 SSH-askpass in Zig",
-      "score": 6
-    },
-    {
-      "title": "U.S. debt-to-GDP ratio reaches 123%",
-      "score": 33
+      "score": 437
     }
   ]
 }
