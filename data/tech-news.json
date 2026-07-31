@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-31T11:31:26.770864Z",
+  "updated_at": "2026-07-31T11:51:35.153089Z",
   "stories": [
     {
       "title": "The session you cannot take with you",
-      "score": 429
+      "score": 456
     },
     {
       "title": "DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis",
-      "score": 50
+      "score": 71
     },
     {
       "title": "JEP 401: Value Objects (Preview) merged to OpenJDK master",
-      "score": 138
+      "score": 143
     },
     {
       "title": "DeepSeek-V4-Flash Update",
-      "score": 344
+      "score": 358
     },
     {
-      "title": "Google fixed more Chrome bugs in June than over the past two years, thanks to AI",
-      "score": 133
+      "title": "Stacked PRs are now live on GitHub",
+      "score": 676
     }
   ]
 }
