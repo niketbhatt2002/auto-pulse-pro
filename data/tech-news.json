@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-01T17:47:40.823736Z",
+  "updated_at": "2026-08-01T20:56:21.142850Z",
   "stories": [
     {
-      "title": "I \u2665 RSS \u2013 A directory of people who love RSS",
-      "score": 77
+      "title": "Google News is just Forrest Gump's shrimp boat now",
+      "score": 169
     },
     {
-      "title": "Cursor removed cost information from the usage page and CSV export",
-      "score": 136
+      "title": "How Google helped destroy adoption of RSS feeds (2023)",
+      "score": 79
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "score": 75
+    },
+    {
+      "title": "Di\u00e1taxis",
+      "score": 12
     },
     {
       "title": "The Art of 64-bit Assembly",
-      "score": 91
-    },
-    {
-      "title": "Kaisel \u2013 Routes as Values. Dart 3 Native Router for Flutter",
-      "score": 16
-    },
-    {
-      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
-      "score": 182
+      "score": 143
     }
   ]
 }
