@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-01T09:51:54.037713Z",
+  "updated_at": "2026-08-01T10:43:25.692550Z",
   "stories": [
     {
-      "title": "RamenHaus",
-      "score": 54
+      "title": "AI doesn't generate working products, that's still your job",
+      "score": 82
     },
     {
-      "title": "AI doesn't generate working products, that's still your job",
-      "score": 32
+      "title": "RamenHaus",
+      "score": 84
     },
     {
       "title": "Elevators",
-      "score": 1298
+      "score": 1317
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "score": 119
+      "score": 128
     },
     {
-      "title": "Solid Queue 1.6.0 now supports fiber workers",
-      "score": 12
+      "title": "How to Do Great Work",
+      "score": 18
     }
   ]
 }
