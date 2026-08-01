@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-07-31T21:07:25.946142Z",
+  "updated_at": "2026-08-01T00:04:52.172534Z",
   "stories": [
     {
       "title": "Tailscale didn't stop the Hugging Face intrusion",
-      "score": 174
+      "score": 379
     },
     {
       "title": "Elevators",
-      "score": 669
+      "score": 814
     },
     {
       "title": "qm",
-      "score": 249
+      "score": 394
     },
     {
-      "title": "Golang proposal: container/: generic collection types",
-      "score": 62
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "score": 108
     },
     {
-      "title": "Severance",
-      "score": 106
+      "title": "The Absurdity of Albert Camus",
+      "score": 28
     }
   ]
 }
