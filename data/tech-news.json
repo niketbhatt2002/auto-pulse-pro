@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-01T11:10:02.460144Z",
+  "updated_at": "2026-08-01T12:00:18.368223Z",
   "stories": [
     {
       "title": "AI doesn't generate working products, that's still your job",
-      "score": 105
-    },
-    {
-      "title": "RamenHaus",
-      "score": 93
+      "score": 161
     },
     {
       "title": "Elevators",
-      "score": 1329
-    },
-    {
-      "title": "How to Do Great Work",
-      "score": 24
+      "score": 1352
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "score": 132
+      "score": 142
+    },
+    {
+      "title": "RamenHaus",
+      "score": 105
+    },
+    {
+      "title": "qm \u2013 Multiplayer agent harness for work",
+      "score": 587
     }
   ]
 }
