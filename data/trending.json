@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-01T00:04:53.358314Z",
+  "updated_at": "2026-08-01T08:10:35.605380Z",
   "repos": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 7719
-    },
-    {
-      "name": "bashalarmistalt/decimen-optical-transfer",
-      "stars": 1940
+      "stars": 7754
     },
     {
       "name": "yc-software/qm",
-      "stars": 1707
+      "stars": 3038
+    },
+    {
+      "name": "bashalarmistalt/decimen-optical-transfer",
+      "stars": 2441
     },
     {
       "name": "xikhar/persona",
-      "stars": 715
+      "stars": 732
     },
     {
       "name": "QwenAudio/qwen-audio-agent",
-      "stars": 607
+      "stars": 634
     }
   ]
 }
