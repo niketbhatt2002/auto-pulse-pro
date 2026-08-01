@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-01T08:10:34.644038Z",
+  "updated_at": "2026-08-01T09:01:32.822311Z",
   "stories": [
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 33
-    },
-    {
       "title": "Elevators",
-      "score": 1229
+      "score": 1264
     },
     {
       "title": "Flint: A Visualization Language for the AI Era",
-      "score": 95
+      "score": 108
+    },
+    {
+      "title": "Simon Willison on DeepSeek-V4-Flash-0731",
+      "score": 4
+    },
+    {
+      "title": "RamenHaus",
+      "score": 4
     },
     {
       "title": "How to Exist",
-      "score": 165
-    },
-    {
-      "title": "qm \u2013 Multiplayer agent harness for work",
-      "score": 546
+      "score": 185
     }
   ]
 }
