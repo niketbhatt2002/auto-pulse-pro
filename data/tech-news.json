@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-01T12:00:18.368223Z",
+  "updated_at": "2026-08-01T15:03:49.530399Z",
   "stories": [
     {
-      "title": "AI doesn't generate working products, that's still your job",
-      "score": 161
+      "title": "A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention",
+      "score": 51
+    },
+    {
+      "title": "RipGrep musl binaries occasionally segfault during very-large searches",
+      "score": 113
+    },
+    {
+      "title": "The Art of 64-bit Assembly",
+      "score": 8
+    },
+    {
+      "title": "How to Spot AI Writing",
+      "score": 22
     },
     {
       "title": "Elevators",
-      "score": 1352
-    },
-    {
-      "title": "Flint: A Visualization Language for the AI Era",
-      "score": 142
-    },
-    {
-      "title": "RamenHaus",
-      "score": 105
-    },
-    {
-      "title": "qm \u2013 Multiplayer agent harness for work",
-      "score": 587
+      "score": 1461
     }
   ]
 }
