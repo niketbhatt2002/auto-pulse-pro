@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-02T09:50:16.141693Z",
+  "updated_at": "2026-08-02T10:43:58.617423Z",
   "stories": [
     {
+      "title": "Show HN: Syncular \u2013 offline-first SQL sync with TypeScript and Rust cores",
+      "score": 10
+    },
+    {
       "title": "Go 1.27 Interactive Tour",
-      "score": 212
+      "score": 227
+    },
+    {
+      "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
+      "score": 9
+    },
+    {
+      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "score": 4
     },
     {
       "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
-      "score": 163
-    },
-    {
-      "title": "Seedance 2.5",
-      "score": 338
-    },
-    {
-      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
-      "score": 55
-    },
-    {
-      "title": "Di\u00e1taxis",
-      "score": 350
+      "score": 175
     }
   ]
 }
