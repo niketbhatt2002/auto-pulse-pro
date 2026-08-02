@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-02T15:05:29.767704Z",
+  "updated_at": "2026-08-02T17:48:53.882915Z",
   "stories": [
     {
+      "title": "How the words we teach English language learners changed",
+      "score": 94
+    },
+    {
+      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
+      "score": 28
+    },
+    {
+      "title": "Karpathy\u2019s Pelican",
+      "score": 104
+    },
+    {
       "title": "Twenty Years of RISC OS Open",
-      "score": 60
+      "score": 102
     },
     {
-      "title": "F*: A general-purpose proof-oriented programming language",
-      "score": 38
-    },
-    {
-      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
-      "score": 99
-    },
-    {
-      "title": "The Seinfeld Chronicles: Digital Edition",
-      "score": 16
-    },
-    {
-      "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-      "score": 106
+      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
+      "score": 9
     }
   ]
 }
