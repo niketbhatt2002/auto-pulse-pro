@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-02T17:48:53.882915Z",
+  "updated_at": "2026-08-02T20:57:35.266277Z",
   "stories": [
     {
-      "title": "How the words we teach English language learners changed",
-      "score": 94
+      "title": "Karpathy\u2019s Pelican",
+      "score": 269
+    },
+    {
+      "title": "Note-Taking and Personal Knowledge Management",
+      "score": 43
     },
     {
       "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-      "score": 28
+      "score": 112
     },
     {
-      "title": "Karpathy\u2019s Pelican",
-      "score": 104
-    },
-    {
-      "title": "Twenty Years of RISC OS Open",
-      "score": 102
+      "title": "Developers are attached to tools because tools encode trust",
+      "score": 82
     },
     {
       "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
-      "score": 9
+      "score": 62
     }
   ]
 }
