@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-02T11:10:02.461700Z",
+  "updated_at": "2026-08-02T11:59:48.723539Z",
   "repos": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 7858
+      "stars": 7863
     },
     {
       "name": "yc-software/qm",
-      "stars": 5767
+      "stars": 5865
     },
     {
       "name": "bashalarmistalt/decimen-optical-transfer",
-      "stars": 3254
+      "stars": 3291
     },
     {
       "name": "QwenAudio/qwen-audio-agent",
-      "stars": 1686
+      "stars": 1691
     },
     {
       "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "stars": 1326
+      "stars": 1346
     }
   ]
 }
