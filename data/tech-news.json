@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-02T00:01:51.638348Z",
+  "updated_at": "2026-08-02T08:12:17.241049Z",
   "stories": [
     {
-      "title": "AI financial advice is surprisingly good if you ask the right questions",
-      "score": 80
+      "title": "Go 1.27 Interactive Tour",
+      "score": 183
+    },
+    {
+      "title": "Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built",
+      "score": 126
     },
     {
       "title": "Seedance 2.5",
-      "score": 103
+      "score": 313
+    },
+    {
+      "title": "MkLinux and the pimped-out Apple Workgroup Server 9150",
+      "score": 49
     },
     {
       "title": "Di\u00e1taxis",
-      "score": 140
-    },
-    {
-      "title": "A stray commit buried multiple levels deep cost me months",
-      "score": 23
-    },
-    {
-      "title": "Unraveling the mysteries of habit formation",
-      "score": 11
+      "score": 315
     }
   ]
 }
