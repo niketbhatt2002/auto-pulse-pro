@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-01T20:56:21.142850Z",
+  "updated_at": "2026-08-02T00:01:51.638348Z",
   "stories": [
     {
-      "title": "Google News is just Forrest Gump's shrimp boat now",
-      "score": 169
+      "title": "AI financial advice is surprisingly good if you ask the right questions",
+      "score": 80
     },
     {
-      "title": "How Google helped destroy adoption of RSS feeds (2023)",
-      "score": 79
-    },
-    {
-      "title": "Postmortem for Kernel Soundness Bug #14576",
-      "score": 75
+      "title": "Seedance 2.5",
+      "score": 103
     },
     {
       "title": "Di\u00e1taxis",
-      "score": 12
+      "score": 140
     },
     {
-      "title": "The Art of 64-bit Assembly",
-      "score": 143
+      "title": "A stray commit buried multiple levels deep cost me months",
+      "score": 23
+    },
+    {
+      "title": "Unraveling the mysteries of habit formation",
+      "score": 11
     }
   ]
 }
