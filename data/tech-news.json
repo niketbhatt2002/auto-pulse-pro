@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-02T11:59:47.338198Z",
+  "updated_at": "2026-08-02T15:05:29.767704Z",
   "stories": [
     {
-      "title": "Is the Industrial Revolution a good precedent for explosive growth today?",
-      "score": 27
+      "title": "Twenty Years of RISC OS Open",
+      "score": 60
     },
     {
-      "title": "Generative AI floods and dilutes the market for books",
-      "score": 15
+      "title": "F*: A general-purpose proof-oriented programming language",
+      "score": 38
+    },
+    {
+      "title": "Meshdiff \u2013 visually compare two STL versions in the browser, client-side",
+      "score": 99
+    },
+    {
+      "title": "The Seinfeld Chronicles: Digital Edition",
+      "score": 16
     },
     {
       "title": "Show HN: Bor \u2013 Open-source policy management for Linux desktops",
-      "score": 46
-    },
-    {
-      "title": "Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
-      "score": 27
-    },
-    {
-      "title": "Go 1.27 Interactive Tour",
-      "score": 241
+      "score": 106
     }
   ]
 }
