@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T16:28:44.872008Z",
+  "updated_at": "2026-08-03T18:29:26.509906Z",
   "stories": [
     {
-      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "score": 550
+      "title": "Devtools must be open source",
+      "score": 281
     },
     {
-      "title": "Devtools must be open source",
-      "score": 126
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "score": 91
+    },
+    {
+      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
+      "score": 37
+    },
+    {
+      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
+      "score": 166
     },
     {
       "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "score": 126
-    },
-    {
-      "title": "Taylor Farms Has Rewritten Its Cyclospora Statement Four Times in Sixteen Days",
-      "score": 107
-    },
-    {
-      "title": "Hollywood Stopped Making Movies in Hollywood",
-      "score": 60
+      "score": 177
     }
   ]
 }
