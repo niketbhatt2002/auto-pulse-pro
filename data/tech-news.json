@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T11:14:55.596844Z",
+  "updated_at": "2026-08-03T12:29:58.442555Z",
   "stories": [
     {
+      "title": "Critical CVE issued for hallucinated SQLite vulnerability",
+      "score": 125
+    },
+    {
       "title": "Don't be a meat proxy",
-      "score": 687
+      "score": 866
     },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 633
+      "score": 699
     },
     {
       "title": "Bonsai: Janestreet's UI Library",
-      "score": 62
+      "score": 87
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "score": 76
-    },
-    {
-      "title": "What DMARC Protects You From, and What It Does Not",
-      "score": 22
+      "score": 127
     }
   ]
 }
