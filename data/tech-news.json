@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T12:49:04.745382Z",
+  "updated_at": "2026-08-03T13:37:57.923281Z",
   "stories": [
     {
       "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "score": 168
+      "score": 248
     },
     {
       "title": "Don't be a meat proxy",
-      "score": 896
+      "score": 1000
     },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 714
+      "score": 771
+    },
+    {
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "score": 32
     },
     {
       "title": "Bonsai: Janestreet's UI Library",
-      "score": 94
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "score": 135
+      "score": 118
     }
   ]
 }
