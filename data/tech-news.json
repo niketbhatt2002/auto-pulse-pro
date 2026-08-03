@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-02T20:57:35.266277Z",
+  "updated_at": "2026-08-03T00:02:54.423711Z",
   "stories": [
     {
+      "title": "AI poster wins Ohio State Fair contest",
+      "score": 68
+    },
+    {
       "title": "Karpathy\u2019s Pelican",
-      "score": 269
+      "score": 403
+    },
+    {
+      "title": "Show HN: Shitty \u2013 fast terminal. Memory-unsafe and faster than yours",
+      "score": 24
+    },
+    {
+      "title": "Autoregressive Language Model on the 6502 Processor",
+      "score": 34
     },
     {
       "title": "Note-Taking and Personal Knowledge Management",
-      "score": 43
-    },
-    {
-      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-      "score": 112
-    },
-    {
-      "title": "Developers are attached to tools because tools encode trust",
-      "score": 82
-    },
-    {
-      "title": "Show HN: NixOS-DGX-Spark \u2013 Nix and NixOS on the DGX Spark",
-      "score": 62
+      "score": 108
     }
   ]
 }
