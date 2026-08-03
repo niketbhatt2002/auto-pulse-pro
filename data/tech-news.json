@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T18:29:26.509906Z",
+  "updated_at": "2026-08-03T21:05:01.551272Z",
   "stories": [
     {
-      "title": "Devtools must be open source",
-      "score": 281
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "score": 307
     },
     {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 91
+      "title": "Devtools must be open source",
+      "score": 413
     },
     {
       "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "score": 37
+      "score": 96
     },
     {
-      "title": "Wind and solar overtake fossil fuels in Germany for the first time",
-      "score": 166
+      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
+      "score": 75
     },
     {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "score": 177
+      "title": "200 Milliseconds",
+      "score": 65
     }
   ]
 }
