@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T10:37:04.784628Z",
+  "updated_at": "2026-08-03T11:14:55.596844Z",
   "stories": [
     {
       "title": "Don't be a meat proxy",
-      "score": 625
+      "score": 687
     },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 595
-    },
-    {
-      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "score": 29
+      "score": 633
     },
     {
       "title": "Bonsai: Janestreet's UI Library",
-      "score": 50
+      "score": 62
     },
     {
-      "title": "Less Coffee, Better Sleep",
-      "score": 25
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "score": 76
+    },
+    {
+      "title": "What DMARC Protects You From, and What It Does Not",
+      "score": 22
     }
   ]
 }
