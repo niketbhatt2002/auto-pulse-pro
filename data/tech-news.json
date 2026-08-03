@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T12:29:58.442555Z",
+  "updated_at": "2026-08-03T12:49:04.745382Z",
   "stories": [
     {
       "title": "Critical CVE issued for hallucinated SQLite vulnerability",
-      "score": 125
+      "score": 168
     },
     {
       "title": "Don't be a meat proxy",
-      "score": 866
+      "score": 896
     },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 699
+      "score": 714
     },
     {
       "title": "Bonsai: Janestreet's UI Library",
-      "score": 87
+      "score": 94
     },
     {
       "title": "Prevent cognitive debt by manually retyping LLM-generated code",
-      "score": 127
+      "score": 135
     }
   ]
 }
