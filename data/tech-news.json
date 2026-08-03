@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T09:32:18.510141Z",
+  "updated_at": "2026-08-03T10:37:04.784628Z",
   "stories": [
     {
       "title": "Don't be a meat proxy",
-      "score": 482
+      "score": 625
     },
     {
       "title": "Qwen3.8-Max: A New Bar for Coding and Cowork",
-      "score": 544
+      "score": 595
     },
     {
-      "title": "Rust project goals: Immobile types and guaranteed destructors",
-      "score": 61
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "score": 29
     },
     {
       "title": "Bonsai: Janestreet's UI Library",
-      "score": 25
+      "score": 50
     },
     {
-      "title": "The AI Productivity Gap",
-      "score": 17
+      "title": "Less Coffee, Better Sleep",
+      "score": 25
     }
   ]
 }
