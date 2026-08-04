@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T11:55:30.554356Z",
+  "updated_at": "2026-08-04T12:58:47.125632Z",
   "stories": [
     {
-      "title": "FFmpeg 9.0",
-      "score": 231
+      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
+      "score": 190
     },
     {
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "score": 64
+      "score": 111
+    },
+    {
+      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
+      "score": 69
     },
     {
       "title": "LLMs reward expertise",
-      "score": 1029
+      "score": 1082
     },
     {
       "title": "Buckminster Fuller: everything I know",
-      "score": 8
-    },
-    {
-      "title": "Harness Engineering for Self-Improvement",
-      "score": 88
+      "score": 22
     }
   ]
 }
