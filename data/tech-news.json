@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T21:05:01.551272Z",
+  "updated_at": "2026-08-04T00:12:14.242969Z",
   "stories": [
     {
+      "title": "LLMs reward expertise",
+      "score": 330
+    },
+    {
       "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 307
+      "score": 391
+    },
+    {
+      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
+      "score": 38
     },
     {
       "title": "Devtools must be open source",
-      "score": 413
+      "score": 480
     },
     {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "score": 96
-    },
-    {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "score": 75
-    },
-    {
-      "title": "200 Milliseconds",
-      "score": 65
+      "title": "Ask HN: Who is hiring? (August 2026)",
+      "score": 74
     }
   ]
 }

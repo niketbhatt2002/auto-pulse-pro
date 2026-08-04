@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-03T21:05:02.897413Z",
+  "updated_at": "2026-08-04T00:12:15.203652Z",
   "repos": [
     {
       "name": "yc-software/qm",
-      "stars": 9391
+      "stars": 9615
     },
     {
       "name": "bashalarmistalt/decimen-optical-transfer",
-      "stars": 4217
+      "stars": 4246
     },
     {
       "name": "trycompai/crm",
-      "stars": 3074
+      "stars": 3228
     },
     {
       "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "stars": 2021
+      "stars": 2046
     },
     {
-      "name": "sqliteai/waste",
-      "stars": 1509
+      "name": "microsoft/skill-recorder",
+      "stars": 1381
     }
   ]
 }
