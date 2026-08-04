@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T08:27:37.193520Z",
+  "updated_at": "2026-08-04T09:35:56.695984Z",
   "stories": [
     {
       "title": "LLMs reward expertise",
-      "score": 868
+      "score": 932
+    },
+    {
+      "title": "Harness Engineering for Self-Improvement",
+      "score": 36
     },
     {
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "score": 155
+      "score": 179
     },
     {
       "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "score": 135
+      "score": 152
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 525
-    },
-    {
-      "title": "Devtools must be open source",
-      "score": 589
+      "score": 535
     }
   ]
 }
