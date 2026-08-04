@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T18:19:54.587443Z",
+  "updated_at": "2026-08-04T21:14:00.694828Z",
   "stories": [
     {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "score": 160
+    },
+    {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "score": 249
+      "score": 384
     },
     {
-      "title": "All of Winona Police Department's Flock cameras cut down and stolen",
-      "score": 56
+      "title": "Waymo \u2013 Dallas Open to All",
+      "score": 140
     },
     {
-      "title": "The Warp Agent CLI",
-      "score": 17
+      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
+      "score": 351
     },
     {
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "score": 304
-    },
-    {
-      "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
-      "score": 14
+      "title": "Why some people mow a lawn better than others",
+      "score": 123
     }
   ]
 }
