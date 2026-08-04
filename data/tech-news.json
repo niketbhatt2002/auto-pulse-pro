@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T12:58:47.125632Z",
+  "updated_at": "2026-08-04T16:13:48.095870Z",
   "stories": [
     {
-      "title": "AI-Generated Images Discourage Me from Reading Your Blog",
-      "score": 190
-    },
-    {
-      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "score": 111
+      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
+      "score": 62
     },
     {
       "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "score": 69
+      "score": 389
     },
     {
-      "title": "LLMs reward expertise",
-      "score": 1082
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "score": 248
     },
     {
-      "title": "Buckminster Fuller: everything I know",
-      "score": 22
+      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
+      "score": 50
+    },
+    {
+      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
+      "score": 52
     }
   ]
 }
