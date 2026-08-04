@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T09:35:56.695984Z",
+  "updated_at": "2026-08-04T10:29:41.535229Z",
   "stories": [
     {
+      "title": "FFmpeg 9.0",
+      "score": 114
+    },
+    {
       "title": "LLMs reward expertise",
-      "score": 932
+      "score": 970
+    },
+    {
+      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
+      "score": 23
     },
     {
       "title": "Harness Engineering for Self-Improvement",
-      "score": 36
+      "score": 58
     },
     {
       "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "score": 179
-    },
-    {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "score": 152
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 535
+      "score": 187
     }
   ]
 }
