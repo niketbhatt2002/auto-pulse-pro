@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T10:29:41.535229Z",
+  "updated_at": "2026-08-04T11:29:11.826137Z",
   "stories": [
     {
       "title": "FFmpeg 9.0",
-      "score": 114
+      "score": 200
+    },
+    {
+      "title": "DeepSeek V4 Flash on a Single AMD MI300X",
+      "score": 51
+    },
+    {
+      "title": "U.S. used 'virtually all' of its long-range precision missiles during Iran war",
+      "score": 57
     },
     {
       "title": "LLMs reward expertise",
-      "score": 970
-    },
-    {
-      "title": "Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal",
-      "score": 23
+      "score": 1014
     },
     {
       "title": "Harness Engineering for Self-Improvement",
-      "score": 58
-    },
-    {
-      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
-      "score": 187
+      "score": 79
     }
   ]
 }
