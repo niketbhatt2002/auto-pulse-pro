@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T16:13:49.377359Z",
+  "updated_at": "2026-08-04T18:19:55.717668Z",
   "repos": [
     {
       "name": "yc-software/qm",
-      "stars": 10933
+      "stars": 11004
     },
     {
       "name": "bashalarmistalt/decimen-optical-transfer",
-      "stars": 4467
+      "stars": 4498
     },
     {
       "name": "trycompai/crm",
-      "stars": 4245
+      "stars": 4381
     },
     {
       "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "stars": 2795
+      "stars": 2839
     },
     {
       "name": "FareedKhan-dev/kimi-k3-in-c",
-      "stars": 1712
+      "stars": 1800
     }
   ]
 }

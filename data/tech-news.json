@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T16:13:48.095870Z",
+  "updated_at": "2026-08-04T18:19:54.587443Z",
   "stories": [
     {
       "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "score": 62
+      "score": 249
     },
     {
-      "title": "Ray Bradbury's \"There Will Come Soft Rains\" is set today (2026-08-04)",
-      "score": 389
+      "title": "All of Winona Police Department's Flock cameras cut down and stolen",
+      "score": 56
+    },
+    {
+      "title": "The Warp Agent CLI",
+      "score": 17
     },
     {
       "title": "DeepSeek V4 Flash on a Single AMD MI300X",
-      "score": 248
+      "score": 304
     },
     {
-      "title": "Germany Records Historic 12B KWh Solar Feed-In in July 2026",
-      "score": 50
-    },
-    {
-      "title": "Agent skills that bring team coding standards to Claude Code and Codex",
-      "score": 52
+      "title": "Dataset: Dead mental health startups, 2000-2026, coded on 18 fields",
+      "score": 14
     }
   ]
 }
