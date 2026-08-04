@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T00:12:14.242969Z",
+  "updated_at": "2026-08-04T08:27:37.193520Z",
   "stories": [
     {
       "title": "LLMs reward expertise",
-      "score": 330
+      "score": 868
+    },
+    {
+      "title": "Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone",
+      "score": 155
+    },
+    {
+      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
+      "score": 135
     },
     {
       "title": "Ten advances in mathematics and theoretical computer science",
-      "score": 391
-    },
-    {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "score": 38
+      "score": 525
     },
     {
       "title": "Devtools must be open source",
-      "score": 480
-    },
-    {
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "score": 74
+      "score": 589
     }
   ]
 }
