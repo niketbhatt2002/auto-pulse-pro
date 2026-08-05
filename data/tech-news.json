@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T11:50:33.862542Z",
+  "updated_at": "2026-08-05T12:49:41.489543Z",
   "stories": [
     {
       "title": "Position: LLMs Can't Jump",
-      "score": 12
+      "score": 69
     },
     {
-      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "title": "Three Six Mafia \u2013 Data about \"6/6/6 dating\" (2024)",
       "score": 58
     },
     {
+      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
+      "score": 125
+    },
+    {
       "title": "Stateless MCP has recaptured my interest",
-      "score": 261
+      "score": 291
     },
     {
-      "title": "\u201cGravity is worth asking about\u201d",
-      "score": 126
-    },
-    {
-      "title": "Helsinki Hacker News Meetup",
-      "score": 106
+      "title": "Iowa asks OpenAI to keep their bots sandboxed",
+      "score": 4
     }
   ]
 }
