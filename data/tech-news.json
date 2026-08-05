@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T00:09:49.798556Z",
+  "updated_at": "2026-08-05T08:26:29.194464Z",
   "stories": [
     {
-      "title": "libexpat now funded by the City of Munich for up to 6 months",
-      "score": 57
+      "title": "Stateless MCP has recaptured my interest",
+      "score": 158
     },
     {
-      "title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
-      "score": 30
+      "title": "\"Gravity is worth asking about.\"",
+      "score": 35
     },
     {
-      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
-      "score": 97
+      "title": "The Golden Age of British Ice Cream",
+      "score": 51
     },
     {
-      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "score": 287
+      "title": "The Pneumatics of Hero of Alexandria",
+      "score": 18
     },
     {
-      "title": "We finally learned to center a div, then browsers added sidebars",
-      "score": 31
+      "title": "Pi's Minimalism Is Its Advantage",
+      "score": 321
     }
   ]
 }
