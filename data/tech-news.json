@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T12:49:41.489543Z",
+  "updated_at": "2026-08-05T16:02:09.580110Z",
   "stories": [
     {
-      "title": "Position: LLMs Can't Jump",
-      "score": 69
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "score": 224
     },
     {
-      "title": "Three Six Mafia \u2013 Data about \"6/6/6 dating\" (2024)",
+      "title": "Qwen 3.0 Image Pro",
+      "score": 24
+    },
+    {
+      "title": "Intelligence Is Not the Main Bottleneck",
       "score": 58
     },
     {
-      "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-      "score": 125
+      "title": "Aristotle quotes on virtue, knowledge, and happiness",
+      "score": 64
     },
     {
-      "title": "Stateless MCP has recaptured my interest",
-      "score": 291
-    },
-    {
-      "title": "Iowa asks OpenAI to keep their bots sandboxed",
-      "score": 4
+      "title": "The Entropy of a Markov Chain",
+      "score": 36
     }
   ]
 }
