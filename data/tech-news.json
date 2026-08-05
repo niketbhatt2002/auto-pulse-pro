@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T11:23:52.223134Z",
+  "updated_at": "2026-08-05T11:50:33.862542Z",
   "stories": [
     {
-      "title": "No Data Centers in My Backyard",
-      "score": 14
-    },
-    {
-      "title": "Helsinki Hacker News Meetup",
-      "score": 94
-    },
-    {
-      "title": "Stateless MCP has recaptured my interest",
-      "score": 254
-    },
-    {
-      "title": "\u201cGravity is worth asking about\u201d",
-      "score": 117
+      "title": "Position: LLMs Can't Jump",
+      "score": 12
     },
     {
       "title": "Civilian plane crash in New Mexico tied to military GPS blocking",
-      "score": 15
+      "score": 58
+    },
+    {
+      "title": "Stateless MCP has recaptured my interest",
+      "score": 261
+    },
+    {
+      "title": "\u201cGravity is worth asking about\u201d",
+      "score": 126
+    },
+    {
+      "title": "Helsinki Hacker News Meetup",
+      "score": 106
     }
   ]
 }
