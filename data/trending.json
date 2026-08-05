@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T08:26:30.582312Z",
+  "updated_at": "2026-08-05T09:32:23.735225Z",
   "repos": [
     {
       "name": "trycompai/crm",
-      "stars": 5233
+      "stars": 5313
     },
     {
       "name": "bashalarmistalt/decimen-optical-transfer",
-      "stars": 4603
+      "stars": 4609
     },
     {
       "name": "xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer",
-      "stars": 3169
+      "stars": 3209
     },
     {
       "name": "firecrawl/anydoc",
-      "stars": 2506
+      "stars": 2620
     },
     {
       "name": "FareedKhan-dev/kimi-k3-in-c",
-      "stars": 2204
+      "stars": 2243
     }
   ]
 }
