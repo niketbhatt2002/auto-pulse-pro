@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T18:13:17.832435Z",
+  "updated_at": "2026-08-05T21:12:06.280309Z",
   "stories": [
     {
+      "title": "Zed DeltaDB",
+      "score": 173
+    },
+    {
       "title": "Discovery Loop",
-      "score": 210
+      "score": 429
     },
     {
-      "title": "Qwen 3.0 Image Pro",
-      "score": 159
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "score": 291
     },
     {
-      "title": "Jeff Dean leaving Alphabet",
-      "score": 280
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "score": 119
     },
     {
-      "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
-      "score": 357
-    },
-    {
-      "title": "Oracle Just Halved Its Always Free ARM Limits",
-      "score": 113
+      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
+      "score": 101
     }
   ]
 }
