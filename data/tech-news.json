@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-04T21:14:00.694828Z",
+  "updated_at": "2026-08-05T00:09:49.798556Z",
   "stories": [
     {
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "score": 57
+    },
+    {
+      "title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
+      "score": 30
+    },
+    {
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "score": 97
+    },
+    {
       "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
-      "score": 160
+      "score": 287
     },
     {
-      "title": "Show HN: Simple algorithm and color space to generate diverse skin tones",
-      "score": 384
-    },
-    {
-      "title": "Waymo \u2013 Dallas Open to All",
-      "score": 140
-    },
-    {
-      "title": "In Memory of My Wife, Elise Cawley, with Thanks for 36 Wonderful Years",
-      "score": 351
-    },
-    {
-      "title": "Why some people mow a lawn better than others",
-      "score": 123
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "score": 31
     }
   ]
 }
