@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T16:02:09.580110Z",
+  "updated_at": "2026-08-05T18:13:17.832435Z",
   "stories": [
     {
-      "title": "Cloudflare OS: an open platform for agents, apps, and work",
-      "score": 224
+      "title": "Discovery Loop",
+      "score": 210
     },
     {
       "title": "Qwen 3.0 Image Pro",
-      "score": 24
+      "score": 159
     },
     {
-      "title": "Intelligence Is Not the Main Bottleneck",
-      "score": 58
+      "title": "Jeff Dean leaving Alphabet",
+      "score": 280
     },
     {
-      "title": "Aristotle quotes on virtue, knowledge, and happiness",
-      "score": 64
+      "title": "Demis Hassabis is moving from CEO to Chairman at Google DeepMind",
+      "score": 357
     },
     {
-      "title": "The Entropy of a Markov Chain",
-      "score": 36
+      "title": "Oracle Just Halved Its Always Free ARM Limits",
+      "score": 113
     }
   ]
 }
