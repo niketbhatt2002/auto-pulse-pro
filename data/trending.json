@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-06T00:03:55.958580Z",
+  "updated_at": "2026-08-06T08:24:29.618467Z",
   "repos": [
     {
       "name": "trycompai/crm",
-      "stars": 6213
+      "stars": 6730
     },
     {
       "name": "firecrawl/anydoc",
-      "stars": 4915
+      "stars": 5912
     },
     {
       "name": "FareedKhan-dev/kimi-k3-in-c",
-      "stars": 2563
+      "stars": 2663
     },
     {
       "name": "imsai-sh/zhuzhiliao",
-      "stars": 2022
+      "stars": 2187
     },
     {
       "name": "genspark-ai/genoffice",
-      "stars": 1771
+      "stars": 1901
     }
   ]
 }

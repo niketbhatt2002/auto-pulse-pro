@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-06T00:03:54.946986Z",
+  "updated_at": "2026-08-06T08:24:28.300093Z",
   "stories": [
     {
+      "title": "Crime Pays but Botany Doesn't",
+      "score": 127
+    },
+    {
+      "title": "What I love about Django",
+      "score": 16
+    },
+    {
+      "title": "How to Make a Nintendo 64 Game in 2026",
+      "score": 24
+    },
+    {
       "title": "Discovery Loop",
-      "score": 531
+      "score": 735
     },
     {
-      "title": "Zed DeltaDB",
-      "score": 267
-    },
-    {
-      "title": "The title cards in Blade Runner are amazing",
-      "score": 105
-    },
-    {
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "score": 420
-    },
-    {
-      "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
-      "score": 62
+      "title": "Let's all meet up in the Y2K",
+      "score": 14
     }
   ]
 }
