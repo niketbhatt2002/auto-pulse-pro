@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-06T09:36:06.428341Z",
+  "updated_at": "2026-08-06T10:31:53.972743Z",
   "stories": [
     {
       "title": "Crime Pays but Botany Doesn't",
-      "score": 174
+      "score": 221
     },
     {
       "title": "How to Make a Nintendo 64 Game in 2026",
-      "score": 76
-    },
-    {
-      "title": "What I love about Django",
-      "score": 49
+      "score": 98
     },
     {
       "title": "Discovery Loop",
-      "score": 750
+      "score": 760
+    },
+    {
+      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
+      "score": 664
     },
     {
       "title": "Let's all meet up in the Y2K",
-      "score": 32
+      "score": 46
     }
   ]
 }
