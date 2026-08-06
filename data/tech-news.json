@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-06T10:31:53.972743Z",
+  "updated_at": "2026-08-06T11:27:27.123021Z",
   "stories": [
     {
-      "title": "Crime Pays but Botany Doesn't",
-      "score": 221
-    },
-    {
       "title": "How to Make a Nintendo 64 Game in 2026",
-      "score": 98
+      "score": 135
     },
     {
-      "title": "Discovery Loop",
-      "score": 760
+      "title": "Crime Pays but Botany Doesn't",
+      "score": 264
     },
     {
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "score": 664
+      "title": "Pareto Front",
+      "score": 15
     },
     {
       "title": "Let's all meet up in the Y2K",
-      "score": 46
+      "score": 68
+    },
+    {
+      "title": "Discovery Loop",
+      "score": 775
     }
   ]
 }
