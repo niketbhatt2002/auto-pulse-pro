@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-05T21:12:06.280309Z",
+  "updated_at": "2026-08-06T00:03:54.946986Z",
   "stories": [
     {
-      "title": "Zed DeltaDB",
-      "score": 173
+      "title": "Discovery Loop",
+      "score": 531
     },
     {
-      "title": "Discovery Loop",
-      "score": 429
+      "title": "Zed DeltaDB",
+      "score": 267
+    },
+    {
+      "title": "The title cards in Blade Runner are amazing",
+      "score": 105
     },
     {
       "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "score": 291
+      "score": 420
     },
     {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "score": 119
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "score": 101
+      "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
+      "score": 62
     }
   ]
 }
