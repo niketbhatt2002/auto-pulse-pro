@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-06T08:24:28.300093Z",
+  "updated_at": "2026-08-06T09:36:06.428341Z",
   "stories": [
     {
       "title": "Crime Pays but Botany Doesn't",
-      "score": 127
-    },
-    {
-      "title": "What I love about Django",
-      "score": 16
+      "score": 174
     },
     {
       "title": "How to Make a Nintendo 64 Game in 2026",
-      "score": 24
+      "score": 76
+    },
+    {
+      "title": "What I love about Django",
+      "score": 49
     },
     {
       "title": "Discovery Loop",
-      "score": 735
+      "score": 750
     },
     {
       "title": "Let's all meet up in the Y2K",
-      "score": 14
+      "score": 32
     }
   ]
 }
