@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-06T11:56:29.310390Z",
+  "updated_at": "2026-08-06T12:53:39.209751Z",
   "stories": [
     {
+      "title": "Mario Meets Pareto",
+      "score": 32
+    },
+    {
       "title": "How to Make a Nintendo 64 Game in 2026",
-      "score": 166
+      "score": 215
     },
     {
       "title": "Crime Pays but Botany Doesn't",
-      "score": 287
+      "score": 332
     },
     {
       "title": "Pareto Front",
-      "score": 36
+      "score": 59
     },
     {
-      "title": "Let's all meet up in the Y2K",
-      "score": 77
-    },
-    {
-      "title": "Discovery Loop",
-      "score": 782
+      "title": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
+      "score": 12
     }
   ]
 }
