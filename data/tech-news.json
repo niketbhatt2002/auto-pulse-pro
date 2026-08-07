@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-07T00:52:52.511568Z",
+  "updated_at": "2026-08-07T01:42:18.994113Z",
   "stories": [
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "score": 327
+      "score": 362
     },
     {
       "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "score": 131
-    },
-    {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "score": 71
+      "score": 137
     },
     {
       "title": "Mario Meets Pareto",
-      "score": 854
+      "score": 870
     },
     {
-      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
-      "score": 42
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "score": 80
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "score": 203
     }
   ]
 }
