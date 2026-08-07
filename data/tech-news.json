@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-07T10:41:56.181893Z",
+  "updated_at": "2026-08-07T11:42:10.276976Z",
   "stories": [
     {
+      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
+      "score": 174
+    },
+    {
       "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
-      "score": 314
+      "score": 350
     },
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "score": 686
+      "score": 713
     },
     {
-      "title": "What is a product?",
-      "score": 65
-    },
-    {
-      "title": "Parsers don't have to be complicated",
-      "score": 41
+      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
+      "score": 36
     },
     {
       "title": "Taste Is All That's Left",
-      "score": 442
+      "score": 468
     }
   ]
 }
