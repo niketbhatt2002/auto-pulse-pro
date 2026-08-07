@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-07T11:42:10.276976Z",
+  "updated_at": "2026-08-07T14:56:00.822179Z",
   "stories": [
     {
       "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "score": 174
+      "score": 649
+    },
+    {
+      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
+      "score": 214
+    },
+    {
+      "title": "Show HN: Wyzer Programming Language",
+      "score": 40
     },
     {
       "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
-      "score": 350
+      "score": 476
     },
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "score": 713
-    },
-    {
-      "title": "Interviewing Engineers in the AI Era: Lessons from a Year of Rebuilding",
-      "score": 36
-    },
-    {
-      "title": "Taste Is All That's Left",
-      "score": 468
+      "score": 765
     }
   ]
 }
