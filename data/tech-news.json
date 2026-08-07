@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-07T20:42:37.125158Z",
+  "updated_at": "2026-08-07T23:38:39.611575Z",
   "stories": [
     {
       "title": "DeepSeek V4 Flash 0731",
-      "score": 237
+      "score": 385
     },
     {
       "title": "Assembly Hall of Shame",
-      "score": 114
+      "score": 218
     },
     {
       "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
-      "score": 40
+      "score": 123
+    },
+    {
+      "title": "What happens if an entire class of workers loses faith in their careers",
+      "score": 342
     },
     {
       "title": "Responding to the next frontier of critical cyber capabilities",
-      "score": 107
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "score": 256
+      "score": 143
     }
   ]
 }
