@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-07T01:42:18.994113Z",
+  "updated_at": "2026-08-07T07:05:13.255431Z",
   "stories": [
     {
       "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "score": 362
+      "score": 572
     },
     {
-      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
-      "score": 137
+      "title": "What Is a Product?",
+      "score": 10
     },
     {
       "title": "Mario Meets Pareto",
-      "score": 870
+      "score": 1001
     },
     {
-      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
-      "score": 80
+      "title": "Atomic Clocks",
+      "score": 33
     },
     {
       "title": "Taste Is All That's Left",
-      "score": 203
+      "score": 349
     }
   ]
 }
