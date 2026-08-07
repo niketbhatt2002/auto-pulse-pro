@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-07T14:56:00.822179Z",
+  "updated_at": "2026-08-07T17:37:13.195486Z",
   "stories": [
     {
-      "title": "US strikes $1.2B deal to pay German firm to halt offshore wind projects",
-      "score": 649
+      "title": "Responding to the next frontier of critical cyber capabilities",
+      "score": 43
     },
     {
-      "title": "U.S. economy lost 23,000 jobs in July, a sudden reversal",
-      "score": 214
-    },
-    {
-      "title": "Show HN: Wyzer Programming Language",
-      "score": 40
+      "title": "An all-sky map of half a million supermassive black holes",
+      "score": 54
     },
     {
       "title": "New Mexico court orders Meta to pay $567m over harms to children\u2019s mental health",
-      "score": 476
+      "score": 584
     },
     {
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "score": 765
+      "title": "Tax cuts for the wealthy only benefit the rich (2023)",
+      "score": 84
+    },
+    {
+      "title": "Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",
+      "score": 117
     }
   ]
 }
