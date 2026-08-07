@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-06T12:53:39.209751Z",
+  "updated_at": "2026-08-07T00:52:52.511568Z",
   "stories": [
     {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "score": 327
+    },
+    {
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "score": 131
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "score": 71
+    },
+    {
       "title": "Mario Meets Pareto",
-      "score": 32
+      "score": 854
     },
     {
-      "title": "How to Make a Nintendo 64 Game in 2026",
-      "score": 215
-    },
-    {
-      "title": "Crime Pays but Botany Doesn't",
-      "score": 332
-    },
-    {
-      "title": "Pareto Front",
-      "score": 59
-    },
-    {
-      "title": "Show HN: Skyline Co-op is like SimTower, but built around democratic socialism",
-      "score": 12
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "score": 42
     }
   ]
 }
