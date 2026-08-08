@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-08T20:32:09.174630Z",
+  "updated_at": "2026-08-08T23:34:43.812728Z",
   "stories": [
     {
       "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
-      "score": 248
+      "score": 462
+    },
+    {
+      "title": "Maryland Closes More of Cunningham Falls State Park After Second Beaver Attack",
+      "score": 62
     },
     {
       "title": "Fastmail offers EU data region",
-      "score": 204
+      "score": 294
     },
     {
-      "title": "LinkedIn Feed Blocker",
-      "score": 113
+      "title": "My server is a phone now",
+      "score": 7
     },
     {
       "title": "A domain can now say it is for sale, in DNS",
-      "score": 265
-    },
-    {
-      "title": "\"Code was never the hard part\" is an insult to all programmers",
-      "score": 282
+      "score": 325
     }
   ]
 }
