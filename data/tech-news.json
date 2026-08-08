@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-08T08:31:31.904877Z",
+  "updated_at": "2026-08-08T09:42:00.386565Z",
   "stories": [
     {
-      "title": "Hardware backdoors in some x86 CPUs",
-      "score": 44
-    },
-    {
       "title": "A Physicist Rigged His Pet Hamster\u2019s Wheel to Upload to Strava",
-      "score": 155
+      "score": 194
     },
     {
       "title": "DeepSeek V4 Flash 0731",
-      "score": 602
+      "score": 621
     },
     {
       "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "score": 216
+      "score": 232
+    },
+    {
+      "title": "Hardware backdoors in some x86 CPUs",
+      "score": 86
     },
     {
       "title": "What happens if an entire class of workers loses faith in their careers",
-      "score": 610
+      "score": 652
     }
   ]
 }
