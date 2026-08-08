@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-08T07:43:30.099201Z",
+  "updated_at": "2026-08-08T08:31:33.270098Z",
   "repos": [
     {
       "name": "firecrawl/anydoc",
-      "stars": 11437
+      "stars": 11508
     },
     {
       "name": "thebuggeddev/anatomy",
-      "stars": 2000
+      "stars": 2001
     },
     {
       "name": "KKKKhazix/human-writing",
-      "stars": 1921
+      "stars": 1923
     },
     {
       "name": "Binaryify/open-kimi-ppt-skill",
@@ -19,7 +19,7 @@
     },
     {
       "name": "ZzzLc0405/photo-abstract-editorial",
-      "stars": 1549
+      "stars": 1556
     }
   ]
 }
