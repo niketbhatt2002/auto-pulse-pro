@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-07T23:38:40.798475Z",
+  "updated_at": "2026-08-08T06:40:37.808000Z",
   "repos": [
     {
       "name": "firecrawl/anydoc",
-      "stars": 10951
-    },
-    {
-      "name": "FareedKhan-dev/kimi-k3-in-c",
-      "stars": 3273
-    },
-    {
-      "name": "imsai-sh/zhuzhiliao",
-      "stars": 2431
+      "stars": 11364
     },
     {
       "name": "thebuggeddev/anatomy",
-      "stars": 1974
+      "stars": 1997
     },
     {
       "name": "KKKKhazix/human-writing",
-      "stars": 1871
+      "stars": 1916
+    },
+    {
+      "name": "Binaryify/open-kimi-ppt-skill",
+      "stars": 1589
+    },
+    {
+      "name": "ZzzLc0405/photo-abstract-editorial",
+      "stars": 1532
     }
   ]
 }
