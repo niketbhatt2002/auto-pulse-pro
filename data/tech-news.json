@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-08T17:18:30.359132Z",
+  "updated_at": "2026-08-08T20:32:09.174630Z",
   "stories": [
     {
+      "title": "Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating",
+      "score": 248
+    },
+    {
+      "title": "Fastmail offers EU data region",
+      "score": 204
+    },
+    {
+      "title": "LinkedIn Feed Blocker",
+      "score": 113
+    },
+    {
       "title": "A domain can now say it is for sale, in DNS",
-      "score": 169
+      "score": 265
     },
     {
-      "title": "DeepMind's WeatherNext model achieves breakthrough forecasting cyclones",
-      "score": 262
-    },
-    {
-      "title": "Timeline of the OpenAI accidental attack against Hugging Face",
-      "score": 166
-    },
-    {
-      "title": "Gateway 2000's hilariously bad ads in the 90s (Part II)",
-      "score": 56
-    },
-    {
-      "title": "Triton: DirectX 11 Driver for QEMU",
-      "score": 45
+      "title": "\"Code was never the hard part\" is an insult to all programmers",
+      "score": 282
     }
   ]
 }
