@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-09T14:38:17.358527Z",
+  "updated_at": "2026-08-09T17:18:45.100808Z",
   "stories": [
     {
       "title": "Mea Culpa \u2013 Dark Hours",
-      "score": 101
+      "score": 307
+    },
+    {
+      "title": "Criminal Deception in Silicon Valley",
+      "score": 53
+    },
+    {
+      "title": "Cool URIs Don't Change (1998)",
+      "score": 37
     },
     {
       "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
-      "score": 22
+      "score": 61
     },
     {
-      "title": "There Are Magic Hexagons of Every Order",
-      "score": 114
-    },
-    {
-      "title": "The Alpha 21264 CPU: NT's Greatest RISC (1998)",
-      "score": 40
-    },
-    {
-      "title": "My server is a phone now",
-      "score": 411
+      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
+      "score": 46
     }
   ]
 }
