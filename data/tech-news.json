@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-09T20:34:40.645267Z",
+  "updated_at": "2026-08-09T23:36:48.319868Z",
   "stories": [
     {
       "title": "How I use LLMs to learn complex topics",
-      "score": 112
+      "score": 305
+    },
+    {
+      "title": "New Zealand lost its music media, and what we're building to replace it",
+      "score": 50
     },
     {
       "title": "Mea Culpa \u2013 Dark Hours",
-      "score": 460
+      "score": 531
     },
     {
       "title": "Ask HN: What are you working on? (August 2026)",
-      "score": 95
+      "score": 147
     },
     {
-      "title": "OpenChamber: An Agentic Development Environment",
-      "score": 61
-    },
-    {
-      "title": "Cool URIs Don't Change (1998)",
-      "score": 112
+      "title": "The tragedy of the commons, AI edition",
+      "score": 56
     }
   ]
 }
