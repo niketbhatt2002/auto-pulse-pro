@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-09T17:18:45.100808Z",
+  "updated_at": "2026-08-09T20:34:40.645267Z",
   "stories": [
     {
+      "title": "How I use LLMs to learn complex topics",
+      "score": 112
+    },
+    {
       "title": "Mea Culpa \u2013 Dark Hours",
-      "score": 307
+      "score": 460
     },
     {
-      "title": "Criminal Deception in Silicon Valley",
-      "score": 53
+      "title": "Ask HN: What are you working on? (August 2026)",
+      "score": 95
     },
     {
-      "title": "Cool URIs Don't Change (1998)",
-      "score": 37
-    },
-    {
-      "title": "Show HN: A Project Oberon System version running on RISC-V instead of RISC-5",
+      "title": "OpenChamber: An Agentic Development Environment",
       "score": 61
     },
     {
-      "title": "John C. Lilly on solid state intelligence and the elimination of man (1978)",
-      "score": 46
+      "title": "Cool URIs Don't Change (1998)",
+      "score": 112
     }
   ]
 }
