@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-09T23:36:48.319868Z",
+  "updated_at": "2026-08-10T07:19:51.075212Z",
   "stories": [
     {
-      "title": "How I use LLMs to learn complex topics",
-      "score": 305
+      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
+      "score": 68
     },
     {
-      "title": "New Zealand lost its music media, and what we're building to replace it",
-      "score": 50
+      "title": "What Happened to HackerOne?",
+      "score": 169
     },
     {
-      "title": "Mea Culpa \u2013 Dark Hours",
-      "score": 531
+      "title": "Auto mode is now the default in Claude Code",
+      "score": 157
     },
     {
-      "title": "Ask HN: What are you working on? (August 2026)",
-      "score": 147
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "score": 44
     },
     {
-      "title": "The tragedy of the commons, AI edition",
-      "score": 56
+      "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
+      "score": 55
     }
   ]
 }
