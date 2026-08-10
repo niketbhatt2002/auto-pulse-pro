@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T10:57:25.451682Z",
+  "updated_at": "2026-08-10T11:43:43.220097Z",
   "stories": [
     {
       "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
-      "score": 48
+      "score": 151
     },
     {
       "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "score": 241
+      "score": 275
     },
     {
       "title": "What Happened to HackerOne?",
-      "score": 249
-    },
-    {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "score": 91
+      "score": 265
     },
     {
       "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
-      "score": 22
+      "score": 33
+    },
+    {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "score": 105
     }
   ]
 }
