@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T20:44:20.127933Z",
+  "updated_at": "2026-08-10T23:40:14.490079Z",
   "stories": [
     {
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "score": 911
-    },
-    {
-      "title": "Sonic Pi v5",
-      "score": 215
+      "score": 985
     },
     {
       "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "score": 212
+      "score": 330
     },
     {
       "title": "Rust SIMD on the GPU",
-      "score": 51
+      "score": 106
     },
     {
-      "title": "The Psychedelic Toad of the Sonoran Desert",
-      "score": 36
+      "title": "Sonic Pi v5",
+      "score": 283
+    },
+    {
+      "title": "Confessions of a Long-Distance Sailor",
+      "score": 37
     }
   ]
 }
