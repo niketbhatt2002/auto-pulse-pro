@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T11:43:43.220097Z",
+  "updated_at": "2026-08-10T15:02:12.351503Z",
   "stories": [
     {
       "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
-      "score": 151
+      "score": 499
+    },
+    {
+      "title": "Squeak/Smalltalk 6.1 Release Notes",
+      "score": 66
+    },
+    {
+      "title": "50k Boat Names",
+      "score": 62
     },
     {
       "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "score": 275
+      "score": 400
     },
     {
-      "title": "What Happened to HackerOne?",
-      "score": 265
-    },
-    {
-      "title": "Tail-Call Interpreters in Rust \u2013 Jimmy Ostler",
-      "score": 33
-    },
-    {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "score": 105
+      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
+      "score": 10
     }
   ]
 }
