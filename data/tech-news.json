@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T15:02:12.351503Z",
+  "updated_at": "2026-08-10T17:40:45.652713Z",
   "stories": [
     {
-      "title": "Meta Muse Glimmer \u2013 open weights 30B local coding model",
-      "score": 499
+      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
+      "score": 742
     },
     {
-      "title": "Squeak/Smalltalk 6.1 Release Notes",
-      "score": 66
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "score": 51
     },
     {
-      "title": "50k Boat Names",
-      "score": 62
+      "title": "Sonic Pi v5",
+      "score": 61
     },
     {
-      "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "score": 400
+      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
+      "score": 18
     },
     {
-      "title": "OpenAI's letter to Governor Abbott on responsible AI infrastructure in Texas",
-      "score": 10
+      "title": "Exploiting System Management Mode with a very long interrupt",
+      "score": 44
     }
   ]
 }
