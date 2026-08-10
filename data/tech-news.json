@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T17:40:45.652713Z",
+  "updated_at": "2026-08-10T20:44:20.127933Z",
   "stories": [
     {
       "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "score": 742
-    },
-    {
-      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
-      "score": 51
+      "score": 911
     },
     {
       "title": "Sonic Pi v5",
-      "score": 61
+      "score": 215
     },
     {
-      "title": "Launch HN: Stoa Markets (YC S26) \u2013 A Marketplace for GPUs and AI Servers",
-      "score": 18
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "score": 212
     },
     {
-      "title": "Exploiting System Management Mode with a very long interrupt",
-      "score": 44
+      "title": "Rust SIMD on the GPU",
+      "score": 51
+    },
+    {
+      "title": "The Psychedelic Toad of the Sonoran Desert",
+      "score": 36
     }
   ]
 }
