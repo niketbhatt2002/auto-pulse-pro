@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T08:23:06.307358Z",
+  "updated_at": "2026-08-10T09:10:57.389027Z",
   "stories": [
     {
       "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "score": 134
+      "score": 168
     },
     {
       "title": "What Happened to HackerOne?",
-      "score": 196
-    },
-    {
-      "title": "The Philippines' big offshoring industry is growing despite AI",
-      "score": 44
+      "score": 210
     },
     {
       "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
-      "score": 57
+      "score": 65
     },
     {
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "score": 66
+      "score": 75
+    },
+    {
+      "title": "How I use LLMs to learn complex topics",
+      "score": 624
     }
   ]
 }
