@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T07:19:51.075212Z",
+  "updated_at": "2026-08-10T08:23:06.307358Z",
   "stories": [
     {
       "title": "Docker Sandboxes \u2013 Disposable, isolated sandboxes for AI agents",
-      "score": 68
+      "score": 134
     },
     {
       "title": "What Happened to HackerOne?",
-      "score": 169
+      "score": 196
     },
     {
-      "title": "Auto mode is now the default in Claude Code",
-      "score": 157
-    },
-    {
-      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "title": "The Philippines' big offshoring industry is growing despite AI",
       "score": 44
     },
     {
+      "title": "Run Android ARM64 VR APKs on Apple Vision Pro",
+      "score": 57
+    },
+    {
       "title": "Show HN: Voice driven murder mystery, Interview AI suspects with your voice",
-      "score": 55
+      "score": 66
     }
   ]
 }
