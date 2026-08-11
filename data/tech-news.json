@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-10T23:40:14.490079Z",
+  "updated_at": "2026-08-11T06:56:21.218930Z",
   "stories": [
     {
-      "title": "Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows",
-      "score": 985
+      "title": "H3-metal \u2013 Native MiniMax-H3 inference for Apple Silicon",
+      "score": 195
     },
     {
-      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
-      "score": 330
+      "title": "Show HN: Mcptoon \u2013 Token-efficient MCP CLI client",
+      "score": 25
     },
     {
-      "title": "Rust SIMD on the GPU",
-      "score": 106
+      "title": "Chicken Scheme 6.0",
+      "score": 139
     },
     {
-      "title": "Sonic Pi v5",
-      "score": 283
+      "title": "LFM2.5 2.6B model competitive with 4x larger models",
+      "score": 34
     },
     {
-      "title": "Confessions of a Long-Distance Sailor",
-      "score": 37
+      "title": "Show HN: Scroll through all 43252003274489856000 Rubik's Cube states",
+      "score": 160
     }
   ]
 }
