@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-12T10:11:15.200898Z",
+  "updated_at": "2026-08-12T10:51:12.117952Z",
   "stories": [
     {
-      "title": "Beef and dairy drive 41% of biodiversity damage linked to global farmland",
-      "score": 29
+      "title": "Tim Gowers: What sort of maths are LLMs good at?",
+      "score": 40
+    },
+    {
+      "title": "Show HN: Woxi - Open-source Mathematica / Wolfram Language reimplementation",
+      "score": 32
     },
     {
       "title": "LinkedIn CringeBot 3000",
-      "score": 182
+      "score": 215
     },
     {
       "title": "Dutch Train Map Simulator",
-      "score": 21
+      "score": 37
     },
     {
-      "title": "The hardest working font in Manhattan (2025)",
-      "score": 204
-    },
-    {
-      "title": "Compression is prediction",
-      "score": 536
+      "title": "Facebook is paying controversial creators to produce rage-bait content",
+      "score": 85
     }
   ]
 }
