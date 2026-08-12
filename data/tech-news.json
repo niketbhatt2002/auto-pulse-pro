@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-12T07:15:25.588033Z",
+  "updated_at": "2026-08-12T08:12:04.633556Z",
   "stories": [
     {
       "title": "The hardest working font in Manhattan (2025)",
-      "score": 146
+      "score": 178
+    },
+    {
+      "title": "Launch HN: Discovered Materials (YC P26) \u2013 AI agents to discover new materials",
+      "score": 5
     },
     {
       "title": "Compression is prediction",
-      "score": 460
-    },
-    {
-      "title": "llama.cpp",
-      "score": 125
+      "score": 488
     },
     {
       "title": "WorldClaw Agentic 3D open-world generation at scale",
-      "score": 198
+      "score": 209
     },
     {
-      "title": "The lifesaving secret hidden inside a horseshoe crab's blue blood",
-      "score": 66
+      "title": "llama.cpp",
+      "score": 158
     }
   ]
 }
