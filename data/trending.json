@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-12T15:00:36.363819Z",
+  "updated_at": "2026-08-12T17:46:36.783800Z",
   "repos": [
     {
       "name": "ShawnPana/phone-harness",
-      "stars": 1599
+      "stars": 1622
     },
     {
       "name": "oil-oil/oil-motion",
-      "stars": 1567
+      "stars": 1588
     },
     {
       "name": "antirez/h3.c",
-      "stars": 1534
+      "stars": 1559
     },
     {
       "name": "SMNETSTUDIO/WeChat-AI",
-      "stars": 1509
+      "stars": 1519
     },
     {
-      "name": "eternityspring/shuohao-skills",
-      "stars": 1110
+      "name": "guillaumemeyer/watermarks-remover",
+      "stars": 1412
     }
   ]
 }

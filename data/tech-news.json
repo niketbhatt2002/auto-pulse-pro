@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-12T15:00:35.385562Z",
+  "updated_at": "2026-08-12T17:46:35.668973Z",
   "stories": [
     {
+      "title": "DeepSeek V4 Pro 0813",
+      "score": 234
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "score": 405
+    },
+    {
       "title": "2026 Eclipse Webcams",
-      "score": 286
+      "score": 378
     },
     {
-      "title": "Obituary: AmigaDOS developer Dr. Tim King has passed away",
-      "score": 44
+      "title": "DeepSeek V4 Pro 0813 quietly released",
+      "score": 68
     },
     {
-      "title": "License Plate Reader Searches Should Require a Warrant",
-      "score": 32
-    },
-    {
-      "title": "Why Tiny JPEGs Look Different in Chrome",
-      "score": 65
-    },
-    {
-      "title": "Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",
-      "score": 25
+      "title": "Tim King, AmigaDOS developer, has died",
+      "score": 118
     }
   ]
 }
