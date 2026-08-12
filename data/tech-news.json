@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-12T17:46:35.668973Z",
+  "updated_at": "2026-08-12T20:48:53.457886Z",
   "stories": [
     {
       "title": "DeepSeek V4 Pro 0813",
-      "score": 234
+      "score": 533
+    },
+    {
+      "title": "Delta",
+      "score": 189
     },
     {
       "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "score": 405
+      "score": 599
     },
     {
-      "title": "2026 Eclipse Webcams",
-      "score": 378
+      "title": "Qwen3.8-2.4T",
+      "score": 342
     },
     {
-      "title": "DeepSeek V4 Pro 0813 quietly released",
-      "score": 68
-    },
-    {
-      "title": "Tim King, AmigaDOS developer, has died",
-      "score": 118
+      "title": "Grok 4.6 scores 61 on the Artificial Analysis Intelligence Index",
+      "score": 231
     }
   ]
 }
