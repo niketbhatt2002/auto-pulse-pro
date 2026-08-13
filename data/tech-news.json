@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-12T23:49:23.738669Z",
+  "updated_at": "2026-08-13T07:17:28.694130Z",
   "stories": [
     {
       "title": "DeepSeek V4 Pro 0813",
-      "score": 692
+      "score": 874
+    },
+    {
+      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
+      "score": 976
+    },
+    {
+      "title": "Mushroom behind 'tiny people' hallucinations identified",
+      "score": 70
     },
     {
       "title": "Delta",
-      "score": 340
-    },
-    {
-      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
-      "score": 739
+      "score": 511
     },
     {
       "title": "Qwen3.8-2.4T",
-      "score": 456
-    },
-    {
-      "title": "Why Target Common Lisp for Code Generation?",
-      "score": 12
+      "score": 586
     }
   ]
 }
