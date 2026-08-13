@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T10:12:38.823636Z",
+  "updated_at": "2026-08-13T10:52:33.116060Z",
   "stories": [
     {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "score": 142
+      "score": 166
     },
     {
-      "title": "If I own Claude's outputs why can't I train my own model on them?",
-      "score": 18
+      "title": "The lattice of sets of natural numbers is rich",
+      "score": 21
     },
     {
       "title": "DeepSeek V4 Pro 0813",
-      "score": 931
+      "score": 943
     },
     {
       "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "score": 1049
+      "score": 1056
     },
     {
       "title": "Qwen3.8-2.4T",
-      "score": 628
+      "score": 637
     }
   ]
 }
