@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T17:45:43.816265Z",
+  "updated_at": "2026-08-13T20:46:10.032620Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
-      "stars": 35687
+      "stars": 37966
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
-      "stars": 4712
+      "stars": 5049
     },
     {
       "name": "antirez/h3.c",
-      "stars": 1757
+      "stars": 1766
     },
     {
       "name": "ShawnPana/phone-harness",
-      "stars": 1707
+      "stars": 1710
     },
     {
       "name": "SMNETSTUDIO/WeChat-AI",
-      "stars": 1678
+      "stars": 1682
     }
   ]
 }

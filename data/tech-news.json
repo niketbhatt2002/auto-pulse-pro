@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T17:45:42.497277Z",
+  "updated_at": "2026-08-13T20:46:08.850968Z",
   "stories": [
     {
       "title": "Gemini 3.7 Flash",
-      "score": 85
+      "score": 417
     },
     {
-      "title": "Spaghettifying DRAM",
-      "score": 273
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "score": 238
     },
     {
-      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
-      "score": 44
+      "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
+      "score": 116
     },
     {
       "title": "Mistral OCR 4.1",
-      "score": 18
+      "score": 172
     },
     {
-      "title": "DeepSeek Harness developer preview",
-      "score": 406
+      "title": "Spaghettifying DRAM",
+      "score": 390
     }
   ]
 }
