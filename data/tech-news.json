@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T15:00:55.319373Z",
+  "updated_at": "2026-08-13T17:45:42.497277Z",
   "stories": [
     {
-      "title": "DeepSeek Harness",
-      "score": 193
+      "title": "Gemini 3.7 Flash",
+      "score": 85
     },
     {
       "title": "Spaghettifying DRAM",
-      "score": 63
+      "score": 273
     },
     {
-      "title": "Gloomberb",
-      "score": 81
+      "title": "Come for ENIAC, Stay for UNIVAC and Skeduflo",
+      "score": 44
     },
     {
-      "title": "AI agents lie, cheat and steal. That is putting off users",
-      "score": 64
+      "title": "Mistral OCR 4.1",
+      "score": 18
     },
     {
-      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
-      "score": 32
+      "title": "DeepSeek Harness developer preview",
+      "score": 406
     }
   ]
 }
