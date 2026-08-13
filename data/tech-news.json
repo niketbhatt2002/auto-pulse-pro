@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T20:46:08.850968Z",
+  "updated_at": "2026-08-13T23:49:32.529982Z",
   "stories": [
     {
       "title": "Gemini 3.7 Flash",
-      "score": 417
+      "score": 557
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "score": 238
+      "score": 381
+    },
+    {
+      "title": "NP-Overrated",
+      "score": 106
+    },
+    {
+      "title": "Understanding is the new bottleneck",
+      "score": 152
     },
     {
       "title": "Donkey.bas is 45 Years Old \u2013 131 line of Glory",
-      "score": 116
-    },
-    {
-      "title": "Mistral OCR 4.1",
-      "score": 172
-    },
-    {
-      "title": "Spaghettifying DRAM",
-      "score": 390
+      "score": 173
     }
   ]
 }
