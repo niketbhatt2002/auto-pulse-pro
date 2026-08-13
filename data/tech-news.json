@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T08:15:16.871103Z",
+  "updated_at": "2026-08-13T09:04:45.692270Z",
   "stories": [
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "score": 894
-    },
-    {
-      "title": "Mushroom behind 'tiny people' hallucinations identified",
-      "score": 106
-    },
-    {
-      "title": "We tracked down the 16-year-old WAL-reset SQLite bug",
-      "score": 1004
-    },
-    {
-      "title": "Delta",
-      "score": 527
-    },
-    {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "score": 44
+      "score": 86
+    },
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "score": 910
+    },
+    {
+      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
+      "score": 1022
+    },
+    {
+      "title": "Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans",
+      "score": 13
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "score": 614
     }
   ]
 }
