@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T11:42:37.338425Z",
+  "updated_at": "2026-08-13T15:00:55.319373Z",
   "stories": [
     {
-      "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "score": 197
+      "title": "DeepSeek Harness",
+      "score": 193
     },
     {
-      "title": "The lattice of sets of natural numbers is rich",
-      "score": 34
+      "title": "Spaghettifying DRAM",
+      "score": 63
     },
     {
-      "title": "DeepSeek V4 Pro 0813",
-      "score": 956
+      "title": "Gloomberb",
+      "score": 81
     },
     {
-      "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "score": 1075
+      "title": "AI agents lie, cheat and steal. That is putting off users",
+      "score": 64
     },
     {
-      "title": "Qwen3.8-2.4T",
-      "score": 644
+      "title": "Heart Aerospace Completes First Flight of Largest Electric Aircraft",
+      "score": 32
     }
   ]
 }
