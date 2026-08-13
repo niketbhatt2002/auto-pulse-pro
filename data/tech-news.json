@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T10:52:33.116060Z",
+  "updated_at": "2026-08-13T11:42:37.338425Z",
   "stories": [
     {
       "title": "ChatGPT Desktop (Codex Desktop) for Linux",
-      "score": 166
+      "score": 197
     },
     {
       "title": "The lattice of sets of natural numbers is rich",
-      "score": 21
+      "score": 34
     },
     {
       "title": "DeepSeek V4 Pro 0813",
-      "score": 943
+      "score": 956
     },
     {
       "title": "Tracking down the 16-year-old WAL-reset SQLite bug",
-      "score": 1056
+      "score": 1075
     },
     {
       "title": "Qwen3.8-2.4T",
-      "score": 637
+      "score": 644
     }
   ]
 }
