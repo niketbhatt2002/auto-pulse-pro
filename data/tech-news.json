@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T10:48:42.714725Z",
+  "updated_at": "2026-08-14T11:41:09.060700Z",
   "stories": [
     {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "score": 529
+      "score": 576
     },
     {
       "title": "DeepSeek peak/off-peak pricing update",
-      "score": 19
-    },
-    {
-      "title": "Major oil slick washes up on Iran coast after Hormuz ship strike",
-      "score": 11
-    },
-    {
-      "title": "I want extern \"fil-C\"",
-      "score": 11
+      "score": 49
     },
     {
       "title": "Gemini 3.7 Flash",
-      "score": 864
+      "score": 875
+    },
+    {
+      "title": "Accelerating GPT-5.6 Sol Ultrafast",
+      "score": 631
+    },
+    {
+      "title": "Hello, me. It's been a while",
+      "score": 248
     }
   ]
 }
