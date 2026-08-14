@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-13T23:49:33.842035Z",
+  "updated_at": "2026-08-14T07:15:24.207060Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
-      "stars": 40232
+      "stars": 76214
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
-      "stars": 5328
+      "stars": 5991
     },
     {
       "name": "antirez/h3.c",
-      "stars": 1773
+      "stars": 1808
     },
     {
-      "name": "ShawnPana/phone-harness",
-      "stars": 1712
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "stars": 1697
     },
     {
-      "name": "oil-oil/oil-motion",
-      "stars": 1685
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "stars": 1188
     }
   ]
 }
