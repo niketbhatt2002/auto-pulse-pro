@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T07:15:22.789078Z",
+  "updated_at": "2026-08-14T08:10:13.132366Z",
   "stories": [
     {
-      "title": "GLM-5.3: Frontier Coding with Emergent Cyber Capabilities",
-      "score": 246
+      "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
+      "score": 334
     },
     {
       "title": "Gemini 3.7 Flash",
-      "score": 776
+      "score": 788
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "score": 546
+      "score": 558
     },
     {
       "title": "Hello, me. It's been a while",
-      "score": 156
+      "score": 178
     },
     {
-      "title": "Bluesky Protocol Services",
-      "score": 144
+      "title": "Show HN: C# Game Engine with its own scripting language and IDE",
+      "score": 21
     }
   ]
 }

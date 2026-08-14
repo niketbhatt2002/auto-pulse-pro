@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T07:15:24.207060Z",
+  "updated_at": "2026-08-14T08:10:14.433282Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
-      "stars": 76214
+      "stars": 78973
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
-      "stars": 5991
+      "stars": 6088
     },
     {
       "name": "antirez/h3.c",
-      "stars": 1808
+      "stars": 1811
     },
     {
       "name": "SMNETSTUDIO/WeChat-AI",
-      "stars": 1697
+      "stars": 1699
     },
     {
-      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
-      "stars": 1188
+      "name": "zhu1090093659/dsh-web-ui",
+      "stars": 1301
     }
   ]
 }
