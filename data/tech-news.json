@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T09:01:30.954056Z",
+  "updated_at": "2026-08-14T10:08:29.405897Z",
   "stories": [
     {
       "title": "GLM-5.3: Frontier coding with emergent cyber capabilities",
-      "score": 403
+      "score": 481
     },
     {
       "title": "Gemini 3.7 Flash",
-      "score": 815
+      "score": 846
     },
     {
       "title": "Accelerating GPT-5.6 Sol Ultrafast",
-      "score": 583
+      "score": 605
     },
     {
       "title": "Hello, me. It's been a while",
-      "score": 194
+      "score": 216
     },
     {
       "title": "Show HN: Lumabri \u2013 Run Moe Models on a P2P Swarm with Colibri",
-      "score": 9
+      "score": 21
     }
   ]
 }
