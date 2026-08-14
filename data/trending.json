@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-08-14T10:08:30.493676Z",
-  "repos": []
+  "updated_at": "2026-08-14T10:48:43.955532Z",
+  "repos": [
+    {
+      "name": "deepseek-ai/deepseek-harness",
+      "stars": 84969
+    },
+    {
+      "name": "guillaumemeyer/watermarks-remover",
+      "stars": 6356
+    },
+    {
+      "name": "antirez/h3.c",
+      "stars": 1821
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "stars": 1701
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "stars": 1528
+    }
+  ]
 }
