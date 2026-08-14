@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T17:41:44.522960Z",
+  "updated_at": "2026-08-14T20:32:45.297768Z",
   "stories": [
     {
       "title": "Qwen 3.8 27B",
-      "score": 280
-    },
-    {
-      "title": "Seven books I keep close because I love them",
-      "score": 137
+      "score": 618
     },
     {
       "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "score": 48
+      "score": 401
+    },
+    {
+      "title": "Jason Arday: Former Cambridge university professor found dead",
+      "score": 23
+    },
+    {
+      "title": "Seven books I keep close because I love them",
+      "score": 223
     },
     {
       "title": "RustDesk now supports true unattended remote access on Wayland",
-      "score": 54
-    },
-    {
-      "title": "Introducing Toast 1",
-      "score": 91
+      "score": 146
     }
   ]
 }
