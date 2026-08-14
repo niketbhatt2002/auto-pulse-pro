@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T20:32:45.297768Z",
+  "updated_at": "2026-08-14T23:27:13.689827Z",
   "stories": [
     {
       "title": "Qwen 3.8 27B",
-      "score": 618
+      "score": 809
     },
     {
-      "title": "Count Binface receives over a quarter of votes in Clacton by-election",
-      "score": 401
+      "title": "Going Dark, and the era of law enforcement hacking",
+      "score": 124
     },
     {
-      "title": "Jason Arday: Former Cambridge university professor found dead",
-      "score": 23
+      "title": "RISC-V: They should have known better",
+      "score": 27
     },
     {
-      "title": "Seven books I keep close because I love them",
-      "score": 223
+      "title": "Why does Opus 5 feel worse to work with?",
+      "score": 734
     },
     {
       "title": "RustDesk now supports true unattended remote access on Wayland",
-      "score": 146
+      "score": 197
     }
   ]
 }
