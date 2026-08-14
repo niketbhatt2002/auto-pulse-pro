@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T11:41:10.050565Z",
+  "updated_at": "2026-08-14T14:54:50.035390Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
-      "stars": 86156
+      "stars": 90839
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
-      "stars": 6470
+      "stars": 7029
     },
     {
       "name": "antirez/h3.c",
-      "stars": 1822
-    },
-    {
-      "name": "SMNETSTUDIO/WeChat-AI",
-      "stars": 1701
+      "stars": 1832
     },
     {
       "name": "zhu1090093659/dsh-web-ui",
-      "stars": 1585
+      "stars": 1753
+    },
+    {
+      "name": "SMNETSTUDIO/WeChat-AI",
+      "stars": 1706
     }
   ]
 }
