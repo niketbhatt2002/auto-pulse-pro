@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T23:27:13.689827Z",
+  "updated_at": "2026-08-15T06:27:23.115660Z",
   "stories": [
     {
       "title": "Qwen 3.8 27B",
-      "score": 809
+      "score": 1036
+    },
+    {
+      "title": "The other Sean Byrne doesn't exist",
+      "score": 38
+    },
+    {
+      "title": "Coin-sized device can hack a Boeing 737",
+      "score": 32
     },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
-      "score": 124
+      "score": 290
     },
     {
-      "title": "RISC-V: They should have known better",
-      "score": 27
-    },
-    {
-      "title": "Why does Opus 5 feel worse to work with?",
-      "score": 734
-    },
-    {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "score": 197
+      "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
+      "score": 169
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-14T23:27:14.968258Z",
+  "updated_at": "2026-08-15T06:27:24.092860Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
-      "stars": 95092
+      "stars": 101778
     },
     {
       "name": "guillaumemeyer/watermarks-remover",
-      "stars": 8076
-    },
-    {
-      "name": "zhu1090093659/dsh-web-ui",
-      "stars": 1931
-    },
-    {
-      "name": "antirez/h3.c",
-      "stars": 1850
+      "stars": 8636
     },
     {
       "name": "anywhere-labs/deepseek-harness-desktop",
-      "stars": 1793
+      "stars": 3042
+    },
+    {
+      "name": "zhu1090093659/dsh-web-ui",
+      "stars": 2145
+    },
+    {
+      "name": "antirez/h3.c",
+      "stars": 1861
     }
   ]
 }
