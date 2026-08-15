@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-15T06:27:23.115660Z",
+  "updated_at": "2026-08-15T07:25:23.231184Z",
   "stories": [
     {
-      "title": "Qwen 3.8 27B",
-      "score": 1036
-    },
-    {
       "title": "The other Sean Byrne doesn't exist",
-      "score": 38
+      "score": 59
     },
     {
-      "title": "Coin-sized device can hack a Boeing 737",
-      "score": 32
+      "title": "Qwen 3.8 27B",
+      "score": 1078
     },
     {
       "title": "Going Dark, and the era of law enforcement hacking",
-      "score": 290
+      "score": 304
+    },
+    {
+      "title": "Coin-sized device can hack a Boeing 737",
+      "score": 48
     },
     {
       "title": "Magnitude 7.7 Earthquake \u2013 68 km NNW of Ende, Indonesia",
-      "score": 169
+      "score": 174
     }
   ]
 }
