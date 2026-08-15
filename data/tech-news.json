@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-15T11:16:36.792375Z",
+  "updated_at": "2026-08-15T14:26:49.866678Z",
   "stories": [
     {
+      "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
+      "score": 135
+    },
+    {
+      "title": "Strait of Hormuz Live Traffic Tracking",
+      "score": 25
+    },
+    {
+      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
+      "score": 20
+    },
+    {
       "title": "The other Sean Byrne doesn't exist",
-      "score": 188
+      "score": 271
     },
     {
       "title": "Qwen 3.8 27B",
-      "score": 1171
-    },
-    {
-      "title": "Using GCC's Nested Functions with Wide Pointers and No Trampolines II",
-      "score": 22
-    },
-    {
-      "title": "The mathematical beauty of hyperbezier curves",
-      "score": 14
-    },
-    {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "score": 352
+      "score": 1243
     }
   ]
 }
