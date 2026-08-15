@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-15T14:26:49.866678Z",
+  "updated_at": "2026-08-15T17:09:41.431317Z",
   "stories": [
     {
+      "title": "The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis",
+      "score": 83
+    },
+    {
+      "title": "The price of a Costco hot dog has gone up",
+      "score": 54
+    },
+    {
       "title": "Auto-research with codex: How I achieved a 232x Faster Kernel",
-      "score": 135
+      "score": 243
     },
     {
-      "title": "Strait of Hormuz Live Traffic Tracking",
-      "score": 25
+      "title": "Semaglutide linked to 26% lower 5-year predicted dementia risk",
+      "score": 14
     },
     {
-      "title": "GenRec: Towards LLM-Native Recommendation at Netflix",
-      "score": 20
-    },
-    {
-      "title": "The other Sean Byrne doesn't exist",
-      "score": 271
-    },
-    {
-      "title": "Qwen 3.8 27B",
-      "score": 1243
+      "title": "RISC-V: They Should Have Known Better",
+      "score": 39
     }
   ]
 }
