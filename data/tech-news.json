@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-15T23:25:17.281218Z",
+  "updated_at": "2026-08-16T06:29:18.483738Z",
   "stories": [
     {
-      "title": "Engineers will do anything to avoid learning from history",
-      "score": 67
+      "title": "Asus Bike Booster",
+      "score": 280
     },
     {
-      "title": "Abdominal fat predicts heart disease risk better than BMI",
-      "score": 75
+      "title": "The quirky personal homepages of programming language creators",
+      "score": 54
     },
     {
-      "title": "Bede Liu, a digital signal processing pioneer, has died",
-      "score": 29
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "score": 111
     },
     {
       "title": "Semaglutide linked to lower predicted dementia risk",
-      "score": 314
+      "score": 398
     },
     {
-      "title": "Cultivating a state of mind where new ideas are born (2023)",
-      "score": 51
+      "title": "Patterns and problems in emerging multi-agent systems",
+      "score": 39
     }
   ]
 }
