@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T17:09:20.569877Z",
+  "updated_at": "2026-08-16T20:24:24.369022Z",
   "stories": [
     {
+      "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
+      "score": 177
+    },
+    {
       "title": "Claude: System Prompts",
-      "score": 283
+      "score": 416
+    },
+    {
+      "title": "Models Are Getting Dumber on Purpose",
+      "score": 101
+    },
+    {
+      "title": "Protobuf has LSP support. You're welcome",
+      "score": 30
     },
     {
       "title": "The AI Credit Resale Economy",
-      "score": 96
-    },
-    {
-      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
-      "score": 57
-    },
-    {
-      "title": "Anton Chekhov played at love most of his life",
-      "score": 10
-    },
-    {
-      "title": "GPS and the Lost Art of Getting Lost",
-      "score": 25
+      "score": 174
     }
   ]
 }
