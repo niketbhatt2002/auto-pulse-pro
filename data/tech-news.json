@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T10:12:42.372592Z",
+  "updated_at": "2026-08-16T11:16:47.919825Z",
   "stories": [
     {
       "title": "Asus Bike Booster",
-      "score": 399
+      "score": 431
     },
     {
-      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "score": 158
-    },
-    {
-      "title": "Impulse Tracker",
-      "score": 16
+      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
+      "score": 18
     },
     {
       "title": "Patterns and problems in emerging multi-agent systems",
-      "score": 90
+      "score": 105
     },
     {
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "score": 427
+      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
+      "score": 173
+    },
+    {
+      "title": "Software Engineering fundamentals matter more",
+      "score": 166
     }
   ]
 }
