@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T14:26:34.041752Z",
+  "updated_at": "2026-08-16T17:09:20.569877Z",
   "stories": [
     {
       "title": "Claude: System Prompts",
-      "score": 99
+      "score": 283
     },
     {
-      "title": "Firefox for iOS now has a native adblocker",
-      "score": 55
+      "title": "The AI Credit Resale Economy",
+      "score": 96
     },
     {
-      "title": "A SAT Attack on Tarski's High School Algebra Problem",
-      "score": 30
+      "title": "St Lucie Nuclear Reactor Unit 1 manually shutdown, 3 control rods drop into core",
+      "score": 57
     },
     {
-      "title": "Does anyone run Postgres without PgBouncer?",
-      "score": 49
+      "title": "Anton Chekhov played at love most of his life",
+      "score": 10
     },
     {
-      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
-      "score": 77
+      "title": "GPS and the Lost Art of Getting Lost",
+      "score": 25
     }
   ]
 }
