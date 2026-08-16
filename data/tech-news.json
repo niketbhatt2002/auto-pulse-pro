@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T09:31:08.404108Z",
+  "updated_at": "2026-08-16T10:12:42.372592Z",
   "stories": [
     {
       "title": "Asus Bike Booster",
-      "score": 376
-    },
-    {
-      "title": "What happens when an LLM never sees material beyond fifth grade?",
-      "score": 98
+      "score": 399
     },
     {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "score": 152
+      "score": 158
+    },
+    {
+      "title": "Impulse Tracker",
+      "score": 16
     },
     {
       "title": "Patterns and problems in emerging multi-agent systems",
-      "score": 83
+      "score": 90
     },
     {
       "title": "Semaglutide linked to lower predicted dementia risk",
-      "score": 425
+      "score": 427
     }
   ]
 }
