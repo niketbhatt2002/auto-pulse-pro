@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T06:29:18.483738Z",
+  "updated_at": "2026-08-16T07:25:28.721375Z",
   "stories": [
     {
       "title": "Asus Bike Booster",
-      "score": 280
+      "score": 318
     },
     {
-      "title": "The quirky personal homepages of programming language creators",
-      "score": 54
+      "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
+      "score": 12
     },
     {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "score": 111
+      "score": 125
     },
     {
       "title": "Semaglutide linked to lower predicted dementia risk",
-      "score": 398
+      "score": 411
     },
     {
       "title": "Patterns and problems in emerging multi-agent systems",
-      "score": 39
+      "score": 51
     }
   ]
 }
