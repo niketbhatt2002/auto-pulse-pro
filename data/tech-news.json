@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T20:24:24.369022Z",
+  "updated_at": "2026-08-16T23:25:38.201955Z",
   "stories": [
     {
       "title": "A 3rd World Embedded Engineer Responds to \"RISC-V They Should Have Known Better\"",
-      "score": 177
+      "score": 307
     },
     {
       "title": "Claude: System Prompts",
-      "score": 416
-    },
-    {
-      "title": "Models Are Getting Dumber on Purpose",
-      "score": 101
+      "score": 488
     },
     {
       "title": "Protobuf has LSP support. You're welcome",
-      "score": 30
+      "score": 94
     },
     {
-      "title": "The AI Credit Resale Economy",
-      "score": 174
+      "title": "SIMD in the 90s: Programming Intel's Pentium MMX",
+      "score": 52
+    },
+    {
+      "title": "A quick look at zero-knowledge proofs",
+      "score": 19
     }
   ]
 }
