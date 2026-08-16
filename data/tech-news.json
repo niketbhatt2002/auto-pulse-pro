@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T11:16:47.919825Z",
+  "updated_at": "2026-08-16T14:26:34.041752Z",
   "stories": [
     {
-      "title": "Asus Bike Booster",
-      "score": 431
+      "title": "Claude: System Prompts",
+      "score": 99
     },
     {
-      "title": "Superconducting monolayer cuprate with a single CuO2 plane",
-      "score": 18
+      "title": "Firefox for iOS now has a native adblocker",
+      "score": 55
     },
     {
-      "title": "Patterns and problems in emerging multi-agent systems",
-      "score": 105
+      "title": "A SAT Attack on Tarski's High School Algebra Problem",
+      "score": 30
     },
     {
-      "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "score": 173
+      "title": "Does anyone run Postgres without PgBouncer?",
+      "score": 49
     },
     {
-      "title": "Software Engineering fundamentals matter more",
-      "score": 166
+      "title": "Research papers using \"kidney disappointment\" instead of \"kidney failure\"",
+      "score": 77
     }
   ]
 }
