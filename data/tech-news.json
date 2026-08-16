@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-16T07:25:28.721375Z",
+  "updated_at": "2026-08-16T08:19:54.664698Z",
   "stories": [
     {
+      "title": "What happens when an LLM never sees material beyond fifth grade?",
+      "score": 46
+    },
+    {
       "title": "Asus Bike Booster",
-      "score": 318
+      "score": 342
     },
     {
       "title": "Show HN: Laptop is the last place your secrets are still in plaintext",
-      "score": 12
+      "score": 40
     },
     {
       "title": "Asynchronous I/O in DuckDB: Work, Thread, Work",
-      "score": 125
-    },
-    {
-      "title": "Semaglutide linked to lower predicted dementia risk",
-      "score": 411
+      "score": 136
     },
     {
       "title": "Patterns and problems in emerging multi-agent systems",
-      "score": 51
+      "score": 70
     }
   ]
 }
