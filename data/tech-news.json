@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-17T11:21:27.183583Z",
+  "updated_at": "2026-08-17T14:31:36.482961Z",
   "stories": [
     {
+      "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
+      "score": 109
+    },
+    {
+      "title": "Incident with Github.com",
+      "score": 342
+    },
+    {
+      "title": "Show HN: Sokoban AI Solver",
+      "score": 24
+    },
+    {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "score": 535
+      "score": 654
     },
     {
-      "title": "On A.I. regulation and messaging",
-      "score": 82
-    },
-    {
-      "title": "The continuing \"Q collar\" scandal",
-      "score": 27
-    },
-    {
-      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
-      "score": 328
-    },
-    {
-      "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
-      "score": 530
+      "title": "Ask HN: Alternatives to GitHub",
+      "score": 28
     }
   ]
 }
