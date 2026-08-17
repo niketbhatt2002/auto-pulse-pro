@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-17T14:31:36.482961Z",
+  "updated_at": "2026-08-17T17:14:32.919787Z",
   "stories": [
     {
+      "title": "A Preview of DuckDB v2.0",
+      "score": 260
+    },
+    {
+      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
+      "score": 138
+    },
+    {
+      "title": "Launch HN: Speko (YC S26) \u2013 OpenRouter for Voice AI",
+      "score": 37
+    },
+    {
+      "title": "How to disable or avoid intrusive AI",
+      "score": 98
+    },
+    {
       "title": "GPT 5.6 Sol is the best \"vision\" model OpenAI ever released",
-      "score": 109
-    },
-    {
-      "title": "Incident with Github.com",
-      "score": 342
-    },
-    {
-      "title": "Show HN: Sokoban AI Solver",
-      "score": 24
-    },
-    {
-      "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "score": 654
-    },
-    {
-      "title": "Ask HN: Alternatives to GitHub",
-      "score": 28
+      "score": 202
     }
   ]
 }
