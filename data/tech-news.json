@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-17T10:21:26.234489Z",
+  "updated_at": "2026-08-17T11:21:27.183583Z",
   "stories": [
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "score": 497
+      "score": 535
     },
     {
       "title": "On A.I. regulation and messaging",
-      "score": 58
+      "score": 82
     },
     {
-      "title": "Beware the Permanent Periphery",
+      "title": "The continuing \"Q collar\" scandal",
       "score": 27
     },
     {
-      "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
-      "score": 514
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "score": 328
     },
     {
-      "title": "HackEurope 2026: A short rant on AI and hackathons",
-      "score": 40
+      "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
+      "score": 530
     }
   ]
 }
