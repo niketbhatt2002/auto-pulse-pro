@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-17T06:40:47.947855Z",
+  "updated_at": "2026-08-17T07:46:59.536124Z",
   "stories": [
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "score": 296
+      "score": 368
     },
     {
-      "title": "The Life and Death of Direct File [pdf]",
-      "score": 168
+      "title": "Linear Algebra Done Right \u2013 Sheldon Axler",
+      "score": 39
     },
     {
-      "title": "AGI-64 Brings Sierra Adventures to the Commodore 64",
-      "score": 61
+      "title": "GIMP Development Update",
+      "score": 69
     },
     {
       "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
-      "score": 450
+      "score": 478
     },
     {
-      "title": "Reticulum \u2013 Decentralized Mesh Network",
-      "score": 83
+      "title": "Anthropic's 'Watermark' Text Adulteration in Claude Is a Perversion of Writing",
+      "score": 181
     }
   ]
 }
