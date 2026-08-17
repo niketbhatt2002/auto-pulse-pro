@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-17T08:34:50.603191Z",
+  "updated_at": "2026-08-17T09:48:17.432436Z",
   "stories": [
     {
       "title": "Qwen 3.8 27B is excellent, but it defaults to overthinking things",
-      "score": 418
+      "score": 464
     },
     {
-      "title": "GIMP Development Update",
-      "score": 107
+      "title": "Beware the Permanent Periphery",
+      "score": 21
     },
     {
       "title": "On A.I. regulation and messaging",
-      "score": 37
-    },
-    {
-      "title": "Linear algebra done right",
-      "score": 55
+      "score": 50
     },
     {
       "title": "A third world engineer responds to \u201cRISC-V: They should have known better\u201d",
-      "score": 492
+      "score": 504
+    },
+    {
+      "title": "Anthropic's 'watermark' text adulteration in Claude is a perversion of writing",
+      "score": 264
     }
   ]
 }
