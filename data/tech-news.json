@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-18T10:17:17.304012Z",
+  "updated_at": "2026-08-18T11:21:34.776727Z",
   "stories": [
     {
       "title": "Linux 7.3 improves performance when running out of vRAM",
-      "score": 118
-    },
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "score": 523
+      "score": 195
     },
     {
       "title": "Rethinking Database Programming",
-      "score": 48
+      "score": 77
+    },
+    {
+      "title": "How Bluesky draws its logo on screenshots",
+      "score": 554
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "score": 449
+      "score": 479
     },
     {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "score": 352
+      "title": "Google buys crashed airline Spirit's data at auction, because AI",
+      "score": 59
     }
   ]
 }
