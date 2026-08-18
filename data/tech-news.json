@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-18T14:36:34.952160Z",
+  "updated_at": "2026-08-18T17:15:26.645193Z",
   "stories": [
     {
+      "title": "Claude: Degraded Performance for Multiple Models",
+      "score": 110
+    },
+    {
       "title": "Using the railway network as a flatbed scanner",
-      "score": 128
+      "score": 252
     },
     {
       "title": "The Amazon Tax",
-      "score": 80
+      "score": 434
     },
     {
-      "title": "Fixing a Bricked Framework Laptop",
-      "score": 55
+      "title": "How I Under-Engineered My Book",
+      "score": 53
     },
     {
       "title": "Linux 7.3 improves performance when running out of vRAM",
-      "score": 348
-    },
-    {
-      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
-      "score": 23
+      "score": 408
     }
   ]
 }
