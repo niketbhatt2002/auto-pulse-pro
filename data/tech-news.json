@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-18T08:27:14.058727Z",
+  "updated_at": "2026-08-18T09:37:52.303802Z",
   "stories": [
     {
+      "title": "Linux 7.3 improves performance when running out of vRAM",
+      "score": 70
+    },
+    {
       "title": "How Bluesky draws its logo on screenshots",
-      "score": 456
+      "score": 495
     },
     {
       "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "score": 406
+      "score": 430
     },
     {
       "title": "Quake Shareware, a CD-ROM just a little too full",
-      "score": 312
+      "score": 342
     },
     {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "score": 171
-    },
-    {
-      "title": "A Preview of DuckDB v2.0",
-      "score": 620
+      "title": "Rethinking Database Programming",
+      "score": 25
     }
   ]
 }
