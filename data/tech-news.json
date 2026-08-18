@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-18T17:15:26.645193Z",
+  "updated_at": "2026-08-18T20:26:08.171847Z",
   "stories": [
     {
-      "title": "Claude: Degraded Performance for Multiple Models",
-      "score": 110
+      "title": "Beware Management Consultants",
+      "score": 76
+    },
+    {
+      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
+      "score": 120
+    },
+    {
+      "title": "The Amazon tax",
+      "score": 653
     },
     {
       "title": "Using the railway network as a flatbed scanner",
-      "score": 252
+      "score": 329
     },
     {
-      "title": "The Amazon Tax",
-      "score": 434
-    },
-    {
-      "title": "How I Under-Engineered My Book",
-      "score": 53
-    },
-    {
-      "title": "Linux 7.3 improves performance when running out of vRAM",
-      "score": 408
+      "title": "How does IKEA come up with names for its products?",
+      "score": 124
     }
   ]
 }
