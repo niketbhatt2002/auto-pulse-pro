@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-18T11:21:34.776727Z",
+  "updated_at": "2026-08-18T14:36:34.952160Z",
   "stories": [
     {
+      "title": "Using the railway network as a flatbed scanner",
+      "score": 128
+    },
+    {
+      "title": "The Amazon Tax",
+      "score": 80
+    },
+    {
+      "title": "Fixing a Bricked Framework Laptop",
+      "score": 55
+    },
+    {
       "title": "Linux 7.3 improves performance when running out of vRAM",
-      "score": 195
+      "score": 348
     },
     {
-      "title": "Rethinking Database Programming",
-      "score": 77
-    },
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "score": 554
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "score": 479
-    },
-    {
-      "title": "Google buys crashed airline Spirit's data at auction, because AI",
-      "score": 59
+      "title": "Python Polars Cheatsheet (based on our O'Reilly book)",
+      "score": 23
     }
   ]
 }
