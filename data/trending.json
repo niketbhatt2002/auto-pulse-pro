@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-18T09:37:53.268504Z",
+  "updated_at": "2026-08-18T10:17:18.601569Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
-      "stars": 156426
+      "stars": 156793
     },
     {
       "name": "anywhere-labs/deepseek-harness-desktop",
-      "stars": 12914
+      "stars": 12976
     },
     {
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 8189
+      "stars": 8237
     },
     {
       "name": "yjh051108/dsh-routing-suite",
-      "stars": 5771
+      "stars": 5806
     },
     {
       "name": "zhu1090093659/dsh-web-ui",
-      "stars": 4402
+      "stars": 4425
     }
   ]
 }

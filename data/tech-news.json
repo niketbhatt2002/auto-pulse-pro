@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-18T09:37:52.303802Z",
+  "updated_at": "2026-08-18T10:17:17.304012Z",
   "stories": [
     {
       "title": "Linux 7.3 improves performance when running out of vRAM",
-      "score": 70
+      "score": 118
     },
     {
       "title": "How Bluesky draws its logo on screenshots",
-      "score": 495
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "score": 430
-    },
-    {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "score": 342
+      "score": 523
     },
     {
       "title": "Rethinking Database Programming",
-      "score": 25
+      "score": 48
+    },
+    {
+      "title": "GPT-5.6 Sol Pricing Cut by 50%",
+      "score": 449
+    },
+    {
+      "title": "Quake Shareware, a CD-ROM just a little too full",
+      "score": 352
     }
   ]
 }
