@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-19T09:38:01.897207Z",
+  "updated_at": "2026-08-19T10:18:12.144346Z",
   "stories": [
     {
       "title": "OpenLogi",
-      "score": 629
-    },
-    {
-      "title": "Where Human Sleep Went Wrong",
-      "score": 49
+      "score": 689
     },
     {
       "title": "Cerebras CS-4",
-      "score": 270
+      "score": 281
+    },
+    {
+      "title": "The Two Factions of C++",
+      "score": 23
     },
     {
       "title": "Palomar: A registry of Lean verified mathematics",
-      "score": 100
+      "score": 105
     },
     {
       "title": "Supersonic Trebuchet [video]",
-      "score": 98
+      "score": 108
     }
   ]
 }
