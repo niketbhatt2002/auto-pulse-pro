@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-19T10:18:12.144346Z",
+  "updated_at": "2026-08-19T11:21:08.474642Z",
   "stories": [
     {
       "title": "OpenLogi",
-      "score": 689
+      "score": 809
     },
     {
-      "title": "Cerebras CS-4",
-      "score": 281
-    },
-    {
-      "title": "The Two Factions of C++",
+      "title": "Air Theremin \u2013 a browser theremin you play by waving at your webcam",
       "score": 23
     },
     {
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "score": 105
+      "title": "Cerebras CS-4",
+      "score": 305
     },
     {
-      "title": "Supersonic Trebuchet [video]",
-      "score": 108
+      "title": "The Two Factions of C++ (2024)",
+      "score": 41
+    },
+    {
+      "title": "Being ambitious and being a dad",
+      "score": 548
     }
   ]
 }
