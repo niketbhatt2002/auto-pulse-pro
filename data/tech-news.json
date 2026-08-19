@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-19T20:30:13.573559Z",
+  "updated_at": "2026-08-19T23:27:40.876970Z",
   "stories": [
     {
       "title": "OpenRouter is joining Stripe",
-      "score": 336
+      "score": 540
     },
     {
       "title": "Go 1.27",
-      "score": 228
+      "score": 390
+    },
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "score": 230
     },
     {
       "title": "Unsloth Dynamic 3.0 GGUFs",
-      "score": 65
+      "score": 158
     },
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "score": 590
-    },
-    {
-      "title": "Pixel 11 Pro Fold feels like the end of an era",
-      "score": 19
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "score": 104
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-19T20:30:14.705419Z",
+  "updated_at": "2026-08-19T23:27:41.865575Z",
   "repos": [
     {
       "name": "deepseek-ai/deepseek-harness",
-      "stars": 166774
+      "stars": 167068
     },
     {
       "name": "anywhere-labs/deepseek-harness-desktop",
-      "stars": 15089
+      "stars": 15126
     },
     {
       "name": "awesome-dsh-plugin/awesome-dsh-plugin",
-      "stars": 10018
+      "stars": 10033
     },
     {
       "name": "yjh051108/dsh-routing-suite",
-      "stars": 6292
+      "stars": 6297
     },
     {
       "name": "xiaobright/dsh-anchored-standard",
-      "stars": 3637
+      "stars": 3639
     }
   ]
 }
