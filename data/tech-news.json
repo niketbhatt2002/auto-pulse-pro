@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-19T11:21:08.474642Z",
+  "updated_at": "2026-08-19T14:37:13.176115Z",
   "stories": [
     {
+      "title": "GrapheneOS in 2027 available on high-end Motorola phones",
+      "score": 290
+    },
+    {
+      "title": "PostgreSQL for Everything",
+      "score": 63
+    },
+    {
+      "title": "Geolocating a random island using geometry and CUDA programming",
+      "score": 118
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "score": 123
+    },
+    {
       "title": "OpenLogi",
-      "score": 809
-    },
-    {
-      "title": "Air Theremin \u2013 a browser theremin you play by waving at your webcam",
-      "score": 23
-    },
-    {
-      "title": "Cerebras CS-4",
-      "score": 305
-    },
-    {
-      "title": "The Two Factions of C++ (2024)",
-      "score": 41
-    },
-    {
-      "title": "Being ambitious and being a dad",
-      "score": 548
+      "score": 1135
     }
   ]
 }
