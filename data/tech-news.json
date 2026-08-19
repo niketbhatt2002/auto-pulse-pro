@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-19T06:33:32.834119Z",
+  "updated_at": "2026-08-19T07:33:01.900304Z",
   "stories": [
     {
-      "title": "Meta's blockbuster trial draws parallels to big tobacco",
-      "score": 182
-    },
-    {
       "title": "OpenLogi",
-      "score": 281
+      "score": 414
     },
     {
-      "title": "Palomar: A registry of Lean verified mathematics",
-      "score": 61
-    },
-    {
-      "title": "Supersonic Trebuchet [video]",
-      "score": 46
+      "title": "Cerebras CS-4",
+      "score": 234
     },
     {
       "title": "Scientists stunned by children's lung recovery in ultra low emission zone",
-      "score": 143
+      "score": 180
+    },
+    {
+      "title": "Supersonic Trebuchet [video]",
+      "score": 74
+    },
+    {
+      "title": "Palomar: A registry of Lean verified mathematics",
+      "score": 77
     }
   ]
 }
