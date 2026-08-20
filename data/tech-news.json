@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T14:39:37.147534Z",
+  "updated_at": "2026-08-20T17:16:41.458054Z",
   "stories": [
     {
-      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
-      "score": 115
+      "title": "I like 'em thick: an apology to my English teachers",
+      "score": 198
     },
     {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "score": 351
+      "score": 619
+    },
+    {
+      "title": "HTML Can Do That",
+      "score": 222
     },
     {
       "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "score": 166
+      "score": 328
     },
     {
-      "title": "DiffusionGemma Technical Report",
-      "score": 34
-    },
-    {
-      "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
-      "score": 24
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "score": 146
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T14:39:39.051726Z",
+  "updated_at": "2026-08-20T17:16:42.422436Z",
   "repos": [
     {
       "name": "yjh051108/dsh-routing-suite",
-      "stars": 6425
+      "stars": 6441
     },
     {
       "name": "xiaobright/dsh-anchored-standard",
-      "stars": 3672
+      "stars": 3678
     },
     {
       "name": "s1dashu/ip-as-logo-skill",
-      "stars": 2913
+      "stars": 2981
     },
     {
       "name": "yetone/cumora",
-      "stars": 2761
+      "stars": 2768
     },
     {
       "name": "dsh-market/dsh-market",
-      "stars": 1404
+      "stars": 1435
     }
   ]
 }
