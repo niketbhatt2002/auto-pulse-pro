@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T07:36:05.397968Z",
+  "updated_at": "2026-08-20T08:29:11.430129Z",
   "stories": [
     {
       "title": "Windows brings out the Rorschach test in everyone",
-      "score": 64
+      "score": 112
     },
     {
       "title": "OpenRouter is joining Stripe",
-      "score": 807
+      "score": 827
     },
     {
       "title": "Turns are Better than Radians (2022)",
-      "score": 163
+      "score": 186
     },
     {
       "title": "Go 1.27",
-      "score": 600
+      "score": 615
     },
     {
       "title": "A faster way to calculate the day of the week",
-      "score": 116
+      "score": 130
     }
   ]
 }
