@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T10:19:35.175221Z",
+  "updated_at": "2026-08-20T11:22:49.045395Z",
   "stories": [
     {
       "title": "Don't Paste the AI, please",
-      "score": 247
+      "score": 388
+    },
+    {
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "score": 69
     },
     {
       "title": "Windows brings out the Rorschach test in everyone",
-      "score": 181
+      "score": 212
     },
     {
       "title": "OpenRouter is joining Stripe",
-      "score": 845
+      "score": 862
     },
     {
       "title": "Turns are Better than Radians (2022)",
-      "score": 214
-    },
-    {
-      "title": "Go 1.27",
-      "score": 645
+      "score": 227
     }
   ]
 }
