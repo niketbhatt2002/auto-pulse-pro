@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T06:35:12.802446Z",
+  "updated_at": "2026-08-20T07:36:05.397968Z",
   "stories": [
     {
-      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
-      "score": 27
+      "title": "Windows brings out the Rorschach test in everyone",
+      "score": 64
     },
     {
       "title": "OpenRouter is joining Stripe",
-      "score": 784
-    },
-    {
-      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
-      "score": 15
+      "score": 807
     },
     {
       "title": "Turns are Better than Radians (2022)",
-      "score": 133
+      "score": 163
     },
     {
       "title": "Go 1.27",
-      "score": 573
+      "score": 600
+    },
+    {
+      "title": "A faster way to calculate the day of the week",
+      "score": 116
     }
   ]
 }
