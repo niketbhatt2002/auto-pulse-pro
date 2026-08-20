@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-19T23:27:40.876970Z",
+  "updated_at": "2026-08-20T06:35:12.802446Z",
   "stories": [
     {
+      "title": "Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?",
+      "score": 27
+    },
+    {
       "title": "OpenRouter is joining Stripe",
-      "score": 540
+      "score": 784
+    },
+    {
+      "title": "Asana cleared 5 years of engineering work in 2 weeks with Codex",
+      "score": 15
+    },
+    {
+      "title": "Turns are Better than Radians (2022)",
+      "score": 133
     },
     {
       "title": "Go 1.27",
-      "score": 390
-    },
-    {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "score": 230
-    },
-    {
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "score": 158
-    },
-    {
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "score": 104
+      "score": 573
     }
   ]
 }
