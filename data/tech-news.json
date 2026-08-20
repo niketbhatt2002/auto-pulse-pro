@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T11:22:49.045395Z",
+  "updated_at": "2026-08-20T14:39:37.147534Z",
   "stories": [
     {
-      "title": "Don't Paste the AI, please",
-      "score": 388
+      "title": "Malicious Rust Crate Arrayref Runs a Build-Time Payload",
+      "score": 115
     },
     {
       "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "score": 69
+      "score": 351
     },
     {
-      "title": "Windows brings out the Rorschach test in everyone",
-      "score": 212
+      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
+      "score": 166
     },
     {
-      "title": "OpenRouter is joining Stripe",
-      "score": 862
+      "title": "DiffusionGemma Technical Report",
+      "score": 34
     },
     {
-      "title": "Turns are Better than Radians (2022)",
-      "score": 227
+      "title": "I Spent Twenty Years Becoming Good at the Wrong Game",
+      "score": 24
     }
   ]
 }
