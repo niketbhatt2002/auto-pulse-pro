@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T17:16:41.458054Z",
+  "updated_at": "2026-08-20T20:30:40.090148Z",
   "stories": [
     {
+      "title": "Scientific study reveals TikTok videos deactivate key cognitive brain regions",
+      "score": 208
+    },
+    {
+      "title": "Stop Eating Lady Gaga's Oreos",
+      "score": 52
+    },
+    {
+      "title": "I should have loved biology",
+      "score": 121
+    },
+    {
       "title": "I like 'em thick: an apology to my English teachers",
-      "score": 198
+      "score": 414
     },
     {
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "score": 619
-    },
-    {
-      "title": "HTML Can Do That",
-      "score": 222
-    },
-    {
-      "title": "Show HN: I trained a 125M model to autocomplete piano on-device",
-      "score": 328
-    },
-    {
-      "title": "CIA funding helped keep NeXT afloat in the 80s",
-      "score": 146
+      "title": "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+      "score": 43
     }
   ]
 }
