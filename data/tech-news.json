@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-21T17:16:50.033373Z",
+  "updated_at": "2026-08-21T20:27:38.659743Z",
   "stories": [
     {
+      "title": "Kobo can run apps now",
+      "score": 255
+    },
+    {
+      "title": "Felony Bench",
+      "score": 305
+    },
+    {
+      "title": "Scientists release biggest 2D map of the universe",
+      "score": 56
+    },
+    {
       "title": "Kagi added a setting for removing paywalled links from search results",
-      "score": 603
+      "score": 857
     },
     {
-      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
-      "score": 674
-    },
-    {
-      "title": "AI Boosted Homework Scores by 18% \u2013 Then Exam Scores Dropped 20%, Study Shows",
-      "score": 113
-    },
-    {
-      "title": "Omacom Foundation Launches with $8M",
-      "score": 91
-    },
-    {
-      "title": "DeepSeek-v4-flash-vision-exp",
-      "score": 361
+      "title": "AI boosted homework scores, then exam scores dropped: study",
+      "score": 135
     }
   ]
 }
