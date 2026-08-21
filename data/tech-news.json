@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-21T07:37:48.057863Z",
+  "updated_at": "2026-08-21T08:31:18.822052Z",
   "stories": [
     {
-      "title": "Stop Making TUIs",
-      "score": 23
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "score": 32
+    },
+    {
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "score": 35
     },
     {
       "title": "The August 17 outage",
-      "score": 474
+      "score": 492
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
-      "score": 696
+      "score": 716
     },
     {
       "title": "HTML Can Do That",
-      "score": 734
-    },
-    {
-      "title": "Malicious Rust crate Arrayref runs a build-time payload",
-      "score": 476
+      "score": 773
     }
   ]
 }
