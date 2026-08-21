@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-21T10:19:13.988660Z",
+  "updated_at": "2026-08-21T11:21:22.449074Z",
   "stories": [
     {
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "score": 82
+      "title": "DeepSeek-v4-flash-vision-exp",
+      "score": 76
     },
     {
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "score": 72
+      "title": "The Lost Treasure of Sid Meier's Pirates",
+      "score": 109
     },
     {
       "title": "Small, native web tricks worth remembering",
-      "score": 12
+      "score": 40
+    },
+    {
+      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
+      "score": 86
     },
     {
       "title": "The August 17 outage",
-      "score": 533
-    },
-    {
-      "title": "I like 'em thick: an apology to my English teachers",
-      "score": 733
+      "score": 551
     }
   ]
 }
