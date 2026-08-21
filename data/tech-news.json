@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-21T08:31:18.822052Z",
+  "updated_at": "2026-08-21T09:41:36.990653Z",
   "stories": [
     {
       "title": "The Lost Treasure of Sid Meier's Pirates",
-      "score": 32
+      "score": 67
     },
     {
       "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "score": 35
+      "score": 58
     },
     {
       "title": "The August 17 outage",
-      "score": 492
+      "score": 520
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
-      "score": 716
+      "score": 729
     },
     {
       "title": "HTML Can Do That",
-      "score": 773
+      "score": 801
     }
   ]
 }
