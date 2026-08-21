@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-21T11:21:22.449074Z",
+  "updated_at": "2026-08-21T14:38:44.453507Z",
   "stories": [
     {
+      "title": "Kagi added a setting for removing paywalled links from search results",
+      "score": 128
+    },
+    {
       "title": "DeepSeek-v4-flash-vision-exp",
-      "score": 76
+      "score": 278
     },
     {
-      "title": "The Lost Treasure of Sid Meier's Pirates",
-      "score": 109
+      "title": "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+      "score": 364
     },
     {
-      "title": "Small, native web tricks worth remembering",
-      "score": 40
+      "title": "Grand jury declines to indict Ohio man charged with destroying Flock camera",
+      "score": 201
     },
     {
-      "title": "We Rebuilt the Linux MicroVM Stack on Apple Silicon",
-      "score": 86
-    },
-    {
-      "title": "The August 17 outage",
-      "score": 551
+      "title": "TigerBeetle Core System Architecture: Deconstructing Performance Engineering",
+      "score": 81
     }
   ]
 }
