@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-20T23:31:01.082967Z",
+  "updated_at": "2026-08-21T06:35:41.580635Z",
   "stories": [
     {
-      "title": "The August 17 outage, and the work ahead",
-      "score": 230
+      "title": "Codex on AWS bedrock bug causing 10x charges",
+      "score": 90
     },
     {
-      "title": "Consumer Rights Wiki",
-      "score": 169
-    },
-    {
-      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
-      "score": 653
+      "title": "The August 17 outage",
+      "score": 444
     },
     {
       "title": "I like 'em thick: an apology to my English teachers",
-      "score": 508
+      "score": 667
     },
     {
-      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
-      "score": 836
+      "title": "The Religious Experience of Philip K. Dick by R. Crumb (1986)",
+      "score": 10
+    },
+    {
+      "title": "HTML Can Do That",
+      "score": 695
     }
   ]
 }
