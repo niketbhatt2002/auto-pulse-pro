@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-21T09:41:38.250351Z",
+  "updated_at": "2026-08-21T10:19:15.231173Z",
   "repos": [
     {
       "name": "s1dashu/ip-as-logo-skill",
-      "stars": 3339
+      "stars": 3351
     },
     {
       "name": "yetone/cumora",
-      "stars": 2827
+      "stars": 2830
     },
     {
       "name": "CopilotKit/OpenBot",
-      "stars": 1867
+      "stars": 1883
     },
     {
       "name": "cinderline/northcinder",
@@ -19,7 +19,7 @@
     },
     {
       "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "stars": 1037
+      "stars": 1036
     }
   ]
 }
