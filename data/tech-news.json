@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-21T23:29:06.234358Z",
+  "updated_at": "2026-08-22T06:29:10.812887Z",
   "stories": [
     {
-      "title": "Kobo can run apps now",
-      "score": 372
+      "title": "There's no reason for software to be slow anymore",
+      "score": 289
+    },
+    {
+      "title": "GPT 5.6 Sol 20% price reduction",
+      "score": 27
+    },
+    {
+      "title": "Initial focus for our partnership with Motorola is a regular non-folding device",
+      "score": 85
     },
     {
       "title": "Felony Bench",
-      "score": 451
+      "score": 616
     },
     {
-      "title": "Felony charges for citizen deleting phone data at US Border",
-      "score": 455
-    },
-    {
-      "title": "Scientists release biggest 2D map of the universe",
-      "score": 121
-    },
-    {
-      "title": "Kagi added a setting for removing paywalled links from search results",
-      "score": 955
+      "title": "Kobo can run apps now",
+      "score": 487
     }
   ]
 }

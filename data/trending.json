@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-21T23:29:07.538884Z",
+  "updated_at": "2026-08-22T06:29:12.151913Z",
   "repos": [
     {
       "name": "s1dashu/ip-as-logo-skill",
-      "stars": 3478
+      "stars": 3535
     },
     {
       "name": "yetone/cumora",
-      "stars": 2858
+      "stars": 2878
     },
     {
       "name": "CopilotKit/OpenBot",
-      "stars": 2112
+      "stars": 2178
     },
     {
       "name": "cinderline/northcinder",
       "stars": 1203
     },
     {
-      "name": "Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
-      "stars": 1036
+      "name": "wang2122/sprix-sage-router",
+      "stars": 1115
     }
   ]
 }
