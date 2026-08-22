@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-22T09:31:35.493533Z",
+  "updated_at": "2026-08-22T10:12:39.624950Z",
   "stories": [
     {
       "title": "Rust Glancer: Rust LSP using 100x less RAM",
-      "score": 202
+      "score": 226
     },
     {
       "title": "Felony Bench",
-      "score": 698
+      "score": 708
     },
     {
       "title": "Kobo can run apps now",
-      "score": 541
+      "score": 551
     },
     {
       "title": "There's no reason for software to be slow anymore",
-      "score": 394
+      "score": 415
     },
     {
       "title": "Felony charges for citizen deleting phone data at US Border",
-      "score": 778
+      "score": 792
     }
   ]
 }
