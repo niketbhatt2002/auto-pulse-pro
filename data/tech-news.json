@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-22T17:09:05.289381Z",
+  "updated_at": "2026-08-22T20:24:35.551118Z",
   "stories": [
     {
+      "title": "hdiutil is deprecated in macOS 27 Golden Gate",
+      "score": 70
+    },
+    {
+      "title": "NetBSD and My Life (2005)",
+      "score": 36
+    },
+    {
+      "title": "Scrap",
+      "score": 100
+    },
+    {
       "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "score": 83
+      "score": 230
     },
     {
-      "title": "A Kantian Critique of \"Sorry\" by Justin Bieber",
-      "score": 149
-    },
-    {
-      "title": "A Friendly Introduction to Racket",
-      "score": 47
-    },
-    {
-      "title": "Munder Difflin \u2013 Agent harness to run an office of your clones",
-      "score": 180
-    },
-    {
-      "title": "The New MCP Roadmap",
-      "score": 104
+      "title": "Hister \u2013 A private, full content search index that you control",
+      "score": 110
     }
   ]
 }
