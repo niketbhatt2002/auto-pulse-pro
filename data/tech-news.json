@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T07:28:22.295032Z",
+  "updated_at": "2026-08-23T08:20:59.635264Z",
   "stories": [
     {
       "title": "The End of an Athlon",
-      "score": 36
+      "score": 58
     },
     {
       "title": "JIT Compiling Code in 5\u03bcs",
-      "score": 21
+      "score": 41
     },
     {
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "score": 83
+      "score": 100
     },
     {
-      "title": "The Golden Rule for Becoming a Better Writer",
-      "score": 73
+      "title": "To become a better writer, read as much as you can",
+      "score": 97
     },
     {
-      "title": "I Dream of Quieter Computing",
-      "score": 51
+      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
+      "score": 64
     }
   ]
 }
