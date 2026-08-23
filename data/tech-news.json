@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T17:10:26.952886Z",
+  "updated_at": "2026-08-23T20:25:04.029441Z",
   "stories": [
     {
+      "title": "How I Find Problems to Solve as a Staff Engineer",
+      "score": 41
+    },
+    {
+      "title": "A website for debloated open source alternatives",
+      "score": 149
+    },
+    {
+      "title": "Fable and the End of the Free Lunch",
+      "score": 30
+    },
+    {
       "title": "How Complex Systems Fail (1998)",
-      "score": 77
+      "score": 158
     },
     {
-      "title": "I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day",
-      "score": 175
-    },
-    {
-      "title": "Malware infects Android-based automotive head unit firmware",
-      "score": 147
-    },
-    {
-      "title": "GLM-5.3 (open-weight) beat Anthropic/OpenAI models \u2013 for 1/5 the cost",
-      "score": 62
-    },
-    {
-      "title": "Coconut Oil Jet Fuel Matches Kerosene's Efficiency in Engine Tests",
-      "score": 26
+      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
+      "score": 82
     }
   ]
 }
