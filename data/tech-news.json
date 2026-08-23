@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T08:20:59.635264Z",
+  "updated_at": "2026-08-23T09:32:17.327326Z",
   "stories": [
     {
       "title": "The End of an Athlon",
-      "score": 58
-    },
-    {
-      "title": "JIT Compiling Code in 5\u03bcs",
-      "score": 41
-    },
-    {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "score": 100
+      "score": 75
     },
     {
       "title": "To become a better writer, read as much as you can",
-      "score": 97
+      "score": 133
     },
     {
-      "title": "Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed",
-      "score": 64
+      "title": "JIT Compiling Code in 5\u03bcs",
+      "score": 53
+    },
+    {
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "score": 112
+    },
+    {
+      "title": "Tragically, as many as 9625 out of every 10k individuals may be neurotypical",
+      "score": 26
     }
   ]
 }
