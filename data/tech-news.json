@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T10:13:09.225543Z",
+  "updated_at": "2026-08-23T11:17:55.541121Z",
   "stories": [
     {
       "title": "The End of an Athlon",
-      "score": 87
+      "score": 108
     },
     {
       "title": "To become a better writer, read as much as you can",
-      "score": 148
+      "score": 182
     },
     {
       "title": "JIT Compiling Code in 5\u03bcs",
-      "score": 62
+      "score": 76
     },
     {
       "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "score": 117
+      "score": 124
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "score": 355
+      "title": "Fast and Hard Code",
+      "score": 45
     }
   ]
 }
