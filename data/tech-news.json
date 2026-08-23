@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T20:25:04.029441Z",
+  "updated_at": "2026-08-23T23:26:49.725247Z",
   "stories": [
     {
-      "title": "How I Find Problems to Solve as a Staff Engineer",
-      "score": 41
+      "title": "Everything I own, owned",
+      "score": 48
     },
     {
-      "title": "A website for debloated open source alternatives",
-      "score": 149
+      "title": "How I find problems to solve as a staff engineer",
+      "score": 212
     },
     {
-      "title": "Fable and the End of the Free Lunch",
-      "score": 30
+      "title": "Google Workspace thinks my domain is an email provider (2025)",
+      "score": 112
     },
     {
-      "title": "How Complex Systems Fail (1998)",
-      "score": 158
+      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
+      "score": 93
     },
     {
-      "title": "Why Sal Khan't: On Learning by Making but Teaching by Telling",
-      "score": 82
+      "title": "My agent.md to improve LLM-assisted code quality",
+      "score": 114
     }
   ]
 }
