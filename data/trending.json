@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T11:17:56.874536Z",
+  "updated_at": "2026-08-23T14:26:56.918267Z",
   "repos": [
     {
       "name": "s1dashu/ip-as-logo-skill",
-      "stars": 3841
+      "stars": 3859
     },
     {
       "name": "yetone/cumora",
-      "stars": 2912
-    },
-    {
-      "name": "CopilotKit/OpenBot",
-      "stars": 2402
+      "stars": 2919
     },
     {
       "name": "MengTo/threeui",
-      "stars": 2362
+      "stars": 2494
+    },
+    {
+      "name": "CopilotKit/OpenBot",
+      "stars": 2419
     },
     {
       "name": "wang2122/sprix-sage-router",
-      "stars": 1359
+      "stars": 1411
     }
   ]
 }

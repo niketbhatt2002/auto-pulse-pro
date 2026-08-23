@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T11:17:55.541121Z",
+  "updated_at": "2026-08-23T14:26:55.699361Z",
   "stories": [
     {
-      "title": "The End of an Athlon",
-      "score": 108
+      "title": "Malware infects Android-based automotive head unit firmware",
+      "score": 66
+    },
+    {
+      "title": "My favorite nonfiction books about cults, scams, and schemes",
+      "score": 10
+    },
+    {
+      "title": "Sydney Marathon medal mistakenly depicts Munich stadium",
+      "score": 77
     },
     {
       "title": "To become a better writer, read as much as you can",
-      "score": 182
+      "score": 290
     },
     {
-      "title": "JIT Compiling Code in 5\u03bcs",
-      "score": 76
-    },
-    {
-      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
-      "score": 124
-    },
-    {
-      "title": "Fast and Hard Code",
-      "score": 45
+      "title": "The End of an Athlon",
+      "score": 138
     }
   ]
 }
