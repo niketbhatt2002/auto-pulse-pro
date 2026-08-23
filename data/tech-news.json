@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-22T23:26:17.149848Z",
+  "updated_at": "2026-08-23T06:30:35.570111Z",
   "stories": [
     {
-      "title": "Scrap",
-      "score": 239
+      "title": "MartyPC is a cross-platform emulator of early PCs written in Rust",
+      "score": 69
     },
     {
-      "title": "Why your local LLM feels dumber than it is",
-      "score": 138
+      "title": "The Golden Rule for Becoming a Better Writer",
+      "score": 45
     },
     {
-      "title": "NetBSD and my life (2005)",
-      "score": 82
+      "title": "The End of an Athlon",
+      "score": 7
     },
     {
-      "title": "ElevenLabs, TwelveLabs, ThirteenLabs",
-      "score": 281
+      "title": "I Dream of Quieter Computing",
+      "score": 46
     },
     {
-      "title": "Hister \u2013 A private, full content search index that you control",
-      "score": 195
+      "title": "The Art and Beauty of Blade Runner",
+      "score": 51
     }
   ]
 }
