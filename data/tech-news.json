@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-24T14:46:33.747584Z",
+  "updated_at": "2026-08-24T17:19:58.406666Z",
   "stories": [
     {
-      "title": "How Europe is killing makers and micro-entrepreneurs",
-      "score": 333
+      "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
+      "score": 316
     },
     {
-      "title": "SeL4 security proofs now complete on AArch64",
-      "score": 88
+      "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
+      "score": 165
     },
     {
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "score": 320
+      "title": "IPFS Maintainers Winding Down",
+      "score": 109
     },
     {
-      "title": "Everything I own, owned",
-      "score": 1186
+      "title": "Public services are increasingly strained by LLM-written appeals for benefits",
+      "score": 25
     },
     {
-      "title": "Why older tech is sometimes safer from hackers",
-      "score": 34
+      "title": "A Blackstone real estate company exposed SSN digits, DOBs, addresses and more",
+      "score": 36
     }
   ]
 }
