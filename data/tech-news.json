@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-24T20:31:56.719056Z",
+  "updated_at": "2026-08-24T23:26:54.920972Z",
   "stories": [
     {
+      "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
+      "score": 110
+    },
+    {
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "score": 552
+      "score": 685
+    },
+    {
+      "title": "One corner of China\u2019s internet is insisting that the Tang Dynasty never existed",
+      "score": 92
+    },
+    {
+      "title": "Moon",
+      "score": 48
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "score": 388
-    },
-    {
-      "title": "The entire city of San Francisco as a video game",
-      "score": 186
-    },
-    {
-      "title": "IPFS Maintainers Winding Down",
-      "score": 256
-    },
-    {
-      "title": "A Claude Code skill that recovers export-blocked Kindle highlights",
-      "score": 19
+      "score": 509
     }
   ]
 }
