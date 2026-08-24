@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T23:26:50.713942Z",
+  "updated_at": "2026-08-24T06:43:41.448269Z",
   "repos": [
     {
       "name": "s1dashu/ip-as-logo-skill",
-      "stars": 3893
-    },
-    {
-      "name": "yetone/cumora",
-      "stars": 2946
+      "stars": 3977
     },
     {
       "name": "MengTo/threeui",
-      "stars": 2850
-    },
-    {
-      "name": "CopilotKit/OpenBot",
-      "stars": 2490
+      "stars": 3116
     },
     {
       "name": "wang2122/sprix-sage-router",
-      "stars": 1412
+      "stars": 1611
+    },
+    {
+      "name": "vvxw/deploy-vercel",
+      "stars": 1239
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "stars": 1011
     }
   ]
 }

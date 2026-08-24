@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-23T23:26:49.725247Z",
+  "updated_at": "2026-08-24T06:43:40.390597Z",
   "stories": [
     {
       "title": "Everything I own, owned",
-      "score": 48
-    },
-    {
-      "title": "How I find problems to solve as a staff engineer",
-      "score": 212
-    },
-    {
-      "title": "Google Workspace thinks my domain is an email provider (2025)",
-      "score": 112
+      "score": 626
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "score": 93
+      "score": 423
+    },
+    {
+      "title": "How I find problems to solve as a staff engineer",
+      "score": 373
+    },
+    {
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "score": 7
     },
     {
       "title": "My agent.md to improve LLM-assisted code quality",
-      "score": 114
+      "score": 278
     }
   ]
 }
