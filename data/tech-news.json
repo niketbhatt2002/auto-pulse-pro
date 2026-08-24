@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-24T10:27:24.038698Z",
+  "updated_at": "2026-08-24T11:23:56.388868Z",
   "stories": [
     {
-      "title": "Everything I own, owned",
-      "score": 947
+      "title": "I were 17, I'd learn how to build LLMs from scratch",
+      "score": 181
     },
     {
-      "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "score": 135
+      "title": "Everything I own, owned",
+      "score": 1007
     },
     {
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "score": 49
-    },
-    {
-      "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
-      "score": 40
+      "score": 65
     },
     {
       "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "score": 534
+      "score": 559
+    },
+    {
+      "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
+      "score": 55
     }
   ]
 }
