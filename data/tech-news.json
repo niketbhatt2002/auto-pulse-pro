@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-24T07:52:50.740618Z",
+  "updated_at": "2026-08-24T08:39:19.159999Z",
   "stories": [
     {
       "title": "Everything I own, owned",
-      "score": 746
+      "score": 813
     },
     {
       "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "score": 17
-    },
-    {
-      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
-      "score": 26
+      "score": 30
     },
     {
       "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "score": 46
+      "score": 66
+    },
+    {
+      "title": "We are not going anywhere",
+      "score": 39
     },
     {
       "title": "Anthropic Claude and API service outages",
-      "score": 21
+      "score": 41
     }
   ]
 }
