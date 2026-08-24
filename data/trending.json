@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-24T11:23:57.323686Z",
+  "updated_at": "2026-08-24T14:46:35.060083Z",
   "repos": [
     {
       "name": "s1dashu/ip-as-logo-skill",
-      "stars": 4022
+      "stars": 4063
     },
     {
       "name": "MengTo/threeui",
-      "stars": 3245
+      "stars": 3313
     },
     {
       "name": "wang2122/sprix-sage-router",
-      "stars": 1754
+      "stars": 1755
     },
     {
       "name": "vvxw/deploy-vercel",
-      "stars": 1268
+      "stars": 1286
     },
     {
       "name": "duty1g/x64dbg-mcp-server",
-      "stars": 1082
+      "stars": 1132
     }
   ]
 }

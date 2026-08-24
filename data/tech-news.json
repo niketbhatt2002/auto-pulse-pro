@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-24T11:23:56.388868Z",
+  "updated_at": "2026-08-24T14:46:33.747584Z",
   "stories": [
     {
+      "title": "How Europe is killing makers and micro-entrepreneurs",
+      "score": 333
+    },
+    {
+      "title": "SeL4 security proofs now complete on AArch64",
+      "score": 88
+    },
+    {
       "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "score": 181
+      "score": 320
     },
     {
       "title": "Everything I own, owned",
-      "score": 1007
+      "score": 1186
     },
     {
-      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
-      "score": 65
-    },
-    {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "score": 559
-    },
-    {
-      "title": "OCR It \u2013 pull text out of un-copyable documents for your LLM",
-      "score": 55
+      "title": "Why older tech is sometimes safer from hackers",
+      "score": 34
     }
   ]
 }
