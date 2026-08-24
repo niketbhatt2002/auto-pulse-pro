@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-24T06:43:40.390597Z",
+  "updated_at": "2026-08-24T07:52:50.740618Z",
   "stories": [
     {
       "title": "Everything I own, owned",
-      "score": 626
+      "score": 746
     },
     {
-      "title": "Anthropic's best AI model struggles to attract users as cheaper tools thrive",
-      "score": 423
+      "title": "FDA clears blood test to aid evaluation for Alzheimer's disease",
+      "score": 17
     },
     {
-      "title": "How I find problems to solve as a staff engineer",
-      "score": 373
+      "title": "Your Open Source Model Could Have a Hidden Time-Release Backdoor",
+      "score": 26
     },
     {
       "title": "I were 17, I'd learn how to build LLMs from scratch",
-      "score": 7
+      "score": 46
     },
     {
-      "title": "My agent.md to improve LLM-assisted code quality",
-      "score": 278
+      "title": "Anthropic Claude and API service outages",
+      "score": 21
     }
   ]
 }
