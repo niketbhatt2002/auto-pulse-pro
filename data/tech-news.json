@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-25T17:20:23.460102Z",
+  "updated_at": "2026-08-25T20:31:01.708811Z",
   "stories": [
     {
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "score": 572
+      "title": "Apple introduces M6 and M5 Ultra",
+      "score": 795
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "score": 55
     },
     {
       "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "score": 490
+      "score": 628
     },
     {
-      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
-      "score": 139
+      "title": "Black hole singularity is a surface not a point",
+      "score": 112
     },
     {
-      "title": "New Mac mini, featuring M6 and M5 Pro",
-      "score": 261
-    },
-    {
-      "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-      "score": 220
+      "title": "My Friend Aaron",
+      "score": 256
     }
   ]
 }
