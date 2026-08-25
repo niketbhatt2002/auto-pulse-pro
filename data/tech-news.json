@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-25T14:49:59.777307Z",
+  "updated_at": "2026-08-25T17:20:23.460102Z",
   "stories": [
     {
-      "title": "Apple Introduces New Mac Studio with M5 Max and M5 Ultra",
-      "score": 262
+      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
+      "score": 572
     },
     {
-      "title": "Apple's new Mac mini, featuring M6 and M5 Pro",
-      "score": 66
+      "title": "New Mac Studio with M5 Max and M5 Ultra",
+      "score": 490
     },
     {
-      "title": "France's tax agency got hacked (in French)",
-      "score": 79
+      "title": "Bomb fishing is wreaking havoc on Indonesia's coral reefs",
+      "score": 139
+    },
+    {
+      "title": "New Mac mini, featuring M6 and M5 Pro",
+      "score": 261
     },
     {
       "title": "Qwen 3.8-Flash-Next releasing tomorrow (125B a6B)",
-      "score": 111
-    },
-    {
-      "title": "Apple introduces M6 and M5 Ultra for a big leap in performance and AI compute",
-      "score": 327
+      "score": 220
     }
   ]
 }
