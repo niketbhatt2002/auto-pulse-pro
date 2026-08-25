@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-25T09:40:13.882022Z",
+  "updated_at": "2026-08-25T10:20:59.399332Z",
   "stories": [
     {
+      "title": "Why some US restaurants are banning tips",
+      "score": 13
+    },
+    {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "score": 460
+      "score": 469
     },
     {
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "score": 863
+      "score": 878
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "score": 710
+      "score": 720
     },
     {
       "title": "How Universities Should Prepare Founders",
-      "score": 122
-    },
-    {
-      "title": "SiFive's First Server Platform",
-      "score": 51
+      "score": 128
     }
   ]
 }
