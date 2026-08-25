@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-25T08:33:27.084517Z",
+  "updated_at": "2026-08-25T09:40:13.882022Z",
   "stories": [
     {
       "title": "iCloud+ Hide My Email addresses will remain on icloud.com",
-      "score": 433
-    },
-    {
-      "title": "Nostr is an inclusive communication commons",
-      "score": 126
+      "score": 460
     },
     {
       "title": "Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded",
-      "score": 847
+      "score": 863
     },
     {
       "title": "MS Paint and Photos inivisibly watermark even locally generated output with GUID",
-      "score": 693
+      "score": 710
     },
     {
       "title": "How Universities Should Prepare Founders",
-      "score": 109
+      "score": 122
+    },
+    {
+      "title": "SiFive's First Server Platform",
+      "score": 51
     }
   ]
 }
