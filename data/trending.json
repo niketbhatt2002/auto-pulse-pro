@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-08-25T07:38:48.325227Z",
-  "repos": []
+  "updated_at": "2026-08-25T08:33:28.337664Z",
+  "repos": [
+    {
+      "name": "MengTo/threeui",
+      "stars": 3703
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "stars": 2199
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "stars": 1298
+    },
+    {
+      "name": "tobi/walgit",
+      "stars": 1261
+    },
+    {
+      "name": "cclank/lanshu-create-ai-presenter-video",
+      "stars": 866
+    }
+  ]
 }
