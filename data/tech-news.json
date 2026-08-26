@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-25T23:29:38.686029Z",
+  "updated_at": "2026-08-26T06:37:34.617940Z",
   "stories": [
     {
-      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
-      "score": 206
-    },
-    {
-      "title": "Python's pre-declared constants are kinda weird",
-      "score": 85
+      "title": "More than half of adults in U.S. say they lack basic statistical understanding",
+      "score": 18
     },
     {
       "title": "Apple introduces M6 and M5 Ultra",
-      "score": 902
+      "score": 1069
+    },
+    {
+      "title": "FDA authorizes first wearable device that monitors ketone and blood sugar levels",
+      "score": 350
     },
     {
       "title": "OpenAI Jalape\u00f1o: Better than Nvidia Blackwell",
-      "score": 269
+      "score": 420
     },
     {
-      "title": "New Mac Studio with M5 Max and M5 Ultra",
-      "score": 680
+      "title": "Queryable Executables",
+      "score": 103
     }
   ]
 }
