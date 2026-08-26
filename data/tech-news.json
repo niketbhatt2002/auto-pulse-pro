@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-26T18:30:58.123581Z",
+  "updated_at": "2026-08-26T22:51:54.032110Z",
   "stories": [
     {
-      "title": "GLM-5.3-Flash",
-      "score": 562
+      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
+      "score": 411
     },
     {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "score": 58
+      "title": "GLM-5.3-Flash",
+      "score": 805
+    },
+    {
+      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
+      "score": 124
     },
     {
       "title": "AWS Acquires DuckLabs",
-      "score": 777
+      "score": 915
     },
     {
-      "title": "Tailcat",
-      "score": 45
-    },
-    {
-      "title": "Qwen3.8-Flash-Next",
-      "score": 457
+      "title": "An ongoing 3D-printer AGPL violation",
+      "score": 251
     }
   ]
 }
