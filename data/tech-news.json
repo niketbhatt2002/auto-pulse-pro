@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-26T14:48:01.052422Z",
+  "updated_at": "2026-08-26T18:30:58.123581Z",
   "stories": [
     {
-      "title": "AWS Acquires DuckDB",
-      "score": 420
-    },
-    {
       "title": "GLM-5.3-Flash",
-      "score": 155
+      "score": 562
     },
     {
-      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
-      "score": 235
+      "title": "An ongoing 3D-printer AGPL violation",
+      "score": 58
     },
     {
-      "title": "RAG Is Simpler Than You Think",
-      "score": 264
+      "title": "AWS Acquires DuckLabs",
+      "score": 777
     },
     {
-      "title": "A curmudgeon tries a language server",
-      "score": 38
+      "title": "Tailcat",
+      "score": 45
+    },
+    {
+      "title": "Qwen3.8-Flash-Next",
+      "score": 457
     }
   ]
 }
