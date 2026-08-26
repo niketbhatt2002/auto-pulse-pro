@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-08-26T11:25:32.509572Z",
-  "repos": []
+  "updated_at": "2026-08-26T14:48:02.207616Z",
+  "repos": [
+    {
+      "name": "MengTo/threeui",
+      "stars": 4124
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "stars": 2754
+    },
+    {
+      "name": "tobi/walgit",
+      "stars": 1819
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "stars": 1449
+    },
+    {
+      "name": "nateherkai/scroll-craft",
+      "stars": 968
+    }
+  ]
 }

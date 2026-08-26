@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-26T11:25:31.750722Z",
+  "updated_at": "2026-08-26T14:48:01.052422Z",
   "stories": [
     {
-      "title": "Oldinsurancemaps.net is now a Charter Project",
-      "score": 60
+      "title": "AWS Acquires DuckDB",
+      "score": 420
+    },
+    {
+      "title": "GLM-5.3-Flash",
+      "score": 155
+    },
+    {
+      "title": "Qwen3.8-Flash-Next: A New Architecture, Towards Ultimate Cost-Efficiency",
+      "score": 235
     },
     {
       "title": "RAG Is Simpler Than You Think",
-      "score": 83
+      "score": 264
     },
     {
-      "title": "Show HN: Buslens \u2013 where can I get to by bus? (UK)",
-      "score": 41
-    },
-    {
-      "title": "Z.ai confirms Ox Alpha is a new GLM-series model and will release its weights",
-      "score": 86
-    },
-    {
-      "title": "Value Classes Still Need Compiler Sympathy",
-      "score": 27
+      "title": "A curmudgeon tries a language server",
+      "score": 38
     }
   ]
 }
