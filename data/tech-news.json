@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T20:03:12.898187Z",
+  "updated_at": "2026-08-27T20:53:29.491956Z",
   "stories": [
     {
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "score": 237
+      "score": 294
     },
     {
       "title": "Small Models Have Arrived",
-      "score": 241
+      "score": 281
     },
     {
       "title": "507 Mechanical Movements",
-      "score": 367
+      "score": 382
     },
     {
       "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "score": 64
+      "score": 88
     },
     {
-      "title": "Gemini Omni 1.1 Flash",
-      "score": 103
+      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
+      "score": 66
     }
   ]
 }

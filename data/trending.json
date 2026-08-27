@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-08-27T20:03:13.656933Z",
-  "repos": []
+  "updated_at": "2026-08-27T20:53:30.775454Z",
+  "repos": [
+    {
+      "name": "MengTo/threeui",
+      "stars": 4308
+    },
+    {
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "stars": 3334
+    },
+    {
+      "name": "tobi/walgit",
+      "stars": 2236
+    },
+    {
+      "name": "duty1g/x64dbg-mcp-server",
+      "stars": 1540
+    },
+    {
+      "name": "ApodexAI/FrontierAgent",
+      "stars": 1120
+    }
+  ]
 }
