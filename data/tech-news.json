@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T19:42:33.681063Z",
+  "updated_at": "2026-08-27T20:03:12.898187Z",
   "stories": [
     {
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "score": 208
+      "score": 237
     },
     {
       "title": "Small Models Have Arrived",
-      "score": 226
+      "score": 241
     },
     {
       "title": "507 Mechanical Movements",
-      "score": 357
+      "score": 367
     },
     {
       "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "score": 50
+      "score": 64
     },
     {
       "title": "Gemini Omni 1.1 Flash",
-      "score": 88
+      "score": 103
     }
   ]
 }
