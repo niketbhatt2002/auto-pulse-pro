@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T04:27:10.502348Z",
+  "updated_at": "2026-08-27T17:13:13.708619Z",
   "stories": [
     {
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "score": 519
+      "title": "507 Mechanical Movements",
+      "score": 231
     },
     {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "score": 204
+      "title": "Small Models Have Arrived",
+      "score": 76
     },
     {
-      "title": "Mechanical Turk shutting down September 30",
-      "score": 207
+      "title": "Microduck",
+      "score": 300
     },
     {
-      "title": "GLM-5.3-Flash",
-      "score": 932
+      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
+      "score": 96
     },
     {
-      "title": "Laion Big Video Dataset",
-      "score": 27
+      "title": "Nvidia projects $673B in sales as AI demand widens",
+      "score": 44
     }
   ]
 }
