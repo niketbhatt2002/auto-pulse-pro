@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T20:53:29.491956Z",
+  "updated_at": "2026-08-27T23:40:21.911392Z",
   "stories": [
     {
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "score": 294
+      "score": 441
+    },
+    {
+      "title": "Doctors are finally learning to manage antidepressant withdrawal",
+      "score": 33
     },
     {
       "title": "Small Models Have Arrived",
-      "score": 281
+      "score": 404
     },
     {
       "title": "507 Mechanical Movements",
-      "score": 382
+      "score": 434
     },
     {
-      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "score": 88
-    },
-    {
-      "title": "Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force",
-      "score": 66
+      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
+      "score": 65
     }
   ]
 }
