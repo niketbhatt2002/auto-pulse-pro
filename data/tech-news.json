@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T18:42:17.442378Z",
+  "updated_at": "2026-08-27T19:42:33.681063Z",
   "stories": [
     {
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "score": 132
-    },
-    {
-      "title": "507 Mechanical Movements",
-      "score": 323
+      "score": 208
     },
     {
       "title": "Small Models Have Arrived",
-      "score": 170
+      "score": 226
     },
     {
-      "title": "Decompiling a Nintendo 64 game in 84 days",
-      "score": 82
+      "title": "507 Mechanical Movements",
+      "score": 357
     },
     {
-      "title": "Suica, Japan's First IC Transit Card",
-      "score": 77
+      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
+      "score": 50
+    },
+    {
+      "title": "Gemini Omni 1.1 Flash",
+      "score": 88
     }
   ]
 }
