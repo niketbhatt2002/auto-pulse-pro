@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T17:13:13.708619Z",
+  "updated_at": "2026-08-27T18:02:19.674208Z",
   "stories": [
     {
+      "title": "Two German airport workers die of malaria after 'mosquito arrives on plane'",
+      "score": 51
+    },
+    {
       "title": "507 Mechanical Movements",
-      "score": 231
-    },
-    {
-      "title": "Small Models Have Arrived",
-      "score": 76
-    },
-    {
-      "title": "Microduck",
       "score": 300
     },
     {
-      "title": "Emacs 31: An unofficial guide to Markdown-ts-mode",
-      "score": 96
+      "title": "Small Models Have Arrived",
+      "score": 137
     },
     {
-      "title": "Nvidia projects $673B in sales as AI demand widens",
-      "score": 44
+      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
+      "score": 50
+    },
+    {
+      "title": "Microduck",
+      "score": 340
     }
   ]
 }
