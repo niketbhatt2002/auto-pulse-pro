@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-26T22:51:54.032110Z",
+  "updated_at": "2026-08-27T04:27:10.502348Z",
   "stories": [
     {
-      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
-      "score": 411
+      "title": "Nvidia agrees to acquire Hugging Face for $13B",
+      "score": 519
+    },
+    {
+      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
+      "score": 204
+    },
+    {
+      "title": "Mechanical Turk shutting down September 30",
+      "score": 207
     },
     {
       "title": "GLM-5.3-Flash",
-      "score": 805
+      "score": 932
     },
     {
-      "title": "Actinide is first startup to produce high-assay low-enriched uranium (HALEU)",
-      "score": 124
-    },
-    {
-      "title": "AWS Acquires DuckLabs",
-      "score": 915
-    },
-    {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "score": 251
+      "title": "Laion Big Video Dataset",
+      "score": 27
     }
   ]
 }
