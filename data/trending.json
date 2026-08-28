@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-28T06:50:24.231654Z",
+  "updated_at": "2026-08-28T18:05:20.052576Z",
   "repos": [
     {
-      "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "stars": 3380
+      "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "stars": 3639
     },
     {
-      "name": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "stars": 2647
+      "name": "b-nnett/grok-bot-0.18-reconstructed",
+      "stars": 3399
     },
     {
       "name": "tobi/walgit",
-      "stars": 2266
+      "stars": 2286
     },
     {
       "name": "duty1g/x64dbg-mcp-server",
-      "stars": 1583
+      "stars": 1656
     },
     {
-      "name": "ApodexAI/FrontierAgent",
-      "stars": 1169
+      "name": "sapientinc/PRAXIST",
+      "stars": 1440
     }
   ]
 }
