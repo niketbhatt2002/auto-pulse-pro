@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-28T20:46:56.158447Z",
+  "updated_at": "2026-08-28T21:01:37.554339Z",
   "stories": [
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "score": 375
+      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+      "score": 86
     },
     {
-      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
-      "score": 62
+      "title": "GUIs should be fully keyboard-driven",
+      "score": 392
     },
     {
       "title": "Htmx 4.0",
-      "score": 362
+      "score": 374
+    },
+    {
+      "title": "Isitdoneyet.gg is a website I made to figure out if games are complete",
+      "score": 21
     },
     {
       "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "score": 160
-    },
-    {
-      "title": "U.S. sanctions against the A/I Collective",
-      "score": 373
+      "score": 162
     }
   ]
 }
