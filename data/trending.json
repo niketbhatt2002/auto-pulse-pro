@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T23:40:23.177344Z",
+  "updated_at": "2026-08-28T01:11:20.064882Z",
   "repos": [
     {
-      "name": "MengTo/threeui",
-      "stars": 4316
-    },
-    {
       "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "stars": 3339
+      "stars": 3344
     },
     {
       "name": "tobi/walgit",
-      "stars": 2241
+      "stars": 2246
     },
     {
       "name": "duty1g/x64dbg-mcp-server",
-      "stars": 1542
+      "stars": 1546
+    },
+    {
+      "name": "HEJustinSun/my-girlfriend-jingtian-latex",
+      "stars": 1240
     },
     {
       "name": "ApodexAI/FrontierAgent",
-      "stars": 1125
+      "stars": 1130
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-27T23:40:21.911392Z",
+  "updated_at": "2026-08-28T01:11:18.217205Z",
   "stories": [
     {
       "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "score": 441
-    },
-    {
-      "title": "Doctors are finally learning to manage antidepressant withdrawal",
-      "score": 33
+      "score": 490
     },
     {
       "title": "Small Models Have Arrived",
-      "score": 404
+      "score": 437
     },
     {
       "title": "507 Mechanical Movements",
-      "score": 434
+      "score": 459
     },
     {
-      "title": "Show HN: We built open OpenRouter that turns usage into a better model",
-      "score": 65
+      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
+      "score": 48
+    },
+    {
+      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
+      "score": 13
     }
   ]
 }
