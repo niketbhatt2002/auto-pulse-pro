@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-28T19:49:09.937747Z",
+  "updated_at": "2026-08-28T20:46:56.158447Z",
   "stories": [
     {
       "title": "GUIs should be fully keyboard-driven",
-      "score": 292
+      "score": 375
     },
     {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "score": 139
+      "title": "25,000 Lbs. Of Chicken Products Recalled in 5 States: USDA",
+      "score": 62
     },
     {
       "title": "Htmx 4.0",
-      "score": 299
+      "score": 362
+    },
+    {
+      "title": "Just the rumour of a bug is enough to find an exploit these days",
+      "score": 160
     },
     {
       "title": "U.S. sanctions against the A/I Collective",
-      "score": 335
-    },
-    {
-      "title": "Inception-style curved map for turn-by-turn directions",
-      "score": 314
+      "score": 373
     }
   ]
 }
