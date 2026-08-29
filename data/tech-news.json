@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T12:55:24.224705Z",
+  "updated_at": "2026-08-29T13:31:03.577336Z",
   "stories": [
     {
       "title": "Iceland votes on whether to restart talks on joining EU",
-      "score": 97
+      "score": 148
     },
     {
       "title": "Samsung's Processing-in-Memory (PIM)",
-      "score": 138
+      "score": 147
     },
     {
       "title": "GUIs should be fully keyboard-driven",
-      "score": 873
-    },
-    {
-      "title": "Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems",
-      "score": 46
+      "score": 885
     },
     {
       "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "score": 306
+      "score": 315
+    },
+    {
+      "title": "Htmx 4.0",
+      "score": 713
     }
   ]
 }
