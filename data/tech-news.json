@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T19:32:33.111946Z",
+  "updated_at": "2026-08-29T22:28:36.146598Z",
   "stories": [
     {
-      "title": "The Internet Is Kind of a Predatory Cesspit Now",
-      "score": 137
+      "title": "Tencent Releases and Open-Sources Tencent Hy4 Preview",
+      "score": 103
     },
     {
-      "title": "Warp builds self-improving agents on Claude",
-      "score": 10
+      "title": "$44M Solar-Powered EV Production Deal Struck",
+      "score": 14
     },
     {
-      "title": "SQLite as a Document Database (2020)",
-      "score": 116
-    },
-    {
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "score": 30
+      "title": "vLLM v0.28.0",
+      "score": 65
     },
     {
       "title": "Tether: iMessage, SMS, etc. on Linux",
-      "score": 164
+      "score": 260
+    },
+    {
+      "title": "What we want is a hunter gatherer lifestyle with space age tools",
+      "score": 38
     }
   ]
 }
