@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T02:45:05.590362Z",
+  "updated_at": "2026-08-29T04:05:30.321675Z",
   "stories": [
     {
       "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "score": 105
+      "score": 150
     },
     {
       "title": "GUIs should be fully keyboard-driven",
-      "score": 639
+      "score": 668
     },
     {
       "title": "9th Circuit sides with states in Kalshi gambling fight",
-      "score": 58
+      "score": 85
     },
     {
       "title": "Does the Sumerian King List Align with Paleoclimate Events?",
-      "score": 58
+      "score": 70
     },
     {
-      "title": "StemDeck, a free, open-source and local AI stem separator",
-      "score": 28
+      "title": "Htmx 4.0",
+      "score": 565
     }
   ]
 }
