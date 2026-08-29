@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-28T23:28:52.162354Z",
+  "updated_at": "2026-08-29T00:46:10.218929Z",
   "stories": [
     {
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "score": 27
+    },
+    {
       "title": "GUIs should be fully keyboard-driven",
-      "score": 521
+      "score": 588
+    },
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "score": 30
     },
     {
       "title": "Htmx 4.0",
-      "score": 462
-    },
-    {
-      "title": "Just the rumour of a bug is enough to find an exploit these days",
-      "score": 225
+      "score": 504
     },
     {
       "title": "U.S. sanctions against the A/I Collective",
-      "score": 439
-    },
-    {
-      "title": "Inception-style curved map for turn-by-turn directions",
-      "score": 398
+      "score": 462
     }
   ]
 }

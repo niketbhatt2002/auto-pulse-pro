@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-28T23:28:54.032731Z",
+  "updated_at": "2026-08-29T00:46:11.421581Z",
   "repos": [
     {
       "name": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "stars": 3680
+      "stars": 3685
     },
     {
       "name": "b-nnett/grok-bot-0.18-reconstructed",
@@ -11,15 +11,15 @@
     },
     {
       "name": "tobi/walgit",
-      "stars": 2292
-    },
-    {
-      "name": "duty1g/x64dbg-mcp-server",
-      "stars": 1666
+      "stars": 2295
     },
     {
       "name": "sapientinc/PRAXIST",
-      "stars": 1454
+      "stars": 1456
+    },
+    {
+      "name": "bryllim/workout-guide",
+      "stars": 979
     }
   ]
 }
