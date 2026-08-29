@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T14:17:25.360926Z",
+  "updated_at": "2026-08-29T14:48:13.724193Z",
   "stories": [
     {
-      "title": "Iceland votes on whether to restart talks on joining EU",
-      "score": 206
+      "title": "Debian votes to allow \"responsible use of generative AI\"",
+      "score": 63
     },
     {
       "title": "Samsung's Processing-in-Memory (PIM)",
-      "score": 165
+      "score": 170
+    },
+    {
+      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
+      "score": 4
     },
     {
       "title": "GUIs should be fully keyboard-driven",
-      "score": 905
+      "score": 917
     },
     {
-      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
-      "score": 325
-    },
-    {
-      "title": "Glacier Mice",
-      "score": 76
+      "title": "Creating the Aetheryte Radio",
+      "score": 13
     }
   ]
 }
