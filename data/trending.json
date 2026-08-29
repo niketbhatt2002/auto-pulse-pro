@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T13:31:04.520479Z",
+  "updated_at": "2026-08-29T14:17:26.498606Z",
   "repos": [
     {
       "name": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "stars": 3836
+      "stars": 3845
     },
     {
       "name": "b-nnett/grok-bot-0.18-reconstructed",
-      "stars": 3419
+      "stars": 3420
+    },
+    {
+      "name": "sapientinc/PRAXIST",
+      "stars": 2894
     },
     {
       "name": "tobi/walgit",
       "stars": 2314
     },
     {
-      "name": "sapientinc/PRAXIST",
-      "stars": 2087
-    },
-    {
       "name": "wide-trace/open-higgsfield",
-      "stars": 1028
+      "stars": 1034
     }
   ]
 }
