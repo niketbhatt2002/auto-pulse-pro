@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T17:35:27.581352Z",
+  "updated_at": "2026-08-29T19:32:33.111946Z",
   "stories": [
     {
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "score": 359
+      "title": "The Internet Is Kind of a Predatory Cesspit Now",
+      "score": 137
+    },
+    {
+      "title": "Warp builds self-improving agents on Claude",
+      "score": 10
     },
     {
       "title": "SQLite as a Document Database (2020)",
-      "score": 71
+      "score": 116
+    },
+    {
+      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
+      "score": 30
     },
     {
       "title": "Tether: iMessage, SMS, etc. on Linux",
-      "score": 71
-    },
-    {
-      "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "score": 39
-    },
-    {
-      "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
-      "score": 53
+      "score": 164
     }
   ]
 }
