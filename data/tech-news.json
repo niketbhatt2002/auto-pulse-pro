@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T14:48:13.724193Z",
+  "updated_at": "2026-08-29T15:27:23.821730Z",
   "stories": [
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "score": 63
-    },
-    {
-      "title": "Samsung's Processing-in-Memory (PIM)",
-      "score": 170
+      "score": 161
     },
     {
       "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "score": 4
+      "score": 11
     },
     {
-      "title": "GUIs should be fully keyboard-driven",
-      "score": 917
+      "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
+      "score": 20
+    },
+    {
+      "title": "Samsung's Processing-in-Memory (PIM)",
+      "score": 175
     },
     {
       "title": "Creating the Aetheryte Radio",
-      "score": 13
+      "score": 22
     }
   ]
 }
