@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-29T15:27:23.821730Z",
+  "updated_at": "2026-08-29T17:35:27.581352Z",
   "stories": [
     {
       "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "score": 161
+      "score": 359
+    },
+    {
+      "title": "SQLite as a Document Database (2020)",
+      "score": 71
+    },
+    {
+      "title": "Tether: iMessage, SMS, etc. on Linux",
+      "score": 71
     },
     {
       "title": "Indirect Calling of Nested Functions on GCC Without Executable Stack",
-      "score": 11
+      "score": 39
     },
     {
       "title": "Show HN: Typebase \u2013 A single-folder back end you write in TypeScript",
-      "score": 20
-    },
-    {
-      "title": "Samsung's Processing-in-Memory (PIM)",
-      "score": 175
-    },
-    {
-      "title": "Creating the Aetheryte Radio",
-      "score": 22
+      "score": 53
     }
   ]
 }
