@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-30T14:34:07.002245Z",
+  "updated_at": "2026-08-30T15:09:02.309854Z",
   "stories": [
     {
-      "title": "Hacking IKEA Furniture",
-      "score": 85
+      "title": "Creepy Crawlies",
+      "score": 80
     },
     {
-      "title": "What my dad taught me about AI coding in the 90s",
-      "score": 50
+      "title": "No AI Fridays",
+      "score": 94
+    },
+    {
+      "title": "Hacking IKEA Furniture",
+      "score": 109
     },
     {
       "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
-      "score": 131
+      "score": 147
     },
     {
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "score": 118
-    },
-    {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "score": 141
+      "title": "What my dad taught me about AI coding in the 90s",
+      "score": 64
     }
   ]
 }
