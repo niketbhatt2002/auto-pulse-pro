@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-30T01:11:07.247683Z",
+  "updated_at": "2026-08-30T11:03:49.337242Z",
   "stories": [
     {
-      "title": "Hy4 preview",
-      "score": 184
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "score": 61
     },
     {
-      "title": "Bug Blindness",
-      "score": 12
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "score": 36
     },
     {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "score": 339
+      "title": "Spark: Sparklines in your shell",
+      "score": 14
     },
     {
-      "title": "Highest-ever ocean temperature measured as powerful El Ni\u00f1o forms",
-      "score": 66
+      "title": "Brits would quite like their private messages to stay private",
+      "score": 76
     },
     {
-      "title": "Nancy Grace Roman Space Telescope",
-      "score": 118
+      "title": "Everyone Should Build Their Own Network Stack",
+      "score": 8
     }
   ]
 }

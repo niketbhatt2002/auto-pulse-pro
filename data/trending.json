@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-30T01:11:08.274806Z",
+  "updated_at": "2026-08-30T11:03:50.543768Z",
   "repos": [
     {
       "name": "HEJustinSun/my-girlfriend-jingtian-latex",
-      "stars": 3927
+      "stars": 4105
     },
     {
       "name": "sapientinc/PRAXIST",
-      "stars": 2933
-    },
-    {
-      "name": "wide-trace/open-higgsfield",
-      "stars": 1069
-    },
-    {
-      "name": "bryllim/workout-guide",
-      "stars": 1003
+      "stars": 3233
     },
     {
       "name": "XiaoDuoYa/codex-with-chatgpt",
-      "stars": 932
+      "stars": 1170
+    },
+    {
+      "name": "wide-trace/open-higgsfield",
+      "stars": 1039
+    },
+    {
+      "name": "bryllim/workout-guide",
+      "stars": 1013
     }
   ]
 }
