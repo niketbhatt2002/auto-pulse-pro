@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-30T13:27:18.613917Z",
+  "updated_at": "2026-08-30T14:20:48.500432Z",
   "stories": [
     {
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "score": 46
-    },
-    {
       "title": "Hacking IKEA Furniture",
-      "score": 30
+      "score": 75
     },
     {
-      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
-      "score": 97
-    },
-    {
-      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
-      "score": 122
+      "title": "What my dad taught me about AI coding in the 90s",
+      "score": 42
     },
     {
       "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
-      "score": 67
+      "score": 116
+    },
+    {
+      "title": "Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel",
+      "score": 113
+    },
+    {
+      "title": "Longest Straight Line Paths on Water or Land on the Earth (2018)",
+      "score": 139
     }
   ]
 }
