@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-30T19:31:43.939137Z",
+  "updated_at": "2026-08-30T22:29:40.816583Z",
   "stories": [
     {
       "title": "Creepy Crawlies",
-      "score": 501
+      "score": 790
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "score": 44
     },
     {
       "title": "Haiku R1/beta6 has been released",
-      "score": 153
+      "score": 214
     },
     {
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "score": 61
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "score": 29
     },
     {
-      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
-      "score": 106
-    },
-    {
-      "title": "Running SQLite Apps on Docker and Kubernetes with Litestream",
-      "score": 16
+      "title": "NFC Energy-Harvesting PCB Business Card with an MCU",
+      "score": 57
     }
   ]
 }
