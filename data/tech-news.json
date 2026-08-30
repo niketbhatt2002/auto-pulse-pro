@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-30T15:09:02.309854Z",
+  "updated_at": "2026-08-30T17:59:01.784485Z",
   "stories": [
     {
       "title": "Creepy Crawlies",
-      "score": 80
+      "score": 358
     },
     {
-      "title": "No AI Fridays",
-      "score": 94
+      "title": "Haiku R1/beta6 has been released",
+      "score": 91
+    },
+    {
+      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
+      "score": 29
+    },
+    {
+      "title": "Omarchy: Any User Process Can Escalate to Root",
+      "score": 176
     },
     {
       "title": "Hacking IKEA Furniture",
-      "score": 109
-    },
-    {
-      "title": "Casey Muratori \u2013 The Root of the Root of All Evil \u2013 BSC 2026 [video]",
-      "score": 147
-    },
-    {
-      "title": "What my dad taught me about AI coding in the 90s",
-      "score": 64
+      "score": 179
     }
   ]
 }
