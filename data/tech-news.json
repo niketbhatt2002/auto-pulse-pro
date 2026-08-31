@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-31T16:56:07.461119Z",
+  "updated_at": "2026-08-31T17:17:53.349320Z",
   "stories": [
     {
       "title": "Playa Phone",
-      "score": 172
+      "score": 200
     },
     {
-      "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "score": 410
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "score": 24
     },
     {
       "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "score": 16
-    },
-    {
-      "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
-      "score": 61
+      "score": 30
     },
     {
       "title": "ChatGPT Work Tool and Skill Reference",
-      "score": 93
+      "score": 101
+    },
+    {
+      "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
+      "score": 17
     }
   ]
 }
