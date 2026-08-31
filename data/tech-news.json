@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-31T17:17:53.349320Z",
+  "updated_at": "2026-08-31T17:50:44.525749Z",
   "stories": [
     {
       "title": "Playa Phone",
-      "score": 200
+      "score": 236
     },
     {
       "title": "I turned my security cameras into an automatic bird identification system",
-      "score": 24
+      "score": 55
     },
     {
       "title": "ravynOS: Pre-alpha open-source OS based on Darwin, FreeBSD, Apple open-source",
-      "score": 30
+      "score": 52
     },
     {
       "title": "ChatGPT Work Tool and Skill Reference",
-      "score": 101
+      "score": 108
     },
     {
       "title": "Launch HN: Almanac (YC S26) \u2013 AI that knows your company",
-      "score": 17
+      "score": 21
     }
   ]
 }
