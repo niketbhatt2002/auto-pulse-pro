@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-31T14:45:24.199377Z",
+  "updated_at": "2026-08-31T15:43:59.935973Z",
   "stories": [
     {
+      "title": "Playa Phone",
+      "score": 56
+    },
+    {
       "title": "OpenShot 4.0: Record, Edit, and Color Like Never Before",
-      "score": 321
+      "score": 376
+    },
+    {
+      "title": "Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP",
+      "score": 32
     },
     {
       "title": "ChatGPT Work Tool and Skill Reference",
-      "score": 25
+      "score": 63
     },
     {
-      "title": "Omarchy: 1Password and 37signals become Distinguished Corporate Patrons",
+      "title": "Culture Clash",
       "score": 20
-    },
-    {
-      "title": "\u201cI just chose words carefully\u201d",
-      "score": 1045
-    },
-    {
-      "title": "Breaking Claude Code Opus 5 Auto Mode",
-      "score": 222
     }
   ]
 }
