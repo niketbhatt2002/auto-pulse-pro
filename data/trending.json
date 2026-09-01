@@ -1,21 +1,21 @@
 {
-  "updated_at": "2026-09-01T15:22:07.517501Z",
+  "updated_at": "2026-09-01T17:43:06.562951Z",
   "repos": [
     {
       "name": "sapientinc/PRAXIST",
-      "stars": 5908
+      "stars": 5997
     },
     {
       "name": "XiaoDuoYa/codex-with-chatgpt",
-      "stars": 2102
-    },
-    {
-      "name": "Nanako0129/sepia",
-      "stars": 1343
+      "stars": 2112
     },
     {
       "name": "crmne/fastpotify",
-      "stars": 1324
+      "stars": 1417
+    },
+    {
+      "name": "Nanako0129/sepia",
+      "stars": 1345
     },
     {
       "name": "MetaMask-AI/metamask-desktop",
