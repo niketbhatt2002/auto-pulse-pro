@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-01T12:56:36.079840Z",
+  "updated_at": "2026-09-01T14:02:29.500001Z",
   "repos": [
     {
       "name": "sapientinc/PRAXIST",
-      "stars": 5794
+      "stars": 5848
     },
     {
       "name": "HEJustinSun/my-girlfriend-jingtian-latex",
@@ -11,15 +11,15 @@
     },
     {
       "name": "XiaoDuoYa/codex-with-chatgpt",
-      "stars": 2072
+      "stars": 2087
     },
     {
       "name": "Nanako0129/sepia",
-      "stars": 1329
+      "stars": 1339
     },
     {
-      "name": "MetaMask-AI/metamask-desktop",
-      "stars": 1229
+      "name": "crmne/fastpotify",
+      "stars": 1271
     }
   ]
 }
