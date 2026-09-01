@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-08-31T23:39:15.603428Z",
+  "updated_at": "2026-09-01T01:44:49.864471Z",
   "stories": [
     {
       "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
-      "score": 346
+      "score": 501
+    },
+    {
+      "title": "Run macOS Software on Linux",
+      "score": 91
+    },
+    {
+      "title": "Evidence of Fraud in an Influential Study About Procrastination",
+      "score": 65
     },
     {
       "title": "I turned my security cameras into an automatic bird identification system",
-      "score": 331
-    },
-    {
-      "title": "'Mad honey' that can stop your heart is being sold online",
-      "score": 99
+      "score": 362
     },
     {
       "title": "Playa Phone",
-      "score": 464
-    },
-    {
-      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
-      "score": 173
+      "score": 496
     }
   ]
 }
