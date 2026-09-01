@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-01T19:39:34.916839Z",
+  "updated_at": "2026-09-01T22:26:59.875759Z",
   "stories": [
     {
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "score": 461
+      "score": 761
     },
     {
-      "title": "Play Store blocks AuroraStore, hurting GrapheneOS users",
-      "score": 343
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "score": 235
     },
     {
-      "title": "Launch HN: Nori Robotics (YC S26) \u2013 A low-cost humanoid robot for development",
-      "score": 59
+      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
+      "score": 162
     },
     {
-      "title": "AnkiDroid: Google Play no longer allowing Open Collective donation link",
-      "score": 728
+      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
+      "score": 54
     },
     {
-      "title": "Show HN: Running 104GB Qwen3.8-Flash-Next on 48GB Mac with at ~12 tok/s",
-      "score": 74
+      "title": "Path to Astra: critical capabilities and frontier safeguards",
+      "score": 50
     }
   ]
 }
