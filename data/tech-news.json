@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-02T14:56:39.176511Z",
+  "updated_at": "2026-09-02T17:45:28.508287Z",
   "stories": [
     {
-      "title": "A Note from LWN",
-      "score": 293
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "score": 447
     },
     {
-      "title": "Three sites made 215,128 \"best software\" pages for AI. Perplexity cites them",
-      "score": 69
+      "title": "A Note from LWN",
+      "score": 548
+    },
+    {
+      "title": "Mushroom hunting with LLMs: what can go wrong?",
+      "score": 30
+    },
+    {
+      "title": "Mistral now trains on user input by default, except on enterprise tier",
+      "score": 249
     },
     {
       "title": "GrapheneOS says Pixel 11 has MTE support after all",
-      "score": 42
-    },
-    {
-      "title": "Biggest dark matter detector spots a single weird particle",
-      "score": 41
-    },
-    {
-      "title": "Poisson Disk Sampling",
-      "score": 30
+      "score": 126
     }
   ]
 }
