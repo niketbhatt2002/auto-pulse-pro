@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-02T11:54:56.476380Z",
+  "updated_at": "2026-09-02T12:26:05.176581Z",
   "stories": [
     {
       "title": "Commodore 64 released September 1, 1982",
-      "score": 124
+      "score": 141
     },
     {
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "score": 1291
+      "score": 1302
     },
     {
       "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "score": 177
+      "score": 185
     },
     {
-      "title": "LLM Judges Verify Presence, Not Absence: Omission Blindness in AI Clinical Notes",
-      "score": 14
+      "title": "It's OK to hardcode feature flags (2025)",
+      "score": 16
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "score": 749
+      "score": 761
     }
   ]
 }
