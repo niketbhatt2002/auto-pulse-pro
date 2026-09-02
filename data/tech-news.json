@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-01T22:26:59.875759Z",
+  "updated_at": "2026-09-02T00:56:15.090135Z",
   "stories": [
     {
+      "title": "Hang on to Your Firefox",
+      "score": 366
+    },
+    {
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "score": 761
+      "score": 897
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "score": 235
+      "score": 381
     },
     {
-      "title": "The ChatGPT/Codex app bundles a full copy of LibreOffice",
-      "score": 162
+      "title": "The efficient frontier of LLM inference",
+      "score": 19
     },
     {
-      "title": "Refurbishing a Tektronix TDS7104 Oscilloscope",
-      "score": 54
-    },
-    {
-      "title": "Path to Astra: critical capabilities and frontier safeguards",
-      "score": 50
+      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+      "score": 43
     }
   ]
 }
