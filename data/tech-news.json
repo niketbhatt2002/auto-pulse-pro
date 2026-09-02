@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-02T17:45:28.508287Z",
+  "updated_at": "2026-09-02T19:31:47.515055Z",
   "stories": [
     {
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "score": 447
-    },
-    {
-      "title": "A Note from LWN",
-      "score": 548
-    },
-    {
-      "title": "Mushroom hunting with LLMs: what can go wrong?",
-      "score": 30
+      "score": 585
     },
     {
       "title": "Mistral now trains on user input by default, except on enterprise tier",
-      "score": 249
+      "score": 300
     },
     {
-      "title": "GrapheneOS says Pixel 11 has MTE support after all",
-      "score": 126
+      "title": "Biggest dark matter detector spots a single weird particle",
+      "score": 187
+    },
+    {
+      "title": "Exit the Cave",
+      "score": 140
+    },
+    {
+      "title": "SteamdDB Joins Nexus Mods",
+      "score": 66
     }
   ]
 }
