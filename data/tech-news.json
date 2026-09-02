@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-02T00:56:15.090135Z",
+  "updated_at": "2026-09-02T10:25:00.979131Z",
   "stories": [
     {
-      "title": "Hang on to Your Firefox",
-      "score": 366
+      "title": "Commodore 64 released September 1, 1982",
+      "score": 66
     },
     {
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "score": 897
+      "score": 1259
+    },
+    {
+      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
+      "score": 152
     },
     {
       "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "score": 381
+      "score": 715
     },
     {
-      "title": "The efficient frontier of LLM inference",
-      "score": 19
-    },
-    {
-      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
-      "score": 43
+      "title": "Fine, I'll build my own text editor",
+      "score": 131
     }
   ]
 }
