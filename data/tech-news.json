@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-02T12:26:05.176581Z",
+  "updated_at": "2026-09-02T13:27:42.709278Z",
   "stories": [
     {
+      "title": "A Note from LWN",
+      "score": 14
+    },
+    {
       "title": "Commodore 64 released September 1, 1982",
-      "score": 141
+      "score": 182
+    },
+    {
+      "title": "A Small Telescope That Surprised Me",
+      "score": 34
+    },
+    {
+      "title": "HomeOS \u2013 A self-hosted family dashboard for a kitchen touchscreen",
+      "score": 14
     },
     {
       "title": "Claude Fable 5.1 and Claude Mythos 5.1",
-      "score": 1302
-    },
-    {
-      "title": "The Emergent Symbolic Structure of Artificial Neural Networks",
-      "score": 185
-    },
-    {
-      "title": "It's OK to hardcode feature flags (2025)",
-      "score": 16
-    },
-    {
-      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
-      "score": 761
+      "score": 1321
     }
   ]
 }
