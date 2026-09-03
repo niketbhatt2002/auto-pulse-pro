@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T14:50:50.123537Z",
+  "updated_at": "2026-09-03T17:40:43.949917Z",
   "stories": [
     {
+      "title": ".name Termination",
+      "score": 509
+    },
+    {
       "title": "Audacity 4.0",
-      "score": 519
+      "score": 846
     },
     {
-      "title": "Elevated Errors for Multiple Models",
-      "score": 106
+      "title": "K2 Horizon: Frontier Performance, Radically Open",
+      "score": 110
     },
     {
-      "title": "Pre-Release of Polars 2.0",
-      "score": 290
+      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "score": 173
     },
     {
-      "title": "The Browser's Main Thread Is Expensive",
-      "score": 252
-    },
-    {
-      "title": "Invisible Companies",
-      "score": 73
+      "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
+      "score": 176
     }
   ]
 }
