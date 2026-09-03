@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T17:40:43.949917Z",
+  "updated_at": "2026-09-03T19:28:52.327392Z",
   "stories": [
     {
+      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
+      "score": 167
+    },
+    {
       "title": ".name Termination",
-      "score": 509
+      "score": 891
     },
     {
-      "title": "Audacity 4.0",
-      "score": 846
+      "title": "OpenAI begins rolling out GPT-6 Astra",
+      "score": 146
     },
     {
-      "title": "K2 Horizon: Frontier Performance, Radically Open",
-      "score": 110
-    },
-    {
-      "title": "New York Times and The Athletic workers demand company scrap Kalshi deal",
+      "title": "K2 Horizon: A connected fleet of six open models",
       "score": 173
     },
     {
       "title": "Any Human Ever \u2013 One life, drawn at random from all who have ever lived",
-      "score": 176
+      "score": 263
     }
   ]
 }
