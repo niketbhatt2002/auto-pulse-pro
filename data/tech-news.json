@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T13:26:22.792069Z",
+  "updated_at": "2026-09-03T13:59:13.543407Z",
   "stories": [
     {
       "title": "Audacity 4.0",
-      "score": 308
+      "score": 395
+    },
+    {
+      "title": "Elevated Errors for Multiple Models",
+      "score": 43
     },
     {
       "title": "Pre-Release of Polars 2.0",
-      "score": 260
+      "score": 269
     },
     {
       "title": "The Browser's Main Thread Is Expensive",
-      "score": 205
+      "score": 222
     },
     {
       "title": "Invisible Companies",
-      "score": 44
-    },
-    {
-      "title": "What I Learned from My Mom (1941-2026)",
-      "score": 89
+      "score": 53
     }
   ]
 }
