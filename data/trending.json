@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T12:26:46.631560Z",
+  "updated_at": "2026-09-03T13:26:24.067564Z",
   "repos": [
     {
       "name": "XiaoDuoYa/codex-with-chatgpt",
-      "stars": 2334
+      "stars": 2342
     },
     {
       "name": "Nanako0129/sepia",
-      "stars": 1771
+      "stars": 1788
     },
     {
       "name": "MetaMask-AI/metamask-desktop",
       "stars": 1230
     },
     {
-      "name": "cbrock84/headcount",
-      "stars": 1144
+      "name": "anthropics/commerce-agents",
+      "stars": 1183
     },
     {
-      "name": "anthropics/commerce-agents",
-      "stars": 1130
+      "name": "cbrock84/headcount",
+      "stars": 1149
     }
   ]
 }
