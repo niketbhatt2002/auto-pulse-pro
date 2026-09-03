@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T13:59:13.543407Z",
+  "updated_at": "2026-09-03T14:50:50.123537Z",
   "stories": [
     {
       "title": "Audacity 4.0",
-      "score": 395
+      "score": 519
     },
     {
       "title": "Elevated Errors for Multiple Models",
-      "score": 43
+      "score": 106
     },
     {
       "title": "Pre-Release of Polars 2.0",
-      "score": 269
+      "score": 290
     },
     {
       "title": "The Browser's Main Thread Is Expensive",
-      "score": 222
+      "score": 252
     },
     {
       "title": "Invisible Companies",
-      "score": 53
+      "score": 73
     }
   ]
 }
