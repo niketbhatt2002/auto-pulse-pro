@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T10:32:50.050577Z",
+  "updated_at": "2026-09-03T11:53:19.743275Z",
   "stories": [
     {
       "title": "Pre-Release of Polars 2.0",
-      "score": 166
+      "score": 210
     },
     {
       "title": "The Browser's Main Thread Is Expensive",
-      "score": 78
+      "score": 132
+    },
+    {
+      "title": "Audacity 4.0",
+      "score": 15
     },
     {
       "title": "Muse Spark 1.3",
-      "score": 590
+      "score": 608
     },
     {
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "score": 1034
-    },
-    {
-      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
-      "score": 426
+      "score": 1054
     }
   ]
 }
