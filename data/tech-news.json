@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T11:53:19.743275Z",
+  "updated_at": "2026-09-03T12:26:45.384837Z",
   "stories": [
     {
+      "title": "Audacity 4.0",
+      "score": 126
+    },
+    {
       "title": "Pre-Release of Polars 2.0",
-      "score": 210
+      "score": 228
     },
     {
       "title": "The Browser's Main Thread Is Expensive",
-      "score": 132
+      "score": 164
     },
     {
-      "title": "Audacity 4.0",
-      "score": 15
+      "title": "Invisible Companies",
+      "score": 16
     },
     {
       "title": "Muse Spark 1.3",
-      "score": 608
-    },
-    {
-      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "score": 1054
+      "score": 615
     }
   ]
 }
