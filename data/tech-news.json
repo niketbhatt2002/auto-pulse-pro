@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T01:01:58.232438Z",
+  "updated_at": "2026-09-03T10:32:50.050577Z",
   "stories": [
     {
+      "title": "Pre-Release of Polars 2.0",
+      "score": 166
+    },
+    {
+      "title": "The Browser's Main Thread Is Expensive",
+      "score": 78
+    },
+    {
       "title": "Muse Spark 1.3",
-      "score": 371
+      "score": 590
     },
     {
       "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
-      "score": 811
+      "score": 1034
     },
     {
-      "title": "Google avoids a breakup of its ad tech business",
-      "score": 251
-    },
-    {
-      "title": "Holden's Lightning Flight",
-      "score": 46
-    },
-    {
-      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
-      "score": 86
+      "title": "Three sites made 215,128 \u201cbest software\u201d pages for AI. Perplexity cites them",
+      "score": 426
     }
   ]
 }

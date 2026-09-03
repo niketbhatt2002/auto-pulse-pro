@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-03T01:01:59.534035Z",
+  "updated_at": "2026-09-03T10:32:51.341328Z",
   "repos": [
     {
       "name": "XiaoDuoYa/codex-with-chatgpt",
-      "stars": 2275
+      "stars": 2327
     },
     {
       "name": "Nanako0129/sepia",
-      "stars": 1577
+      "stars": 1743
     },
     {
       "name": "MetaMask-AI/metamask-desktop",
@@ -15,11 +15,11 @@
     },
     {
       "name": "cbrock84/headcount",
-      "stars": 1116
+      "stars": 1141
     },
     {
-      "name": "GangTailorUpgrade/undress-service",
-      "stars": 933
+      "name": "anthropics/commerce-agents",
+      "stars": 1028
     }
   ]
 }
