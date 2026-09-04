@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T00:53:12.705818Z",
+  "updated_at": "2026-09-04T10:22:48.629359Z",
   "stories": [
     {
       "title": "GPT-6 Astra",
-      "score": 1257
-    },
-    {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "score": 438
+      "score": 1827
     },
     {
       "title": ".name Termination",
-      "score": 1309
+      "score": 1840
     },
     {
-      "title": "The largest electric aircraft just flew [video]",
-      "score": 173
+      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
+      "score": 33
     },
     {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "score": 187
+      "title": "The Raspberry Pi Interactive Timeline \u00b7 2006\u20132026",
+      "score": 21
+    },
+    {
+      "title": "Authorization terminology is a mess: Let's fix it",
+      "score": 48
     }
   ]
 }
