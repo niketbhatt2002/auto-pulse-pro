@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T22:23:17.102433Z",
+  "updated_at": "2026-09-04T00:53:12.705818Z",
   "stories": [
     {
       "title": "GPT-6 Astra",
-      "score": 1003
+      "score": 1257
     },
     {
       "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "score": 364
+      "score": 438
     },
     {
       "title": ".name Termination",
-      "score": 1160
+      "score": 1309
     },
     {
       "title": "The largest electric aircraft just flew [video]",
-      "score": 104
+      "score": 173
     },
     {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "score": 229
+      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
+      "score": 187
     }
   ]
 }

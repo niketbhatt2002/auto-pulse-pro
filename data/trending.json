@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-03T22:23:18.225155Z",
+  "updated_at": "2026-09-04T00:53:25.714376Z",
   "repos": [
     {
-      "name": "XiaoDuoYa/codex-with-chatgpt",
-      "stars": 2382
-    },
-    {
-      "name": "Nanako0129/sepia",
-      "stars": 1856
-    },
-    {
       "name": "anthropics/commerce-agents",
-      "stars": 1513
+      "stars": 1558
     },
     {
-      "name": "MetaMask-AI/metamask-desktop",
-      "stars": 1230
+      "name": "rakanki911/DLSS5-Swapper",
+      "stars": 1082
     },
     {
-      "name": "cbrock84/headcount",
-      "stars": 1180
+      "name": "GangTailorUpgrade/undress-service",
+      "stars": 1016
+    },
+    {
+      "name": "shadcn-ui/cn",
+      "stars": 958
+    },
+    {
+      "name": "2akouwu/reverify",
+      "stars": 773
     }
   ]
 }
