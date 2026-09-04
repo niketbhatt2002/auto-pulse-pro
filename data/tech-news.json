@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T19:11:15.897907Z",
+  "updated_at": "2026-09-04T22:12:17.646584Z",
   "stories": [
     {
       "title": "Formalizing Fermat's Last Theorem",
-      "score": 67
+      "score": 351
+    },
+    {
+      "title": "Statichost.eu \u2013 100% European static site hosting",
+      "score": 82
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1130
+      "score": 1365
     },
     {
-      "title": "Show HN: Open-Source eInk Bike Computer",
-      "score": 99
+      "title": "Can AI design circuit boards yet?",
+      "score": 84
     },
     {
-      "title": "Shutting down our public encrypted DNS",
-      "score": 28
-    },
-    {
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "score": 39
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "score": 17
     }
   ]
 }
