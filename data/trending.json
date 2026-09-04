@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T17:28:43.328890Z",
+  "updated_at": "2026-09-04T19:11:16.991819Z",
   "repos": [
     {
       "name": "anthropics/commerce-agents",
-      "stars": 1875
-    },
-    {
-      "name": "rakanki911/DLSS5-Swapper",
-      "stars": 1414
+      "stars": 1890
     },
     {
       "name": "lnkiai/m3e-canvas",
-      "stars": 1309
+      "stars": 1509
+    },
+    {
+      "name": "rakanki911/DLSS5-Swapper",
+      "stars": 1447
     },
     {
       "name": "shadcn-ui/cn",
-      "stars": 1068
+      "stars": 1084
     },
     {
       "name": "GangTailorUpgrade/undress-service",
-      "stars": 1041
+      "stars": 1047
     }
   ]
 }

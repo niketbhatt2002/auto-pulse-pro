@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T17:28:42.034333Z",
+  "updated_at": "2026-09-04T19:11:15.897907Z",
   "stories": [
     {
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 67
+    },
+    {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 901
+      "score": 1130
+    },
+    {
+      "title": "Show HN: Open-Source eInk Bike Computer",
+      "score": 99
+    },
+    {
+      "title": "Shutting down our public encrypted DNS",
+      "score": 28
     },
     {
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "score": 13
-    },
-    {
-      "title": "Solving the Jane Street reverse engineering challenge",
-      "score": 290
-    },
-    {
-      "title": "IBM Bob",
-      "score": 111
-    },
-    {
-      "title": "GPT-6 Astra",
-      "score": 2065
+      "score": 39
     }
   ]
 }
