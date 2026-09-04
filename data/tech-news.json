@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T13:20:51.632397Z",
+  "updated_at": "2026-09-04T13:52:18.267182Z",
   "stories": [
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 191
+      "score": 296
+    },
+    {
+      "title": "IBM Bob",
+      "score": 43
     },
     {
       "title": "Solving the Jane Street Reverse Engineering Challenge",
-      "score": 146
+      "score": 165
     },
     {
       "title": "GPT-6 Astra",
-      "score": 1926
+      "score": 1945
     },
     {
-      "title": "O&O ShutUp10 \u2013 The antispy tool for Windows 10 and 11",
-      "score": 38
-    },
-    {
-      "title": ".name Termination",
-      "score": 1978
+      "title": "Ok, but Does It Scale?",
+      "score": 30
     }
   ]
 }
