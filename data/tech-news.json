@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T12:24:55.648376Z",
+  "updated_at": "2026-09-04T13:20:51.632397Z",
   "stories": [
     {
+      "title": "Discovery of a new OpenAI agent message board",
+      "score": 191
+    },
+    {
       "title": "Solving the Jane Street Reverse Engineering Challenge",
-      "score": 100
+      "score": 146
     },
     {
       "title": "GPT-6 Astra",
-      "score": 1895
+      "score": 1926
+    },
+    {
+      "title": "O&O ShutUp10 \u2013 The antispy tool for Windows 10 and 11",
+      "score": 38
     },
     {
       "title": ".name Termination",
-      "score": 1938
-    },
-    {
-      "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "score": 56
-    },
-    {
-      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
-      "score": 23
+      "score": 1978
     }
   ]
 }
