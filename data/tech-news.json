@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T10:22:48.629359Z",
+  "updated_at": "2026-09-04T11:56:04.780052Z",
   "stories": [
     {
+      "title": "Solving the Jane Street Reverse Engineering Challenge",
+      "score": 69
+    },
+    {
       "title": "GPT-6 Astra",
-      "score": 1827
+      "score": 1889
     },
     {
       "title": ".name Termination",
-      "score": 1840
+      "score": 1919
     },
     {
       "title": "Carbon-aware electricity pricing, measured daily on 38 grids",
-      "score": 33
+      "score": 51
     },
     {
-      "title": "The Raspberry Pi Interactive Timeline \u00b7 2006\u20132026",
-      "score": 21
-    },
-    {
-      "title": "Authorization terminology is a mess: Let's fix it",
-      "score": 48
+      "title": "Elevator of the Year Winner Modernization of the Metropolis Trust Building",
+      "score": 15
     }
   ]
 }
