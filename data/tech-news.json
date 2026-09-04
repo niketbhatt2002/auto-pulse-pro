@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T14:45:22.178833Z",
+  "updated_at": "2026-09-04T17:28:42.034333Z",
   "stories": [
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 475
+      "score": 901
     },
     {
-      "title": "Google AI Mode shows same products 21.6% more expensive than traditional search",
-      "score": 88
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "score": 13
     },
     {
-      "title": "Solving the Jane Street Reverse Engineering Challenge",
-      "score": 189
+      "title": "Solving the Jane Street reverse engineering challenge",
+      "score": 290
     },
     {
-      "title": "Burnt out on a three-day week",
-      "score": 18
+      "title": "IBM Bob",
+      "score": 111
     },
     {
       "title": "GPT-6 Astra",
-      "score": 1970
+      "score": 2065
     }
   ]
 }
