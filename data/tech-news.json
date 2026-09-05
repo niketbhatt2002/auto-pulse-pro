@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T16:39:45.484767Z",
+  "updated_at": "2026-09-05T18:37:23.756113Z",
   "stories": [
     {
-      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods",
-      "score": 30
-    },
-    {
       "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
-      "score": 117
-    },
-    {
-      "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
-      "score": 127
-    },
-    {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 655
+      "score": 166
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1899
+      "score": 1967
+    },
+    {
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "score": 693
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "score": 508
+    },
+    {
+      "title": "Wikimedia Foundation Workers Overwhelmingly Vote to Form Union with CWA",
+      "score": 142
     }
   ]
 }
