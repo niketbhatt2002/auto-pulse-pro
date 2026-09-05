@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T11:31:25.669327Z",
+  "updated_at": "2026-09-05T12:30:02.315783Z",
   "stories": [
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 530
+      "score": 567
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1749
-    },
-    {
-      "title": "Formalizing Fermat's Last Theorem",
-      "score": 627
-    },
-    {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "score": 166
+      "score": 1786
     },
     {
       "title": "Nitter has more working instances than before the takedowns",
-      "score": 272
+      "score": 313
+    },
+    {
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 639
+    },
+    {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "score": 198
     }
   ]
 }
