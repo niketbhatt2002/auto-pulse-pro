@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T00:47:14.669765Z",
+  "updated_at": "2026-09-05T09:50:04.879818Z",
   "stories": [
     {
+      "title": "AI handles incidents, engineers lose touch with their systems",
+      "score": 84
+    },
+    {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 176
-    },
-    {
-      "title": "Formalizing Fermat's Last Theorem",
-      "score": 457
-    },
-    {
-      "title": "Statichost.eu \u2013 European static site hosting",
-      "score": 162
+      "score": 499
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1448
+      "score": 1716
     },
     {
-      "title": "GPT-6 Astra on OpenRouter",
-      "score": 104
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 618
+    },
+    {
+      "title": "Nitter has more working instances than before the takedowns",
+      "score": 213
     }
   ]
 }
