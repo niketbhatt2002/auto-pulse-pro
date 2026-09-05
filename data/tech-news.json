@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T13:39:29.957047Z",
+  "updated_at": "2026-09-05T16:39:45.484767Z",
   "stories": [
     {
+      "title": "How the Tobacco Industry Drove the Rise of Ultra-Processed Foods",
+      "score": 30
+    },
+    {
+      "title": "The \"$60 Gaming PC\" \u2013 AMD BC-250 (2025)",
+      "score": 117
+    },
+    {
+      "title": "How the Planet-Altering Disaster of \"Forever Chemicals\" Was Kept Secret",
+      "score": 127
+    },
+    {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 598
-    },
-    {
-      "title": "Discovery of a new OpenAI agent message board",
-      "score": 1820
-    },
-    {
-      "title": "Nitter has more working instances than before the takedowns",
-      "score": 356
-    },
-    {
-      "title": "Formalizing Fermat's Last Theorem",
       "score": 655
     },
     {
-      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
-      "score": 125
+      "title": "Discovery of a new OpenAI agent message board",
+      "score": 1899
     }
   ]
 }
