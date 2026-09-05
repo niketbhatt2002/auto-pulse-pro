@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T13:05:54.837585Z",
+  "updated_at": "2026-09-05T13:39:29.957047Z",
   "stories": [
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 584
+      "score": 598
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1802
+      "score": 1820
     },
     {
       "title": "Nitter has more working instances than before the takedowns",
-      "score": 333
+      "score": 356
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
-      "score": 648
+      "score": 655
     },
     {
-      "title": "Statichost.eu \u2013 European static site hosting",
-      "score": 339
+      "title": "Netherlands pulls gold out of the US for fears of 'geopolitical unrest'",
+      "score": 125
     }
   ]
 }
