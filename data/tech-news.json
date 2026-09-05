@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-04T22:12:17.646584Z",
+  "updated_at": "2026-09-05T00:47:14.669765Z",
   "stories": [
     {
-      "title": "Formalizing Fermat's Last Theorem",
-      "score": 351
+      "title": "Actively exploited sandbox RCE in all Chromium versions",
+      "score": 176
     },
     {
-      "title": "Statichost.eu \u2013 100% European static site hosting",
-      "score": 82
+      "title": "Formalizing Fermat's Last Theorem",
+      "score": 457
+    },
+    {
+      "title": "Statichost.eu \u2013 European static site hosting",
+      "score": 162
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1365
+      "score": 1448
     },
     {
-      "title": "Can AI design circuit boards yet?",
-      "score": 84
-    },
-    {
-      "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 17
+      "title": "GPT-6 Astra on OpenRouter",
+      "score": 104
     }
   ]
 }
