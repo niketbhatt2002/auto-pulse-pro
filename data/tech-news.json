@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T12:30:02.315783Z",
+  "updated_at": "2026-09-05T13:05:54.837585Z",
   "stories": [
     {
       "title": "Actively exploited sandbox RCE in all Chromium versions",
-      "score": 567
+      "score": 584
     },
     {
       "title": "Discovery of a new OpenAI agent message board",
-      "score": 1786
+      "score": 1802
     },
     {
       "title": "Nitter has more working instances than before the takedowns",
-      "score": 313
+      "score": 333
     },
     {
       "title": "Formalizing Fermat's Last Theorem",
-      "score": 639
+      "score": 648
     },
     {
-      "title": "AI handles incidents, engineers lose touch with their systems",
-      "score": 198
+      "title": "Statichost.eu \u2013 European static site hosting",
+      "score": 339
     }
   ]
 }
