@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T18:37:24.695122Z",
+  "updated_at": "2026-09-05T21:57:58.371777Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
-      "stars": 3507
+      "stars": 3584
     },
     {
       "name": "anthropics/commerce-agents",
-      "stars": 2029
+      "stars": 2043
     },
     {
       "name": "shadcn-ui/cn",
-      "stars": 1163
+      "stars": 1168
     },
     {
       "name": "GangTailorUpgrade/undress-service",
-      "stars": 1081
+      "stars": 1087
     },
     {
       "name": "2akouwu/reverify",
-      "stars": 920
+      "stars": 921
     }
   ]
 }
