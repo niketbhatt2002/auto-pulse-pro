@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-06T11:28:52.825210Z",
+  "updated_at": "2026-09-06T11:51:41.790033Z",
   "stories": [
     {
-      "title": "I Changed My License",
-      "score": 35
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "score": 250
     },
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "score": 233
+      "title": "I Changed My License",
+      "score": 51
     },
     {
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "score": 440
-    },
-    {
-      "title": "Pigeon, a signed Pass for what a sub-agent may do",
-      "score": 5
+      "score": 446
     },
     {
       "title": "The revolt of the reader",
-      "score": 389
+      "score": 396
+    },
+    {
+      "title": "Music Theory for Programmers",
+      "score": 170
     }
   ]
 }
