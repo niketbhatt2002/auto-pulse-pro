@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-06T11:51:41.790033Z",
+  "updated_at": "2026-09-06T12:45:19.005481Z",
   "stories": [
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "score": 250
+      "title": "Intellectual Fly Is Open",
+      "score": 46
     },
     {
-      "title": "I Changed My License",
-      "score": 51
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "score": 295
+    },
+    {
+      "title": "Doomscrolling Ourselves to Death",
+      "score": 25
+    },
+    {
+      "title": "M-DISC \u2013 DVD/Blu-ray compatible discs that may last up to 1000 years",
+      "score": 53
     },
     {
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "score": 446
-    },
-    {
-      "title": "The revolt of the reader",
-      "score": 396
-    },
-    {
-      "title": "Music Theory for Programmers",
-      "score": 170
+      "score": 474
     }
   ]
 }
