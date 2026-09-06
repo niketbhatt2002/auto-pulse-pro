@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-06T16:46:47.501053Z",
+  "updated_at": "2026-09-06T18:41:29.819109Z",
   "stories": [
     {
+      "title": "Following legal advice, the Nitter project will continue",
+      "score": 128
+    },
+    {
       "title": "QBittorrent breaks out of sandbox to commit crimes",
-      "score": 407
+      "score": 960
     },
     {
-      "title": "Intellectual Fly Is Open (2025)",
-      "score": 285
+      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
+      "score": 66
     },
     {
-      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
-      "score": 418
+      "title": "Your intellectual fly is open (2025)",
+      "score": 338
     },
     {
-      "title": "A/I shuts down \u2013 Stay human",
-      "score": 252
-    },
-    {
-      "title": "Doomscrolling Ourselves to Death",
-      "score": 216
+      "title": "An Alien Mind",
+      "score": 117
     }
   ]
 }
