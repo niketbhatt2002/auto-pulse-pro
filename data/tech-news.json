@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-06T00:46:00.268098Z",
+  "updated_at": "2026-09-06T10:06:32.907414Z",
   "stories": [
     {
+      "title": "Isar Aerospace reaches orbit and deploys payloads on second flight",
+      "score": 131
+    },
+    {
       "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
-      "score": 35
+      "score": 408
     },
     {
-      "title": "Private German rocket makes history, reaches orbit from European soil",
-      "score": 337
+      "title": "Play GTA Vice City in the Browser",
+      "score": 46
     },
     {
-      "title": "The revolt of the reader",
-      "score": 51
+      "title": "You Don't Have a Right to Safe Drinking Water, US Court Rules",
+      "score": 65
     },
     {
-      "title": "Learn Programming with OCaml",
-      "score": 164
-    },
-    {
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "score": 55
+      "title": "Music Theory for Programmers",
+      "score": 135
     }
   ]
 }
