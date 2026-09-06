@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-05T21:57:57.126129Z",
+  "updated_at": "2026-09-06T00:46:00.268098Z",
   "stories": [
     {
-      "title": "The Real Luxuries In Life",
-      "score": 336
-    },
-    {
-      "title": "LLMs as a Cognitive Virus",
-      "score": 79
-    },
-    {
-      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
-      "score": 33
+      "title": "Cloud in a Bottle: making self-hosting accessible to everyone",
+      "score": 35
     },
     {
       "title": "Private German rocket makes history, reaches orbit from European soil",
-      "score": 146
+      "score": 337
+    },
+    {
+      "title": "The revolt of the reader",
+      "score": 51
     },
     {
       "title": "Learn Programming with OCaml",
-      "score": 118
+      "score": 164
+    },
+    {
+      "title": "Finite time blowup for an averaged three-dimensional Navier-Stokes equation (2014)",
+      "score": 55
     }
   ]
 }
