@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-06T21:59:39.313240Z",
+  "updated_at": "2026-09-07T00:48:52.294042Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
-      "stars": 4250
+      "stars": 4277
     },
     {
       "name": "anthropics/commerce-agents",
-      "stars": 2200
+      "stars": 2209
     },
     {
       "name": "ashemag/human-atlas",
-      "stars": 1284
+      "stars": 1344
     },
     {
-      "name": "shadcn-ui/cn",
-      "stars": 1212
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "stars": 1008
     },
     {
-      "name": "GangTailorUpgrade/undress-service",
-      "stars": 1134
+      "name": "pierrenade/short-video-generator-AI",
+      "stars": 859
     }
   ]
 }
