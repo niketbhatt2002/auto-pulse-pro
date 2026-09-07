@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T14:56:15.695560Z",
+  "updated_at": "2026-09-07T15:23:12.298446Z",
   "stories": [
     {
       "title": "De-Brainrot Vacations",
-      "score": 199
+      "score": 232
     },
     {
       "title": "bzip3",
-      "score": 63
+      "score": 86
     },
     {
       "title": "Keep Our Servers Running",
-      "score": 710
-    },
-    {
-      "title": "Splash-free urinals (2025)",
-      "score": 111
+      "score": 727
     },
     {
       "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-      "score": 100
+      "score": 111
+    },
+    {
+      "title": "Splash-free urinals (2025)",
+      "score": 128
     }
   ]
 }
