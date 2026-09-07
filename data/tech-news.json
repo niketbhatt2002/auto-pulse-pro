@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T16:15:45.321249Z",
+  "updated_at": "2026-09-07T18:38:50.135285Z",
   "stories": [
     {
-      "title": "De-Brainrot Vacations",
-      "score": 298
-    },
-    {
       "title": "bzip3",
-      "score": 136
+      "score": 251
     },
     {
       "title": "Keep Our Servers Running",
-      "score": 764
+      "score": 843
     },
     {
-      "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-      "score": 129
+      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
+      "score": 6
+    },
+    {
+      "title": "C Is Not a Low-Level Language (2018)",
+      "score": 33
     },
     {
       "title": "Simple Is Not Small",
-      "score": 48
+      "score": 98
     }
   ]
 }
