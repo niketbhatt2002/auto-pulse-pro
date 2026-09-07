@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T20:12:55.260592Z",
+  "updated_at": "2026-09-07T22:37:00.879594Z",
   "stories": [
     {
       "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
-      "score": 67
+      "score": 155
     },
     {
-      "title": "bzip3",
-      "score": 316
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "score": 95
     },
     {
-      "title": "Keep Our Servers Running",
-      "score": 892
+      "title": "WeatherNext 3",
+      "score": 165
     },
     {
-      "title": "AI Cold Showers",
-      "score": 9
+      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
+      "score": 50
     },
     {
-      "title": "Methods for Random Gradients",
-      "score": 18
+      "title": "Scientists observe Einstein's gravity in the quantum world",
+      "score": 80
     }
   ]
 }
