@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T13:51:46.788924Z",
+  "updated_at": "2026-09-07T14:56:15.695560Z",
   "stories": [
     {
       "title": "De-Brainrot Vacations",
-      "score": 110
+      "score": 199
     },
     {
-      "title": "Splash-free urinals for global sustainability and accessibility",
-      "score": 57
+      "title": "bzip3",
+      "score": 63
     },
     {
       "title": "Keep Our Servers Running",
-      "score": 673
+      "score": 710
+    },
+    {
+      "title": "Splash-free urinals (2025)",
+      "score": 111
     },
     {
       "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
-      "score": 75
-    },
-    {
-      "title": "Live map of public transport in Belgium",
-      "score": 107
+      "score": 100
     }
   ]
 }
