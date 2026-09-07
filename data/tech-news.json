@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T00:48:51.121290Z",
+  "updated_at": "2026-09-07T11:20:55.257700Z",
   "stories": [
     {
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "score": 172
+      "title": "Keep Our Servers Running",
+      "score": 542
     },
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "score": 49
+      "title": "Caltech Mathathon \u2013 first hackathon ever devoted to research level mathematics",
+      "score": 30
     },
     {
-      "title": "Your intellectual fly is open (2025)",
-      "score": 505
+      "title": "Live map of public transport in Belgium",
+      "score": 48
     },
     {
-      "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "score": 62
+      "title": "Speculative Decoding in vLLM on AMD GPUs",
+      "score": 24
     },
     {
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "score": 36
+      "title": "Impedance Matching",
+      "score": 15
     }
   ]
 }
