@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T18:38:50.135285Z",
+  "updated_at": "2026-09-07T20:12:55.260592Z",
   "stories": [
     {
+      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
+      "score": 67
+    },
+    {
       "title": "bzip3",
-      "score": 251
+      "score": 316
     },
     {
       "title": "Keep Our Servers Running",
-      "score": 843
+      "score": 892
     },
     {
-      "title": "AI models ran real businesses: They sent $12,431 in fake invoices, lost $3,200",
-      "score": 6
+      "title": "AI Cold Showers",
+      "score": 9
     },
     {
-      "title": "C Is Not a Low-Level Language (2018)",
-      "score": 33
-    },
-    {
-      "title": "Simple Is Not Small",
-      "score": 98
+      "title": "Methods for Random Gradients",
+      "score": 18
     }
   ]
 }

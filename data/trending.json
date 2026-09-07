@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T18:38:51.180385Z",
+  "updated_at": "2026-09-07T20:12:56.472148Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
-      "stars": 4620
+      "stars": 4634
     },
     {
       "name": "anthropics/commerce-agents",
-      "stars": 2383
+      "stars": 2386
     },
     {
       "name": "ashemag/human-atlas",
-      "stars": 1919
+      "stars": 1953
     },
     {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "stars": 1746
+      "stars": 1752
     },
     {
       "name": "pierrenade/short-video-generator-AI",
-      "stars": 1156
+      "stars": 1160
     }
   ]
 }
