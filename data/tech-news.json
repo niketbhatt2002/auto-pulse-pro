@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T14:51:52.400823Z",
+  "updated_at": "2026-09-08T17:49:58.329224Z",
   "stories": [
     {
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "score": 204
+    },
+    {
+      "title": "Google DeepMind Releases AlphaGenome Atlas",
+      "score": 233
+    },
+    {
       "title": "DaVinci Resolve 21.1",
-      "score": 84
+      "score": 238
     },
     {
-      "title": "Show HN: Copperhead \u2013 Hardware as Fast as Software",
-      "score": 70
+      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
+      "score": 30
     },
     {
-      "title": "LibreOffice breaks download records after declaring it has no AI features",
-      "score": 154
-    },
-    {
-      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-      "score": 311
-    },
-    {
-      "title": "Antiquated HTML Snippets and Artefacts",
-      "score": 145
+      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
+      "score": 90
     }
   ]
 }

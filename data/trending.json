@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T14:51:53.568192Z",
+  "updated_at": "2026-09-08T17:50:08.219337Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
-      "stars": 5042
+      "stars": 5125
     },
     {
       "name": "ashemag/human-atlas",
-      "stars": 2358
-    },
-    {
-      "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "stars": 1924
+      "stars": 2406
     },
     {
       "name": "Albert-Weasker/niubigeo",
-      "stars": 1425
+      "stars": 2044
+    },
+    {
+      "name": "Rion-Wu-tech/wechat-intelligence-hub",
+      "stars": 1932
     },
     {
       "name": "EverettFish/holo-card-studio",
-      "stars": 1085
+      "stars": 1112
     }
   ]
 }
