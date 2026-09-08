@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T01:04:05.704293Z",
+  "updated_at": "2026-09-08T10:26:27.294822Z",
   "stories": [
     {
-      "title": "TALA Is Open-Source",
-      "score": 46
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "score": 87
     },
     {
-      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
-      "score": 54
+      "title": "Why getting your hands dirty is good for you",
+      "score": 11
     },
     {
-      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
-      "score": 206
+      "title": "We built our house for LAN parties",
+      "score": 103
     },
     {
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "score": 79
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "score": 340
     },
     {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "score": 136
+      "title": "There's a new \"Google Jail\" for independent wikis",
+      "score": 164
     }
   ]
 }

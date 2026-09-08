@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T01:04:06.713201Z",
+  "updated_at": "2026-09-08T10:26:28.646337Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
-      "stars": 4675
+      "stars": 4873
     },
     {
       "name": "ashemag/human-atlas",
-      "stars": 2022
+      "stars": 2262
     },
     {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "stars": 1792
+      "stars": 1899
     },
     {
       "name": "pierrenade/short-video-generator-AI",
-      "stars": 1173
+      "stars": 1212
     },
     {
-      "name": "anthropics/fermats-last-theorem",
-      "stars": 939
+      "name": "EverettFish/holo-card-studio",
+      "stars": 1014
     }
   ]
 }
