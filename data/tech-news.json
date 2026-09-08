@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T13:59:15.620934Z",
+  "updated_at": "2026-09-08T14:51:52.400823Z",
   "stories": [
     {
-      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-      "score": 282
+      "title": "DaVinci Resolve 21.1",
+      "score": 84
     },
     {
       "title": "Show HN: Copperhead \u2013 Hardware as Fast as Software",
-      "score": 19
+      "score": 70
     },
     {
-      "title": "DaVinci Resolve 21.1",
-      "score": 7
+      "title": "LibreOffice breaks download records after declaring it has no AI features",
+      "score": 154
+    },
+    {
+      "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
+      "score": 311
     },
     {
       "title": "Antiquated HTML Snippets and Artefacts",
-      "score": 126
-    },
-    {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "score": 411
+      "score": 145
     }
   ]
 }
