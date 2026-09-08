@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T13:25:51.952830Z",
+  "updated_at": "2026-09-08T13:59:15.620934Z",
   "stories": [
     {
       "title": "Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare",
-      "score": 241
+      "score": 282
+    },
+    {
+      "title": "Show HN: Copperhead \u2013 Hardware as Fast as Software",
+      "score": 19
+    },
+    {
+      "title": "DaVinci Resolve 21.1",
+      "score": 7
     },
     {
       "title": "Antiquated HTML Snippets and Artefacts",
-      "score": 106
+      "score": 126
     },
     {
       "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "score": 402
-    },
-    {
-      "title": "There's a new \"Google Jail\" for independent wikis",
-      "score": 287
-    },
-    {
-      "title": "Why getting your hands dirty is good for you",
-      "score": 96
+      "score": 411
     }
   ]
 }
