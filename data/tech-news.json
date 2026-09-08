@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T17:49:58.329224Z",
+  "updated_at": "2026-09-08T19:37:54.917829Z",
   "stories": [
     {
-      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "score": 204
+      "title": "Muse: Meta's personal AI agent, features and capabilities",
+      "score": 28
     },
     {
       "title": "Google DeepMind Releases AlphaGenome Atlas",
-      "score": 233
+      "score": 363
     },
     {
       "title": "DaVinci Resolve 21.1",
-      "score": 238
-    },
-    {
-      "title": "Making Teenagers Read Newspapers. A Nationwide Experiment in French High Schools",
-      "score": 30
+      "score": 289
     },
     {
       "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "score": 90
+      "score": 142
+    },
+    {
+      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
+      "score": 653
     }
   ]
 }
