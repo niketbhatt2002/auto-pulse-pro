@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T22:37:01.993975Z",
+  "updated_at": "2026-09-08T01:04:06.713201Z",
   "repos": [
     {
       "name": "lnkiai/m3e-canvas",
-      "stars": 4649
-    },
-    {
-      "name": "anthropics/commerce-agents",
-      "stars": 2392
+      "stars": 4675
     },
     {
       "name": "ashemag/human-atlas",
-      "stars": 1991
+      "stars": 2022
     },
     {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "stars": 1757
+      "stars": 1792
     },
     {
       "name": "pierrenade/short-video-generator-AI",
-      "stars": 1165
+      "stars": 1173
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "stars": 939
     }
   ]
 }

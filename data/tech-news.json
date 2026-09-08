@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-07T22:37:00.879594Z",
+  "updated_at": "2026-09-08T01:04:05.704293Z",
   "stories": [
     {
+      "title": "TALA Is Open-Source",
+      "score": 46
+    },
+    {
+      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
+      "score": 54
+    },
+    {
       "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
-      "score": 155
+      "score": 206
+    },
+    {
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "score": 79
     },
     {
       "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "score": 95
-    },
-    {
-      "title": "WeatherNext 3",
-      "score": 165
-    },
-    {
-      "title": "Finding a bug in Dummit and Foote's Abstract Algebra",
-      "score": 50
-    },
-    {
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "score": 80
+      "score": 136
     }
   ]
 }
