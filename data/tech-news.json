@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T19:37:54.917829Z",
+  "updated_at": "2026-09-08T22:26:42.074663Z",
   "stories": [
     {
-      "title": "Muse: Meta's personal AI agent, features and capabilities",
-      "score": 28
-    },
-    {
       "title": "Google DeepMind Releases AlphaGenome Atlas",
-      "score": 363
+      "score": 448
     },
     {
-      "title": "DaVinci Resolve 21.1",
-      "score": 289
+      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
+      "score": 16
     },
     {
-      "title": "Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses",
-      "score": 142
+      "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
+      "score": 984
     },
     {
       "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "score": 653
+      "score": 979
+    },
+    {
+      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
+      "score": 166
     }
   ]
 }
