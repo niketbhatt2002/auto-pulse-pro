@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-09T19:31:47.052997Z",
+  "updated_at": "2026-09-09T22:20:25.095885Z",
   "stories": [
     {
-      "title": "Tailwind Labs is joining Shopify",
-      "score": 666
+      "title": "iPhone Duo",
+      "score": 690
+    },
+    {
+      "title": "Shopify acquires Tailwind",
+      "score": 804
+    },
+    {
+      "title": "AirPods 5",
+      "score": 318
     },
     {
       "title": "What do Visa and Mastercard do? An intro to card networks",
-      "score": 134
+      "score": 265
     },
     {
-      "title": "Apple Unveils iPhone Duo",
-      "score": 295
-    },
-    {
-      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
-      "score": 79
-    },
-    {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "score": 230
+      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
+      "score": 215
     }
   ]
 }
