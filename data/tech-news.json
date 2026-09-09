@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-08T22:26:42.074663Z",
+  "updated_at": "2026-09-09T01:08:05.542779Z",
   "stories": [
     {
-      "title": "Google DeepMind Releases AlphaGenome Atlas",
-      "score": 448
+      "title": "Muse \u2013 Meta\u2019s personal AI agent",
+      "score": 277
     },
     {
-      "title": "Large Language Models Develop Novel Social Biases Through Adaptive Exploration",
-      "score": 16
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "score": 86
+    },
+    {
+      "title": "AlphaGenome Atlas: a high-resolution map of human DNA",
+      "score": 487
+    },
+    {
+      "title": "How to build a printer",
+      "score": 118
     },
     {
       "title": "Navier-Stokes \u2013 Tristan Buckmaster [pdf]",
-      "score": 984
-    },
-    {
-      "title": "On the Navier\u2013Stokes Millennium Prize Problem",
-      "score": 979
-    },
-    {
-      "title": "Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs",
-      "score": 166
+      "score": 1219
     }
   ]
 }
