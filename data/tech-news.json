@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-09T17:42:23.902555Z",
+  "updated_at": "2026-09-09T19:31:47.052997Z",
   "stories": [
     {
       "title": "Tailwind Labs is joining Shopify",
-      "score": 559
+      "score": 666
     },
     {
-      "title": "Growing proof that autonomous cars save lives",
-      "score": 37
+      "title": "What do Visa and Mastercard do? An intro to card networks",
+      "score": 134
+    },
+    {
+      "title": "Apple Unveils iPhone Duo",
+      "score": 295
+    },
+    {
+      "title": "Qwen 3.8 follows GPT-5.5 Pro reasoning prefills",
+      "score": 79
     },
     {
       "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "score": 147
-    },
-    {
-      "title": "GNU Radio in the browser",
-      "score": 63
-    },
-    {
-      "title": "Planet Labs' open satellite feed",
-      "score": 52
+      "score": 230
     }
   ]
 }
