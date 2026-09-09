@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-09T12:36:59.565692Z",
+  "updated_at": "2026-09-09T13:36:40.586795Z",
   "stories": [
     {
       "title": "Flock Wants a Closely Surveilled World with No Exit",
-      "score": 183
+      "score": 324
     },
     {
       "title": "Desert Ant Labs: local, fast models that run on device",
-      "score": 47
+      "score": 105
+    },
+    {
+      "title": "Tailwind Labs is joining Shopify",
+      "score": 27
     },
     {
       "title": "I advertise malicious software on Google Ads",
-      "score": 42
+      "score": 123
     },
     {
       "title": "Lotus Notes and the dangers of starting from scratch",
-      "score": 66
-    },
-    {
-      "title": "Muse \u2013 Meta\u2019s personal AI agent",
-      "score": 551
+      "score": 84
     }
   ]
 }
