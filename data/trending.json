@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-09T14:59:55.759625Z",
+  "updated_at": "2026-09-09T17:42:25.183784Z",
   "repos": [
     {
       "name": "ashemag/human-atlas",
-      "stars": 2739
+      "stars": 2794
     },
     {
       "name": "Albert-Weasker/niubigeo",
-      "stars": 2217
+      "stars": 2225
     },
     {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
-      "stars": 2009
+      "stars": 2014
     },
     {
       "name": "openai/NavierStokesAndEuler",
-      "stars": 1425
+      "stars": 1493
     },
     {
       "name": "vinzdg/codenotch",
-      "stars": 1224
+      "stars": 1256
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-09T14:59:54.580131Z",
+  "updated_at": "2026-09-09T17:42:23.902555Z",
   "stories": [
     {
       "title": "Tailwind Labs is joining Shopify",
-      "score": 279
+      "score": 559
     },
     {
-      "title": "Flock Wants a Closely Surveilled World with No Exit",
-      "score": 504
+      "title": "Growing proof that autonomous cars save lives",
+      "score": 37
     },
     {
-      "title": "Desert Ant Labs: local, fast models that run on device",
-      "score": 173
+      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
+      "score": 147
     },
     {
-      "title": "Claude, change the \"Add to Cart\" button to blue",
-      "score": 341
+      "title": "GNU Radio in the browser",
+      "score": 63
     },
     {
-      "title": "I advertise malicious software on Google Ads",
-      "score": 195
+      "title": "Planet Labs' open satellite feed",
+      "score": 52
     }
   ]
 }
