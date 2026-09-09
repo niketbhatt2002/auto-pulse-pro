@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-09T13:36:40.586795Z",
+  "updated_at": "2026-09-09T14:01:20.319925Z",
   "stories": [
     {
+      "title": "Tailwind Labs is joining Shopify",
+      "score": 108
+    },
+    {
       "title": "Flock Wants a Closely Surveilled World with No Exit",
-      "score": 324
+      "score": 384
     },
     {
       "title": "Desert Ant Labs: local, fast models that run on device",
-      "score": 105
-    },
-    {
-      "title": "Tailwind Labs is joining Shopify",
-      "score": 27
+      "score": 127
     },
     {
       "title": "I advertise malicious software on Google Ads",
-      "score": 123
+      "score": 150
     },
     {
-      "title": "Lotus Notes and the dangers of starting from scratch",
-      "score": 84
+      "title": "Claude, change the \"Add to Cart\" button to blue",
+      "score": 201
     }
   ]
 }
