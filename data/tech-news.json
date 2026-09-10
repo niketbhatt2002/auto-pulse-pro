@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-10T13:56:45.802078Z",
+  "updated_at": "2026-09-10T14:47:12.910888Z",
   "stories": [
     {
+      "title": "Shopify moves back to Native from React Native",
+      "score": 98
+    },
+    {
+      "title": "Rust Is Tier-1 Language at Microsoft",
+      "score": 83
+    },
+    {
       "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "score": 100
+      "score": 143
     },
     {
-      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-      "score": 258
+      "title": "Amazon pilots ad services in ChatGPT",
+      "score": 22
     },
     {
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "score": 186
-    },
-    {
-      "title": "Another researcher says OpenAI trained on conversations, then claimed breakthrou",
-      "score": 84
-    },
-    {
-      "title": "List of references on Sony websites to players \"owning\" their digital games",
-      "score": 68
+      "title": "The same nine streaming subscriptions cost $702/year more than in 2021",
+      "score": 331
     }
   ]
 }
