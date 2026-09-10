@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-10T17:35:02.271572Z",
+  "updated_at": "2026-09-10T19:18:48.088097Z",
   "stories": [
     {
-      "title": "Shopify moves back to Native from React Native",
-      "score": 445
+      "title": "Rust is tier-1 language at Microsoft",
+      "score": 442
     },
     {
-      "title": "Rust Is Tier-1 Language at Microsoft",
-      "score": 321
+      "title": "I have a theory that software drives people insane",
+      "score": 189
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "score": 109
+      "score": 188
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "score": 166
+      "score": 292
     },
     {
-      "title": "Software Drives People Insane",
-      "score": 51
+      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
+      "score": 123
     }
   ]
 }

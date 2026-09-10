@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-10T17:35:03.442645Z",
+  "updated_at": "2026-09-10T19:18:49.398095Z",
   "repos": [
     {
       "name": "ashemag/human-atlas",
-      "stars": 3050
+      "stars": 3058
     },
     {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
@@ -11,15 +11,15 @@
     },
     {
       "name": "openai/NavierStokesAndEuler",
-      "stars": 1679
+      "stars": 1689
     },
     {
       "name": "vinzdg/codenotch",
-      "stars": 1361
+      "stars": 1369
     },
     {
-      "name": "EverettFish/holo-card-studio",
-      "stars": 1325
+      "name": "sdli1995/dlssg_for_sm86",
+      "stars": 1354
     }
   ]
 }
