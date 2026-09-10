@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-10T10:24:29.161730Z",
+  "updated_at": "2026-09-10T12:00:19.791539Z",
   "stories": [
     {
-      "title": "DeepSeek v4.1 Flash",
-      "score": 386
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "score": 111
     },
     {
-      "title": "iPhone Duo",
-      "score": 1218
+      "title": "DeepSeek v4.1 Flash",
+      "score": 474
+    },
+    {
+      "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
+      "score": 98
     },
     {
       "title": "Stockfish 19",
-      "score": 43
+      "score": 81
     },
     {
-      "title": "Show HN: What if the speed of light was 5 km/h?",
-      "score": 343
-    },
-    {
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "score": 23
+      "title": "iPhone Duo",
+      "score": 1240
     }
   ]
 }
