@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-10T12:35:07.072658Z",
+  "updated_at": "2026-09-10T13:28:20.716046Z",
   "stories": [
     {
-      "title": "What algorithm did Windows XP use to choose your initial user picture?",
-      "score": 139
-    },
-    {
       "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "score": 21
+      "score": 72
     },
     {
       "title": "Show HN: The same nine streaming subscriptions cost $702/year more than in 2021",
-      "score": 157
+      "score": 222
+    },
+    {
+      "title": "What algorithm did Windows XP use to choose your initial user picture?",
+      "score": 173
     },
     {
       "title": "Stockfish 19",
-      "score": 103
+      "score": 121
     },
     {
       "title": "DeepSeek v4.1 Flash",
-      "score": 522
+      "score": 589
     }
   ]
 }
