@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-10T14:47:12.910888Z",
+  "updated_at": "2026-09-10T17:35:02.271572Z",
   "stories": [
     {
       "title": "Shopify moves back to Native from React Native",
-      "score": 98
+      "score": 445
     },
     {
       "title": "Rust Is Tier-1 Language at Microsoft",
-      "score": 83
+      "score": 321
     },
     {
-      "title": "Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls",
-      "score": 143
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "score": 109
     },
     {
-      "title": "Amazon pilots ad services in ChatGPT",
-      "score": 22
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "score": 166
     },
     {
-      "title": "The same nine streaming subscriptions cost $702/year more than in 2021",
-      "score": 331
+      "title": "Software Drives People Insane",
+      "score": 51
     }
   ]
 }
