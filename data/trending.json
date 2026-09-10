@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-10T19:18:49.398095Z",
+  "updated_at": "2026-09-10T22:19:47.936924Z",
   "repos": [
     {
       "name": "ashemag/human-atlas",
-      "stars": 3058
+      "stars": 3069
     },
     {
       "name": "Rion-Wu-tech/wechat-intelligence-hub",
@@ -11,15 +11,15 @@
     },
     {
       "name": "openai/NavierStokesAndEuler",
-      "stars": 1689
-    },
-    {
-      "name": "vinzdg/codenotch",
-      "stars": 1369
+      "stars": 1705
     },
     {
       "name": "sdli1995/dlssg_for_sm86",
-      "stars": 1354
+      "stars": 1389
+    },
+    {
+      "name": "vinzdg/codenotch",
+      "stars": 1378
     }
   ]
 }

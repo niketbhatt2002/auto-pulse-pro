@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-10T19:18:48.088097Z",
+  "updated_at": "2026-09-10T22:19:46.732130Z",
   "stories": [
     {
-      "title": "Rust is tier-1 language at Microsoft",
-      "score": 442
-    },
-    {
-      "title": "I have a theory that software drives people insane",
-      "score": 189
+      "title": "The part of Navier-Stokes no one is talking about",
+      "score": 73
     },
     {
       "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "score": 188
+      "score": 318
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "score": 292
+      "score": 490
+    },
+    {
+      "title": "OpenAI Agents API",
+      "score": 42
     },
     {
       "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-      "score": 123
+      "score": 226
     }
   ]
 }
