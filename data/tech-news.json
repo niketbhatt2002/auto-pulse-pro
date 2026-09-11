@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-10T22:19:46.732130Z",
+  "updated_at": "2026-09-11T00:53:36.511957Z",
   "stories": [
     {
-      "title": "The part of Navier-Stokes no one is talking about",
-      "score": 73
-    },
-    {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "score": 318
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "score": 748
     },
     {
       "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "score": 490
+      "score": 638
+    },
+    {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "score": 68
     },
     {
       "title": "OpenAI Agents API",
-      "score": 42
+      "score": 110
     },
     {
-      "title": "NASA Color Trick Was Meant for Mars. Now It's Unveiling Rock Art on Earth",
-      "score": 226
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "score": 343
     }
   ]
 }
