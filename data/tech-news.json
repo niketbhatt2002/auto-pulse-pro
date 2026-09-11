@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T10:26:34.666031Z",
+  "updated_at": "2026-09-11T11:59:19.432188Z",
   "stories": [
     {
+      "title": "The Waymo effect: how AI is quietly making research less collaborative",
+      "score": 45
+    },
+    {
       "title": "Cherenkov Radiation - traveling faster than light",
-      "score": 49
+      "score": 102
     },
     {
-      "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "score": 1077
+      "title": "RTK reports token savings, but our cost benchmarks disagree",
+      "score": 17
     },
     {
-      "title": "Don't let anyone take away your big box of cables",
-      "score": 542
+      "title": "Claude is no longer available for minors",
+      "score": 94
     },
     {
-      "title": "Working with Git Worktrees in Magit",
-      "score": 54
-    },
-    {
-      "title": "OpenAI Agents API",
-      "score": 271
+      "title": "So you want to use OpenRouter?",
+      "score": 204
     }
   ]
 }
