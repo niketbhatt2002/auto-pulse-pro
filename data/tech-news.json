@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T17:38:28.634835Z",
+  "updated_at": "2026-09-11T19:19:55.518898Z",
   "stories": [
     {
-      "title": "Global Glacier Extinction Explorer",
-      "score": 91
+      "title": "A misalignment of AI in mathematics",
+      "score": 68
     },
     {
-      "title": "Godot and Rust based multiplexer (terminal panes and more)",
-      "score": 41
+      "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
+      "score": 47
     },
     {
-      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
-      "score": 88
+      "title": "Show HN: Toast, a beautiful by default in terminal IDE",
+      "score": 61
     },
     {
-      "title": "Logo Programming Language",
-      "score": 129
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "score": 25
     },
     {
-      "title": "Feeling Sad about AI",
-      "score": 109
+      "title": "Claude is only available to people over 18 years",
+      "score": 422
     }
   ]
 }
