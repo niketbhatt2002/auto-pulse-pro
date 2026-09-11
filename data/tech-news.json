@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T11:59:19.432188Z",
+  "updated_at": "2026-09-11T12:28:56.582150Z",
   "stories": [
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "score": 45
-    },
-    {
-      "title": "Cherenkov Radiation - traveling faster than light",
-      "score": 102
+      "score": 77
     },
     {
       "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "score": 17
+      "score": 31
     },
     {
-      "title": "Claude is no longer available for minors",
-      "score": 94
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "score": 112
     },
     {
       "title": "So you want to use OpenRouter?",
-      "score": 204
+      "score": 231
+    },
+    {
+      "title": "Claude is no longer available for minors",
+      "score": 122
     }
   ]
 }
