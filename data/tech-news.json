@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T00:53:36.511957Z",
+  "updated_at": "2026-09-11T10:26:34.666031Z",
   "stories": [
     {
+      "title": "Cherenkov Radiation - traveling faster than light",
+      "score": 49
+    },
+    {
       "title": "Shopify is moving from React Native back to Swift and Kotlin",
-      "score": 748
+      "score": 1077
     },
     {
-      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
-      "score": 638
+      "title": "Don't let anyone take away your big box of cables",
+      "score": 542
     },
     {
-      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
-      "score": 68
+      "title": "Working with Git Worktrees in Magit",
+      "score": 54
     },
     {
       "title": "OpenAI Agents API",
-      "score": 110
-    },
-    {
-      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
-      "score": 343
+      "score": 271
     }
   ]
 }
