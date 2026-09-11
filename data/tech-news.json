@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T12:28:56.582150Z",
+  "updated_at": "2026-09-11T13:25:58.087813Z",
   "stories": [
     {
       "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "score": 77
+      "score": 158
     },
     {
       "title": "RTK reports token savings, but our cost benchmarks disagree",
-      "score": 31
+      "score": 58
     },
     {
       "title": "Cherenkov Radiation - traveling faster than light",
-      "score": 112
+      "score": 126
     },
     {
       "title": "So you want to use OpenRouter?",
-      "score": 231
+      "score": 289
     },
     {
-      "title": "Claude is no longer available for minors",
-      "score": 122
+      "title": "Ask HN: Can we please limit the AI news flood?",
+      "score": 88
     }
   ]
 }
