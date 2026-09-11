@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T19:19:55.518898Z",
+  "updated_at": "2026-09-11T22:19:33.507153Z",
   "stories": [
     {
       "title": "A misalignment of AI in mathematics",
-      "score": 68
+      "score": 448
     },
     {
-      "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
-      "score": 47
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "score": 144
     },
     {
-      "title": "Show HN: Toast, a beautiful by default in terminal IDE",
-      "score": 61
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "score": 136
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "score": 58
     },
     {
       "title": "Litelm: LiteLLM Without the Bloat",
-      "score": 25
-    },
-    {
-      "title": "Claude is only available to people over 18 years",
-      "score": 422
+      "score": 72
     }
   ]
 }
