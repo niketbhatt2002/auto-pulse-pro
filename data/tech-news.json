@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T14:49:23.488084Z",
+  "updated_at": "2026-09-11T17:38:28.634835Z",
   "stories": [
     {
-      "title": "The Waymo effect: how AI is quietly making research less collaborative",
-      "score": 235
+      "title": "Global Glacier Extinction Explorer",
+      "score": 91
     },
     {
-      "title": "Houthis 'take control' of key island in global shipping route",
-      "score": 100
+      "title": "Godot and Rust based multiplexer (terminal panes and more)",
+      "score": 41
+    },
+    {
+      "title": "I've operated petabyte-scale ClickHouse clusters for 5 years",
+      "score": 88
     },
     {
       "title": "Logo Programming Language",
-      "score": 40
+      "score": 129
     },
     {
-      "title": "Re-Engineering YouTube for the Living Room: Bringing \"Chrobalt\" to RDK",
-      "score": 10
-    },
-    {
-      "title": "So you want to use OpenRouter?",
-      "score": 379
+      "title": "Feeling Sad about AI",
+      "score": 109
     }
   ]
 }
