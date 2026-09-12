@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-12T09:55:43.063418Z",
+  "updated_at": "2026-09-12T11:25:48.065261Z",
   "repos": [
     {
       "name": "sdli1995/dlssg_for_sm86",
-      "stars": 1966
+      "stars": 1993
     },
     {
       "name": "openai/NavierStokesAndEuler",
-      "stars": 1792
+      "stars": 1794
     },
     {
       "name": "EverettFish/holo-card-studio",
@@ -15,11 +15,11 @@
     },
     {
       "name": "Edge0-AI/Edge0",
-      "stars": 1394
+      "stars": 1398
     },
     {
       "name": "Vincentwei1021/anything2explainer",
-      "stars": 998
+      "stars": 1009
     }
   ]
 }
