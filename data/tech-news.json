@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-12T00:59:09.610612Z",
+  "updated_at": "2026-09-12T09:55:41.816346Z",
   "stories": [
     {
+      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
+      "score": 71
+    },
+    {
+      "title": "IKEA made a mod for Skyrim [video]",
+      "score": 91
+    },
+    {
       "title": "A misalignment of AI in mathematics",
-      "score": 601
+      "score": 927
     },
     {
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "score": 266
+      "score": 529
     },
     {
-      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
-      "score": 243
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
-      "score": 123
-    },
-    {
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "score": 187
+      "title": "Navier-Stokes Announcement",
+      "score": 162
     }
   ]
 }
