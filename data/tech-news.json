@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-11T22:19:33.507153Z",
+  "updated_at": "2026-09-12T00:59:09.610612Z",
   "stories": [
     {
       "title": "A misalignment of AI in mathematics",
-      "score": 448
-    },
-    {
-      "title": "GrapheneOS' rewritten Messages app is released",
-      "score": 144
+      "score": 601
     },
     {
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "score": 136
+      "score": 266
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "score": 243
     },
     {
       "title": "A Design Space Exploration of Async/Await",
-      "score": 58
+      "score": 123
     },
     {
-      "title": "Litelm: LiteLLM Without the Bloat",
-      "score": 72
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "score": 187
     }
   ]
 }
