@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-12T11:25:46.802320Z",
+  "updated_at": "2026-09-12T11:52:15.313987Z",
   "stories": [
     {
       "title": "IKEA made a mod for Skyrim [video]",
-      "score": 189
+      "score": 234
     },
     {
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "score": 104
+      "score": 110
     },
     {
       "title": "A misalignment of AI in mathematics",
-      "score": 963
+      "score": 980
+    },
+    {
+      "title": "Fuck it, make it anyway",
+      "score": 3
     },
     {
       "title": "I spent $220 on Google app ads and 60% of the installs were robots",
-      "score": 566
-    },
-    {
-      "title": "A Design Space Exploration of Async/Await",
-      "score": 303
+      "score": 580
     }
   ]
 }
