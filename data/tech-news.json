@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-12T16:51:28.595457Z",
+  "updated_at": "2026-09-12T18:49:43.669884Z",
   "stories": [
     {
+      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
+      "score": 111
+    },
+    {
+      "title": "Make your first edit to OpenStreetMap",
+      "score": 102
+    },
+    {
       "title": "Nvidia is the central bank of AI",
-      "score": 118
+      "score": 199
     },
     {
-      "title": "IKEA made a mod for Skyrim [video]",
-      "score": 430
+      "title": "Will There Be a 7G?",
+      "score": 31
     },
     {
-      "title": "A Mathematical Framework for Transformer Circuits (2021)",
-      "score": 43
-    },
-    {
-      "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "score": 181
-    },
-    {
-      "title": "A misalignment of AI in mathematics",
-      "score": 1124
+      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
+      "score": 44
     }
   ]
 }
