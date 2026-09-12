@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-12T18:49:43.669884Z",
+  "updated_at": "2026-09-12T21:59:32.395259Z",
   "stories": [
     {
-      "title": "LG denies TV spying claims, says tracking and snooping concerns 'not true'",
-      "score": 111
-    },
-    {
       "title": "Make your first edit to OpenStreetMap",
-      "score": 102
+      "score": 224
     },
     {
       "title": "Nvidia is the central bank of AI",
-      "score": 199
+      "score": 308
     },
     {
-      "title": "Will There Be a 7G?",
+      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
       "score": 31
     },
     {
-      "title": "Microcode in Intel's 8087 floating-point chip: the scale instruction",
-      "score": 44
+      "title": "Stabilizing Rust's Never Type",
+      "score": 90
+    },
+    {
+      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
+      "score": 17
     }
   ]
 }
