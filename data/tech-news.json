@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-12T13:51:05.429986Z",
+  "updated_at": "2026-09-12T16:51:28.595457Z",
   "stories": [
     {
-      "title": "Fuck it, make it anyway",
-      "score": 200
+      "title": "Nvidia is the central bank of AI",
+      "score": 118
     },
     {
       "title": "IKEA made a mod for Skyrim [video]",
-      "score": 317
+      "score": 430
+    },
+    {
+      "title": "A Mathematical Framework for Transformer Circuits (2021)",
+      "score": 43
     },
     {
       "title": "Retrospectively Reverse-Engineering Apple's Neural Engine",
-      "score": 143
-    },
-    {
-      "title": "The Worst Spam Emails: Inside iLands' AI Agent Hustle",
-      "score": 44
+      "score": 181
     },
     {
       "title": "A misalignment of AI in mathematics",
-      "score": 1046
+      "score": 1124
     }
   ]
 }
