@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-13T14:47:03.569978Z",
+  "updated_at": "2026-09-13T17:20:34.057610Z",
   "stories": [
     {
-      "title": "Flock worker calls police on reporter filming public camera installation",
-      "score": 126
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "score": 165
+    },
+    {
+      "title": "CUDA for AMD on Windows",
+      "score": 56
     },
     {
       "title": "JetKVM Mini",
-      "score": 303
+      "score": 389
     },
     {
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "score": 34
+      "title": "Cpak \u2013 OCI application package format for Linux desktops, servers and devices",
+      "score": 17
     },
     {
-      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "score": 24
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "score": 399
+      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
+      "score": 75
     }
   ]
 }
