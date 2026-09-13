@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-13T13:01:51.890342Z",
+  "updated_at": "2026-09-13T13:44:09.999800Z",
   "stories": [
     {
       "title": "JetKVM Mini",
-      "score": 233
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "score": 335
+      "score": 265
     },
     {
       "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "score": 15
+      "score": 22
     },
     {
-      "title": "Make your first edit to OpenStreetMap",
-      "score": 511
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "score": 361
     },
     {
-      "title": "The Interim Computer Museum",
-      "score": 134
+      "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
+      "score": 12
+    },
+    {
+      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
+      "score": 39
     }
   ]
 }
