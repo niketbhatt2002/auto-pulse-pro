@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-13T00:45:44.913491Z",
+  "updated_at": "2026-09-13T10:56:35.037979Z",
   "stories": [
     {
+      "title": "JetKVM Mini",
+      "score": 137
+    },
+    {
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "score": 244
+    },
+    {
+      "title": "The Interim Computer Museum",
+      "score": 118
+    },
+    {
       "title": "Make your first edit to OpenStreetMap",
-      "score": 306
+      "score": 474
     },
     {
-      "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "score": 92
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "score": 376
-    },
-    {
-      "title": "Apple iPod Engraver (2019)",
-      "score": 104
-    },
-    {
-      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
-      "score": 58
+      "title": "I Added a Non-Wi-Fi Mitsubishi AC to Home Assistant",
+      "score": 85
     }
   ]
 }
