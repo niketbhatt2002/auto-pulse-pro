@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-12T21:59:32.395259Z",
+  "updated_at": "2026-09-13T00:45:44.913491Z",
   "stories": [
     {
       "title": "Make your first edit to OpenStreetMap",
-      "score": 224
-    },
-    {
-      "title": "Nvidia is the central bank of AI",
-      "score": 308
+      "score": 306
     },
     {
       "title": "Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
-      "score": 31
+      "score": 92
     },
     {
-      "title": "Stabilizing Rust's Never Type",
-      "score": 90
+      "title": "Nvidia is the central bank of AI",
+      "score": 376
     },
     {
-      "title": "Benchmark: CadQuery vs. OpenSCAD for agentic CAD work",
-      "score": 17
+      "title": "Apple iPod Engraver (2019)",
+      "score": 104
+    },
+    {
+      "title": "Getting 50 GB/S Back from the Apple Neural Engine",
+      "score": 58
     }
   ]
 }
