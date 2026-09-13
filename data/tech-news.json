@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-13T13:57:59.543558Z",
+  "updated_at": "2026-09-13T14:47:03.569978Z",
   "stories": [
     {
+      "title": "Flock worker calls police on reporter filming public camera installation",
+      "score": 126
+    },
+    {
       "title": "JetKVM Mini",
-      "score": 273
+      "score": 303
     },
     {
       "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "score": 26
-    },
-    {
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "score": 370
+      "score": 34
     },
     {
       "title": "TailTalk: A modern async user space AppleTalk stack with Rust and Tokio",
-      "score": 15
+      "score": 24
     },
     {
-      "title": "Reverse engineering my e-scooter and rewriting the firmware in Rust",
-      "score": 46
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "score": 399
     }
   ]
 }
