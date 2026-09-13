@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-13T17:20:34.057610Z",
+  "updated_at": "2026-09-13T19:01:30.256106Z",
   "stories": [
     {
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "score": 165
+      "title": "I'm being cyberattacked by Tesla, Inc",
+      "score": 189
     },
     {
-      "title": "CUDA for AMD on Windows",
-      "score": 56
+      "title": "Why is Google still serving dodgy ads?",
+      "score": 117
+    },
+    {
+      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
+      "score": 249
     },
     {
       "title": "JetKVM Mini",
-      "score": 389
+      "score": 431
     },
     {
-      "title": "Cpak \u2013 OCI application package format for Linux desktops, servers and devices",
-      "score": 17
-    },
-    {
-      "title": "Why is the x86 undefined instruction called ud2? Why 2?",
-      "score": 75
+      "title": "Data collected by cars and sold to third parties",
+      "score": 107
     }
   ]
 }
