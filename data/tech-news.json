@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-13T19:01:30.256106Z",
+  "updated_at": "2026-09-13T22:12:30.416434Z",
   "stories": [
     {
-      "title": "I'm being cyberattacked by Tesla, Inc",
-      "score": 189
+      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "score": 110
+    },
+    {
+      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
+      "score": 187
     },
     {
       "title": "Why is Google still serving dodgy ads?",
-      "score": 117
+      "score": 417
+    },
+    {
+      "title": "Julia 1.13 Highlights",
+      "score": 92
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "score": 249
-    },
-    {
-      "title": "JetKVM Mini",
-      "score": 431
-    },
-    {
-      "title": "Data collected by cars and sold to third parties",
-      "score": 107
+      "score": 329
     }
   ]
 }
