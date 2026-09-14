@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T20:39:38.639062Z",
+  "updated_at": "2026-09-14T22:59:45.421688Z",
   "repos": [
     {
       "name": "openai/NavierStokesAndEuler",
-      "stars": 1889
+      "stars": 1890
     },
     {
       "name": "Edge0-AI/Edge0",
-      "stars": 1697
+      "stars": 1701
     },
     {
       "name": "Vincentwei1021/anything2explainer",
-      "stars": 1313
+      "stars": 1315
     },
     {
       "name": "sumimakito/Mac-Duo",
-      "stars": 865
+      "stars": 868
     },
     {
       "name": "gazijarin/itsgiving",
-      "stars": 841
+      "stars": 845
     }
   ]
 }
