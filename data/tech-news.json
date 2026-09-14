@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T16:45:21.256977Z",
+  "updated_at": "2026-09-14T19:07:08.064306Z",
   "stories": [
     {
-      "title": "MIT creates method to force AI to comply with safety rules",
-      "score": 21
+      "title": "Pion, an agent designed to run any company autonomously",
+      "score": 111
     },
     {
-      "title": "Distributed Systems Classics",
-      "score": 16
+      "title": "Distributed Systems Classics (2017)",
+      "score": 120
     },
     {
-      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "score": 66
+      "title": "Why don't machine learning research agents overfit?",
+      "score": 58
     },
     {
-      "title": "Foundation Model Engineering: From Theory to Production",
-      "score": 22
+      "title": "Steam Frame starts at $1059",
+      "score": 182
     },
     {
-      "title": "What a time to be alive",
-      "score": 121
+      "title": "Principles for Fast Tokio Applications",
+      "score": 84
     }
   ]
 }
