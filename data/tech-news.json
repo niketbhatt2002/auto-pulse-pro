@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T15:47:58.362249Z",
+  "updated_at": "2026-09-14T16:02:54.507904Z",
   "stories": [
     {
-      "title": "How to Write an Effective Software Design Document",
-      "score": 178
-    },
-    {
       "title": "Jabber/XMPP: How Do We Gain Traction?",
-      "score": 46
+      "score": 60
     },
     {
       "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "score": 40
+      "score": 46
     },
     {
       "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-      "score": 28
+      "score": 31
     },
     {
-      "title": "The AI job market in 2026",
-      "score": 53
+      "title": "Foundation Model Engineering: From Theory to Production",
+      "score": 8
+    },
+    {
+      "title": "Where has Construction Automation been successful?",
+      "score": 29
     }
   ]
 }
