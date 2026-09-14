@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T00:51:50.160084Z",
+  "updated_at": "2026-09-14T11:30:43.961234Z",
   "stories": [
     {
+      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
+      "score": 74
+    },
+    {
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "score": 398
+      "score": 998
     },
     {
-      "title": "Why is Google still serving dodgy ads?",
-      "score": 544
+      "title": "A 386 PC for Your RP2350",
+      "score": 55
     },
     {
-      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
-      "score": 49
+      "title": "OpenArch \u2013 PyTorch implementations of modern LLM architectures",
+      "score": 39
     },
     {
-      "title": "Julia 1.13 highlights",
-      "score": 144
-    },
-    {
-      "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "score": 366
+      "title": "Spaceships (Reverse Asteroid)",
+      "score": 262
     }
   ]
 }
