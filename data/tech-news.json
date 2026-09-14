@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T19:07:08.064306Z",
+  "updated_at": "2026-09-14T20:39:37.309663Z",
   "stories": [
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "score": 111
+      "title": "GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?",
+      "score": 35
+    },
+    {
+      "title": "A Beginning for Mathematics",
+      "score": 13
     },
     {
       "title": "Distributed Systems Classics (2017)",
-      "score": 120
+      "score": 165
     },
     {
-      "title": "Why don't machine learning research agents overfit?",
-      "score": 58
-    },
-    {
-      "title": "Steam Frame starts at $1059",
-      "score": 182
+      "title": "A Beginning for Mathematics",
+      "score": 105
     },
     {
       "title": "Principles for Fast Tokio Applications",
-      "score": 84
+      "score": 122
     }
   ]
 }
