@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T14:37:28.599751Z",
+  "updated_at": "2026-09-14T15:47:58.362249Z",
   "stories": [
     {
       "title": "How to Write an Effective Software Design Document",
-      "score": 32
+      "score": 178
     },
     {
-      "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
-      "score": 174
+      "title": "Jabber/XMPP: How Do We Gain Traction?",
+      "score": 46
     },
     {
-      "title": "A 386 PC for Your RP2350",
-      "score": 140
+      "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
+      "score": 40
     },
     {
-      "title": "An atlas of periodic solutions to the three-body problem",
-      "score": 165
+      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
+      "score": 28
     },
     {
-      "title": "Devil's Arrows: Ancient builders hauled 55k-lb stones 11 miles for UK stone row",
-      "score": 17
+      "title": "The AI job market in 2026",
+      "score": 53
     }
   ]
 }
