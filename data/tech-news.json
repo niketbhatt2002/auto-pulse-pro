@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-13T22:12:30.416434Z",
+  "updated_at": "2026-09-14T00:51:50.160084Z",
   "stories": [
     {
-      "title": "Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "score": 110
-    },
-    {
-      "title": "Mark Zuckerberg: \"Cambridge Analytica\" (2017)",
-      "score": 187
+      "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
+      "score": 398
     },
     {
       "title": "Why is Google still serving dodgy ads?",
-      "score": 417
+      "score": 544
     },
     {
-      "title": "Julia 1.13 Highlights",
-      "score": 92
+      "title": "Registration without a phone number on Signal will use zero-knowledge proofs",
+      "score": 49
+    },
+    {
+      "title": "Julia 1.13 highlights",
+      "score": 144
     },
     {
       "title": "Astra and Fable still hack on simple variants of alignment evals from 2025",
-      "score": 329
+      "score": 366
     }
   ]
 }
