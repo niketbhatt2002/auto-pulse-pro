@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T11:30:43.961234Z",
+  "updated_at": "2026-09-14T13:34:15.855802Z",
   "stories": [
     {
+      "title": "Show HN: Kinesis \u2013 Control your Mac with the Meta Neural Band",
+      "score": 51
+    },
+    {
       "title": "EuroBirdPortal \u2013 Live bird movements across Europe",
-      "score": 74
+      "score": 142
     },
     {
       "title": "Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher",
-      "score": 998
+      "score": 1085
     },
     {
       "title": "A 386 PC for Your RP2350",
-      "score": 55
+      "score": 102
     },
     {
-      "title": "OpenArch \u2013 PyTorch implementations of modern LLM architectures",
-      "score": 39
-    },
-    {
-      "title": "Spaceships (Reverse Asteroid)",
-      "score": 262
+      "title": "An atlas of periodic solutions to the three-body problem",
+      "score": 113
     }
   ]
 }
