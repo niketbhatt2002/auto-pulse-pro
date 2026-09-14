@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T16:02:54.507904Z",
+  "updated_at": "2026-09-14T16:45:21.256977Z",
   "stories": [
     {
-      "title": "Jabber/XMPP: How Do We Gain Traction?",
-      "score": 60
+      "title": "MIT creates method to force AI to comply with safety rules",
+      "score": 21
+    },
+    {
+      "title": "Distributed Systems Classics",
+      "score": 16
     },
     {
       "title": "Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama",
-      "score": 46
-    },
-    {
-      "title": "RubyGems Open Source Supply Chain Security and OpenAI",
-      "score": 31
+      "score": 66
     },
     {
       "title": "Foundation Model Engineering: From Theory to Production",
-      "score": 8
+      "score": 22
     },
     {
-      "title": "Where has Construction Automation been successful?",
-      "score": 29
+      "title": "What a time to be alive",
+      "score": 121
     }
   ]
 }
