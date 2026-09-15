@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-15T12:24:41.887489Z",
+  "updated_at": "2026-09-15T13:02:10.211187Z",
   "stories": [
     {
       "title": "I can't stop thinking about Papua New Guinea",
-      "score": 374
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "score": 185
-    },
-    {
-      "title": "Alternatives to MinIO for single-node local S3",
-      "score": 72
+      "score": 442
     },
     {
       "title": "CSS-Tricks in Limbo",
-      "score": 67
+      "score": 100
     },
     {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "score": 644
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "score": 229
+    },
+    {
+      "title": "Alternatives to MinIO for single-node local S3",
+      "score": 89
+    },
+    {
+      "title": "25 Years of Mass Surveillance Is Enough",
+      "score": 76
     }
   ]
 }
