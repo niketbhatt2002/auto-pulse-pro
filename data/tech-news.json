@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-15T19:53:11.485719Z",
+  "updated_at": "2026-09-15T22:45:03.462308Z",
   "stories": [
     {
+      "title": "Introducing System One Models and Jev",
+      "score": 522
+    },
+    {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 975
+      "score": 1174
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "score": 76
     },
     {
       "title": "An Update on Wayback Machine Access",
-      "score": 158
+      "score": 300
     },
     {
-      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
-      "score": 105
-    },
-    {
-      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
-      "score": 113
-    },
-    {
-      "title": "Jev: New frontier model 40-400x cheaper and 20-200x faster",
-      "score": 46
+      "title": "Jean-Pierre Serre is 100 years old today",
+      "score": 62
     }
   ]
 }
