@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-15T01:18:57.878220Z",
+  "updated_at": "2026-09-15T10:52:35.880656Z",
   "stories": [
     {
-      "title": "iOS 27, iPadOS 27, and macOS 27",
-      "score": 361
+      "title": "I can't stop thinking about Papua New Guinea",
+      "score": 250
     },
     {
-      "title": "Pion, an agent designed to run any company autonomously",
-      "score": 279
+      "title": "How much of F-Droid is LLM generated?",
+      "score": 36
     },
     {
-      "title": "Charts built for Chat",
-      "score": 84
+      "title": "Suspected sabotage causes major Netherlands rail disruption",
+      "score": 20
     },
     {
-      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
-      "score": 30
+      "title": "Let's make quality the norm again",
+      "score": 58
     },
     {
-      "title": "Compressing a Flag to 11 Bits",
-      "score": 60
+      "title": "Alternatives to MinIO for single-node local S3",
+      "score": 27
     }
   ]
 }
