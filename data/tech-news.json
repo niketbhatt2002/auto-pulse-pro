@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-15T13:02:10.211187Z",
+  "updated_at": "2026-09-15T14:14:59.809942Z",
   "stories": [
     {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "score": 193
+    },
+    {
+      "title": "Java 27 Released",
+      "score": 83
+    },
+    {
+      "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
+      "score": 22
+    },
+    {
       "title": "I can't stop thinking about Papua New Guinea",
-      "score": 442
+      "score": 546
     },
     {
-      "title": "CSS-Tricks in Limbo",
-      "score": 100
-    },
-    {
-      "title": "Suspected sabotage causes major Netherlands rail disruption",
-      "score": 229
-    },
-    {
-      "title": "Alternatives to MinIO for single-node local S3",
-      "score": 89
-    },
-    {
-      "title": "25 Years of Mass Surveillance Is Enough",
-      "score": 76
+      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
+      "score": 10
     }
   ]
 }
