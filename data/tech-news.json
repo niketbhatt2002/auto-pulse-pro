@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-15T18:02:41.624316Z",
+  "updated_at": "2026-09-15T19:53:11.485719Z",
   "stories": [
     {
-      "title": "Dystopian Surveillance Is Becoming a Reality",
-      "score": 96
-    },
-    {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 781
+      "score": 975
     },
     {
-      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
-      "score": 181
+      "title": "An Update on Wayback Machine Access",
+      "score": 158
     },
     {
-      "title": "GEFS on OpenBSD: A Early Preview",
-      "score": 22
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "score": 105
     },
     {
-      "title": "I can't stop thinking about Papua New Guinea",
-      "score": 785
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "score": 113
+    },
+    {
+      "title": "Jev: New frontier model 40-400x cheaper and 20-200x faster",
+      "score": 46
     }
   ]
 }
