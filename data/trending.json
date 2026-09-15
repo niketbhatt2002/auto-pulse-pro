@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T22:59:45.421688Z",
+  "updated_at": "2026-09-15T01:18:59.060796Z",
   "repos": [
     {
-      "name": "openai/NavierStokesAndEuler",
-      "stars": 1890
-    },
-    {
-      "name": "Edge0-AI/Edge0",
-      "stars": 1701
-    },
-    {
-      "name": "Vincentwei1021/anything2explainer",
-      "stars": 1315
-    },
-    {
       "name": "sumimakito/Mac-Duo",
-      "stars": 868
+      "stars": 870
     },
     {
-      "name": "gazijarin/itsgiving",
-      "stars": 845
+      "name": "kruzovic7/ai-data-extractor",
+      "stars": 811
+    },
+    {
+      "name": "Chuloo/mural",
+      "stars": 804
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "stars": 745
+    },
+    {
+      "name": "angusdevgo/IDM_Pro_Tool",
+      "stars": 697
     }
   ]
 }

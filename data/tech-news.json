@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-14T22:59:35.395486Z",
+  "updated_at": "2026-09-15T01:18:57.878220Z",
   "stories": [
     {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "score": 361
+    },
+    {
       "title": "Pion, an agent designed to run any company autonomously",
-      "score": 235
+      "score": 279
     },
     {
-      "title": "Amazon vs. Perplexity \u2013 U.S. Court of Appeals for the Ninth Circuit",
-      "score": 135
+      "title": "Charts built for Chat",
+      "score": 84
     },
     {
-      "title": "Distributed Systems Classics (2017)",
-      "score": 208
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "score": 30
     },
     {
       "title": "Compressing a Flag to 11 Bits",
-      "score": 22
-    },
-    {
-      "title": "A Beginning for Mathematics",
-      "score": 149
+      "score": 60
     }
   ]
 }
