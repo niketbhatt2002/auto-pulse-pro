@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-15T14:14:59.809942Z",
+  "updated_at": "2026-09-15T14:32:42.566790Z",
   "stories": [
     {
       "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 193
+      "score": 243
     },
     {
       "title": "Java 27 Released",
-      "score": 83
+      "score": 105
     },
     {
       "title": "Show HN: Hacking a $20 4G wireless hotspot into a texting device",
-      "score": 22
+      "score": 30
     },
     {
       "title": "I can't stop thinking about Papua New Guinea",
-      "score": 546
+      "score": 572
     },
     {
-      "title": "AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC",
-      "score": 10
+      "title": "Show HN: Capsule \u2013 Single-file web apps that save their data into SQLite",
+      "score": 32
     }
   ]
 }
