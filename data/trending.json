@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-15T22:45:04.061559Z",
+  "updated_at": "2026-09-16T01:14:08.726006Z",
   "repos": [
     {
       "name": "Chuloo/mural",
-      "stars": 1020
+      "stars": 1046
     },
     {
       "name": "sumimakito/Mac-Duo",
-      "stars": 911
+      "stars": 912
     },
     {
       "name": "yifanzhang-pro/recurrent-looped-tranformer",
-      "stars": 824
+      "stars": 826
     },
     {
       "name": "kruzovic7/ai-data-extractor",
-      "stars": 820
+      "stars": 822
     },
     {
-      "name": "angusdevgo/IDM_Pro_Tool",
-      "stars": 707
+      "name": "ai-sucks-butt/ai-sucks-butt",
+      "stars": 773
     }
   ]
 }
