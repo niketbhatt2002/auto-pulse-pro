@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-16T14:06:58.271576Z",
+  "updated_at": "2026-09-16T14:27:14.958064Z",
   "stories": [
     {
-      "title": "The Google Play app review process now regularly takes longer than a week",
-      "score": 157
+      "title": "OpenAI Expands ChatGPT Ads with Sponsored Agents",
+      "score": 25
     },
     {
-      "title": "Salesforce Global Outage",
-      "score": 135
+      "title": "The Google Play app review process now regularly takes longer than a week",
+      "score": 174
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "score": 233
+      "score": 245
+    },
+    {
+      "title": "Salesforce Global Outage",
+      "score": 148
     },
     {
       "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
-      "score": 17
-    },
-    {
-      "title": "Introducing System One Models and Jev",
-      "score": 1583
+      "score": 23
     }
   ]
 }
