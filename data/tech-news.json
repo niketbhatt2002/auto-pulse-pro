@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-16T12:59:48.274769Z",
+  "updated_at": "2026-09-16T14:06:58.271576Z",
   "stories": [
     {
       "title": "The Google Play app review process now regularly takes longer than a week",
-      "score": 69
+      "score": 157
     },
     {
-      "title": "EU chief opens door for Canada to become 'associate member'",
-      "score": 450
+      "title": "Salesforce Global Outage",
+      "score": 135
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "score": 165
+      "score": 233
+    },
+    {
+      "title": "ImpactGate: A merge gate that scores the structural decay AI adds",
+      "score": 17
     },
     {
       "title": "Introducing System One Models and Jev",
-      "score": 1533
-    },
-    {
-      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
-      "score": 1746
+      "score": 1583
     }
   ]
 }
