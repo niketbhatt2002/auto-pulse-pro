@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-16T15:18:54.963125Z",
+  "updated_at": "2026-09-16T18:01:00.744166Z",
   "stories": [
     {
-      "title": "PS5 Linux lead quits: \"a bunch of noobs using LLMs\" that \"they don't understand\"",
-      "score": 104
+      "title": "Small Programming Tricks",
+      "score": 130
     },
     {
       "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
-      "score": 45
-    },
-    {
-      "title": "The Google Play app review process now regularly takes longer than a week",
-      "score": 219
+      "score": 115
     },
     {
       "title": "Mistral X Mozilla: Private, Multilingual AI Browsing",
-      "score": 290
+      "score": 400
     },
     {
-      "title": "DeepSeek v4.1 Flash Is Now Our Best Hacking Model",
-      "score": 43
+      "title": "Tell the speakers that you liked their talks",
+      "score": 139
+    },
+    {
+      "title": "Introducing System One Models and Jev",
+      "score": 1728
     }
   ]
 }
