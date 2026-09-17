@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-17T15:25:19.284158Z",
+  "updated_at": "2026-09-17T18:02:18.721792Z",
   "stories": [
     {
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "score": 178
+      "score": 343
     },
     {
-      "title": "One Year of Sponsored Servo Development",
-      "score": 251
+      "title": "hister",
+      "score": 66
     },
     {
-      "title": "I had Gemini train its own replacement for $9",
-      "score": 72
+      "title": "Rate limits on GitLab.com are changing",
+      "score": 78
     },
     {
-      "title": "Nvidia announces native GPU programming in Rust",
-      "score": 856
+      "title": "CrowdSec Source Code Leak",
+      "score": 47
     },
     {
-      "title": "CCC invites all model citizens to 40C3",
-      "score": 166
+      "title": "Whoisinspace.com/",
+      "score": 75
     }
   ]
 }
