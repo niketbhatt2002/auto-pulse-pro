@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-17T19:55:01.262218Z",
+  "updated_at": "2026-09-17T22:43:14.599120Z",
   "stories": [
     {
-      "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "score": 233
+      "title": "Astra for Law",
+      "score": 190
     },
     {
-      "title": "Missouri governor orders guardrails on Flock cameras and ALPRs",
-      "score": 22
+      "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
+      "score": 183
     },
     {
-      "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "score": 424
-    },
-    {
-      "title": "CrowdSec Source Code Leak",
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "score": 86
     },
     {
-      "title": "Wax Motor",
-      "score": 30
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "score": 386
+    },
+    {
+      "title": "Wax motor",
+      "score": 162
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-09-17T19:55:01.995997Z",
+  "updated_at": "2026-09-17T22:43:15.363917Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 1616
+      "stars": 1836
     },
     {
       "name": "Chuloo/mural",
-      "stars": 1309
+      "stars": 1314
     },
     {
       "name": "yifanzhang-pro/recurrent-looped-tranformer",
@@ -19,7 +19,7 @@
     },
     {
       "name": "zjwzcx/Awesome-Astra-Embodied-AI",
-      "stars": 820
+      "stars": 822
     }
   ]
 }
