@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-17T10:49:07.082381Z",
+  "updated_at": "2026-09-17T12:22:15.019649Z",
   "stories": [
     {
       "title": "One Year of Sponsored Servo Development",
-      "score": 93
+      "score": 150
     },
     {
-      "title": "GLM Built Its Own Inference Infrastructure",
-      "score": 52
+      "title": "Neovim have a ~$800k Bitcoin donation sitting untouched since 2023",
+      "score": 123
     },
     {
       "title": "Nvidia announces native GPU programming in Rust",
-      "score": 709
-    },
-    {
-      "title": "Keys Not Included: recovering the signing keys for US driver's license barcodes",
-      "score": 183
+      "score": 755
     },
     {
       "title": "Better Vector Search for Long Documents: Chunking Inside Manticore Search",
-      "score": 5
+      "score": 24
+    },
+    {
+      "title": "My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it",
+      "score": 164
     }
   ]
 }
