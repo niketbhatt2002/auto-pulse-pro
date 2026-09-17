@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-17T14:12:32.494911Z",
+  "updated_at": "2026-09-17T14:31:47.236787Z",
   "stories": [
     {
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "score": 66
-    },
-    {
-      "title": "The American Religion of Self-Storage Facilities",
-      "score": 26
+      "score": 100
     },
     {
       "title": "Show HN: I built a new version of my fun spatial 3D online meeting app",
-      "score": 38
+      "score": 50
     },
     {
       "title": "Canada welcomes EU proposal to become 'associate member'",
-      "score": 98
+      "score": 147
     },
     {
       "title": "One Year of Sponsored Servo Development",
-      "score": 224
+      "score": 227
+    },
+    {
+      "title": "Nvidia announces native GPU programming in Rust",
+      "score": 818
     }
   ]
 }
