@@ -1,17 +1,13 @@
 {
-  "updated_at": "2026-09-17T18:02:19.381064Z",
+  "updated_at": "2026-09-17T19:55:01.995997Z",
   "repos": [
     {
-      "name": "ai-sucks-butt/ai-sucks-butt",
-      "stars": 2781
-    },
-    {
       "name": "browser-use/jev-ultrafast",
-      "stars": 1418
+      "stars": 1616
     },
     {
       "name": "Chuloo/mural",
-      "stars": 1303
+      "stars": 1309
     },
     {
       "name": "yifanzhang-pro/recurrent-looped-tranformer",
@@ -19,7 +15,11 @@
     },
     {
       "name": "kruzovic7/ai-data-extractor",
-      "stars": 833
+      "stars": 834
+    },
+    {
+      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
+      "stars": 820
     }
   ]
 }

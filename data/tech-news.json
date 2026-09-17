@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-17T18:02:18.721792Z",
+  "updated_at": "2026-09-17T19:55:01.262218Z",
   "stories": [
     {
+      "title": "Hister: A private search engine for the pages you visit and the files you keep",
+      "score": 233
+    },
+    {
+      "title": "Missouri governor orders guardrails on Flock cameras and ALPRs",
+      "score": 22
+    },
+    {
       "title": "Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA",
-      "score": 343
-    },
-    {
-      "title": "hister",
-      "score": 66
-    },
-    {
-      "title": "Rate limits on GitLab.com are changing",
-      "score": 78
+      "score": 424
     },
     {
       "title": "CrowdSec Source Code Leak",
-      "score": 47
+      "score": 86
     },
     {
-      "title": "Whoisinspace.com/",
-      "score": 75
+      "title": "Wax Motor",
+      "score": 30
     }
   ]
 }
