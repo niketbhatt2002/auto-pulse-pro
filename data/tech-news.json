@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T17:35:18.728694Z",
+  "updated_at": "2026-09-18T19:15:04.778664Z",
   "stories": [
     {
-      "title": "There's no point at which turning your brain off will work",
-      "score": 55
-    },
-    {
       "title": "Cloudflare Quick Tunnels",
-      "score": 240
+      "score": 348
     },
     {
       "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "score": 18
+      "score": 80
     },
     {
-      "title": "An Empirical Study of Harness Design for Coding Agents",
-      "score": 173
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "score": 89
     },
     {
       "title": "North Korean nuclear test sets off years of earthquakes",
-      "score": 92
+      "score": 133
+    },
+    {
+      "title": "US Military had close call after using AI for hallucinated intelligence report",
+      "score": 152
     }
   ]
 }
