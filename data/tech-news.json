@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-17T22:43:14.599120Z",
+  "updated_at": "2026-09-18T01:09:48.597117Z",
   "stories": [
     {
       "title": "Astra for Law",
+      "score": 286
+    },
+    {
+      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
       "score": 190
     },
     {
       "title": "Bend \u2013 A language that blocks AI mistakes via proof, on CPU and GPU",
-      "score": 183
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "score": 86
+      "score": 263
     },
     {
       "title": "Hister: A private search engine for the pages you visit and the files you keep",
-      "score": 386
+      "score": 442
     },
     {
       "title": "Wax motor",
-      "score": 162
+      "score": 223
     }
   ]
 }
