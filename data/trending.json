@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T12:34:15.789469Z",
+  "updated_at": "2026-09-18T13:30:43.089267Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 4075
+      "stars": 4247
     },
     {
       "name": "tamaratran/fast-jev-compaction",
-      "stars": 2274
+      "stars": 2369
     },
     {
-      "name": "TheoLeeCJ/openjev",
-      "stars": 1401
+      "name": "TheoLeeCJ/SemIf",
+      "stars": 1422
     },
     {
       "name": "Chuloo/mural",
-      "stars": 1338
+      "stars": 1341
     },
     {
       "name": "yifanzhang-pro/recurrent-looped-tranformer",
-      "stars": 876
+      "stars": 877
     }
   ]
 }
