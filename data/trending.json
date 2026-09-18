@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T19:15:06.246717Z",
+  "updated_at": "2026-09-18T22:22:56.479398Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 5094
+      "stars": 5339
     },
     {
       "name": "tamaratran/fast-jev-compaction",
-      "stars": 2923
+      "stars": 3103
     },
     {
       "name": "TheoLeeCJ/SemIf",
-      "stars": 1532
+      "stars": 1565
     },
     {
       "name": "Chuloo/mural",
-      "stars": 1358
+      "stars": 1361
     },
     {
       "name": "mcncarl/jianying-headless",
-      "stars": 952
+      "stars": 990
     }
   ]
 }

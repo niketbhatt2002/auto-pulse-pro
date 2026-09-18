@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T19:15:04.778664Z",
+  "updated_at": "2026-09-18T22:22:55.376912Z",
   "stories": [
     {
+      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
+      "score": 207
+    },
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "score": 355
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "score": 135
+    },
+    {
       "title": "Cloudflare Quick Tunnels",
-      "score": 348
+      "score": 487
     },
     {
-      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
-      "score": 80
-    },
-    {
-      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
-      "score": 89
-    },
-    {
-      "title": "North Korean nuclear test sets off years of earthquakes",
-      "score": 133
-    },
-    {
-      "title": "US Military had close call after using AI for hallucinated intelligence report",
-      "score": 152
+      "title": "Xcode 27.1 Beta Release Notes",
+      "score": 94
     }
   ]
 }
