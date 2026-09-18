@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T14:45:37.490458Z",
+  "updated_at": "2026-09-18T17:35:18.728694Z",
   "stories": [
     {
+      "title": "There's no point at which turning your brain off will work",
+      "score": 55
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "score": 240
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "score": 18
+    },
+    {
       "title": "An Empirical Study of Harness Design for Coding Agents",
-      "score": 68
+      "score": 173
     },
     {
-      "title": "Bend 2 and the Vibe-Coding Trap",
-      "score": 241
-    },
-    {
-      "title": "I don't like passkeys",
-      "score": 283
-    },
-    {
-      "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
-      "score": 34
-    },
-    {
-      "title": "OpenJev",
-      "score": 300
+      "title": "North Korean nuclear test sets off years of earthquakes",
+      "score": 92
     }
   ]
 }
