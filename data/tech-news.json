@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T13:58:00.760949Z",
+  "updated_at": "2026-09-18T14:45:37.490458Z",
   "stories": [
     {
-      "title": "Bend 2 and the Vibe-Coding Trap",
-      "score": 181
-    },
-    {
       "title": "An Empirical Study of Harness Design for Coding Agents",
-      "score": 29
+      "score": 68
     },
     {
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "score": 174
-    },
-    {
-      "title": "OpenJev",
-      "score": 265
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "score": 241
     },
     {
       "title": "I don't like passkeys",
-      "score": 183
+      "score": 283
+    },
+    {
+      "title": "AI chatbots becoming experts at changing people's minds. What's their secret?",
+      "score": 34
+    },
+    {
+      "title": "OpenJev",
+      "score": 300
     }
   ]
 }
