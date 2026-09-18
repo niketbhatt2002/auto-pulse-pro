@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T10:24:35.204323Z",
+  "updated_at": "2026-09-18T12:01:41.359408Z",
   "stories": [
     {
       "title": "OpenJev",
-      "score": 39
+      "score": 171
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "score": 77
     },
     {
       "title": "Jemalloc 5.4.0",
-      "score": 154
+      "score": 192
+    },
+    {
+      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
+      "score": 238
     },
     {
       "title": "The scourge of x86 emulation",
-      "score": 152
-    },
-    {
-      "title": "Astra for Law",
-      "score": 496
-    },
-    {
-      "title": "Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint",
-      "score": 458
+      "score": 172
     }
   ]
 }
