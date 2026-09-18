@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T01:09:49.825295Z",
+  "updated_at": "2026-09-18T10:24:36.162294Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 2141
+      "stars": 3762
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "stars": 2028
     },
     {
       "name": "Chuloo/mural",
-      "stars": 1319
-    },
-    {
-      "name": "yifanzhang-pro/recurrent-looped-tranformer",
-      "stars": 870
-    },
-    {
-      "name": "zjwzcx/Awesome-Astra-Embodied-AI",
-      "stars": 825
+      "stars": 1334
     },
     {
       "name": "TheoLeeCJ/openjev",
-      "stars": 802
+      "stars": 1220
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "stars": 876
     }
   ]
 }
