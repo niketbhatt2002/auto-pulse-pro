@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T13:30:42.075660Z",
+  "updated_at": "2026-09-18T13:58:00.760949Z",
   "stories": [
     {
       "title": "Bend 2 and the Vibe-Coding Trap",
-      "score": 146
-    },
-    {
-      "title": "OpenJev",
-      "score": 247
-    },
-    {
-      "title": "I don't like passkeys",
-      "score": 140
-    },
-    {
-      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "score": 148
+      "score": 181
     },
     {
       "title": "An Empirical Study of Harness Design for Coding Agents",
-      "score": 7
+      "score": 29
+    },
+    {
+      "title": "ZCode, the GLM coding agent, silently uploads your Git history",
+      "score": 174
+    },
+    {
+      "title": "OpenJev",
+      "score": 265
+    },
+    {
+      "title": "I don't like passkeys",
+      "score": 183
     }
   ]
 }
