@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T12:01:41.359408Z",
+  "updated_at": "2026-09-18T12:34:14.645356Z",
   "stories": [
     {
+      "title": "Bend 2 and the Vibe-Coding Trap",
+      "score": 49
+    },
+    {
+      "title": "I don't like passkeys",
+      "score": 29
+    },
+    {
       "title": "OpenJev",
-      "score": 171
+      "score": 203
     },
     {
       "title": "ZCode, the GLM coding agent, silently uploads your Git history",
-      "score": 77
+      "score": 101
     },
     {
       "title": "Jemalloc 5.4.0",
-      "score": 192
-    },
-    {
-      "title": "Microsoft exec called AI scraping 'the largest theft of labor in human history'",
-      "score": 238
-    },
-    {
-      "title": "The scourge of x86 emulation",
-      "score": 172
+      "score": 200
     }
   ]
 }
