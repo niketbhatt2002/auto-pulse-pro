@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T13:34:19.320074Z",
+  "updated_at": "2026-09-19T14:08:52.309503Z",
   "stories": [
     {
       "title": "Laya the open source version of Jev",
-      "score": 172
-    },
-    {
-      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "score": 367
+      "score": 241
     },
     {
       "title": "AI-generated posters don\u2019t have to be horrible",
-      "score": 430
+      "score": 489
+    },
+    {
+      "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
+      "score": 400
     },
     {
       "title": "\u201cThe Secret Life of Circuits\u201d is here",
-      "score": 123
+      "score": 138
     },
     {
-      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "score": 181
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "score": 920
     }
   ]
 }
