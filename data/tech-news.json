@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T12:59:52.704749Z",
+  "updated_at": "2026-09-19T13:34:19.320074Z",
   "stories": [
     {
-      "title": "AI-generated posters don\u2019t have to be horrible",
-      "score": 363
-    },
-    {
       "title": "Laya the open source version of Jev",
-      "score": 90
+      "score": 172
     },
     {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "score": 341
+      "score": 367
+    },
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "score": 430
     },
     {
       "title": "\u201cThe Secret Life of Circuits\u201d is here",
-      "score": 104
+      "score": 123
     },
     {
-      "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "score": 165
+      "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
+      "score": 181
     }
   ]
 }
