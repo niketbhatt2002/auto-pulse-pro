@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T17:04:58.467144Z",
+  "updated_at": "2026-09-19T19:00:55.393923Z",
   "stories": [
     {
-      "title": "Laya the open source version of Jev",
-      "score": 559
-    },
-    {
-      "title": "A graphical desktop for the ZX Spectrum",
-      "score": 71
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "score": 746
     },
     {
       "title": "AI-generated posters don\u2019t have to be horrible",
-      "score": 762
+      "score": 965
+    },
+    {
+      "title": "Btrfs/ZFS/bcachefs under workloads classic benchmarks skip",
+      "score": 14
     },
     {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "score": 496
+      "score": 552
     },
     {
-      "title": "Tin: full-text search for Postgres",
-      "score": 89
+      "title": "A graphical desktop for the ZX Spectrum",
+      "score": 108
     }
   ]
 }
