@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T14:08:52.309503Z",
+  "updated_at": "2026-09-19T17:04:58.467144Z",
   "stories": [
     {
       "title": "Laya the open source version of Jev",
-      "score": 241
+      "score": 559
+    },
+    {
+      "title": "A graphical desktop for the ZX Spectrum",
+      "score": 71
     },
     {
       "title": "AI-generated posters don\u2019t have to be horrible",
-      "score": 489
+      "score": 762
     },
     {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "score": 400
+      "score": 496
     },
     {
-      "title": "\u201cThe Secret Life of Circuits\u201d is here",
-      "score": 138
-    },
-    {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "score": 920
+      "title": "Tin: full-text search for Postgres",
+      "score": 89
     }
   ]
 }
