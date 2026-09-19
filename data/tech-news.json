@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-18T22:22:55.376912Z",
+  "updated_at": "2026-09-19T01:04:14.619007Z",
   "stories": [
     {
-      "title": "Claude Code now reads AGENTS.md if there is no Claude.md",
-      "score": 207
-    },
-    {
       "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "score": 355
-    },
-    {
-      "title": "Saving another 100TB of RAM",
-      "score": 135
+      "score": 492
     },
     {
       "title": "Cloudflare Quick Tunnels",
-      "score": 487
+      "score": 554
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "score": 212
+    },
+    {
+      "title": "The Farnese letter",
+      "score": 24
     },
     {
       "title": "Xcode 27.1 Beta Release Notes",
-      "score": 94
+      "score": 111
     }
   ]
 }
