@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T10:08:51.516679Z",
+  "updated_at": "2026-09-19T11:44:53.259254Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 6407
+      "stars": 6597
     },
     {
       "name": "tamaratran/fast-jev-compaction",
-      "stars": 3677
+      "stars": 3747
     },
     {
       "name": "TheoLeeCJ/SemIf",
-      "stars": 1710
+      "stars": 1720
     },
     {
       "name": "robbietilton/Compositor",
-      "stars": 1389
+      "stars": 1522
     },
     {
       "name": "mcncarl/jianying-headless",
-      "stars": 1282
+      "stars": 1321
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T10:08:50.195871Z",
+  "updated_at": "2026-09-19T11:44:52.016672Z",
   "stories": [
     {
       "title": "Human brain is two separate organs, Stanford Medicine-led research finds",
-      "score": 225
+      "score": 286
+    },
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "score": 220
     },
     {
       "title": "If math is more than proof, we need to better celebrate the rest of it",
-      "score": 95
+      "score": 131
     },
     {
       "title": "GPT-6 Astra Solves a WWI German Radio Cipher",
-      "score": 110
+      "score": 140
     },
     {
-      "title": "AI posters don't have to be horrible",
-      "score": 10
-    },
-    {
-      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
-      "score": 842
+      "title": "\u201cThe Secret Life of Circuits\u201d is here",
+      "score": 62
     }
   ]
 }
