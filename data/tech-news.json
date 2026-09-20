@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-20T19:06:40.838116Z",
+  "updated_at": "2026-09-20T22:15:39.673799Z",
   "stories": [
     {
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "score": 89
-    },
-    {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "score": 263
+      "score": 248
     },
     {
       "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "score": 217
+      "score": 476
     },
     {
       "title": "Qwen Image 2.1",
-      "score": 330
+      "score": 422
     },
     {
-      "title": "Singapore\u2019s National Library Board offers micropayments to build reading habits",
-      "score": 117
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "score": 371
+    },
+    {
+      "title": "Nobody pays for FOSS, we can force them to",
+      "score": 45
     }
   ]
 }

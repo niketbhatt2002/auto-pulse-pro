@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-20T19:06:41.813669Z",
+  "updated_at": "2026-09-20T22:15:41.238730Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 11399
+      "stars": 11672
     },
     {
       "name": "tamaratran/fast-jev-compaction",
-      "stars": 4983
-    },
-    {
-      "name": "robbietilton/Compositor",
-      "stars": 3503
+      "stars": 5090
     },
     {
       "name": "NandhaKishorM/laya",
-      "stars": 3400
+      "stars": 3805
+    },
+    {
+      "name": "robbietilton/Compositor",
+      "stars": 3606
     },
     {
       "name": "TheoLeeCJ/SemIf",
-      "stars": 2351
+      "stars": 2416
     }
   ]
 }
