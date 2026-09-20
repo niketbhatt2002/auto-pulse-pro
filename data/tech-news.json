@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-19T22:13:10.009542Z",
+  "updated_at": "2026-09-20T00:54:10.722502Z",
   "stories": [
     {
+      "title": "Exfiltrate Your Weights",
+      "score": 73
+    },
+    {
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "score": 127
+    },
+    {
       "title": "I built non-autoregressive decision models with RL a year ago",
-      "score": 990
+      "score": 1071
     },
     {
       "title": "AI-generated posters don\u2019t have to be horrible",
-      "score": 1241
+      "score": 1350
     },
     {
-      "title": "English: A vs. An",
-      "score": 28
-    },
-    {
-      "title": "Measure internet censorship. Contribute to the largest open dataset",
-      "score": 45
-    },
-    {
-      "title": "Brood War Bench",
-      "score": 87
+      "title": "Can you tell which images are AI-generated?",
+      "score": 26
     }
   ]
 }
