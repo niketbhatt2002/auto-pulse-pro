@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-20T14:27:46.915490Z",
+  "updated_at": "2026-09-20T17:20:43.314906Z",
   "stories": [
     {
+      "title": "Pirate Face Rescues LLM Models from Deletion",
+      "score": 132
+    },
+    {
       "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-      "score": 79
+      "score": 276
     },
     {
-      "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "score": 66
+      "title": "Sherline Tools Is Going Out of Business",
+      "score": 89
     },
     {
-      "title": "The Millennium Problems for Biology",
-      "score": 35
+      "title": "ChatGPT now knows what you do on other websites via ad collector",
+      "score": 60
     },
     {
-      "title": "Exfiltrate Your Weights",
-      "score": 500
-    },
-    {
-      "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "score": 147
+      "title": "Show HN: Radius \u2013 A Meetup.com Alternative",
+      "score": 13
     }
   ]
 }
