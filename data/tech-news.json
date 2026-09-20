@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-20T10:27:27.091551Z",
+  "updated_at": "2026-09-20T11:58:04.603836Z",
   "stories": [
     {
+      "title": "AI and the Destruction of the Creative Commons",
+      "score": 48
+    },
+    {
       "title": "Exfiltrate Your Weights",
-      "score": 423
+      "score": 461
+    },
+    {
+      "title": "If AI coding is lowering your code quality, you're not managing quality right",
+      "score": 3
     },
     {
       "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "score": 100
-    },
-    {
-      "title": "When the FM Band Goes Transatlantic",
-      "score": 17
+      "score": 118
     },
     {
       "title": "English: A vs. An",
-      "score": 227
-    },
-    {
-      "title": "Step 5 Preview: Advancing the Pareto Frontier",
-      "score": 67
+      "score": 261
     }
   ]
 }
