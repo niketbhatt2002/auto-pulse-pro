@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-20T11:58:04.603836Z",
+  "updated_at": "2026-09-20T12:47:11.173676Z",
   "stories": [
     {
       "title": "AI and the Destruction of the Creative Commons",
-      "score": 48
+      "score": 106
+    },
+    {
+      "title": "Why Do We Need Human Mathematicians Anymore?",
+      "score": 29
     },
     {
       "title": "Exfiltrate Your Weights",
-      "score": 461
-    },
-    {
-      "title": "If AI coding is lowering your code quality, you're not managing quality right",
-      "score": 3
+      "score": 470
     },
     {
       "title": "Weeping whales: Stillborn humpback whale grieving documented",
-      "score": 118
+      "score": 127
     },
     {
       "title": "English: A vs. An",
-      "score": 261
+      "score": 270
     }
   ]
 }
