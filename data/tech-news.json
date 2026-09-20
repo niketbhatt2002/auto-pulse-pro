@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-20T13:48:30.486036Z",
+  "updated_at": "2026-09-20T14:27:46.915490Z",
   "stories": [
     {
       "title": "Qwen-Image-2.1: Compact, efficient, and unified image creation",
-      "score": 19
+      "score": 79
     },
     {
       "title": "Chat-based Large Language Models replicate the mechanisms of a psychic's con",
-      "score": 33
-    },
-    {
-      "title": "AI and the Destruction of the Creative Commons",
-      "score": 162
-    },
-    {
-      "title": "Teen Social Media Bans Miss the Point",
-      "score": 5
+      "score": 66
     },
     {
       "title": "The Millennium Problems for Biology",
-      "score": 18
+      "score": 35
+    },
+    {
+      "title": "Exfiltrate Your Weights",
+      "score": 500
+    },
+    {
+      "title": "Weeping whales: Stillborn humpback whale grieving documented",
+      "score": 147
     }
   ]
 }
