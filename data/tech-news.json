@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-21T13:32:54.149665Z",
+  "updated_at": "2026-09-21T14:44:39.710140Z",
   "stories": [
     {
+      "title": "What Sun Got Wrong",
+      "score": 57
+    },
+    {
       "title": "ZuckOff Know when a camera is in the room",
-      "score": 432
+      "score": 537
+    },
+    {
+      "title": "Uber arbitration award over Emily Normandin-Parker's death",
+      "score": 36
     },
     {
       "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "score": 206
-    },
-    {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "score": 221
+      "score": 309
     },
     {
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "score": 197
-    },
-    {
-      "title": "Jev-Leftpad",
-      "score": 140
+      "score": 236
     }
   ]
 }
