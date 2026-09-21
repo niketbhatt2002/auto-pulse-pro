@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-21T14:44:39.710140Z",
+  "updated_at": "2026-09-21T15:47:38.099681Z",
   "stories": [
     {
       "title": "What Sun Got Wrong",
-      "score": 57
-    },
-    {
-      "title": "ZuckOff Know when a camera is in the room",
-      "score": 537
+      "score": 158
     },
     {
       "title": "Uber arbitration award over Emily Normandin-Parker's death",
-      "score": 36
+      "score": 103
     },
     {
       "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "score": 309
+      "score": 401
+    },
+    {
+      "title": "Meta bans ads for Virginia Woolf play in Spain",
+      "score": 86
     },
     {
       "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "score": 236
+      "score": 268
     }
   ]
 }
