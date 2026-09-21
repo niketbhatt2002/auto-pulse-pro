@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-20T22:15:39.673799Z",
+  "updated_at": "2026-09-21T00:57:25.076477Z",
   "stories": [
     {
+      "title": "Google's Open Agentic Orchestrator",
+      "score": 145
+    },
+    {
+      "title": "What happened to the Snowden archive",
+      "score": 121
+    },
+    {
       "title": "Samsung is expected to more than double output of its HBM4 and HBM4E DRAM",
-      "score": 248
+      "score": 337
     },
     {
       "title": "ChatGPT now knows what you do on other websites via ad collector",
-      "score": 476
-    },
-    {
-      "title": "Qwen Image 2.1",
-      "score": 422
-    },
-    {
-      "title": "Pirate Face Rescues LLM Models from Deletion",
-      "score": 371
+      "score": 570
     },
     {
       "title": "Nobody pays for FOSS, we can force them to",
-      "score": 45
+      "score": 131
     }
   ]
 }
