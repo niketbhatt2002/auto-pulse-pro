@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-21T16:46:00.935891Z",
+  "updated_at": "2026-09-21T19:09:31.717693Z",
   "stories": [
     {
       "title": "What Sun got wrong",
-      "score": 242
+      "score": 359
+    },
+    {
+      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
+      "score": 71
     },
     {
       "title": "Attention is all you have",
-      "score": 118
+      "score": 330
     },
     {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "score": 290
+      "title": "Grok 4.7",
+      "score": 317
     },
     {
-      "title": "Show HN: Foremerge \u2013 Catch Intent Conflicts Between Parallel Coding Agents",
-      "score": 5
-    },
-    {
-      "title": "Uber arbitration award over Emily Normandin-Parker's death",
-      "score": 138
+      "title": "Fable 5 \u2013 Median thinking declined in August",
+      "score": 212
     }
   ]
 }
