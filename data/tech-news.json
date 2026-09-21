@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-21T19:09:31.717693Z",
+  "updated_at": "2026-09-21T20:40:50.868487Z",
   "stories": [
     {
-      "title": "What Sun got wrong",
-      "score": 359
+      "title": "The NASA/ESA Mars Sample Return mission has been canceled",
+      "score": 130
     },
     {
-      "title": "Turn off and restrict access to Apple Intelligence features on Mac",
-      "score": 71
+      "title": "Xiaomi MiMo v2.6",
+      "score": 76
+    },
+    {
+      "title": "What Sun got wrong",
+      "score": 409
     },
     {
       "title": "Attention is all you have",
-      "score": 330
+      "score": 430
     },
     {
-      "title": "Grok 4.7",
-      "score": 317
-    },
-    {
-      "title": "Fable 5 \u2013 Median thinking declined in August",
-      "score": 212
+      "title": "AI coding has made CI a bottleneck, so we reworked ours to keep up",
+      "score": 37
     }
   ]
 }
