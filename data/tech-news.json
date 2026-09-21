@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-21T11:44:42.573046Z",
+  "updated_at": "2026-09-21T13:32:54.149665Z",
   "stories": [
     {
       "title": "ZuckOff Know when a camera is in the room",
-      "score": 199
-    },
-    {
-      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
-      "score": 105
-    },
-    {
-      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
-      "score": 148
-    },
-    {
-      "title": "Jev-Leftpad",
-      "score": 89
+      "score": 432
     },
     {
       "title": "Disney+: New user agreement allows ads before movies in all subscriptions",
-      "score": 67
+      "score": 206
+    },
+    {
+      "title": "ZuckOff Is a Free App That Sees Meta Glasses Before They See You",
+      "score": 221
+    },
+    {
+      "title": "Kev: Tiny Jev-like family of decision models built on top of Qwen3.5",
+      "score": 197
+    },
+    {
+      "title": "Jev-Leftpad",
+      "score": 140
     }
   ]
 }
