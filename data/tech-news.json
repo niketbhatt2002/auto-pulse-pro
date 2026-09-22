@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T10:47:40.901636Z",
+  "updated_at": "2026-09-22T12:17:33.969999Z",
   "stories": [
     {
       "title": "AMD's random number generator can't generate a 0?",
-      "score": 62
+      "score": 110
     },
     {
       "title": "Can gzip be a language model?",
-      "score": 163
+      "score": 201
+    },
+    {
+      "title": "9 Ads per Minute: FIFA Cup 26 \u2013 \"the price of the beautiful game\"",
+      "score": 90
     },
     {
       "title": "MiMo v2.6",
-      "score": 918
+      "score": 946
     },
     {
-      "title": "Spymarks, Not Watermarks",
-      "score": 458
-    },
-    {
-      "title": "I said no and Apple said yes",
-      "score": 201
+      "title": "Type Punning in C and C++",
+      "score": 12
     }
   ]
 }
