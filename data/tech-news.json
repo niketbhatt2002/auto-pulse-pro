@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T18:00:02.112281Z",
+  "updated_at": "2026-09-22T19:56:15.416701Z",
   "stories": [
     {
+      "title": "GPT-6 Sol and Luna",
+      "score": 626
+    },
+    {
       "title": "Claude Opus 5.5",
-      "score": 374
+      "score": 768
     },
     {
       "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "score": 365
+      "score": 452
     },
     {
-      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
-      "score": 58
+      "title": "SAML: A Fractal of Bad Design",
+      "score": 35
     },
     {
       "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "score": 56
-    },
-    {
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "score": 43
+      "score": 136
     }
   ]
 }
