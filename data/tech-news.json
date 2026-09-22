@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T13:58:16.718251Z",
+  "updated_at": "2026-09-22T14:14:57.928661Z",
   "stories": [
     {
-      "title": "Can gzip be a language model?",
-      "score": 260
+      "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
+      "score": 35
     },
     {
-      "title": "AI Has No Wisdom and Neither Will You",
-      "score": 211
+      "title": "Can gzip be a language model?",
+      "score": 272
     },
     {
       "title": "MiMo v2.6",
-      "score": 978
+      "score": 988
     },
     {
       "title": "Spymarks, Not Watermarks",
-      "score": 553
+      "score": 562
     },
     {
-      "title": "AMD's random number generator can't generate a 0?",
-      "score": 152
+      "title": "AI Has No Wisdom and Neither Will You",
+      "score": 235
     }
   ]
 }
