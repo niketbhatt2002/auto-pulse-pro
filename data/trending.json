@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-21T23:03:22.314813Z",
+  "updated_at": "2026-09-22T01:32:09.063139Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 15556
+      "stars": 15829
     },
     {
       "name": "NandhaKishorM/laya",
-      "stars": 9938
+      "stars": 10523
     },
     {
       "name": "tamaratran/fast-jev-compaction",
-      "stars": 5942
+      "stars": 5982
     },
     {
       "name": "zai-org/ZCode",
-      "stars": 5542
+      "stars": 5657
     },
     {
       "name": "robbietilton/Compositor",
-      "stars": 4363
+      "stars": 4406
     }
   ]
 }

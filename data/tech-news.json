@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-21T23:03:21.117471Z",
+  "updated_at": "2026-09-22T01:32:07.798833Z",
   "stories": [
     {
       "title": "Xiaomi MiMo v2.6",
-      "score": 372
+      "score": 522
+    },
+    {
+      "title": "Claude Status \u2013 Elevated errors for multiple models",
+      "score": 28
+    },
+    {
+      "title": "Spymarks, Not Watermarks",
+      "score": 100
     },
     {
       "title": "NASA\u2019s Mars Sample Return mission is dead",
-      "score": 240
+      "score": 305
     },
     {
-      "title": "Suspension of the de minimis administrative exemption for imports $800 or less",
-      "score": 83
-    },
-    {
-      "title": "Data Protection Commission fines Google \u20ac403M over processing of location data",
-      "score": 17
-    },
-    {
-      "title": "Transformers Explained Visually",
-      "score": 126
+      "title": "I don't want to read what you didn't write",
+      "score": 222
     }
   ]
 }
