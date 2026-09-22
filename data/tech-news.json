@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T12:17:33.969999Z",
+  "updated_at": "2026-09-22T12:59:18.055579Z",
   "stories": [
     {
+      "title": "AI Has No Wisdom and Neither Will You",
+      "score": 83
+    },
+    {
       "title": "AMD's random number generator can't generate a 0?",
-      "score": 110
+      "score": 135
     },
     {
       "title": "Can gzip be a language model?",
-      "score": 201
+      "score": 222
     },
     {
-      "title": "9 Ads per Minute: FIFA Cup 26 \u2013 \"the price of the beautiful game\"",
-      "score": 90
+      "title": "Will Open Source Survive the Agents That Replaced It?",
+      "score": 15
     },
     {
       "title": "MiMo v2.6",
-      "score": 946
-    },
-    {
-      "title": "Type Punning in C and C++",
-      "score": 12
+      "score": 955
     }
   ]
 }
