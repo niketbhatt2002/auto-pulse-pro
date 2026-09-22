@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T14:14:59.090823Z",
+  "updated_at": "2026-09-22T15:24:16.651287Z",
   "repos": [
     {
       "name": "browser-use/jev-ultrafast",
-      "stars": 17566
+      "stars": 17657
     },
     {
       "name": "NandhaKishorM/laya",
-      "stars": 14632
+      "stars": 14986
     },
     {
       "name": "tamaratran/fast-jev-compaction",
-      "stars": 6214
+      "stars": 6236
     },
     {
       "name": "zai-org/ZCode",
-      "stars": 6182
+      "stars": 6202
     },
     {
       "name": "mizorewww/laya-mlx",
-      "stars": 5030
+      "stars": 5098
     }
   ]
 }

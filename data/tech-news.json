@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T14:14:57.928661Z",
+  "updated_at": "2026-09-22T15:24:15.662043Z",
   "stories": [
     {
       "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "score": 35
+      "score": 178
     },
     {
-      "title": "Can gzip be a language model?",
-      "score": 272
+      "title": "OpenAI is about to eat Jev's lunch \u2013 Arcturus Labs",
+      "score": 60
     },
     {
-      "title": "MiMo v2.6",
-      "score": 988
+      "title": "Jev \u2013 a curation of Jev demos on X, tools, skills, and integrations",
+      "score": 28
     },
     {
-      "title": "Spymarks, Not Watermarks",
-      "score": 562
+      "title": "Show HN: Drop \u2013 a rootless Linux sandbox with gVisor support",
+      "score": 58
     },
     {
-      "title": "AI Has No Wisdom and Neither Will You",
-      "score": 235
+      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
+      "score": 121
     }
   ]
 }
