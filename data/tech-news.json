@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T15:24:15.662043Z",
+  "updated_at": "2026-09-22T18:00:02.112281Z",
   "stories": [
     {
+      "title": "Claude Opus 5.5",
+      "score": 374
+    },
+    {
       "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "score": 178
+      "score": 365
     },
     {
-      "title": "OpenAI is about to eat Jev's lunch \u2013 Arcturus Labs",
-      "score": 60
-    },
-    {
-      "title": "Jev \u2013 a curation of Jev demos on X, tools, skills, and integrations",
-      "score": 28
-    },
-    {
-      "title": "Show HN: Drop \u2013 a rootless Linux sandbox with gVisor support",
+      "title": "There's a high chance of devices being sold with GrapheneOS preinstalled in 2027",
       "score": 58
     },
     {
-      "title": "Apple has added persistent 'ads' to iOS, and it's driving users crazy",
-      "score": 121
+      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
+      "score": 56
+    },
+    {
+      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
+      "score": 43
     }
   ]
 }
