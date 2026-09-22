@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T01:32:07.798833Z",
+  "updated_at": "2026-09-22T10:47:40.901636Z",
   "stories": [
     {
-      "title": "Xiaomi MiMo v2.6",
-      "score": 522
+      "title": "AMD's random number generator can't generate a 0?",
+      "score": 62
     },
     {
-      "title": "Claude Status \u2013 Elevated errors for multiple models",
-      "score": 28
+      "title": "Can gzip be a language model?",
+      "score": 163
+    },
+    {
+      "title": "MiMo v2.6",
+      "score": 918
     },
     {
       "title": "Spymarks, Not Watermarks",
-      "score": 100
+      "score": 458
     },
     {
-      "title": "NASA\u2019s Mars Sample Return mission is dead",
-      "score": 305
-    },
-    {
-      "title": "I don't want to read what you didn't write",
-      "score": 222
+      "title": "I said no and Apple said yes",
+      "score": 201
     }
   ]
 }
