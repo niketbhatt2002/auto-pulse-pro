@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-23T13:12:33.364230Z",
+  "updated_at": "2026-09-23T14:09:57.831082Z",
   "stories": [
     {
       "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "score": 96
+      "score": 217
+    },
+    {
+      "title": "The GitHub wiki is an anti-pattern",
+      "score": 36
     },
     {
       "title": "Jev in 25 Lines of Python",
-      "score": 333
+      "score": 376
+    },
+    {
+      "title": "Samsung accidentally freezes its smart fridges with a software update",
+      "score": 81
     },
     {
       "title": "Z80 REPL",
-      "score": 51
-    },
-    {
-      "title": "GPT-6 Sol and Luna",
-      "score": 1618
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "score": 1631
+      "score": 67
     }
   ]
 }
