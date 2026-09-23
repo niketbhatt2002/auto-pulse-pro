@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-22T22:47:27.130904Z",
+  "updated_at": "2026-09-23T01:21:56.481810Z",
   "stories": [
     {
       "title": "GPT-6 Sol and Luna",
-      "score": 983
+      "score": 1160
     },
     {
       "title": "Claude Opus 5.5",
-      "score": 1024
-    },
-    {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "score": 102
+      "score": 1187
     },
     {
       "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "score": 240
+      "score": 380
     },
     {
       "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "score": 517
+      "score": 553
+    },
+    {
+      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
+      "score": 68
     }
   ]
 }
