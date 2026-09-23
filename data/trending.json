@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-23T01:21:57.757389Z",
+  "updated_at": "2026-09-23T10:37:14.845730Z",
   "repos": [
     {
       "name": "NandhaKishorM/laya",
-      "stars": 16669
-    },
-    {
-      "name": "tamaratran/fast-jev-compaction",
-      "stars": 6315
+      "stars": 18683
     },
     {
       "name": "zai-org/ZCode",
-      "stars": 6304
+      "stars": 6461
+    },
+    {
+      "name": "tamaratran/fast-jev-compaction",
+      "stars": 6453
     },
     {
       "name": "mizorewww/laya-mlx",
-      "stars": 5462
+      "stars": 5725
     },
     {
       "name": "jaredpalmer/kev",
-      "stars": 4300
+      "stars": 5099
     }
   ]
 }
