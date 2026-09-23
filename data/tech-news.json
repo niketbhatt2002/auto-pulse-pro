@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-23T14:31:49.227357Z",
+  "updated_at": "2026-09-23T18:19:01.591502Z",
   "stories": [
     {
-      "title": "Claude Code reads AGENTS.md only when telemetry is on",
-      "score": 250
+      "title": "Fixing the Portobello Police Station Clock",
+      "score": 224
     },
     {
-      "title": "The GitHub wiki is an anti-pattern",
-      "score": 58
+      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
+      "score": 30
     },
     {
-      "title": "I Don't Want the Details",
-      "score": 75
+      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
+      "score": 62
     },
     {
-      "title": "Jev in 25 Lines of Python",
-      "score": 398
+      "title": "Gemini 3.8 text-to-speech",
+      "score": 132
     },
     {
-      "title": "Z80 REPL",
-      "score": 73
+      "title": "Italian parliament votes for return to nuclear energy",
+      "score": 86
     }
   ]
 }
