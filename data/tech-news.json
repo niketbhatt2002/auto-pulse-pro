@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-23T19:53:22.347880Z",
+  "updated_at": "2026-09-23T22:47:58.240243Z",
   "stories": [
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "score": 167
+      "score": 384
+    },
+    {
+      "title": "VSCode's SSH Agent Is Bananas",
+      "score": 62
     },
     {
       "title": "Fixing the Portobello Police Station Clock",
-      "score": 292
+      "score": 353
     },
     {
-      "title": "How we made claude.ai 3x faster in two weeks",
-      "score": 33
+      "title": "LensVLM: Compressing long context as images, expanding only relevant pages",
+      "score": 27
     },
     {
       "title": "A brief history of Windows scroll bar shortcuts",
-      "score": 43
-    },
-    {
-      "title": "Italian parliament votes for return to nuclear energy",
-      "score": 268
+      "score": 89
     }
   ]
 }
