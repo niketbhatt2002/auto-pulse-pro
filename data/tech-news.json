@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-23T12:30:11.683287Z",
+  "updated_at": "2026-09-23T13:12:33.364230Z",
   "stories": [
     {
+      "title": "Claude Code reads AGENTS.md only when telemetry is on",
+      "score": 96
+    },
+    {
       "title": "Jev in 25 Lines of Python",
-      "score": 280
+      "score": 333
     },
     {
       "title": "Z80 REPL",
-      "score": 25
+      "score": 51
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "score": 1601
+      "score": 1618
     },
     {
       "title": "Claude Opus 5.5",
-      "score": 1614
-    },
-    {
-      "title": "The darker side of being a doctor",
-      "score": 135
+      "score": 1631
     }
   ]
 }
