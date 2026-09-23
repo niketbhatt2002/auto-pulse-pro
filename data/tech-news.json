@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-23T18:19:01.591502Z",
+  "updated_at": "2026-09-23T19:53:22.347880Z",
   "stories": [
     {
+      "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "score": 167
+    },
+    {
       "title": "Fixing the Portobello Police Station Clock",
-      "score": 224
+      "score": 292
     },
     {
-      "title": "UK military jamming other nations' satellites to defend itself, BBC told",
-      "score": 30
+      "title": "How we made claude.ai 3x faster in two weeks",
+      "score": 33
     },
     {
-      "title": "Radicle: Disclosure of Vulnerability in the Network Protocol",
-      "score": 62
-    },
-    {
-      "title": "Gemini 3.8 text-to-speech",
-      "score": 132
+      "title": "A brief history of Windows scroll bar shortcuts",
+      "score": 43
     },
     {
       "title": "Italian parliament votes for return to nuclear energy",
-      "score": 86
+      "score": 268
     }
   ]
 }
