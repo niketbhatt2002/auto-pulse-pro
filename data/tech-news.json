@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-23T10:37:14.222461Z",
+  "updated_at": "2026-09-23T12:30:11.683287Z",
   "stories": [
     {
       "title": "Jev in 25 Lines of Python",
-      "score": 179
+      "score": 280
+    },
+    {
+      "title": "Z80 REPL",
+      "score": 25
     },
     {
       "title": "GPT-6 Sol and Luna",
-      "score": 1551
+      "score": 1601
     },
     {
       "title": "Claude Opus 5.5",
-      "score": 1562
+      "score": 1614
     },
     {
-      "title": "Transit rewards",
-      "score": 145
-    },
-    {
-      "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "score": 663
+      "title": "The darker side of being a doctor",
+      "score": 135
     }
   ]
 }
