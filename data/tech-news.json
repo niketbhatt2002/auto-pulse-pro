@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-24T20:11:28.421175Z",
+  "updated_at": "2026-09-24T23:04:44.190072Z",
   "stories": [
     {
       "title": "F-Droid 2.0",
-      "score": 626
+      "score": 833
+    },
+    {
+      "title": "Show HN: Koi.rest \u2013 watch some fish and regain your balance",
+      "score": 70
     },
     {
       "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "score": 179
+      "score": 384
+    },
+    {
+      "title": "California is chasing wealth that has feet",
+      "score": 69
     },
     {
       "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "score": 114
-    },
-    {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "score": 131
-    },
-    {
-      "title": "Fearless SIMD v1.0",
-      "score": 90
+      "score": 159
     }
   ]
 }
