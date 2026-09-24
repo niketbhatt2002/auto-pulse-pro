@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-24T18:19:51.541525Z",
+  "updated_at": "2026-09-24T20:11:28.421175Z",
   "stories": [
     {
       "title": "F-Droid 2.0",
-      "score": 430
+      "score": 626
+    },
+    {
+      "title": "Show HN: Make cursed fonts like Times New Bastard",
+      "score": 179
     },
     {
       "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "score": 57
+      "score": 114
+    },
+    {
+      "title": "Rails World 2026 Opening Keynote [video]",
+      "score": 131
     },
     {
       "title": "Fearless SIMD v1.0",
-      "score": 23
-    },
-    {
-      "title": "Google\u2019s Project Suncatcher to put ML infrastructure in space",
-      "score": 25
-    },
-    {
-      "title": "Two-tier encryption in the UK",
-      "score": 289
+      "score": 90
     }
   ]
 }
