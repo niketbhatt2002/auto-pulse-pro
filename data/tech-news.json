@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-24T01:16:04.474344Z",
+  "updated_at": "2026-09-24T10:57:08.674596Z",
   "stories": [
     {
-      "title": "Meta VR Glasses",
-      "score": 171
+      "title": "Nokia Design Archive (2025)",
+      "score": 48
     },
     {
       "title": "Linux support is coming to Snapdragon X2 Series",
-      "score": 122
+      "score": 433
+    },
+    {
+      "title": "Where's the Beef?: The lab-grown-meat revolution that wasn't",
+      "score": 24
     },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "score": 483
+      "score": 663
     },
     {
-      "title": "VSCode's SSH Agent Is Bananas (2025)",
-      "score": 118
-    },
-    {
-      "title": "ArXiv receives multiyear commitments to support it as an independent nonprofit",
-      "score": 47
+      "title": "Ideas on modernizing the open-source desktop",
+      "score": 153
     }
   ]
 }
