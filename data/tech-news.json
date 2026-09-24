@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-24T10:57:08.674596Z",
+  "updated_at": "2026-09-24T12:29:20.951470Z",
   "stories": [
     {
       "title": "Nokia Design Archive (2025)",
-      "score": 48
+      "score": 93
+    },
+    {
+      "title": "Two-Tier Encryption in the UK \u2013 Identical Apple Devices, Different Protection",
+      "score": 18
     },
     {
       "title": "Linux support is coming to Snapdragon X2 Series",
-      "score": 433
-    },
-    {
-      "title": "Where's the Beef?: The lab-grown-meat revolution that wasn't",
-      "score": 24
+      "score": 471
     },
     {
       "title": "Claude discovers a novel enzyme system with CRISPR-like repeats",
-      "score": 663
+      "score": 684
     },
     {
       "title": "Ideas on modernizing the open-source desktop",
-      "score": 153
+      "score": 193
     }
   ]
 }
