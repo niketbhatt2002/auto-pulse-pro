@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T14:30:37.899441Z",
+  "updated_at": "2026-09-25T14:51:10.126415Z",
   "stories": [
     {
       "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "score": 622
+      "score": 667
     },
     {
       "title": "Allow Carriers on Planes",
-      "score": 26
+      "score": 52
     },
     {
       "title": "Platform-Independent SIMD in Go",
-      "score": 90
+      "score": 97
     },
     {
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "score": 96
+      "score": 108
     },
     {
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "score": 152
+      "score": 154
     }
   ]
 }
