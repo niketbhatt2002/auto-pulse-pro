@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T10:57:53.661748Z",
+  "updated_at": "2026-09-25T12:30:41.835607Z",
   "stories": [
     {
       "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "score": 243
+      "score": 404
+    },
+    {
+      "title": "Platform-Independent SIMD in Go",
+      "score": 14
     },
     {
       "title": "Ink and Switch Interactive Homepage",
-      "score": 29
+      "score": 60
     },
     {
       "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "score": 75
+      "score": 103
     },
     {
       "title": "F-Droid 2.0",
-      "score": 1263
-    },
-    {
-      "title": "The Mafia may be keeping fentanyl out of Italy",
-      "score": 12
+      "score": 1293
     }
   ]
 }
