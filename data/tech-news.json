@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T18:21:17.244034Z",
+  "updated_at": "2026-09-25T20:09:53.684510Z",
   "stories": [
     {
-      "title": "Platform-Independent SIMD in Go",
-      "score": 264
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "score": 124
     },
     {
-      "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "score": 215
+      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
+      "score": 65
+    },
+    {
+      "title": "Platform-independent SIMD in Go",
+      "score": 303
+    },
+    {
+      "title": "Advice to a Beginning Graduate Student (2001)",
+      "score": 21
     },
     {
       "title": "First Principles Thinking",
-      "score": 111
-    },
-    {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "score": 215
-    },
-    {
-      "title": "F-Droid 2.0",
-      "score": 1406
+      "score": 158
     }
   ]
 }
