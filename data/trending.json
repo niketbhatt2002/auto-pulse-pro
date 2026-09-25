@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-24T23:04:45.312069Z",
+  "updated_at": "2026-09-25T01:20:01.544517Z",
   "repos": [
     {
-      "name": "NandhaKishorM/laya",
-      "stars": 22961
-    },
-    {
       "name": "zai-org/ZCode",
-      "stars": 6704
+      "stars": 6713
     },
     {
       "name": "mizorewww/laya-mlx",
-      "stars": 6213
+      "stars": 6225
     },
     {
       "name": "jev-chat/jev-chat-jarvis",
-      "stars": 6044
+      "stars": 6088
     },
     {
       "name": "unreallabsai/unreal-agent",
-      "stars": 1874
+      "stars": 1878
+    },
+    {
+      "name": "mizorewww/laya-coreml",
+      "stars": 1439
     }
   ]
 }
