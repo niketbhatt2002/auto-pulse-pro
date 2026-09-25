@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T14:51:10.126415Z",
+  "updated_at": "2026-09-25T15:42:55.661928Z",
   "stories": [
     {
-      "title": "Dutch governments builds alternative for Microsoft based on NixOS",
-      "score": 667
+      "title": "Platform-Independent SIMD in Go",
+      "score": 148
     },
     {
       "title": "Allow Carriers on Planes",
-      "score": 52
-    },
-    {
-      "title": "Platform-Independent SIMD in Go",
-      "score": 97
+      "score": 106
     },
     {
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "score": 108
+      "score": 141
     },
     {
-      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
-      "score": 154
+      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
+      "score": 6
+    },
+    {
+      "title": "First Principles Thinking",
+      "score": 37
     }
   ]
 }
