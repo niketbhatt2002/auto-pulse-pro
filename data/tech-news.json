@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T15:42:55.661928Z",
+  "updated_at": "2026-09-25T18:21:17.244034Z",
   "stories": [
     {
       "title": "Platform-Independent SIMD in Go",
-      "score": 148
-    },
-    {
-      "title": "Allow Carriers on Planes",
-      "score": 106
+      "score": 264
     },
     {
       "title": "Git-bug: Distributed, offline-first bug tracker embedded in Git",
-      "score": 141
-    },
-    {
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "score": 6
+      "score": 215
     },
     {
       "title": "First Principles Thinking",
-      "score": 37
+      "score": 111
+    },
+    {
+      "title": "Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini",
+      "score": 215
+    },
+    {
+      "title": "F-Droid 2.0",
+      "score": 1406
     }
   ]
 }
