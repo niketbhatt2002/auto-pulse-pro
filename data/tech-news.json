@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T20:09:53.684510Z",
+  "updated_at": "2026-09-25T23:09:36.377487Z",
   "stories": [
     {
       "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-      "score": 124
+      "score": 271
     },
     {
-      "title": "Alan Kay: Shannon gave us a way of dealing with noisy channels [video]",
-      "score": 65
+      "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
+      "score": 71
     },
     {
-      "title": "Platform-independent SIMD in Go",
-      "score": 303
+      "title": "What Even Is an OS Now?",
+      "score": 26
     },
     {
-      "title": "Advice to a Beginning Graduate Student (2001)",
-      "score": 21
+      "title": "Show HN: Jev Plays Pok\u00e9mon Red",
+      "score": 108
     },
     {
-      "title": "First Principles Thinking",
-      "score": 158
+      "title": "Excel now supports multiple values in a single cell",
+      "score": 31
     }
   ]
 }
