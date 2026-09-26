@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-25T23:09:36.377487Z",
+  "updated_at": "2026-09-26T01:22:40.918938Z",
   "stories": [
     {
-      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
-      "score": 271
-    },
-    {
       "title": "Revealing the details of how OpenAI agents hacked Hugging Face",
-      "score": 71
+      "score": 195
     },
     {
-      "title": "What Even Is an OS Now?",
-      "score": 26
+      "title": "Ollaya \u2013 Ollama for open-source, Jev-style decision models",
+      "score": 331
     },
     {
       "title": "Show HN: Jev Plays Pok\u00e9mon Red",
-      "score": 108
+      "score": 148
     },
     {
-      "title": "Excel now supports multiple values in a single cell",
-      "score": 31
+      "title": "What even is an OS now?",
+      "score": 72
+    },
+    {
+      "title": "Plan mode is dead",
+      "score": 66
     }
   ]
 }
