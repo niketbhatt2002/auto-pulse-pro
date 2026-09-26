@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-26T19:28:36.053594Z",
+  "updated_at": "2026-09-26T22:29:09.220777Z",
   "stories": [
     {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "score": 85
+    },
+    {
       "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "score": 180
-    },
-    {
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "score": 44
-    },
-    {
-      "title": "The Lost Atomic Update on Loongson CPU",
-      "score": 62
-    },
-    {
-      "title": "Fifteen years later, the Apple Cards origin story",
-      "score": 276
+      "score": 273
     },
     {
       "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
-      "score": 18
+      "score": 115
+    },
+    {
+      "title": "LA Metro has some of the slowest escalators on Earth",
+      "score": 40
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "score": 76
     }
   ]
 }
