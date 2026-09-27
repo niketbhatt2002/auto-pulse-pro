@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-27T18:09:21.956627Z",
+  "updated_at": "2026-09-27T19:53:46.940002Z",
   "repos": [
     {
       "name": "jev-chat/jev-chat-jarvis",
-      "stars": 6769
+      "stars": 6770
     },
     {
       "name": "unreallabsai/unreal-agent",
@@ -11,15 +11,15 @@
     },
     {
       "name": "Contrastive-LM/CLM",
-      "stars": 1835
+      "stars": 1862
     },
     {
       "name": "tobi/disktree",
-      "stars": 1539
+      "stars": 1555
     },
     {
       "name": "yetone/magpie",
-      "stars": 1217
+      "stars": 1223
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-27T18:09:20.601841Z",
+  "updated_at": "2026-09-27T19:53:45.670828Z",
   "stories": [
     {
+      "title": "Ember-1",
+      "score": 151
+    },
+    {
+      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
+      "score": 13
+    },
+    {
+      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
+      "score": 42
+    },
+    {
       "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "score": 102
-    },
-    {
-      "title": "Writing Efficient C++ Code",
-      "score": 80
-    },
-    {
-      "title": "Replacing the old battery on rechargeable bike lights",
-      "score": 81
-    },
-    {
-      "title": "The Normalization of Inexplicable Failures",
       "score": 152
     },
     {
-      "title": "Show HN: TinyAIArena watch AI agents battle it out",
-      "score": 42
+      "title": "The state of SIMD in Rust in 2026",
+      "score": 10
     }
   ]
 }
