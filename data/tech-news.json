@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-27T01:15:52.552547Z",
+  "updated_at": "2026-09-27T11:12:38.931318Z",
   "stories": [
     {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "score": 22
+    },
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "score": 108
+    },
+    {
+      "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "score": 243
+    },
+    {
       "title": "Does Georgism work? Five years later",
-      "score": 88
+      "score": 355
     },
     {
-      "title": "DeepSeek Elastic Compute (DSec)",
-      "score": 152
-    },
-    {
-      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
-      "score": 316
-    },
-    {
-      "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
-      "score": 171
-    },
-    {
-      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
-      "score": 109
+      "title": "Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election",
+      "score": 189
     }
   ]
 }
