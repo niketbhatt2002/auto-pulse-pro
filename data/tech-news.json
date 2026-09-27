@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-09-27T14:54:17.548737Z",
-  "stories": []
+  "updated_at": "2026-09-27T15:30:07.086658Z",
+  "stories": [
+    {
+      "title": "\"They had no concept of a duty of care to their users.\"",
+      "score": 73
+    },
+    {
+      "title": "In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life",
+      "score": 39
+    },
+    {
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "score": 41
+    },
+    {
+      "title": "Flip Fluid on Flip Dots",
+      "score": 247
+    },
+    {
+      "title": "Fakecloud: Local AWS cloud emulator for integration tests",
+      "score": 33
+    }
+  ]
 }
