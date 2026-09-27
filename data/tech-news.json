@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-27T13:27:14.363877Z",
+  "updated_at": "2026-09-27T14:37:29.827252Z",
   "stories": [
     {
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "score": 65
+      "title": "Flip Fluid on Flip Dots",
+      "score": 225
     },
     {
-      "title": "Flip Fluid on Flip Dots",
-      "score": 166
+      "title": "Replacing the old battery on rechargeable bike lights",
+      "score": 10
     },
     {
       "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "score": 373
+      "score": 487
+    },
+    {
+      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "score": 78
     },
     {
       "title": "Does Georgism work? Five years later",
-      "score": 398
-    },
-    {
-      "title": "Go Concurrency Distilled",
-      "score": 273
+      "score": 428
     }
   ]
 }
