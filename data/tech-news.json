@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-27T12:39:16.980848Z",
+  "updated_at": "2026-09-27T13:27:14.363877Z",
   "stories": [
     {
       "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
-      "score": 55
+      "score": 65
     },
     {
       "title": "Flip Fluid on Flip Dots",
-      "score": 142
-    },
-    {
-      "title": "Does Georgism work? Five years later",
-      "score": 385
+      "score": 166
     },
     {
       "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-      "score": 323
+      "score": 373
+    },
+    {
+      "title": "Does Georgism work? Five years later",
+      "score": 398
     },
     {
       "title": "Go Concurrency Distilled",
-      "score": 259
+      "score": 273
     }
   ]
 }
