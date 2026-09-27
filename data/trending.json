@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-26T22:29:10.188540Z",
+  "updated_at": "2026-09-27T01:15:54.146112Z",
   "repos": [
     {
-      "name": "zai-org/ZCode",
-      "stars": 6832
-    },
-    {
       "name": "jev-chat/jev-chat-jarvis",
-      "stars": 6669
-    },
-    {
-      "name": "driceroland/Search",
-      "stars": 2101
+      "stars": 6673
     },
     {
       "name": "unreallabsai/unreal-agent",
-      "stars": 1965
+      "stars": 1966
     },
     {
       "name": "Contrastive-LM/CLM",
-      "stars": 1554
+      "stars": 1595
+    },
+    {
+      "name": "tobi/disktree",
+      "stars": 1295
+    },
+    {
+      "name": "JohnHeibel/PDoomVideo",
+      "stars": 1048
     }
   ]
 }
