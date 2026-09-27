@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-27T19:53:45.670828Z",
+  "updated_at": "2026-09-27T22:51:59.574765Z",
   "stories": [
     {
-      "title": "Ember-1",
-      "score": 151
+      "title": "When did Google get so weird?",
+      "score": 469
     },
     {
-      "title": "Oral history of John Chowning, inventor of FM synthesis [video]",
-      "score": 13
+      "title": "Ember-1",
+      "score": 280
+    },
+    {
+      "title": "Lunar Terminator Paradox",
+      "score": 27
+    },
+    {
+      "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
+      "score": 50
     },
     {
       "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
-      "score": 42
-    },
-    {
-      "title": "In an $80 motel room, a discovery to shed light on the origins of life",
-      "score": 152
-    },
-    {
-      "title": "The state of SIMD in Rust in 2026",
-      "score": 10
+      "score": 118
     }
   ]
 }
