@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-09-28T17:30:24.703297Z",
+  "updated_at": "2026-09-28T17:52:04.118483Z",
   "repos": [
     {
       "name": "Contrastive-LM/CLM",
-      "stars": 2196
+      "stars": 2206
     },
     {
       "name": "tobi/disktree",
@@ -11,11 +11,11 @@
     },
     {
       "name": "mexicat/pdoom-video",
-      "stars": 1708
+      "stars": 1710
     },
     {
       "name": "yetone/magpie",
-      "stars": 1570
+      "stars": 1571
     },
     {
       "name": "JohnHeibel/PDoomVideo",

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-28T17:30:23.428778Z",
+  "updated_at": "2026-09-28T17:52:03.127222Z",
   "stories": [
     {
       "title": "Pirating the Pirates",
-      "score": 88
-    },
-    {
-      "title": "13 Months Sober (2025)",
-      "score": 41
+      "score": 108
     },
     {
       "title": "Hijacking the PS5's RTMP Stream",
-      "score": 44
+      "score": 52
+    },
+    {
+      "title": "Show HN: HN.watch \u2013 Videos of all Hacker News posts",
+      "score": 24
     },
     {
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "score": 236
+      "score": 240
     },
     {
       "title": "What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators",
-      "score": 35
+      "score": 36
     }
   ]
 }
