@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-28T18:24:33.282877Z",
+  "updated_at": "2026-09-28T20:26:05.984188Z",
   "stories": [
     {
       "title": "Pirating the Pirates",
-      "score": 150
+      "score": 284
     },
     {
-      "title": "Claude Sonnet 5.5",
-      "score": 91
+      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
+      "score": 45
     },
     {
-      "title": "Definitely not Windows (Win 11 parody)",
-      "score": 32
+      "title": "Joseph Szabo\u2019s pictures of American adolescents",
+      "score": 44
     },
     {
-      "title": "Hijacking the PS5's RTMP Stream",
-      "score": 80
+      "title": "Hijacking the PS5's RTMP stream",
+      "score": 133
     },
     {
-      "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "score": 244
+      "title": "Sonnet 5.5",
+      "score": 362
     }
   ]
 }
