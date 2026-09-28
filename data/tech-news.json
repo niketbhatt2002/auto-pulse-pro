@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-27T22:51:59.574765Z",
+  "updated_at": "2026-09-28T01:29:44.300390Z",
   "stories": [
     {
       "title": "When did Google get so weird?",
-      "score": 469
+      "score": 754
     },
     {
       "title": "Ember-1",
-      "score": 280
+      "score": 348
+    },
+    {
+      "title": "Self-parking car using genetic algorithm (2021)",
+      "score": 3
     },
     {
       "title": "Lunar Terminator Paradox",
-      "score": 27
+      "score": 42
     },
     {
       "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
-      "score": 50
-    },
-    {
-      "title": "Show HN: Lofi Cities \u2013 Pixel-art city nights with browser-generated lofi",
-      "score": 118
+      "score": 67
     }
   ]
 }
