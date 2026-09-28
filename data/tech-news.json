@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-28T20:26:05.984188Z",
+  "updated_at": "2026-09-28T22:18:05.519051Z",
   "stories": [
     {
+      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
+      "score": 113
+    },
+    {
+      "title": "World Labs Is Joining AMD",
+      "score": 113
+    },
+    {
       "title": "Pirating the Pirates",
-      "score": 284
+      "score": 352
+    },
+    {
+      "title": "Pacing the Frontier is not the actual goal for AI labs",
+      "score": 40
     },
     {
       "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "score": 45
-    },
-    {
-      "title": "Joseph Szabo\u2019s pictures of American adolescents",
-      "score": 44
-    },
-    {
-      "title": "Hijacking the PS5's RTMP stream",
-      "score": 133
-    },
-    {
-      "title": "Sonnet 5.5",
-      "score": 362
+      "score": 90
     }
   ]
 }
