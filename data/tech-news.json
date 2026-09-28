@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-28T12:39:54.196291Z",
+  "updated_at": "2026-09-28T14:52:23.322361Z",
   "stories": [
     {
+      "title": "Has Violence Against Teachers Become Accepted by Society?",
+      "score": 73
+    },
+    {
       "title": "Parley: Federated, decentralised chat that speaks plain IRC",
-      "score": 102
+      "score": 169
     },
     {
-      "title": "AI companies in race to demonstrate their model most threatening to humanity",
-      "score": 172
+      "title": "Show HN: Hntui \u2013 A TUI for Hacker News",
+      "score": 67
     },
     {
-      "title": "Footguns with Postgres \"at time zone 'UTC'\"",
-      "score": 70
+      "title": "Coding Is Not Solved \u2013 Alex Ewerl\u00f6f Notes",
+      "score": 84
     },
     {
       "title": "37,500 border drawings: a map of the world as people remember it",
-      "score": 44
-    },
-    {
-      "title": "Owed a billion dollars in Nvidia stock",
-      "score": 824
+      "score": 97
     }
   ]
 }
