@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T14:30:14.576323Z",
+  "updated_at": "2026-09-29T15:34:23.266954Z",
   "stories": [
     {
+      "title": "Claude partial outage",
+      "score": 128
+    },
+    {
+      "title": "macOS Golden Gate Is a Buggy Mess",
+      "score": 118
+    },
+    {
       "title": "How Delhi Cut Electricity Loss from 50 to 5 Percent",
-      "score": 147
+      "score": 204
     },
     {
       "title": "AI companies leak data to advertisers [pdf]",
-      "score": 283
+      "score": 326
     },
     {
-      "title": "You Are No Longer Invited to Dinner",
-      "score": 362
-    },
-    {
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "score": 117
-    },
-    {
-      "title": "Without the Hot Air",
-      "score": 41
+      "title": "America.gov \u2013 Whatever you need from government, start here",
+      "score": 30
     }
   ]
 }
