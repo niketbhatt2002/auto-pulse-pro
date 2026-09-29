@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T02:32:09.091678Z",
+  "updated_at": "2026-09-29T11:58:13.898931Z",
   "stories": [
     {
-      "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "score": 299
+      "title": "You Are No Longer Invited to Dinner",
+      "score": 43
     },
     {
-      "title": "Pirating the Pirates",
-      "score": 425
+      "title": "AI companies leak data to advertisers [pdf]",
+      "score": 153
     },
     {
-      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
-      "score": 85
+      "title": "Jeeves. Reasoning improves Jev-like decision models",
+      "score": 31
     },
     {
-      "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "score": 138
+      "title": "Using any C++ library in Godot",
+      "score": 62
     },
     {
-      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
-      "score": 25
+      "title": "Phyllotaxis: An audio-reactive LED display",
+      "score": 164
     }
   ]
 }
