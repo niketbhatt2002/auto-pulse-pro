@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T11:58:13.898931Z",
+  "updated_at": "2026-09-29T13:40:42.729828Z",
   "stories": [
     {
+      "title": "Delhi Cut Electricity Loss from 50 to 5 Percent",
+      "score": 73
+    },
+    {
       "title": "You Are No Longer Invited to Dinner",
-      "score": 43
+      "score": 282
     },
     {
       "title": "AI companies leak data to advertisers [pdf]",
-      "score": 153
+      "score": 241
     },
     {
       "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "score": 31
+      "score": 89
     },
     {
-      "title": "Using any C++ library in Godot",
-      "score": 62
-    },
-    {
-      "title": "Phyllotaxis: An audio-reactive LED display",
-      "score": 164
+      "title": "Without the Hot Air",
+      "score": 14
     }
   ]
 }

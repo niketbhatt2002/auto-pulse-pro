@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T11:58:14.998276Z",
+  "updated_at": "2026-09-29T13:40:43.659724Z",
   "repos": [
     {
-      "name": "Contrastive-LM/CLM",
-      "stars": 2401
-    },
-    {
       "name": "KKKKhazix/AIHOT",
-      "stars": 2384
+      "stars": 2544
     },
     {
-      "name": "mexicat/pdoom-video",
-      "stars": 1887
-    },
-    {
-      "name": "tobi/disktree",
-      "stars": 1865
+      "name": "Contrastive-LM/CLM",
+      "stars": 2422
     },
     {
       "name": "yetone/magpie",
-      "stars": 1865
+      "stars": 2021
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "stars": 1914
+    },
+    {
+      "name": "tobi/disktree",
+      "stars": 1871
     }
   ]
 }
