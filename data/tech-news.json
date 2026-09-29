@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-28T22:18:05.519051Z",
+  "updated_at": "2026-09-29T00:15:14.610072Z",
   "stories": [
     {
       "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "score": 113
-    },
-    {
-      "title": "World Labs Is Joining AMD",
-      "score": 113
+      "score": 208
     },
     {
       "title": "Pirating the Pirates",
-      "score": 352
+      "score": 384
     },
     {
-      "title": "Pacing the Frontier is not the actual goal for AI labs",
-      "score": 40
+      "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
+      "score": 62
     },
     {
       "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "score": 90
+      "score": 110
+    },
+    {
+      "title": "Scientists solve 1840s space weather mystery",
+      "score": 40
     }
   ]
 }
