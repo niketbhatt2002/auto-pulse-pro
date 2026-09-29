@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T00:15:14.610072Z",
+  "updated_at": "2026-09-29T02:32:09.091678Z",
   "stories": [
     {
       "title": "Jeff \u2013 Jev-compatible 0.8B decision models, trained at home, ~30 ms",
-      "score": 208
+      "score": 299
     },
     {
       "title": "Pirating the Pirates",
-      "score": 384
+      "score": 425
     },
     {
       "title": "12,000-year-old G\u00f6beklitepe burials explain scattered bones",
-      "score": 62
+      "score": 85
     },
     {
       "title": "MicroLLM Lab \u2013 Try 7 tiny LLM's in the browser",
-      "score": 110
+      "score": 138
     },
     {
-      "title": "Scientists solve 1840s space weather mystery",
-      "score": 40
+      "title": "1996 chat room simulator connected to Win95 and System 7 web desktops",
+      "score": 25
     }
   ]
 }
