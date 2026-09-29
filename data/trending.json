@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T13:40:43.659724Z",
+  "updated_at": "2026-09-29T14:30:15.856894Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
-      "stars": 2544
+      "stars": 2623
     },
     {
       "name": "Contrastive-LM/CLM",
-      "stars": 2422
+      "stars": 2430
     },
     {
       "name": "yetone/magpie",
-      "stars": 2021
+      "stars": 2137
     },
     {
       "name": "mexicat/pdoom-video",
-      "stars": 1914
+      "stars": 1918
     },
     {
       "name": "tobi/disktree",
-      "stars": 1871
+      "stars": 1877
     }
   ]
 }
