@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T13:16:13.775567Z",
+  "updated_at": "2026-09-30T14:29:11.907665Z",
   "stories": [
     {
       "title": "Pi.dev: You Said No MCP",
-      "score": 222
+      "score": 306
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "score": 9
     },
     {
       "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
-      "score": 48
+      "score": 68
     },
     {
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "score": 725
+      "score": 754
     },
     {
-      "title": "Most data centers refusing to say how much water, electricity they use",
-      "score": 94
-    },
-    {
-      "title": "Solving Factorio Quality",
-      "score": 145
+      "title": "Mathematical Origami",
+      "score": 37
     }
   ]
 }
