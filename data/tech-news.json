@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T14:29:11.907665Z",
+  "updated_at": "2026-09-30T15:45:40.001410Z",
   "stories": [
     {
       "title": "Pi.dev: You Said No MCP",
-      "score": 306
+      "score": 384
     },
     {
       "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "score": 9
+      "score": 45
     },
     {
       "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
-      "score": 68
+      "score": 88
     },
     {
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "score": 754
+      "score": 786
     },
     {
-      "title": "Mathematical Origami",
-      "score": 37
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "score": 31
     }
   ]
 }
