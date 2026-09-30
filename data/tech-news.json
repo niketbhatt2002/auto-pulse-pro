@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T16:38:23.268250Z",
+  "updated_at": "2026-09-30T18:57:10.320082Z",
   "stories": [
     {
-      "title": "The AI Race Just Got Awkward",
-      "score": 181
+      "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
+      "score": 52
     },
     {
-      "title": "Pi.dev: You Said No MCP",
-      "score": 429
+      "title": "Commit Description as a Thinking Tool",
+      "score": 57
     },
     {
-      "title": "A Brief History of the Bloomberg Terminal",
-      "score": 42
+      "title": "A brief history of the Bloomberg terminal",
+      "score": 132
     },
     {
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "score": 61
+      "title": "You Said No MCP",
+      "score": 505
     },
     {
-      "title": "I Could've Accessed 17T Microsoft Records",
-      "score": 83
+      "title": "Burning Man Death Rates \u2013 A Short Lesson in Statistics",
+      "score": 56
     }
   ]
 }
