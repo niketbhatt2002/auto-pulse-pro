@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T16:09:11.723571Z",
+  "updated_at": "2026-09-30T16:38:23.268250Z",
   "stories": [
     {
+      "title": "The AI Race Just Got Awkward",
+      "score": 181
+    },
+    {
       "title": "Pi.dev: You Said No MCP",
-      "score": 405
-    },
-    {
-      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
-      "score": 52
-    },
-    {
-      "title": "I Could've Accessed 17T Microsoft Records",
-      "score": 56
-    },
-    {
-      "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
-      "score": 92
+      "score": 429
     },
     {
       "title": "A Brief History of the Bloomberg Terminal",
-      "score": 17
+      "score": 42
+    },
+    {
+      "title": "SDF vs. MSDF vs. Slug: GPU Text Rendering",
+      "score": 61
+    },
+    {
+      "title": "I Could've Accessed 17T Microsoft Records",
+      "score": 83
     }
   ]
 }
