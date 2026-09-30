@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T18:57:10.320082Z",
+  "updated_at": "2026-09-30T21:04:20.743581Z",
   "stories": [
     {
+      "title": "Gemini 4 Argon",
+      "score": 463
+    },
+    {
+      "title": "Gitea 28.0.0 Is Released",
+      "score": 18
+    },
+    {
+      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
+      "score": 58
+    },
+    {
+      "title": "EDG C++ front-end goes public",
+      "score": 71
+    },
+    {
       "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
-      "score": 52
-    },
-    {
-      "title": "Commit Description as a Thinking Tool",
-      "score": 57
-    },
-    {
-      "title": "A brief history of the Bloomberg terminal",
-      "score": 132
-    },
-    {
-      "title": "You Said No MCP",
-      "score": 505
-    },
-    {
-      "title": "Burning Man Death Rates \u2013 A Short Lesson in Statistics",
-      "score": 56
+      "score": 94
     }
   ]
 }
