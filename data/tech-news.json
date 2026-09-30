@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T11:46:15.687586Z",
+  "updated_at": "2026-09-30T13:16:13.775567Z",
   "stories": [
     {
       "title": "Pi.dev: You Said No MCP",
-      "score": 131
-    },
-    {
-      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "score": 676
+      "score": 222
     },
     {
       "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
-      "score": 17
+      "score": 48
+    },
+    {
+      "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
+      "score": 725
+    },
+    {
+      "title": "Most data centers refusing to say how much water, electricity they use",
+      "score": 94
     },
     {
       "title": "Solving Factorio Quality",
-      "score": 108
-    },
-    {
-      "title": "Dots: Always-on agents",
-      "score": 646
+      "score": 145
     }
   ]
 }
