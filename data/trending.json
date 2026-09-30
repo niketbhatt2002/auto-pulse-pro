@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-29T23:31:44.657648Z",
+  "updated_at": "2026-09-30T01:55:57.655267Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
-      "stars": 3063
-    },
-    {
-      "name": "yetone/magpie",
-      "stars": 2628
-    },
-    {
-      "name": "Contrastive-LM/CLM",
-      "stars": 2509
+      "stars": 3242
     },
     {
       "name": "mexicat/pdoom-video",
-      "stars": 1973
+      "stars": 1985
     },
     {
       "name": "tobi/disktree",
-      "stars": 1905
+      "stars": 1915
+    },
+    {
+      "name": "Niko1221/Strata",
+      "stars": 1793
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "stars": 1782
     }
   ]
 }
