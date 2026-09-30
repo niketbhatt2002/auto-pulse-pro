@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T21:04:20.743581Z",
+  "updated_at": "2026-09-30T23:32:31.947952Z",
   "stories": [
     {
       "title": "Gemini 4 Argon",
-      "score": 463
+      "score": 818
     },
     {
-      "title": "Gitea 28.0.0 Is Released",
-      "score": 18
+      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
+      "score": 75
     },
     {
-      "title": "Surprisingly Complex Waves Reveal the Brain's Inner Workings",
-      "score": 58
+      "title": "Surprisingly complex waves reveal the brain's inner workings",
+      "score": 101
     },
     {
       "title": "EDG C++ front-end goes public",
-      "score": 71
+      "score": 121
     },
     {
       "title": "Launch HN: Magnitude (YC S25) \u2013 Self-optimizing inference engine for agents",
-      "score": 94
+      "score": 116
     }
   ]
 }
