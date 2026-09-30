@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T01:55:57.655267Z",
+  "updated_at": "2026-09-30T11:46:17.112746Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
-      "stars": 3242
-    },
-    {
-      "name": "mexicat/pdoom-video",
-      "stars": 1985
-    },
-    {
-      "name": "tobi/disktree",
-      "stars": 1915
+      "stars": 3841
     },
     {
       "name": "Niko1221/Strata",
-      "stars": 1793
+      "stars": 2178
+    },
+    {
+      "name": "mexicat/pdoom-video",
+      "stars": 2050
+    },
+    {
+      "name": "tobi/disktree",
+      "stars": 1948
     },
     {
       "name": "dzhng/jevgrep",
-      "stars": 1782
+      "stars": 1851
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-09-30T01:55:56.679143Z",
+  "updated_at": "2026-09-30T11:46:15.687586Z",
   "stories": [
     {
+      "title": "Pi.dev: You Said No MCP",
+      "score": 131
+    },
+    {
       "title": "Livenerf: Has Opus 5.5 been nerfed yet?",
-      "score": 224
+      "score": 676
     },
     {
-      "title": "U.S. postal inspectors shut down website selling counterfeit postage labels",
-      "score": 172
+      "title": "Show HN: JBR-001 \u2013 An open-source 3D printable desktop robot",
+      "score": 17
     },
     {
-      "title": "Vermont replacing power plants with home batteries",
-      "score": 87
+      "title": "Solving Factorio Quality",
+      "score": 108
     },
     {
-      "title": "GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price",
-      "score": 791
-    },
-    {
-      "title": "America.gov",
-      "score": 352
+      "title": "Dots: Always-on agents",
+      "score": 646
     }
   ]
 }
