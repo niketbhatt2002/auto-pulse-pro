@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-01T21:26:42.248268Z",
+  "updated_at": "2026-10-01T23:45:16.751202Z",
   "stories": [
     {
       "title": "Pi 1.0",
-      "score": 372
+      "score": 625
     },
     {
-      "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-      "score": 346
+      "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
+      "score": 393
     },
     {
-      "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
-      "score": 53
+      "title": "SvelteKit 3",
+      "score": 80
     },
     {
-      "title": "Pi Durable",
-      "score": 77
+      "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
+      "score": 42
     },
     {
-      "title": "The death of web development education",
-      "score": 8
+      "title": "Ask HN: Who is hiring? (October 2026)",
+      "score": 136
     }
   ]
 }
