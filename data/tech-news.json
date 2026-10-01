@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-01T16:12:24.325253Z",
+  "updated_at": "2026-10-01T16:46:51.531647Z",
   "stories": [
     {
       "title": "StreetComplete on iOS is now in public beta",
-      "score": 349
+      "score": 379
     },
     {
-      "title": "How to speed up the Rust compiler in September 2026",
-      "score": 133
+      "title": "RIP, vector database",
+      "score": 43
     },
     {
-      "title": "OpenID Foundation: Identity Management for Agentic AI [pdf] (2025)",
-      "score": 25
-    },
-    {
-      "title": "Polyedergarten: Garden of Paper Polyhedron Models",
+      "title": "Clef: our open-source decision models",
       "score": 15
     },
     {
+      "title": "How to speed up the Rust compiler in September 2026",
+      "score": 156
+    },
+    {
       "title": "RacketCon Is Saturday",
-      "score": 25
+      "score": 44
     }
   ]
 }
