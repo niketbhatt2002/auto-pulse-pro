@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-01T01:56:34.768067Z",
+  "updated_at": "2026-10-01T12:15:17.385185Z",
   "stories": [
     {
+      "title": "StreetComplete on iOS is now in public beta",
+      "score": 80
+    },
+    {
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "score": 45
+    },
+    {
+      "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
+      "score": 125
+    },
+    {
       "title": "Gemini 4 Argon",
-      "score": 992
+      "score": 1453
     },
     {
-      "title": "The top secret URSALA, RAQUEL, and FARRAH satellites",
-      "score": 132
-    },
-    {
-      "title": "Surprisingly complex waves reveal the brain's inner workings",
-      "score": 119
-    },
-    {
-      "title": "56k.rip \u2013 the 1996 dial-up internet experience",
-      "score": 51
-    },
-    {
-      "title": "Singapore govt dating app uses Gale-Shapley stable marriage algorithm",
-      "score": 212
+      "title": "Returning from vacation? The government can search your phone without a warrant",
+      "score": 38
     }
   ]
 }
