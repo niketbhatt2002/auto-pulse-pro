@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-01T19:20:34.961218Z",
+  "updated_at": "2026-10-01T21:26:42.248268Z",
   "stories": [
     {
+      "title": "Pi 1.0",
+      "score": 372
+    },
+    {
       "title": "Clef: Open-source decision models, and new RL fine-tuning platform",
-      "score": 266
+      "score": 346
     },
     {
-      "title": "RIP, vector database",
-      "score": 178
+      "title": "Car Is a Smartphone on Wheels. Here's Who's Listening",
+      "score": 53
     },
     {
-      "title": "StreetComplete on iOS is now in public beta",
-      "score": 434
+      "title": "Pi Durable",
+      "score": 77
     },
     {
-      "title": "Ask HN: Who is hiring? (October 2026)",
-      "score": 84
-    },
-    {
-      "title": "RacketCon Is Saturday",
-      "score": 96
+      "title": "The death of web development education",
+      "score": 8
     }
   ]
 }
