@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-01T14:06:50.267687Z",
+  "updated_at": "2026-10-01T14:58:43.270572Z",
   "stories": [
     {
       "title": "StreetComplete on iOS is now in public beta",
-      "score": 205
+      "score": 263
     },
     {
       "title": "How to speed up the Rust compiler in September 2026",
-      "score": 44
+      "score": 78
     },
     {
       "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "score": 87
+      "score": 101
     },
     {
       "title": "Google breaks promise to provide 10 years of updates to Chromebooks",
-      "score": 109
+      "score": 189
     },
     {
       "title": "OpenDLSS: A Vulkan Reimplementation of Nvidia's DLSS 5 Neural Rendering Network",
-      "score": 164
+      "score": 181
     }
   ]
 }
