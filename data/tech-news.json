@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-02T14:21:46.041508Z",
+  "updated_at": "2026-10-02T15:36:22.191665Z",
   "stories": [
     {
+      "title": "Big Tech ruined the cloud, so we're renaming ours",
+      "score": 59
+    },
+    {
       "title": "The Legend of von Neumann [pdf]",
-      "score": 27
+      "score": 88
+    },
+    {
+      "title": "AI Makes Me Sad",
+      "score": 20
     },
     {
       "title": "Pi 1.0",
-      "score": 1520
+      "score": 1564
     },
     {
-      "title": "Shimano Bicycle Museum Review",
-      "score": 208
-    },
-    {
-      "title": "Several vulnerabilities have been discovered in the Linux kernel",
-      "score": 428
-    },
-    {
-      "title": "Show HN: Audionaut \u2013 an open-source cross-platform multitrack audio editor",
-      "score": 70
+      "title": "Giving friends custom text buzzes based on Morse code",
+      "score": 13
     }
   ]
 }
