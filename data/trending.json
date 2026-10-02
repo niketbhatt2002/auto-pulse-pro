@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-02T21:04:05.715966Z",
+  "updated_at": "2026-10-02T23:36:19.962197Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
-      "stars": 4955
+      "stars": 4958
     },
     {
       "name": "Louis-CFM/coucou",
-      "stars": 2928
+      "stars": 2959
     },
     {
       "name": "feder-cr/dots",
-      "stars": 2449
-    },
-    {
-      "name": "dzhng/jevgrep",
-      "stars": 2055
+      "stars": 2466
     },
     {
       "name": "rehan-remade/universal-modder",
-      "stars": 2025
+      "stars": 2103
+    },
+    {
+      "name": "dzhng/jevgrep",
+      "stars": 2066
     }
   ]
 }
