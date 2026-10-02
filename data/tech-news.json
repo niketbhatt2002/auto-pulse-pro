@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-02T15:36:22.191665Z",
+  "updated_at": "2026-10-02T16:00:55.369479Z",
   "stories": [
     {
       "title": "Big Tech ruined the cloud, so we're renaming ours",
-      "score": 59
+      "score": 121
     },
     {
       "title": "The Legend of von Neumann [pdf]",
-      "score": 88
+      "score": 103
     },
     {
-      "title": "AI Makes Me Sad",
-      "score": 20
+      "title": "Supabase Is Acquiring Turso",
+      "score": 11
+    },
+    {
+      "title": "Mozilla shutting down Solo AI website creator",
+      "score": 13
     },
     {
       "title": "Pi 1.0",
-      "score": 1564
-    },
-    {
-      "title": "Giving friends custom text buzzes based on Morse code",
-      "score": 13
+      "score": 1577
     }
   ]
 }
