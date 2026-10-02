@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-01T23:45:16.751202Z",
+  "updated_at": "2026-10-02T02:05:38.553079Z",
   "stories": [
     {
       "title": "Pi 1.0",
-      "score": 625
+      "score": 773
+    },
+    {
+      "title": "Several vulnerabilities have been discovered in the Linux kernel",
+      "score": 97
     },
     {
       "title": "Clef: Open-weight decision models, and new RL fine-tuning platform",
-      "score": 393
+      "score": 430
     },
     {
       "title": "SvelteKit 3",
-      "score": 80
-    },
-    {
-      "title": "Show HN: Janus \u2013 Go binary that runs GGUF models via Vulkan on AMD/Intel/Nvidia",
-      "score": 42
+      "score": 121
     },
     {
       "title": "Ask HN: Who is hiring? (October 2026)",
-      "score": 136
+      "score": 155
     }
   ]
 }
