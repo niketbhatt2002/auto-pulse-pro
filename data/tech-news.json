@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-02T16:00:55.369479Z",
+  "updated_at": "2026-10-02T16:28:05.101601Z",
   "stories": [
     {
       "title": "Big Tech ruined the cloud, so we're renaming ours",
-      "score": 121
-    },
-    {
-      "title": "The Legend of von Neumann [pdf]",
-      "score": 103
+      "score": 166
     },
     {
       "title": "Supabase Is Acquiring Turso",
-      "score": 11
+      "score": 48
+    },
+    {
+      "title": "The Legend of von Neumann [pdf]",
+      "score": 112
     },
     {
       "title": "Mozilla shutting down Solo AI website creator",
-      "score": 13
+      "score": 25
     },
     {
       "title": "Pi 1.0",
-      "score": 1577
+      "score": 1588
     }
   ]
 }
