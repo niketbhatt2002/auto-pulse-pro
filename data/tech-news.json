@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-03T10:57:46.041029Z",
+  "updated_at": "2026-10-03T12:10:48.892009Z",
   "stories": [
     {
-      "title": "An AI agent emailed researchers for help. It told us why",
-      "score": 17
+      "title": "GitHub's new dashboard experience now the default",
+      "score": 30
     },
     {
       "title": "Newgrounds.com \u2013 A community of games, music, and art",
-      "score": 242
-    },
-    {
-      "title": "GitHub's new dashboard experience now the default",
-      "score": 4
+      "score": 267
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "score": 643
+      "score": 661
+    },
+    {
+      "title": "cp: -r or -R?",
+      "score": 32
     },
     {
       "title": "Apple Pass Designer",
-      "score": 437
+      "score": 451
     }
   ]
 }
