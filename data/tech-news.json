@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-03T01:50:26.010485Z",
+  "updated_at": "2026-10-03T10:57:46.041029Z",
   "stories": [
     {
-      "title": "The Forgetful CPU (Linux on M4)",
-      "score": 104
+      "title": "An AI agent emailed researchers for help. It told us why",
+      "score": 17
     },
     {
-      "title": "Things That Apparently Cause Cancer",
-      "score": 29
+      "title": "Newgrounds.com \u2013 A community of games, music, and art",
+      "score": 242
+    },
+    {
+      "title": "GitHub's new dashboard experience now the default",
+      "score": 4
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "score": 508
+      "score": 643
     },
     {
       "title": "Apple Pass Designer",
-      "score": 319
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "score": 280
+      "score": 437
     }
   ]
 }
