@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-03T12:10:48.892009Z",
+  "updated_at": "2026-10-03T12:55:36.150009Z",
   "stories": [
     {
-      "title": "GitHub's new dashboard experience now the default",
-      "score": 30
-    },
-    {
       "title": "Newgrounds.com \u2013 A community of games, music, and art",
-      "score": 267
+      "score": 292
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "score": 661
-    },
-    {
-      "title": "cp: -r or -R?",
-      "score": 32
+      "score": 679
     },
     {
       "title": "Apple Pass Designer",
-      "score": 451
+      "score": 455
+    },
+    {
+      "title": "An Update on Orion for Linux and Windows",
+      "score": 91
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "score": 515
     }
   ]
 }
