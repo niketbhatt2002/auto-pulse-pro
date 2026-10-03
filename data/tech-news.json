@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-03T12:55:36.150009Z",
+  "updated_at": "2026-10-03T14:12:24.238279Z",
   "stories": [
     {
+      "title": "The Escalation of War in Ethiopia",
+      "score": 55
+    },
+    {
+      "title": "C++ Insights \u2013 See your source code with the eyes of a Compiler",
+      "score": 32
+    },
+    {
+      "title": "Show HN: Germany's new sovereign AI model Kolibri",
+      "score": 89
+    },
+    {
       "title": "Newgrounds.com \u2013 A community of games, music, and art",
-      "score": 292
+      "score": 318
     },
     {
       "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
-      "score": 679
-    },
-    {
-      "title": "Apple Pass Designer",
-      "score": 455
-    },
-    {
-      "title": "An Update on Orion for Linux and Windows",
-      "score": 91
-    },
-    {
-      "title": "Mike Tomlin spent 12 years building a Minecraft city",
-      "score": 515
+      "score": 692
     }
   ]
 }
