@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-03T19:33:35.470206Z",
+  "updated_at": "2026-10-03T22:45:27.089967Z",
   "repos": [
     {
       "name": "KKKKhazix/AIHOT",
-      "stars": 5369
+      "stars": 5387
     },
     {
       "name": "Louis-CFM/coucou",
-      "stars": 3193
-    },
-    {
-      "name": "feder-cr/dots",
-      "stars": 2572
+      "stars": 3219
     },
     {
       "name": "rehan-remade/universal-modder",
-      "stars": 2536
+      "stars": 2604
+    },
+    {
+      "name": "feder-cr/dots",
+      "stars": 2573
     },
     {
       "name": "CopilotKit/OpenDots",
-      "stars": 2266
+      "stars": 2440
     }
   ]
 }
