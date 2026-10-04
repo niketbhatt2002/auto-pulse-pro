@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-04T13:36:01.620529Z",
+  "updated_at": "2026-10-04T14:42:37.305656Z",
   "stories": [
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "score": 45
+      "score": 136
     },
     {
       "title": "Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
-      "score": 15
+      "score": 47
     },
     {
       "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "score": 52
+      "score": 60
     },
     {
       "title": "Tell HN: Bob Cringely has died",
-      "score": 572
+      "score": 607
     },
     {
-      "title": "Why don't more developers \u201cuse the platform\u201d?",
-      "score": 184
+      "title": "Show HN: AI search for every photo and every frame of video on macOS",
+      "score": 37
     }
   ]
 }
