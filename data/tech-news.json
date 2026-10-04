@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-04T13:00:15.179922Z",
+  "updated_at": "2026-10-04T13:36:01.620529Z",
   "stories": [
     {
+      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
+      "score": 45
+    },
+    {
+      "title": "Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
+      "score": 15
+    },
+    {
       "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "score": 47
+      "score": 52
     },
     {
       "title": "Tell HN: Bob Cringely has died",
-      "score": 557
+      "score": 572
     },
     {
       "title": "Why don't more developers \u201cuse the platform\u201d?",
-      "score": 177
-    },
-    {
-      "title": "gpuvis: GPU Trace Visualizer",
-      "score": 31
-    },
-    {
-      "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
-      "score": 334
+      "score": 184
     }
   ]
 }

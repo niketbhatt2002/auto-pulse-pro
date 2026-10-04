@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-10-04T13:00:16.064360Z",
-  "repos": []
+  "updated_at": "2026-10-04T13:36:02.662015Z",
+  "repos": [
+    {
+      "name": "KKKKhazix/AIHOT",
+      "stars": 5660
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "stars": 2956
+    },
+    {
+      "name": "rehan-remade/universal-modder",
+      "stars": 2844
+    },
+    {
+      "name": "feder-cr/dots",
+      "stars": 2590
+    },
+    {
+      "name": "wy51ai/floorplan-3d",
+      "stars": 1373
+    }
+  ]
 }
