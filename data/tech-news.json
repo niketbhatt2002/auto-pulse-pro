@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-04T19:49:42.871857Z",
+  "updated_at": "2026-10-04T22:52:15.941297Z",
   "stories": [
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "score": 422
+      "score": 532
+    },
+    {
+      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
+      "score": 237
+    },
+    {
+      "title": "Infidel Goes Wild",
+      "score": 22
+    },
+    {
+      "title": "Improper redaction reveals Google Data Center water and electricity usage",
+      "score": 163
     },
     {
       "title": "A map of every lighthouse",
-      "score": 108
-    },
-    {
-      "title": "'Neanderthals Among Us' review",
-      "score": 24
-    },
-    {
-      "title": "Results from the ASIC puzzle",
-      "score": 29
-    },
-    {
-      "title": "Show HN: Glash\u00fctte Trash Clock \u2013 A 30-minute pendulum clock made from trash",
-      "score": 134
+      "score": 150
     }
   ]
 }
