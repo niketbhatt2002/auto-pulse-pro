@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-04T11:40:03.842305Z",
+  "updated_at": "2026-10-04T13:00:15.179922Z",
   "stories": [
     {
       "title": "VGHF Digital Archive passes 5000 magazines. Here's what's next",
-      "score": 32
+      "score": 47
     },
     {
       "title": "Tell HN: Bob Cringely has died",
-      "score": 504
+      "score": 557
     },
     {
       "title": "Why don't more developers \u201cuse the platform\u201d?",
-      "score": 161
+      "score": 177
     },
     {
-      "title": "So you think you could be an electrician?",
-      "score": 271
+      "title": "gpuvis: GPU Trace Visualizer",
+      "score": 31
     },
     {
       "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
-      "score": 318
+      "score": 334
     }
   ]
 }
