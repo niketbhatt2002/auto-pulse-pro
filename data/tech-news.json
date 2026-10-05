@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T15:29:16.655931Z",
+  "updated_at": "2026-10-05T16:40:42.667747Z",
   "stories": [
     {
-      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
-      "score": 180
-    },
-    {
-      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "score": 256
-    },
-    {
-      "title": "Mosquitoes Are a Choice",
-      "score": 47
-    },
-    {
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "score": 323
+      "title": "Borland Turbo Basic",
+      "score": 48
     },
     {
       "title": "Web Search API",
-      "score": 180
+      "score": 240
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "score": 35
+    },
+    {
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "score": 348
+    },
+    {
+      "title": "The future of independence is interdependence",
+      "score": 9
     }
   ]
 }
