@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T13:20:38.552763Z",
+  "updated_at": "2026-10-05T15:29:16.655931Z",
   "stories": [
     {
+      "title": "Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped",
+      "score": 180
+    },
+    {
       "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
-      "score": 145
+      "score": 256
+    },
+    {
+      "title": "Mosquitoes Are a Choice",
+      "score": 47
     },
     {
       "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "score": 250
-    },
-    {
-      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
-      "score": 54
+      "score": 323
     },
     {
       "title": "Web Search API",
-      "score": 103
-    },
-    {
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "score": 95
+      "score": 180
     }
   ]
 }
