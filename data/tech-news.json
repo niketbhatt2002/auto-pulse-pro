@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-04T22:52:15.941297Z",
+  "updated_at": "2026-10-05T01:46:32.147125Z",
   "stories": [
     {
       "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "score": 532
+      "score": 614
+    },
+    {
+      "title": "Infidel goes wild",
+      "score": 76
+    },
+    {
+      "title": "In the wake of closure, a digital archive of animated materials appears online",
+      "score": 25
+    },
+    {
+      "title": "ArtCraft Apps \u2013 open-source Adobe compatible suite written in Rust",
+      "score": 31
     },
     {
       "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "score": 237
-    },
-    {
-      "title": "Infidel Goes Wild",
-      "score": 22
-    },
-    {
-      "title": "Improper redaction reveals Google Data Center water and electricity usage",
-      "score": 163
-    },
-    {
-      "title": "A map of every lighthouse",
-      "score": 150
+      "score": 361
     }
   ]
 }
