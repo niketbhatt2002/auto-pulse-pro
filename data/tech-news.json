@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T18:11:01.671207Z",
+  "updated_at": "2026-10-05T18:57:04.515620Z",
   "stories": [
     {
-      "title": "Web Search API",
-      "score": 329
+      "title": "The future of independence is interdependence",
+      "score": 86
     },
     {
-      "title": "The future of independence is interdependence",
-      "score": 51
+      "title": "Web Search API",
+      "score": 353
     },
     {
       "title": "Making a GTK application in Haskell, part 1",
-      "score": 78
+      "score": 94
+    },
+    {
+      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
+      "score": 77
     },
     {
       "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
-      "score": 75
-    },
-    {
-      "title": "Mold Linker Version 3.0.0 Release \u2013 Rewritten in Rust",
-      "score": 150
+      "score": 130
     }
   ]
 }
