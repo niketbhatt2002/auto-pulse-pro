@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T19:34:25.378481Z",
+  "updated_at": "2026-10-05T21:24:35.833610Z",
   "stories": [
     {
       "title": "Beam: Reflection's 501B open-weight model",
-      "score": 24
+      "score": 177
     },
     {
-      "title": "The future of independence is interdependence",
-      "score": 103
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "score": 46
     },
     {
       "title": "Web Search API",
-      "score": 373
+      "score": 424
     },
     {
-      "title": "OpenAI \"rogue\" agent activities found on Wikimedia projects",
-      "score": 136
+      "title": "Competitive Programmer's Handbook (2018) [pdf]",
+      "score": 51
     },
     {
       "title": "Making a GTK application in Haskell, part 1",
-      "score": 101
+      "score": 115
     }
   ]
 }
