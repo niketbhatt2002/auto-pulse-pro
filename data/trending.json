@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-10-05T16:40:43.094603Z",
-  "repos": []
+  "updated_at": "2026-10-05T18:11:02.949277Z",
+  "repos": [
+    {
+      "name": "rehan-remade/universal-modder",
+      "stars": 3709
+    },
+    {
+      "name": "CopilotKit/OpenDots",
+      "stars": 3573
+    },
+    {
+      "name": "feder-cr/dots",
+      "stars": 2613
+    },
+    {
+      "name": "storytold/photocraft",
+      "stars": 1792
+    },
+    {
+      "name": "omlahore/RemoveMacAI",
+      "stars": 1628
+    }
+  ]
 }

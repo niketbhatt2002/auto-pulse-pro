@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T16:40:42.667747Z",
+  "updated_at": "2026-10-05T18:11:01.671207Z",
   "stories": [
     {
-      "title": "Borland Turbo Basic",
-      "score": 48
-    },
-    {
       "title": "Web Search API",
-      "score": 240
-    },
-    {
-      "title": "Making a GTK application in Haskell, part 1",
-      "score": 35
-    },
-    {
-      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
-      "score": 348
+      "score": 329
     },
     {
       "title": "The future of independence is interdependence",
-      "score": 9
+      "score": 51
+    },
+    {
+      "title": "Making a GTK application in Haskell, part 1",
+      "score": 78
+    },
+    {
+      "title": "US closely monitoring case of lab worker who possibly died of plague in Siberia",
+      "score": 75
+    },
+    {
+      "title": "Mold Linker Version 3.0.0 Release \u2013 Rewritten in Rust",
+      "score": 150
     }
   ]
 }
