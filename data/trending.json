@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T01:46:33.150487Z",
+  "updated_at": "2026-10-05T13:20:39.913065Z",
   "repos": [
     {
       "name": "rehan-remade/universal-modder",
-      "stars": 3219
+      "stars": 3559
     },
     {
       "name": "CopilotKit/OpenDots",
-      "stars": 3214
+      "stars": 3448
     },
     {
       "name": "feder-cr/dots",
-      "stars": 2603
+      "stars": 2611
+    },
+    {
+      "name": "storytold/photocraft",
+      "stars": 1499
     },
     {
       "name": "nanaism/yomiyasu",
-      "stars": 1398
-    },
-    {
-      "name": "wy51ai/floorplan-3d",
-      "stars": 1388
+      "stars": 1478
     }
   ]
 }

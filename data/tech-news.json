@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T01:46:32.147125Z",
+  "updated_at": "2026-10-05T13:20:38.552763Z",
   "stories": [
     {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "score": 614
+      "title": "Europe's new robotics unicorn: Germany's RobCo hits $1B valuation",
+      "score": 145
     },
     {
-      "title": "Infidel goes wild",
-      "score": 76
+      "title": "Denmark Data Breach Exposes 8.8M People's Personal Data",
+      "score": 250
     },
     {
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "score": 25
+      "title": "Press Release: Nobel Prize in Physiology or Medicine 2026",
+      "score": 54
     },
     {
-      "title": "ArtCraft Apps \u2013 open-source Adobe compatible suite written in Rust",
-      "score": 31
+      "title": "Web Search API",
+      "score": 103
     },
     {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "score": 361
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "score": 95
     }
   ]
 }
