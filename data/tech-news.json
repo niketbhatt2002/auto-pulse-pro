@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-06T15:47:05.956140Z",
+  "updated_at": "2026-10-06T16:23:31.627529Z",
   "stories": [
     {
       "title": "Mistral Large 4",
-      "score": 702
+      "score": 803
     },
     {
       "title": "Mistral Large 4: \"Le Chonk\"",
-      "score": 379
+      "score": 452
     },
     {
       "title": "Release of Polars 2.0",
-      "score": 202
+      "score": 237
     },
     {
       "title": "Nobel Prize in Physics goes to Francis Halzen",
-      "score": 308
+      "score": 327
     },
     {
       "title": "Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol",
-      "score": 51
+      "score": 71
     }
   ]
 }
