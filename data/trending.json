@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-06T14:38:17.303938Z",
+  "updated_at": "2026-10-06T15:47:07.702657Z",
   "repos": [
     {
       "name": "rehan-remade/universal-modder",
-      "stars": 4306
+      "stars": 4358
     },
     {
       "name": "storytold/photocraft",
-      "stars": 2956
+      "stars": 3162
     },
     {
       "name": "QingYunA/answer-me-with-html",
-      "stars": 1668
+      "stars": 1713
     },
     {
       "name": "nanaism/yomiyasu",
-      "stars": 1579
+      "stars": 1581
     },
     {
-      "name": "kargulstudio/sales-crm",
-      "stars": 1555
+      "name": "facebookincubator/muse-gadget-sdk",
+      "stars": 1511
     }
   ]
 }
