@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T22:57:17.636586Z",
+  "updated_at": "2026-10-06T01:11:16.954331Z",
   "stories": [
     {
-      "title": "Beam: Reflection's 501B open-weight model",
-      "score": 236
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "score": 189
     },
     {
-      "title": "Dust: Pretraining Transformers Without Backpropagation",
-      "score": 55
+      "title": "Beam: Reflection's 501B open-weight model",
+      "score": 299
+    },
+    {
+      "title": "Example.com Just Launched the Biggest Redesign in Decades",
+      "score": 68
     },
     {
       "title": "Find the flattest route between any two points in SF",
-      "score": 42
+      "score": 101
     },
     {
-      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
-      "score": 136
-    },
-    {
-      "title": "Using Blu-ray M-Disk as Backup of Last Resort",
-      "score": 27
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "score": 89
     }
   ]
 }

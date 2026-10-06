@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-05T22:57:18.993514Z",
+  "updated_at": "2026-10-06T01:11:18.054203Z",
   "repos": [
     {
       "name": "rehan-remade/universal-modder",
-      "stars": 3827
-    },
-    {
-      "name": "CopilotKit/OpenDots",
-      "stars": 3659
-    },
-    {
-      "name": "feder-cr/dots",
-      "stars": 2618
+      "stars": 3852
     },
     {
       "name": "storytold/photocraft",
-      "stars": 1993
+      "stars": 2101
     },
     {
-      "name": "omlahore/RemoveMacAI",
-      "stars": 1958
+      "name": "nanaism/yomiyasu",
+      "stars": 1511
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "stars": 1477
+    },
+    {
+      "name": "kargulstudio/sales-crm",
+      "stars": 1456
     }
   ]
 }
