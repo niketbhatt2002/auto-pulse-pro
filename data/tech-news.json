@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T12:29:15.394825Z",
+  "updated_at": "2026-10-07T14:09:10.110830Z",
   "stories": [
     {
       "title": "Shipping JPEG XL in Chrome",
-      "score": 79
+      "score": 196
     },
     {
       "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "score": 144
+      "score": 205
     },
     {
       "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "score": 78
+      "score": 134
     },
     {
-      "title": "Sharing AI progress in mathematics",
-      "score": 1004
+      "title": "Google Playground: Create and play custom games",
+      "score": 40
     },
     {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "score": 215
+      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
+      "score": 28
     }
   ]
 }
