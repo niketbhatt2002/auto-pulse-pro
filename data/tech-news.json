@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T14:09:10.110830Z",
+  "updated_at": "2026-10-07T14:58:09.466217Z",
   "stories": [
     {
       "title": "Shipping JPEG XL in Chrome",
-      "score": 196
+      "score": 249
+    },
+    {
+      "title": "SynthID Detector",
+      "score": 26
+    },
+    {
+      "title": "Google Playground",
+      "score": 30
     },
     {
       "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "score": 205
+      "score": 229
     },
     {
       "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "score": 134
-    },
-    {
-      "title": "Google Playground: Create and play custom games",
-      "score": 40
-    },
-    {
-      "title": "Write Like It's 1866: LLMs Relearn Telegraphese",
-      "score": 28
+      "score": 169
     }
   ]
 }
