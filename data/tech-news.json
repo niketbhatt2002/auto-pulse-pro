@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T19:48:30.632724Z",
+  "updated_at": "2026-10-07T21:39:23.310494Z",
   "stories": [
     {
       "title": "Claude Haiku 5.5",
-      "score": 331
+      "score": 492
     },
     {
       "title": "GPT\u20116 and Intelligent UI for everyone",
-      "score": 225
-    },
-    {
-      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-      "score": 342
+      "score": 362
     },
     {
       "title": "Docker Agent",
-      "score": 62
+      "score": 116
     },
     {
-      "title": "Shipping JPEG XL in Chrome",
-      "score": 401
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "score": 50
+    },
+    {
+      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+      "score": 246
     }
   ]
 }

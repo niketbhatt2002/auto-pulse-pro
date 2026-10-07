@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T19:48:31.842665Z",
+  "updated_at": "2026-10-07T21:39:24.632068Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 8908
+      "stars": 9153
     },
     {
       "name": "QingYunA/answer-me-with-html",
-      "stars": 2021
+      "stars": 2028
     },
     {
       "name": "facebookincubator/muse-gadget-sdk",
-      "stars": 1644
+      "stars": 1647
     },
     {
       "name": "kargulstudio/sales-crm",
-      "stars": 1632
+      "stars": 1633
     },
     {
       "name": "deadinside28/bloodborne_pc",
-      "stars": 1564
+      "stars": 1596
     }
   ]
 }
