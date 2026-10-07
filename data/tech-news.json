@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-06T23:38:35.814432Z",
+  "updated_at": "2026-10-07T02:11:40.825967Z",
   "stories": [
     {
-      "title": "Sharing AI Progress in Mathematics",
-      "score": 198
+      "title": "Sharing AI progress in mathematics",
+      "score": 448
     },
     {
       "title": "Mistral Large 4",
-      "score": 1536
+      "score": 1595
     },
     {
       "title": "Decisions API is in public beta",
-      "score": 86
+      "score": 153
     },
     {
-      "title": "Vibecoding Photoshop: Time and pressure",
-      "score": 21
+      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+      "score": 72
     },
     {
       "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "score": 186
+      "score": 225
     }
   ]
 }
