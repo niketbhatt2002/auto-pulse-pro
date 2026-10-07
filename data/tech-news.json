@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T17:05:27.215867Z",
+  "updated_at": "2026-10-07T17:39:23.154971Z",
   "stories": [
     {
-      "title": "Shipping JPEG XL in Chrome",
-      "score": 341
-    },
-    {
       "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-      "score": 60
+      "score": 166
     },
     {
       "title": "Animated ASCII Art for Web Pages",
-      "score": 67
+      "score": 108
+    },
+    {
+      "title": "Shipping JPEG XL in Chrome",
+      "score": 361
+    },
+    {
+      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
+      "score": 49
     },
     {
       "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
-      "score": 168
-    },
-    {
-      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "score": 286
+      "score": 189
     }
   ]
 }
