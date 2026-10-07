@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T14:58:09.466217Z",
+  "updated_at": "2026-10-07T16:14:11.291266Z",
   "stories": [
     {
+      "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
+      "score": 123
+    },
+    {
       "title": "Shipping JPEG XL in Chrome",
-      "score": 249
-    },
-    {
-      "title": "SynthID Detector",
-      "score": 26
-    },
-    {
-      "title": "Google Playground",
-      "score": 30
+      "score": 311
     },
     {
       "title": "A font recreated from photographs of classic Commodore 64 keycaps",
-      "score": 229
+      "score": 266
     },
     {
       "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
-      "score": 169
+      "score": 196
+    },
+    {
+      "title": "Show HN: A walkable 3D art history museum built from Wikipedia",
+      "score": 71
     }
   ]
 }
