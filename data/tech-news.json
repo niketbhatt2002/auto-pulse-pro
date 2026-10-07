@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T02:11:40.825967Z",
+  "updated_at": "2026-10-07T12:29:15.394825Z",
   "stories": [
     {
+      "title": "Shipping JPEG XL in Chrome",
+      "score": 79
+    },
+    {
+      "title": "A font recreated from photographs of classic Commodore 64 keycaps",
+      "score": 144
+    },
+    {
+      "title": "Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai",
+      "score": 78
+    },
+    {
       "title": "Sharing AI progress in mathematics",
-      "score": 448
+      "score": 1004
     },
     {
-      "title": "Mistral Large 4",
-      "score": 1595
-    },
-    {
-      "title": "Decisions API is in public beta",
-      "score": 153
-    },
-    {
-      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
-      "score": 72
-    },
-    {
-      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
-      "score": 225
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "score": 215
     }
   ]
 }
