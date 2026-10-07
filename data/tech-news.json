@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T17:39:23.154971Z",
+  "updated_at": "2026-10-07T19:48:30.632724Z",
   "stories": [
     {
-      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
-      "score": 166
+      "title": "Claude Haiku 5.5",
+      "score": 331
     },
     {
-      "title": "Animated ASCII Art for Web Pages",
-      "score": 108
+      "title": "GPT\u20116 and Intelligent UI for everyone",
+      "score": 225
+    },
+    {
+      "title": "Visa, Mastercard, Major Banks Facing New Litigation over 'Anticompetitive' Fees",
+      "score": 342
+    },
+    {
+      "title": "Docker Agent",
+      "score": 62
     },
     {
       "title": "Shipping JPEG XL in Chrome",
-      "score": 361
-    },
-    {
-      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
-      "score": 49
-    },
-    {
-      "title": "GitHub Incident with Git Operations, Pull Requests and Actions",
-      "score": 189
+      "score": 401
     }
   ]
 }
