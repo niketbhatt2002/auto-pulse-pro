@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-07T21:39:23.310494Z",
+  "updated_at": "2026-10-08T00:03:02.302066Z",
   "stories": [
     {
       "title": "Claude Haiku 5.5",
-      "score": 492
+      "score": 629
+    },
+    {
+      "title": "Margaret Hamilton has died",
+      "score": 410
     },
     {
       "title": "GPT\u20116 and Intelligent UI for everyone",
-      "score": 362
+      "score": 466
     },
     {
       "title": "Docker Agent",
-      "score": 116
+      "score": 163
     },
     {
-      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
-      "score": 50
-    },
-    {
-      "title": "Show HN: Bigwords.page \u2013 Turn any screen into a sign. The URL is the app",
-      "score": 246
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "score": 15
     }
   ]
 }
