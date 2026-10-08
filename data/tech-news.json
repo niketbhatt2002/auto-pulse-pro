@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T19:43:44.809698Z",
+  "updated_at": "2026-10-08T21:35:16.285444Z",
   "stories": [
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
-      "score": 226
+      "score": 362
     },
     {
-      "title": "Show HN: K10s \u2013 A Clickable Kubernetes TUI (Go, Bubble Tea)",
-      "score": 40
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "score": 192
+    },
+    {
+      "title": "Theranos.world",
+      "score": 135
     },
     {
       "title": "The value of not getting to the point (2015)",
-      "score": 18
+      "score": 70
     },
     {
-      "title": "Trump administration is suspending Microsoft from a green card program",
-      "score": 655
-    },
-    {
-      "title": "What ArtCraft's Vibe-Coded Apps Say About Adobe",
-      "score": 15
+      "title": "I think we might lose public key cryptography",
+      "score": 27
     }
   ]
 }
