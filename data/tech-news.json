@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T00:03:02.302066Z",
+  "updated_at": "2026-10-08T02:37:19.496607Z",
   "stories": [
     {
       "title": "Claude Haiku 5.5",
-      "score": 629
+      "score": 704
     },
     {
       "title": "Margaret Hamilton has died",
-      "score": 410
+      "score": 826
+    },
+    {
+      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
+      "score": 76
+    },
+    {
+      "title": "Cleo (Mathematician)",
+      "score": 30
     },
     {
       "title": "GPT\u20116 and Intelligent UI for everyone",
-      "score": 466
-    },
-    {
-      "title": "Docker Agent",
-      "score": 163
-    },
-    {
-      "title": "'Jonathan' is the oldest land animal on Earth",
-      "score": 15
+      "score": 519
     }
   ]
 }
