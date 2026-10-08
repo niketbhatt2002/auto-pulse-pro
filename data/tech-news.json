@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T02:37:19.496607Z",
+  "updated_at": "2026-10-08T12:38:59.323605Z",
   "stories": [
     {
+      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
+      "score": 388
+    },
+    {
+      "title": "The Slow Formation of Durable Software",
+      "score": 37
+    },
+    {
+      "title": "OpenAI Withdraws 3 Math Papers",
+      "score": 79
+    },
+    {
+      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
+      "score": 14
+    },
+    {
       "title": "Claude Haiku 5.5",
-      "score": 704
-    },
-    {
-      "title": "Margaret Hamilton has died",
-      "score": 826
-    },
-    {
-      "title": "How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't",
-      "score": 76
-    },
-    {
-      "title": "Cleo (Mathematician)",
-      "score": 30
-    },
-    {
-      "title": "GPT\u20116 and Intelligent UI for everyone",
-      "score": 519
+      "score": 933
     }
   ]
 }
