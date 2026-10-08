@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T12:38:59.323605Z",
+  "updated_at": "2026-10-08T14:19:15.063591Z",
   "stories": [
     {
+      "title": "Beauty in DVD Menus",
+      "score": 22
+    },
+    {
       "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
-      "score": 388
+      "score": 445
     },
     {
       "title": "The Slow Formation of Durable Software",
-      "score": 37
-    },
-    {
-      "title": "OpenAI Withdraws 3 Math Papers",
-      "score": 79
+      "score": 94
     },
     {
       "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-      "score": 14
+      "score": 141
     },
     {
-      "title": "Claude Haiku 5.5",
-      "score": 933
+      "title": "Telnet BBS Guide",
+      "score": 38
     }
   ]
 }
