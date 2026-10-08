@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T15:06:49.544285Z",
+  "updated_at": "2026-10-08T16:15:31.220377Z",
   "stories": [
     {
+      "title": "New gTLD Application for .lan",
+      "score": 27
+    },
+    {
       "title": "Beauty in DVD Menus",
-      "score": 74
-    },
-    {
-      "title": "Show HN: I've been paying for a rural Tanzanian's education for 10 years",
-      "score": 35
-    },
-    {
-      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
-      "score": 474
-    },
-    {
-      "title": "The Slow Formation of Durable Software",
       "score": 122
     },
     {
+      "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
+      "score": 507
+    },
+    {
+      "title": "The Slow Formation of Durable Software",
+      "score": 157
+    },
+    {
       "title": "Telnet BBS Guide",
-      "score": 48
+      "score": 63
     }
   ]
 }
