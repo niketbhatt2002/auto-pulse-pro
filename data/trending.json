@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T14:19:15.810059Z",
+  "updated_at": "2026-10-08T15:06:50.676266Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 11502
-    },
-    {
-      "name": "QingYunA/answer-me-with-html",
-      "stars": 2303
+      "stars": 11584
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 2292
+      "stars": 2314
+    },
+    {
+      "name": "QingYunA/answer-me-with-html",
+      "stars": 2306
     },
     {
       "name": "facebookincubator/muse-gadget-sdk",
-      "stars": 1763
+      "stars": 1765
     },
     {
       "name": "kargulstudio/sales-crm",
-      "stars": 1649
+      "stars": 1650
     }
   ]
 }

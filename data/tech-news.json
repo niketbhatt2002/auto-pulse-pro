@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T14:19:15.063591Z",
+  "updated_at": "2026-10-08T15:06:49.544285Z",
   "stories": [
     {
       "title": "Beauty in DVD Menus",
-      "score": 22
+      "score": 74
+    },
+    {
+      "title": "Show HN: I've been paying for a rural Tanzanian's education for 10 years",
+      "score": 35
     },
     {
       "title": "\u201cMath 2.0\u201d will need to value mathematical progress more holistically",
-      "score": 445
+      "score": 474
     },
     {
       "title": "The Slow Formation of Durable Software",
-      "score": 94
-    },
-    {
-      "title": "I gave Opus 5.5 one prompt and six hours to visualize Invisible Cities",
-      "score": 141
+      "score": 122
     },
     {
       "title": "Telnet BBS Guide",
-      "score": 38
+      "score": 48
     }
   ]
 }
