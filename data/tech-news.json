@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-09T14:04:00.441793Z",
+  "updated_at": "2026-10-09T14:51:41.446117Z",
   "stories": [
     {
       "title": "Deno Is Joining Cloudflare",
-      "score": 217
+      "score": 352
     },
     {
       "title": "Our $445M Series D",
-      "score": 102
-    },
-    {
-      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
-      "score": 173
-    },
-    {
-      "title": "I'm in a Meeting",
       "score": 191
     },
     {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "score": 202
+    },
+    {
+      "title": "I'm in a Meeting",
+      "score": 255
+    },
+    {
       "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
-      "score": 195
+      "score": 216
     }
   ]
 }
