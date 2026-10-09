@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T21:35:16.285444Z",
+  "updated_at": "2026-10-09T00:11:36.389500Z",
   "stories": [
     {
       "title": "Whistle: Speech to Text in 16.9 MB",
-      "score": 362
+      "score": 482
     },
     {
-      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
-      "score": 192
+      "title": "OpenAI, the Partition Principle, and Mathematics",
+      "score": 17
     },
     {
       "title": "Theranos.world",
-      "score": 135
+      "score": 232
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "score": 352
     },
     {
       "title": "The value of not getting to the point (2015)",
-      "score": 70
-    },
-    {
-      "title": "I think we might lose public key cryptography",
-      "score": 27
+      "score": 102
     }
   ]
 }

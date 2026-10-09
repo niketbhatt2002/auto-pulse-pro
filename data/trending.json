@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-08T21:35:17.846305Z",
+  "updated_at": "2026-10-09T00:11:39.682776Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 11987
+      "stars": 12065
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 2403
-    },
-    {
-      "name": "QingYunA/answer-me-with-html",
-      "stars": 2319
-    },
-    {
-      "name": "facebookincubator/muse-gadget-sdk",
-      "stars": 1785
+      "stars": 2428
     },
     {
       "name": "kargulstudio/sales-crm",
-      "stars": 1654
+      "stars": 1658
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "stars": 1075
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 1061
     }
   ]
 }
