@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-09T02:52:16.868721Z",
+  "updated_at": "2026-10-09T12:26:06.390314Z",
   "stories": [
     {
+      "title": "Let your AI agents paint big arrows, boxes and text on your screen",
+      "score": 81
+    },
+    {
+      "title": "Nobel Peace Prize for 2026 to Navanethem \"NAVI\" Pillay",
+      "score": 127
+    },
+    {
+      "title": "I'm in a Meeting",
+      "score": 65
+    },
+    {
+      "title": "Why isn't the industry freaking out about DeepSeek 4.1 Flash?",
+      "score": 838
+    },
+    {
       "title": "Whistle: Speech to Text in 16.9 MB",
-      "score": 577
-    },
-    {
-      "title": "Theranos.world",
-      "score": 309
-    },
-    {
-      "title": "Reducing undefined behavior in the C language",
-      "score": 16
-    },
-    {
-      "title": "Man discovers his parents' coffee machine used 1TB of data in 10 days",
-      "score": 459
-    },
-    {
-      "title": "What should we tell our students?",
-      "score": 12
+      "score": 807
     }
   ]
 }
