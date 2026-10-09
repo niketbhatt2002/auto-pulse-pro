@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-09T19:20:56.697649Z",
+  "updated_at": "2026-10-09T21:21:20.795171Z",
   "stories": [
     {
+      "title": "No Man Is an Island",
+      "score": 124
+    },
+    {
       "title": "Cloudflare acquires Deno",
-      "score": 810
+      "score": 931
     },
     {
-      "title": "Our $445M Series D",
-      "score": 444
-    },
-    {
-      "title": "You Might Want to Try Being Less Creative",
-      "score": 22
+      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
+      "score": 17
     },
     {
       "title": "Triple-A Minesweeper",
-      "score": 139
+      "score": 352
     },
     {
-      "title": "Show HN: See *almost* any carriers phone settings",
-      "score": 30
+      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
+      "score": 127
     }
   ]
 }
