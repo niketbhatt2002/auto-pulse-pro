@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-09T00:11:39.682776Z",
+  "updated_at": "2026-10-09T02:52:17.855417Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 12065
+      "stars": 12217
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 2428
+      "stars": 2513
     },
     {
       "name": "kargulstudio/sales-crm",
-      "stars": 1658
-    },
-    {
-      "name": "Jakeschincariol/replica-skill",
-      "stars": 1075
+      "stars": 1659
     },
     {
       "name": "nullmoth/nvidia-macos-driver",
-      "stars": 1061
+      "stars": 1190
+    },
+    {
+      "name": "Jakeschincariol/replica-skill",
+      "stars": 1103
     }
   ]
 }
