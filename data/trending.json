@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-09T17:17:01.301523Z",
+  "updated_at": "2026-10-09T19:20:57.872429Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 12928
+      "stars": 12968
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 2821
+      "stars": 2844
     },
     {
       "name": "mhtsec/ARTEX",
-      "stars": 2064
+      "stars": 2094
     },
     {
       "name": "nullmoth/nvidia-macos-driver",
-      "stars": 1760
+      "stars": 1791
     },
     {
       "name": "kargulstudio/sales-crm",
-      "stars": 1671
+      "stars": 1672
     }
   ]
 }
