@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T20:21:05.440389Z",
+  "updated_at": "2026-10-10T23:19:16.406802Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 13625
+      "stars": 13655
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 3191
+      "stars": 3197
     },
     {
       "name": "storytold/wordcraft",
-      "stars": 3012
+      "stars": 3123
     },
     {
       "name": "mhtsec/ARTEX",
-      "stars": 2890
+      "stars": 2900
     },
     {
       "name": "zhongerxin/iPhone-use",
-      "stars": 2531
+      "stars": 2546
     }
   ]
 }

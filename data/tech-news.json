@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T20:21:04.438018Z",
+  "updated_at": "2026-10-10T23:19:15.396960Z",
   "stories": [
     {
       "title": "2D Vehicles",
-      "score": 117
+      "score": 309
     },
     {
-      "title": "Knuth reward check",
-      "score": 98
+      "title": "A city-building game in which the city would prefer you didn't",
+      "score": 91
+    },
+    {
+      "title": "Build your own decision model",
+      "score": 5
+    },
+    {
+      "title": "Nix wrote half of my debugger",
+      "score": 93
     },
     {
       "title": "Why DuckDB 2.0 is faster",
-      "score": 37
-    },
-    {
-      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 204
-    },
-    {
-      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
-      "score": 49
+      "score": 109
     }
   ]
 }
