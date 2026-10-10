@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T15:08:36.321960Z",
+  "updated_at": "2026-10-10T15:37:49.628056Z",
   "stories": [
     {
       "title": "Bitwarden Dual License Model",
-      "score": 48
-    },
-    {
-      "title": "`123456' password used in Danish CPR data breach",
-      "score": 284
+      "score": 81
     },
     {
       "title": "Lobbying Is Corruption",
-      "score": 291
+      "score": 378
     },
     {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 106
+      "score": 110
+    },
+    {
+      "title": "Rampart: Browser native on-device PII radaction",
+      "score": 12
     },
     {
       "title": "REA Reverse \u2013 Engineer Anything",
-      "score": 540
+      "score": 553
     }
   ]
 }
