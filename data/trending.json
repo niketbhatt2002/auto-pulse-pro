@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T02:13:00.866826Z",
+  "updated_at": "2026-10-10T11:45:18.069741Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 13121
+      "stars": 13442
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 2898
+      "stars": 3093
     },
     {
       "name": "mhtsec/ARTEX",
-      "stars": 2254
+      "stars": 2707
     },
     {
       "name": "storytold/wordcraft",
-      "stars": 1924
+      "stars": 2489
     },
     {
-      "name": "nullmoth/nvidia-macos-driver",
-      "stars": 1895
+      "name": "zhongerxin/iPhone-use",
+      "stars": 2369
     }
   ]
 }

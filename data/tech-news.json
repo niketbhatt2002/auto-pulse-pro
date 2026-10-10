@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T02:12:59.880000Z",
+  "updated_at": "2026-10-10T11:45:16.957766Z",
   "stories": [
     {
+      "title": "`123456' password used in Danish CPR data breach",
+      "score": 117
+    },
+    {
+      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+      "score": 24
+    },
+    {
       "title": "REA Reverse \u2013 Engineer Anything",
-      "score": 78
+      "score": 465
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "score": 208
     },
     {
       "title": "Cloudflare acquires Deno",
-      "score": 1077
-    },
-    {
-      "title": "Triple-A Minesweeper",
-      "score": 673
-    },
-    {
-      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
-      "score": 56
-    },
-    {
-      "title": "Our $445M Series D",
-      "score": 600
+      "score": 1255
     }
   ]
 }
