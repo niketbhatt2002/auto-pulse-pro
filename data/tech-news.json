@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T14:08:18.547913Z",
+  "updated_at": "2026-10-10T15:08:36.321960Z",
   "stories": [
     {
-      "title": "`123456' password used in Danish CPR data breach",
-      "score": 231
+      "title": "Bitwarden Dual License Model",
+      "score": 48
     },
     {
-      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 80
+      "title": "`123456' password used in Danish CPR data breach",
+      "score": 284
     },
     {
       "title": "Lobbying Is Corruption",
-      "score": 133
+      "score": 291
+    },
+    {
+      "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
+      "score": 106
     },
     {
       "title": "REA Reverse \u2013 Engineer Anything",
-      "score": 517
-    },
-    {
-      "title": "C for Rust Programmers",
-      "score": 48
+      "score": 540
     }
   ]
 }
