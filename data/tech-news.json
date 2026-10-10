@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T15:37:49.628056Z",
+  "updated_at": "2026-10-10T16:05:28.699797Z",
   "stories": [
     {
       "title": "Bitwarden Dual License Model",
-      "score": 81
-    },
-    {
-      "title": "Lobbying Is Corruption",
-      "score": 378
+      "score": 122
     },
     {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 110
+      "score": 127
+    },
+    {
+      "title": "Knuth Reward Check",
+      "score": 8
     },
     {
       "title": "Rampart: Browser native on-device PII radaction",
-      "score": 12
+      "score": 18
     },
     {
-      "title": "REA Reverse \u2013 Engineer Anything",
-      "score": 553
+      "title": "The Disease called Politics (1962)",
+      "score": 3
     }
   ]
 }
