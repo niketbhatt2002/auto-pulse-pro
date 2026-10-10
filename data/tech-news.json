@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T18:20:03.734010Z",
+  "updated_at": "2026-10-10T20:21:04.438018Z",
   "stories": [
     {
-      "title": "Knuth Reward Check",
-      "score": 52
+      "title": "2D Vehicles",
+      "score": 117
+    },
+    {
+      "title": "Knuth reward check",
+      "score": 98
+    },
+    {
+      "title": "Why DuckDB 2.0 is faster",
+      "score": 37
     },
     {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 168
+      "score": 204
     },
     {
-      "title": "Rampart: Browser native on-device PII radaction",
-      "score": 44
-    },
-    {
-      "title": "Bitwarden Dual License Model",
-      "score": 222
-    },
-    {
-      "title": "Grieving the Loss of Details",
-      "score": 138
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "score": 49
     }
   ]
 }
