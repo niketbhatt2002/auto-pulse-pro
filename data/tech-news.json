@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T13:14:14.364475Z",
+  "updated_at": "2026-10-10T14:08:18.547913Z",
   "stories": [
     {
       "title": "`123456' password used in Danish CPR data breach",
-      "score": 189
+      "score": 231
     },
     {
       "title": "Talorys \u2013 A self-hosted personal AI agent on Cloudflare's free tier",
-      "score": 59
+      "score": 80
     },
     {
-      "title": "Apple/macOS silently removed from official Unix registry",
-      "score": 69
+      "title": "Lobbying Is Corruption",
+      "score": 133
     },
     {
       "title": "REA Reverse \u2013 Engineer Anything",
-      "score": 501
+      "score": 517
     },
     {
-      "title": "Cloudflare acquires Deno",
-      "score": 1269
+      "title": "C for Rust Programmers",
+      "score": 48
     }
   ]
 }
