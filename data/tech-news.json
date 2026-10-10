@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-09T23:52:25.747059Z",
+  "updated_at": "2026-10-10T02:12:59.880000Z",
   "stories": [
     {
+      "title": "REA Reverse \u2013 Engineer Anything",
+      "score": 78
+    },
+    {
       "title": "Cloudflare acquires Deno",
-      "score": 1016
+      "score": 1077
     },
     {
       "title": "Triple-A Minesweeper",
-      "score": 524
+      "score": 673
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "score": 184
+      "title": "11 of 23 Core Open Source Projects Run on 1 or 2 People",
+      "score": 56
     },
     {
       "title": "Our $445M Series D",
-      "score": 563
-    },
-    {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "score": 338
+      "score": 600
     }
   ]
 }
