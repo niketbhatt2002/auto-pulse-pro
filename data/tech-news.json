@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-11T20:38:41.815420Z",
+  "updated_at": "2026-10-11T23:29:25.607375Z",
   "stories": [
     {
       "title": "Total Annihilation, rebuilt for modern computers",
-      "score": 179
-    },
-    {
-      "title": "Chapter 1 of Ways of Seeing by John Berger",
-      "score": 35
-    },
-    {
-      "title": "Be The Onion's Hero for Once",
-      "score": 83
+      "score": 301
     },
     {
       "title": "Cartographers of North Korea",
-      "score": 18
+      "score": 141
     },
     {
-      "title": "NYC's \"Click to Cancel\" rule is now in effect",
-      "score": 195
+      "title": "Google Data Centers around the world",
+      "score": 15
+    },
+    {
+      "title": "Recursive self-improvement through collective intelligence",
+      "score": 17
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "score": 154
     }
   ]
 }
