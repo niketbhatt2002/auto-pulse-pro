@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-11T11:57:35.176620Z",
+  "updated_at": "2026-10-11T13:43:21.463462Z",
   "stories": [
     {
-      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-      "score": 106
+      "title": "I paid people to try and follow my README",
+      "score": 93
     },
     {
-      "title": "IRCv3",
-      "score": 106
-    },
-    {
-      "title": "Nitter: Update Oct 10th seeking funding and legal help",
-      "score": 122
+      "title": "Don't Put Tilde In Your Path",
+      "score": 42
     },
     {
       "title": "LineageOS 24.0",
-      "score": 149
+      "score": 207
     },
     {
-      "title": "I paid people to try and follow my README",
-      "score": 3
+      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
+      "score": 21
+    },
+    {
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "score": 333
     }
   ]
 }
