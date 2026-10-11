@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-11T13:43:21.463462Z",
+  "updated_at": "2026-10-11T14:32:18.228755Z",
   "stories": [
     {
       "title": "I paid people to try and follow my README",
-      "score": 93
+      "score": 138
     },
     {
-      "title": "Don't Put Tilde In Your Path",
-      "score": 42
-    },
-    {
-      "title": "LineageOS 24.0",
-      "score": 207
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "score": 21
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "score": 37
     },
     {
       "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
-      "score": 333
+      "score": 432
+    },
+    {
+      "title": "Don't Put Tilde In Your Path",
+      "score": 58
+    },
+    {
+      "title": "LineageOS 24.0",
+      "score": 234
     }
   ]
 }
