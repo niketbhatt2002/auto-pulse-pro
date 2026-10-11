@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-10T23:19:15.396960Z",
+  "updated_at": "2026-10-11T01:45:05.020026Z",
   "stories": [
     {
-      "title": "2D Vehicles",
-      "score": 309
-    },
-    {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "score": 91
+      "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
+      "score": 60
     },
     {
       "title": "Build your own decision model",
-      "score": 5
+      "score": 111
     },
     {
-      "title": "Nix wrote half of my debugger",
-      "score": 93
+      "title": "2D Vehicles",
+      "score": 359
     },
     {
-      "title": "Why DuckDB 2.0 is faster",
-      "score": 109
+      "title": "A city-building game in which the city would prefer you didn't",
+      "score": 169
+    },
+    {
+      "title": "The Lightbulb Computer",
+      "score": 245
     }
   ]
 }
