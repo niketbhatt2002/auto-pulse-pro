@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-11T01:45:05.020026Z",
+  "updated_at": "2026-10-11T11:57:35.176620Z",
   "stories": [
     {
-      "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
-      "score": 60
+      "title": "Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter",
+      "score": 106
     },
     {
-      "title": "Build your own decision model",
-      "score": 111
+      "title": "IRCv3",
+      "score": 106
     },
     {
-      "title": "2D Vehicles",
-      "score": 359
+      "title": "Nitter: Update Oct 10th seeking funding and legal help",
+      "score": 122
     },
     {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "score": 169
+      "title": "LineageOS 24.0",
+      "score": 149
     },
     {
-      "title": "The Lightbulb Computer",
-      "score": 245
+      "title": "I paid people to try and follow my README",
+      "score": 3
     }
   ]
 }
