@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-11T16:31:37.814837Z",
+  "updated_at": "2026-10-11T18:42:27.997400Z",
   "stories": [
     {
-      "title": "Internal files add to evidence of an ExxonMobil climate deception campaign",
-      "score": 274
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "score": 28
     },
     {
-      "title": "I paid people to try and follow my README",
-      "score": 219
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "score": 157
+    },
+    {
+      "title": "How to Build Wealth as a Career Person",
+      "score": 41
+    },
+    {
+      "title": "apsw: Another Python SQLite Wrapper",
+      "score": 19
     },
     {
       "title": "The tilde in your PATH may not be your HOME",
-      "score": 112
-    },
-    {
-      "title": "LineageOS 24.0",
-      "score": 282
-    },
-    {
-      "title": "Valen's Memory Safety: A New Kind of Borrow Checking",
-      "score": 66
+      "score": 161
     }
   ]
 }
