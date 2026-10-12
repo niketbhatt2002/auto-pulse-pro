@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-12T14:10:23.120109Z",
+  "updated_at": "2026-10-12T16:24:28.403986Z",
   "stories": [
     {
-      "title": "Deloitte falsified documents to evade tax on Abramovich's wealth",
-      "score": 437
-    },
-    {
-      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
-      "score": 58
-    },
-    {
-      "title": "Incident with Actions, Pull Requests and Issues",
+      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
       "score": 23
     },
     {
-      "title": "QGIS bans AI assisted contributions",
-      "score": 226
+      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
+      "score": 134
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "score": 585
     },
     {
       "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "score": 76
+      "score": 136
+    },
+    {
+      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
+      "score": 171
     }
   ]
 }
