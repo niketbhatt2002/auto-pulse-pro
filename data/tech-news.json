@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-12T17:12:52.540636Z",
+  "updated_at": "2026-10-12T18:48:41.114308Z",
   "stories": [
     {
-      "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
-      "score": 106
+      "title": "GLM-Legal",
+      "score": 241
+    },
+    {
+      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
+      "score": 20
     },
     {
       "title": "A Modern Web App in C",
-      "score": 49
+      "score": 161
     },
     {
-      "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
-      "score": 151
+      "title": "Launch HN: Agent37 (YC F26) \u2013 Low-cost agent sandboxes for running agents",
+      "score": 41
     },
     {
-      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
-      "score": 112
-    },
-    {
-      "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "score": 191
+      "title": "AI coding agents generate more code, but not more software",
+      "score": 91
     }
   ]
 }
