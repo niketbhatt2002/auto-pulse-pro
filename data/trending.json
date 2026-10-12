@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-12T02:12:28.137116Z",
+  "updated_at": "2026-10-12T14:10:24.393330Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 14105
+      "stars": 14309
     },
     {
       "name": "storytold/wordcraft",
-      "stars": 6095
+      "stars": 7911
     },
     {
       "name": "wheresryan22/anatomy",
-      "stars": 3487
+      "stars": 5011
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 3402
+      "stars": 3551
     },
     {
       "name": "mhtsec/ARTEX",
-      "stars": 3170
+      "stars": 3505
     }
   ]
 }
