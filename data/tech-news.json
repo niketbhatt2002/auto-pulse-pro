@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-12T16:24:28.403986Z",
+  "updated_at": "2026-10-12T17:12:52.540636Z",
   "stories": [
     {
       "title": "GLM-Legal: Advancing Agentic Legal Intelligence",
-      "score": 23
+      "score": 106
+    },
+    {
+      "title": "A Modern Web App in C",
+      "score": 49
     },
     {
       "title": "The Making Of Super Mario 64 \u2013 full Giles Goddard interview (2001)",
-      "score": 134
+      "score": 151
     },
     {
-      "title": "Fingerprints are the new cookies",
-      "score": 585
-    },
-    {
-      "title": "Secret of Orange Cats Revealed After 60-Year Search",
-      "score": 136
+      "title": "French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack",
+      "score": 112
     },
     {
       "title": "Show HN: PS2 games statically recompiled to WebAssembly",
-      "score": 171
+      "score": 191
     }
   ]
 }
