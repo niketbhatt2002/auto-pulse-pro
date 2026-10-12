@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-12T20:05:52.394252Z",
+  "updated_at": "2026-10-12T22:00:28.542846Z",
   "repos": [
     {
       "name": "openai/math",
-      "stars": 14393
+      "stars": 14403
     },
     {
       "name": "storytold/wordcraft",
-      "stars": 8770
+      "stars": 8944
     },
     {
       "name": "wheresryan22/anatomy",
-      "stars": 5845
+      "stars": 6027
     },
     {
       "name": "storytold/gridcraft",
-      "stars": 3713
+      "stars": 3768
     },
     {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 3589
+      "stars": 3603
     }
   ]
 }

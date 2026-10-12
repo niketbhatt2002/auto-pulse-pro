@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-12T20:05:51.680992Z",
+  "updated_at": "2026-10-12T22:00:27.885991Z",
   "stories": [
     {
-      "title": "Codex CLI installs a persistent, self-updating background daemon by default",
-      "score": 220
+      "title": "AI Is a Tool. Using It Well Takes Skill.",
+      "score": 27
     },
     {
       "title": "GLM-Legal",
-      "score": 298
+      "score": 366
     },
     {
       "title": "A Modern Web App in C",
-      "score": 223
+      "score": 314
     },
     {
-      "title": "AI coding agents generate more code, but not more software",
-      "score": 175
+      "title": "Writing a Demoscene Intro for the ZX Spectrum",
+      "score": 41
     },
     {
-      "title": "AI models may be capable of self-replicating without access to a datacenter",
-      "score": 28
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "score": 318
     }
   ]
 }
