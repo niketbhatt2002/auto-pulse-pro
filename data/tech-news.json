@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-11T23:29:25.607375Z",
+  "updated_at": "2026-10-12T02:12:27.385961Z",
   "stories": [
     {
+      "title": "Whatever became of holography? (2011)",
+      "score": 71
+    },
+    {
       "title": "Total Annihilation, rebuilt for modern computers",
-      "score": 301
+      "score": 373
     },
     {
-      "title": "Cartographers of North Korea",
-      "score": 141
+      "title": "Cartographers of North Korea (2019)",
+      "score": 191
     },
     {
-      "title": "Google Data Centers around the world",
-      "score": 15
+      "title": "Fingerprints are the new cookies",
+      "score": 92
     },
     {
-      "title": "Recursive self-improvement through collective intelligence",
-      "score": 17
-    },
-    {
-      "title": "The gap in shared understanding of LLM capability is widening",
-      "score": 154
+      "title": "HashiCorp archives the Boundary open source repo",
+      "score": 39
     }
   ]
 }
