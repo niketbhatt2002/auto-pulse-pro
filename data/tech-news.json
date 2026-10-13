@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T17:55:03.801009Z",
+  "updated_at": "2026-10-13T20:07:44.003552Z",
   "stories": [
     {
       "title": "Gemini 4 Argon",
-      "score": 420
+      "score": 663
     },
     {
       "title": "Apple HomeView",
-      "score": 463
+      "score": 558
+    },
+    {
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "score": 146
+    },
+    {
+      "title": "A plea not to use uv-build",
+      "score": 49
     },
     {
       "title": "Thunderbird for iOS",
-      "score": 152
-    },
-    {
-      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-      "score": 55
-    },
-    {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "score": 554
+      "score": 234
     }
   ]
 }
