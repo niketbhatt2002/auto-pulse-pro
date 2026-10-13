@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T21:36:07.761068Z",
+  "updated_at": "2026-10-13T23:38:14.389982Z",
   "stories": [
     {
       "title": "Gemini 4 Argon",
-      "score": 781
+      "score": 895
     },
     {
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "score": 126
+      "score": 197
     },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "score": 266
-    },
-    {
-      "title": "Apple HomeView",
-      "score": 597
+      "score": 360
     },
     {
       "title": "Redesigning source control at Anthropic",
-      "score": 374
+      "score": 471
+    },
+    {
+      "title": "Apple HomeView",
+      "score": 631
     }
   ]
 }
