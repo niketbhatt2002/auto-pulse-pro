@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T15:28:27.192301Z",
+  "updated_at": "2026-10-13T16:49:18.636812Z",
   "stories": [
     {
+      "title": "Gemini 4 Argon",
+      "score": 215
+    },
+    {
       "title": "Apple HomeView",
-      "score": 272
+      "score": 389
+    },
+    {
+      "title": "Thunderbird for iOS",
+      "score": 87
     },
     {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "score": 447
-    },
-    {
-      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
-      "score": 133
+      "score": 504
     },
     {
       "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "score": 243
-    },
-    {
-      "title": "New Apple TV 4K",
-      "score": 59
+      "score": 290
     }
   ]
 }
