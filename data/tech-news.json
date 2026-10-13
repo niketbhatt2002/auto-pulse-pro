@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T03:26:44.802962Z",
+  "updated_at": "2026-10-13T13:21:34.945812Z",
   "stories": [
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "score": 99
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "score": 277
     },
     {
-      "title": "GLM-Legal",
-      "score": 469
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "score": 133
     },
     {
-      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
-      "score": 102
+      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
+      "score": 11
     },
     {
-      "title": "A Modern Web App in C",
-      "score": 428
+      "title": "Sqlthon \u2013 A lightweight Pythonic layer for SQLite",
+      "score": 6
     },
     {
-      "title": "Who is vfmaddrnd231pd?",
-      "score": 134
+      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
+      "score": 73
     }
   ]
 }

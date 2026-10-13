@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T03:26:46.107940Z",
+  "updated_at": "2026-10-13T13:21:36.849678Z",
   "repos": [
     {
       "name": "storytold/wordcraft",
-      "stars": 9393
+      "stars": 10259
     },
     {
       "name": "wheresryan22/anatomy",
-      "stars": 6518
+      "stars": 7483
     },
     {
       "name": "storytold/gridcraft",
-      "stars": 3905
-    },
-    {
-      "name": "mhtsec/ARTEX",
-      "stars": 3637
+      "stars": 4199
     },
     {
       "name": "storytold/cadcraft",
-      "stars": 3555
+      "stars": 3886
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "stars": 3816
     }
   ]
 }
