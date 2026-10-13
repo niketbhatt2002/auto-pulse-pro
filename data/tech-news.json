@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T13:21:34.945812Z",
+  "updated_at": "2026-10-13T14:44:43.878911Z",
   "stories": [
     {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "score": 277
-    },
-    {
-      "title": "An hour of audio transcribed in about 13s on MacBook Air",
-      "score": 133
+      "score": 412
     },
     {
       "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
-      "score": 11
+      "score": 113
     },
     {
-      "title": "Sqlthon \u2013 A lightweight Pythonic layer for SQLite",
-      "score": 6
+      "title": "An hour of audio transcribed in about 13s on MacBook Air",
+      "score": 222
     },
     {
-      "title": "Show HN: Use your OpenAI subscription to create audiobooks",
-      "score": 73
+      "title": "A Visual Intro to Complex Numbers",
+      "score": 29
+    },
+    {
+      "title": "Hittite royal archive found in Turkey",
+      "score": 215
     }
   ]
 }
