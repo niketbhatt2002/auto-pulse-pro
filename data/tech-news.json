@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T16:49:18.636812Z",
+  "updated_at": "2026-10-13T17:14:16.674968Z",
   "stories": [
     {
       "title": "Gemini 4 Argon",
-      "score": 215
+      "score": 294
     },
     {
       "title": "Apple HomeView",
-      "score": 389
+      "score": 422
     },
     {
       "title": "Thunderbird for iOS",
-      "score": 87
+      "score": 109
     },
     {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "score": 504
+      "score": 520
     },
     {
-      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
-      "score": 290
+      "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
+      "score": 19
     }
   ]
 }
