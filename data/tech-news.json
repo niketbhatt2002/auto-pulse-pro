@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T14:44:43.878911Z",
+  "updated_at": "2026-10-13T15:28:27.192301Z",
   "stories": [
     {
+      "title": "Apple HomeView",
+      "score": 272
+    },
+    {
       "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "score": 412
+      "score": 447
     },
     {
-      "title": "Apple's Minions: A virtual GPU cloud built from idle Apple Silicon Macs",
-      "score": 113
+      "title": "A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices",
+      "score": 133
     },
     {
-      "title": "An hour of audio transcribed in about 13s on MacBook Air",
-      "score": 222
+      "title": "We turned EmbeddingGemma 2 into a speech-to-text model",
+      "score": 243
     },
     {
-      "title": "A Visual Intro to Complex Numbers",
-      "score": 29
-    },
-    {
-      "title": "Hittite royal archive found in Turkey",
-      "score": 215
+      "title": "New Apple TV 4K",
+      "score": 59
     }
   ]
 }
