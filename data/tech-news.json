@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T17:14:16.674968Z",
+  "updated_at": "2026-10-13T17:55:03.801009Z",
   "stories": [
     {
       "title": "Gemini 4 Argon",
-      "score": 294
+      "score": 420
     },
     {
       "title": "Apple HomeView",
-      "score": 422
+      "score": 463
     },
     {
       "title": "Thunderbird for iOS",
-      "score": 109
-    },
-    {
-      "title": "11 year old unsoundness bugs found in Rust borrow checker",
-      "score": 520
+      "score": 152
     },
     {
       "title": "Cyberattack halts construction of tunnel between Denmark and Germany",
-      "score": 19
+      "score": 55
+    },
+    {
+      "title": "11 year old unsoundness bugs found in Rust borrow checker",
+      "score": 554
     }
   ]
 }
