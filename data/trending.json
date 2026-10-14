@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T01:44:26.067074Z",
+  "updated_at": "2026-10-14T11:00:25.261713Z",
   "repos": [
     {
       "name": "wheresryan22/anatomy",
-      "stars": 8283
+      "stars": 8965
     },
     {
       "name": "mhtsec/ARTEX",
-      "stars": 3877
-    },
-    {
-      "name": "t4t5/omdrop-owl",
-      "stars": 2591
+      "stars": 4013
     },
     {
       "name": "ARahim3/DigUp",
-      "stars": 2452
+      "stars": 3111
+    },
+    {
+      "name": "t4t5/omdrop-owl",
+      "stars": 2627
     },
     {
       "name": "storytold/craft-launcher",
-      "stars": 2321
+      "stars": 2477
     }
   ]
 }
