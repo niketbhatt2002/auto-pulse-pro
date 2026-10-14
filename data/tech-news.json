@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T20:21:17.318853Z",
+  "updated_at": "2026-10-14T23:02:15.896444Z",
   "stories": [
     {
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "score": 137
+      "title": "Things to know when you get cancer \u2013 2026 Edition",
+      "score": 547
     },
     {
-      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
-      "score": 162
+      "title": "OpenCode 2.0",
+      "score": 176
     },
     {
-      "title": "Neckbeard \u2013 a DevOps/platform/SRE plugin for your agent",
-      "score": 40
+      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "score": 106
     },
     {
-      "title": "Phloem: Git history grown like a slime mold",
-      "score": 39
+      "title": "Tiny Little Office",
+      "score": 36
     },
     {
-      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-      "score": 637
+      "title": "Passkeys are not a trap",
+      "score": 402
     }
   ]
 }
