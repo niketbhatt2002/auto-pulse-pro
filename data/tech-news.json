@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T15:41:00.397553Z",
+  "updated_at": "2026-10-14T18:23:29.067792Z",
   "stories": [
     {
-      "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "score": 442
+      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
+      "score": 129
     },
     {
-      "title": "Passkeys Are Not a Trap",
-      "score": 101
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "score": 73
     },
     {
-      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "score": 101
+      "title": "Submarine cable resilience",
+      "score": 77
     },
     {
-      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
-      "score": 58
+      "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
+      "score": 592
     },
     {
-      "title": "Running Windows desktop tests from Linux with disposable VMs",
-      "score": 7
+      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
+      "score": 226
     }
   ]
 }
