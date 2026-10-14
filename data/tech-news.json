@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T14:46:18.391405Z",
+  "updated_at": "2026-10-14T15:41:00.397553Z",
   "stories": [
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "score": 389
+      "score": 442
+    },
+    {
+      "title": "Passkeys Are Not a Trap",
+      "score": 101
     },
     {
       "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
-      "score": 88
+      "score": 101
     },
     {
-      "title": "Amazon pushes up prices across the Internet",
-      "score": 312
+      "title": "ASML's strong orders ease fears AI spending boom is running out of steam",
+      "score": 58
     },
     {
-      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
-      "score": 52
-    },
-    {
-      "title": "The Aaronson Oracle",
-      "score": 32
+      "title": "Running Windows desktop tests from Linux with disposable VMs",
+      "score": 7
     }
   ]
 }
