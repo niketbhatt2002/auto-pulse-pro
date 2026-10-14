@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-13T23:38:14.389982Z",
+  "updated_at": "2026-10-14T01:44:24.769788Z",
   "stories": [
     {
       "title": "Gemini 4 Argon",
-      "score": 895
+      "score": 993
     },
     {
       "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "score": 197
+      "score": 270
     },
     {
       "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "score": 360
+      "score": 438
+    },
+    {
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "score": 47
     },
     {
       "title": "Redesigning source control at Anthropic",
-      "score": 471
-    },
-    {
-      "title": "Apple HomeView",
-      "score": 631
+      "score": 547
     }
   ]
 }
