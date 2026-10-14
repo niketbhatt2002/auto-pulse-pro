@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T11:00:23.671379Z",
+  "updated_at": "2026-10-14T12:36:09.302850Z",
   "stories": [
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif, monospace font",
-      "score": 141
+      "score": 240
     },
     {
-      "title": "Agent erased full season of \"The Challenge Swe\": \"Hundreds of days of work gone\"",
-      "score": 22
+      "title": "Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW",
+      "score": 20
     },
     {
-      "title": "Gemini 4 Argon",
-      "score": 1330
+      "title": "Pulsar at ESUG 2026 (new Smalltalk IDE)",
+      "score": 32
     },
     {
-      "title": "Show HN: Building an LLM from Scratch in TypeScript",
-      "score": 8
+      "title": "Amazon pushes up prices across the Internet",
+      "score": 109
     },
     {
-      "title": "I let an AI run my startup for a week",
-      "score": 28
+      "title": "The Aaronson Oracle",
+      "score": 3
     }
   ]
 }
