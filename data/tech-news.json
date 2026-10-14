@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T18:23:29.067792Z",
+  "updated_at": "2026-10-14T20:21:17.318853Z",
   "stories": [
     {
-      "title": "AI agents aren't 'going rogue.' Frontier labs are skipping security basics",
-      "score": 129
-    },
-    {
       "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "score": 73
+      "score": 137
     },
     {
-      "title": "Submarine cable resilience",
-      "score": 77
+      "title": "Fire at Starlink site in Bulgaria after suspected sabotage in Poland",
+      "score": 162
+    },
+    {
+      "title": "Neckbeard \u2013 a DevOps/platform/SRE plugin for your agent",
+      "score": 40
+    },
+    {
+      "title": "Phloem: Git history grown like a slime mold",
+      "score": 39
     },
     {
       "title": "Iosevka is an open-source, sans-serif and slab-serif monospace font",
-      "score": 592
-    },
-    {
-      "title": "ICE Planning $100M 'Nightmare' Domestic Spy Program",
-      "score": 226
+      "score": 637
     }
   ]
 }
