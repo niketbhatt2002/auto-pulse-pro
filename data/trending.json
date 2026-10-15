@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T23:02:17.003274Z",
+  "updated_at": "2026-10-15T01:20:45.212970Z",
   "repos": [
     {
-      "name": "wheresryan22/anatomy",
-      "stars": 9953
-    },
-    {
-      "name": "mhtsec/ARTEX",
-      "stars": 4073
-    },
-    {
-      "name": "ARahim3/DigUp",
-      "stars": 3597
-    },
-    {
-      "name": "t4t5/omdrop-owl",
-      "stars": 2674
-    },
-    {
       "name": "storytold/craft-launcher",
-      "stars": 2640
+      "stars": 2654
+    },
+    {
+      "name": "liseami/CCBaga",
+      "stars": 2253
+    },
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "stars": 2153
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "stars": 2088
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 1257
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-14T23:02:15.896444Z",
+  "updated_at": "2026-10-15T01:20:43.559600Z",
   "stories": [
     {
       "title": "Things to know when you get cancer \u2013 2026 Edition",
-      "score": 547
+      "score": 752
     },
     {
       "title": "OpenCode 2.0",
-      "score": 176
+      "score": 284
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "score": 56
     },
     {
       "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "score": 106
+      "score": 178
     },
     {
       "title": "Tiny Little Office",
-      "score": 36
-    },
-    {
-      "title": "Passkeys are not a trap",
-      "score": 402
+      "score": 126
     }
   ]
 }
