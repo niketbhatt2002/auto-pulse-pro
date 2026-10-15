@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-15T12:59:38.487832Z",
+  "updated_at": "2026-10-15T14:03:06.533049Z",
   "stories": [
     {
+      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
+      "score": 72
+    },
+    {
+      "title": "Israeli firm's digital ads enabling installation of 'zero-click' spyware",
+      "score": 140
+    },
+    {
+      "title": "C++26 Contracts: Introduction to Preconditions and Postconditions",
+      "score": 12
+    },
+    {
       "title": "Things to know when you get cancer",
-      "score": 1581
+      "score": 1656
     },
     {
       "title": "Wanted to download an ISO, ended up writing a kernel exploit",
-      "score": 194
-    },
-    {
-      "title": "Show HN: Unfenced \u2013 Land for sale that borders public land",
-      "score": 36
-    },
-    {
-      "title": "Libreboot 26.10 \"Ominous Olive\" released with UEFI, Chromebook support",
-      "score": 3
-    },
-    {
-      "title": "OpenCode 2.0",
-      "score": 705
+      "score": 222
     }
   ]
 }
