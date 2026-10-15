@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-15T20:05:18.217115Z",
+  "updated_at": "2026-10-15T22:56:00.568805Z",
   "stories": [
     {
       "title": "Muse Spark Open",
-      "score": 356
+      "score": 541
+    },
+    {
+      "title": "What I Self-Host",
+      "score": 139
     },
     {
       "title": "Neural networks are clean",
-      "score": 298
+      "score": 438
     },
     {
-      "title": "E Ink Launches Latest Version of Color EPaper Platform, E Ink Kaleido 4",
-      "score": 42
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "score": 139
     },
     {
       "title": "Wayland desktop for Linux with skeuomorphic design",
-      "score": 393
-    },
-    {
-      "title": "Krea 3 \u2013 An image model built for editing at scale",
-      "score": 172
+      "score": 459
     }
   ]
 }
