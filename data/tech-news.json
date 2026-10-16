@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-15T22:56:00.568805Z",
+  "updated_at": "2026-10-16T01:06:30.359194Z",
   "stories": [
     {
       "title": "Muse Spark Open",
-      "score": 541
+      "score": 599
     },
     {
       "title": "What I Self-Host",
-      "score": 139
+      "score": 243
     },
     {
       "title": "Neural networks are clean",
-      "score": 438
+      "score": 490
+    },
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "score": 28
     },
     {
       "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
-      "score": 139
-    },
-    {
-      "title": "Wayland desktop for Linux with skeuomorphic design",
-      "score": 459
+      "score": 219
     }
   ]
 }
