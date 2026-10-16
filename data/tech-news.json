@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-16T14:24:08.131417Z",
+  "updated_at": "2026-10-16T15:10:15.832480Z",
   "stories": [
     {
       "title": "I Love Software Rendering",
-      "score": 90
+      "score": 134
     },
     {
-      "title": "Yet another way to invoke functions without parentheses",
-      "score": 168
+      "title": "Hello Toronto \u2013 Waymo Is En Route",
+      "score": 42
     },
     {
-      "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "score": 596
+      "title": "Redesigning Source Control at Anthropic",
+      "score": 15
     },
     {
-      "title": "Artificial intelligence is capitalism's final destination",
-      "score": 32
+      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
+      "score": 19
     },
     {
-      "title": "The Economic Complexity of the Western Roman Empire",
-      "score": 88
+      "title": "Gyroscopes Got So Small [video]",
+      "score": 31
     }
   ]
 }
