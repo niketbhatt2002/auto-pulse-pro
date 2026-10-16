@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-16T17:53:07.418470Z",
+  "updated_at": "2026-10-16T19:44:14.574416Z",
   "stories": [
     {
-      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
-      "score": 40
+      "title": "Tesla Roadster",
+      "score": 668
     },
     {
-      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
-      "score": 163
+      "title": "Claude reveals ECDSA curve origins",
+      "score": 180
     },
     {
-      "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "score": 105
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "score": 79
     },
     {
-      "title": "JPEG XL vs. AVIF for web use-cases",
-      "score": 70
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "score": 47
     },
     {
-      "title": "Show HN: Gemini 4 Argon plays StarCraft",
-      "score": 102
+      "title": "The NIST Elliptic Curves Seeds Bounty Has Been Claimed",
+      "score": 21
     }
   ]
 }
