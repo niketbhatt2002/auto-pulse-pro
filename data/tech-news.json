@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-16T12:55:39.238770Z",
+  "updated_at": "2026-10-16T13:51:14.344703Z",
   "stories": [
     {
+      "title": "I Love Software Rendering",
+      "score": 59
+    },
+    {
       "title": "Yet another way to invoke functions without parentheses",
-      "score": 115
+      "score": 146
     },
     {
       "title": "Woman who rescued injured crow keeps getting 'thank-you gifts' from birds [video]",
-      "score": 484
-    },
-    {
-      "title": "Meta\u2019s new commercial terms will allow the scraping of news sites: experts",
-      "score": 368
-    },
-    {
-      "title": "Muse Spark Open",
-      "score": 854
+      "score": 554
     },
     {
       "title": "The Economic Complexity of the Western Roman Empire",
-      "score": 61
+      "score": 79
+    },
+    {
+      "title": "Meta\u2019s new commercial terms will allow the scraping of news sites: experts",
+      "score": 384
     }
   ]
 }
