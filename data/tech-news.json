@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-16T15:10:15.832480Z",
+  "updated_at": "2026-10-16T17:53:07.418470Z",
   "stories": [
     {
-      "title": "I Love Software Rendering",
-      "score": 134
+      "title": "90% of US working hours are spent on tasks not covered well by AI benchmarks",
+      "score": 40
     },
     {
-      "title": "Hello Toronto \u2013 Waymo Is En Route",
-      "score": 42
-    },
-    {
-      "title": "Redesigning Source Control at Anthropic",
-      "score": 15
+      "title": "Apple ML Research: Muse Spark Open with MLX on Mac Studio",
+      "score": 163
     },
     {
       "title": "Big Fish: Exploiting a 37-Year-Old Kernel Bug in OpenBSD",
-      "score": 19
+      "score": 105
     },
     {
-      "title": "Gyroscopes Got So Small [video]",
-      "score": 31
+      "title": "JPEG XL vs. AVIF for web use-cases",
+      "score": 70
+    },
+    {
+      "title": "Show HN: Gemini 4 Argon plays StarCraft",
+      "score": 102
     }
   ]
 }
