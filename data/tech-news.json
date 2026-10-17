@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-17T01:12:22.561550Z",
+  "updated_at": "2026-10-17T10:00:57.151058Z",
   "stories": [
     {
+      "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
+      "score": 106
+    },
+    {
+      "title": "Ultramarine 1\u00a0Flash",
+      "score": 247
+    },
+    {
+      "title": "Is MCP becoming the common foundation of smart, decentralised search?",
+      "score": 8
+    },
+    {
+      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
+      "score": 16
+    },
+    {
       "title": "Tesla Roadster",
-      "score": 1167
-    },
-    {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "score": 187
-    },
-    {
-      "title": "Claude reveals ECDSA curve origins",
-      "score": 657
-    },
-    {
-      "title": "FLUX 3 Image Klein",
-      "score": 107
-    },
-    {
-      "title": "Waymo in Toronto",
-      "score": 264
+      "score": 1430
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-17T01:12:23.124233Z",
+  "updated_at": "2026-10-17T10:00:58.441430Z",
   "location": "Toronto, ON",
-  "temperature_c": null,
-  "weather_code": null
+  "temperature_c": 2.5,
+  "weather_code": 0
 }
