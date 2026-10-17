@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-17T10:00:57.151058Z",
+  "updated_at": "2026-10-17T11:18:30.401619Z",
   "stories": [
     {
       "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "score": 106
+      "score": 186
     },
     {
       "title": "Ultramarine 1\u00a0Flash",
-      "score": 247
-    },
-    {
-      "title": "Is MCP becoming the common foundation of smart, decentralised search?",
-      "score": 8
-    },
-    {
-      "title": "\"Tame\" boar and deer are instinctively adapting to the wolf in the Netherlands",
-      "score": 16
+      "score": 261
     },
     {
       "title": "Tesla Roadster",
-      "score": 1430
+      "score": 1453
+    },
+    {
+      "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
+      "score": 94
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "score": 189
     }
   ]
 }

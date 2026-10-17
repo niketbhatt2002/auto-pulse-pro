@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-17T10:00:58.987983Z",
+  "updated_at": "2026-10-17T11:18:31.525369Z",
   "repos": [
     {
       "name": "jhaizhou-ops/d2r-mobile",
-      "stars": 3605
+      "stars": 3618
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
-      "stars": 2932
+      "stars": 2937
     },
     {
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 2570
+      "stars": 2572
     },
     {
       "name": "liseami/CCBaga",
-      "stars": 2477
+      "stars": 2492
     },
     {
       "name": "HeyPuter/everything",
-      "stars": 1883
+      "stars": 1914
     }
   ]
 }
