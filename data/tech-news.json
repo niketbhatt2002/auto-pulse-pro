@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-17T11:54:19.007560Z",
+  "updated_at": "2026-10-17T12:49:17.219491Z",
   "stories": [
     {
       "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-      "score": 226
+      "score": 280
+    },
+    {
+      "title": "Super Intelligence",
+      "score": 8
     },
     {
       "title": "Ultramarine 1\u00a0Flash",
-      "score": 268
+      "score": 279
     },
     {
       "title": "Tesla Roadster",
-      "score": 1462
+      "score": 1477
     },
     {
       "title": "Show HN: Llmspeed \u2013 feel how fast a local LLM runs before you buy the hardware",
-      "score": 102
-    },
-    {
-      "title": "We Still Use Paper",
-      "score": 22
+      "score": 118
     }
   ]
 }
