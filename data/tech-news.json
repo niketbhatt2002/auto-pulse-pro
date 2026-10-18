@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T17:10:16.640572Z",
+  "updated_at": "2026-10-18T19:01:56.743078Z",
   "stories": [
     {
       "title": "RepRapMicron",
-      "score": 189
+      "score": 249
     },
     {
-      "title": "macOS 15.8.2 Breaks OpenGL",
-      "score": 139
-    },
-    {
-      "title": "Someone Behind the Software",
+      "title": "HOA's are making the home crisis worse",
       "score": 19
     },
     {
-      "title": "Java sealed classes and exhaustive pattern matching",
-      "score": 41
+      "title": "Someone behind the software",
+      "score": 101
     },
     {
-      "title": "Sigsaly: Churchill's top secret hotline to the President",
-      "score": 25
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "score": 83
+    },
+    {
+      "title": "The Intel 8087 chip: floating-point addition and subtraction",
+      "score": 50
     }
   ]
 }
