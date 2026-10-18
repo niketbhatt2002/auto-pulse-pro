@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T10:13:33.379638Z",
+  "updated_at": "2026-10-18T11:54:27.328433Z",
   "stories": [
     {
       "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-      "score": 190
+      "score": 251
+    },
+    {
+      "title": "Parser Combinators",
+      "score": 45
     },
     {
       "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
-      "score": 132
+      "score": 149
     },
     {
       "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
-      "score": 142
+      "score": 164
     },
     {
       "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "score": 459
-    },
-    {
-      "title": "Lean now ships with verified kernels",
-      "score": 138
+      "score": 475
     }
   ]
 }
