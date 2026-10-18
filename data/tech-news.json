@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T13:39:53.983463Z",
+  "updated_at": "2026-10-18T14:16:43.370232Z",
   "stories": [
     {
+      "title": "RepRapMicron",
+      "score": 20
+    },
+    {
       "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-      "score": 315
+      "score": 343
     },
     {
       "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "score": 50
+      "score": 78
     },
     {
       "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
-      "score": 39
+      "score": 51
     },
     {
       "title": "Parser Combinators",
-      "score": 87
-    },
-    {
-      "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
-      "score": 205
+      "score": 93
     }
   ]
 }
