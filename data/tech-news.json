@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T00:47:10.917383Z",
+  "updated_at": "2026-10-18T10:13:33.379638Z",
   "stories": [
     {
+      "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
+      "score": 190
+    },
+    {
+      "title": "Show HN: Sphinx \u2013 A hook that quizzes you on your AI's code before shipping",
+      "score": 132
+    },
+    {
+      "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
+      "score": 142
+    },
+    {
       "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "score": 296
+      "score": 459
     },
     {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "score": 175
-    },
-    {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "score": 245
-    },
-    {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "score": 680
-    },
-    {
-      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
-      "score": 217
+      "title": "Lean now ships with verified kernels",
+      "score": 138
     }
   ]
 }

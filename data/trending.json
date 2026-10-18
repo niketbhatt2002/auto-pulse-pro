@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-10-18T00:47:11.965286Z",
-  "repos": []
+  "updated_at": "2026-10-18T10:13:34.673867Z",
+  "repos": [
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "stars": 3764
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 2687
+    },
+    {
+      "name": "HeyPuter/everything",
+      "stars": 2112
+    },
+    {
+      "name": "deeplethe/solid-glass",
+      "stars": 1956
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "stars": 1832
+    }
+  ]
 }
