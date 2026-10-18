@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T13:06:21.189690Z",
+  "updated_at": "2026-10-18T13:39:53.983463Z",
   "stories": [
     {
       "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-      "score": 295
+      "score": 315
     },
     {
       "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "score": 34
+      "score": 50
     },
     {
       "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
-      "score": 25
+      "score": 39
     },
     {
       "title": "Parser Combinators",
-      "score": 68
+      "score": 87
     },
     {
       "title": "How the Elizabeth Holmes documentary \u201cYou Can See Everything\u201d is deceiving",
-      "score": 194
+      "score": 205
     }
   ]
 }
