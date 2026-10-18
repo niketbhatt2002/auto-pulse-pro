@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T14:16:43.370232Z",
+  "updated_at": "2026-10-18T17:10:16.640572Z",
   "stories": [
     {
       "title": "RepRapMicron",
-      "score": 20
+      "score": 189
     },
     {
-      "title": "DeepSeek search and fetch \u2013 $0.75 per 1000 successful requests",
-      "score": 343
+      "title": "macOS 15.8.2 Breaks OpenGL",
+      "score": 139
     },
     {
-      "title": "Legal experts warn Meta's new terms still grant broad scraping permissions",
-      "score": 78
+      "title": "Someone Behind the Software",
+      "score": 19
     },
     {
-      "title": "Open MicroManipulator \u2013 A sub-micrometer 3D motion control plattform",
-      "score": 51
+      "title": "Java sealed classes and exhaustive pattern matching",
+      "score": 41
     },
     {
-      "title": "Parser Combinators",
-      "score": 93
+      "title": "Sigsaly: Churchill's top secret hotline to the President",
+      "score": 25
     }
   ]
 }
