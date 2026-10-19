@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T14:16:01.950813Z",
+  "updated_at": "2026-10-19T15:10:49.229279Z",
   "stories": [
     {
-      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-      "score": 453
-    },
-    {
-      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
-      "score": 57
+      "title": "Wine Ported to OpenBSD",
+      "score": 97
     },
     {
       "title": "Linux 7.3 Released",
-      "score": 401
+      "score": 449
     },
     {
       "title": "Timestral: Mistral release time-series foundation models",
-      "score": 206
+      "score": 254
     },
     {
       "title": "Alternatives to Animal Testing Are Finally Taking Off",
-      "score": 89
+      "score": 116
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "score": 113
     }
   ]
 }
