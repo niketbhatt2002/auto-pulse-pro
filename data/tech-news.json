@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T21:16:52.089058Z",
+  "updated_at": "2026-10-19T23:25:08.476519Z",
   "stories": [
     {
       "title": "MiniMax M3.1 Flash",
-      "score": 284
+      "score": 332
     },
     {
       "title": "I built a drone with only one motor [video]",
-      "score": 197
+      "score": 315
     },
     {
       "title": "Wine ported to OpenBSD",
-      "score": 441
+      "score": 478
     },
     {
-      "title": "The reverts will continue until morale improves",
-      "score": 96
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "score": 50
     },
     {
-      "title": "Android apps running native on macOS",
-      "score": 191
+      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
+      "score": 142
     }
   ]
 }
