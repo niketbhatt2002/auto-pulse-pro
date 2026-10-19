@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T22:16:29.244828Z",
+  "updated_at": "2026-10-19T01:00:00.949001Z",
   "repos": [
     {
-      "name": "jhaizhou-ops/d2r-mobile",
-      "stars": 3825
-    },
-    {
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 2729
-    },
-    {
-      "name": "HeyPuter/everything",
-      "stars": 2203
-    },
-    {
-      "name": "deeplethe/solid-glass",
-      "stars": 2015
+      "stars": 2783
     },
     {
       "name": "feder-cr/git-ai",
-      "stars": 1950
+      "stars": 2297
+    },
+    {
+      "name": "HeyPuter/everything",
+      "stars": 2220
+    },
+    {
+      "name": "Gathin23/tv-vibehack",
+      "stars": 1996
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "stars": 1899
     }
   ]
 }

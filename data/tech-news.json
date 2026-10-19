@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-18T22:16:28.231462Z",
+  "updated_at": "2026-10-19T00:59:59.725138Z",
   "stories": [
     {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "score": 77
+      "score": 188
+    },
+    {
+      "title": "William Gibson and the trademarking of cyberspace",
+      "score": 29
     },
     {
       "title": "Someone behind the software",
-      "score": 247
-    },
-    {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "score": 79
-    },
-    {
-      "title": "\"I'm on a war footing\": Terry Tao and the crisis in math",
-      "score": 43
+      "score": 304
     },
     {
       "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "score": 57
+      "score": 148
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "score": 109
     }
   ]
 }
