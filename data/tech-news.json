@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T16:20:31.214329Z",
+  "updated_at": "2026-10-19T16:41:32.272453Z",
   "stories": [
     {
       "title": "Wine Ported to OpenBSD",
-      "score": 210
+      "score": 242
     },
     {
-      "title": "Another day another GitHub incident",
-      "score": 31
+      "title": "CERN and Mistral join forces to accelerate AI for science",
+      "score": 35
     },
     {
       "title": "Timestral: Mistral release time-series foundation models",
-      "score": 326
+      "score": 348
     },
     {
       "title": "Linux 7.3",
-      "score": 501
+      "score": 510
     },
     {
-      "title": "Alternatives to Animal Testing Are Finally Taking Off",
-      "score": 155
+      "title": "Launch HN: Laminar (YC S24) \u2013 We trained a model to catch silent agent failures",
+      "score": 12
     }
   ]
 }
