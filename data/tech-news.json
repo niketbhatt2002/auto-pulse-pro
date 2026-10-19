@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T19:43:01.689876Z",
+  "updated_at": "2026-10-19T21:16:52.089058Z",
   "stories": [
     {
       "title": "MiniMax M3.1 Flash",
-      "score": 209
-    },
-    {
-      "title": "Wine ported to OpenBSD",
-      "score": 396
-    },
-    {
-      "title": "Android apps running native on macOS",
-      "score": 126
+      "score": 284
     },
     {
       "title": "I built a drone with only one motor [video]",
-      "score": 71
+      "score": 197
     },
     {
-      "title": "The obscure trust looming over Anthropic's IPO",
-      "score": 80
+      "title": "Wine ported to OpenBSD",
+      "score": 441
+    },
+    {
+      "title": "The reverts will continue until morale improves",
+      "score": 96
+    },
+    {
+      "title": "Android apps running native on macOS",
+      "score": 191
     }
   ]
 }
