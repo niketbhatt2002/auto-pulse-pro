@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T11:51:17.629652Z",
+  "updated_at": "2026-10-19T14:16:01.950813Z",
   "stories": [
     {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "score": 453
+    },
+    {
+      "title": "Show HN: Qwen3-4B with the AI writing tics trained out",
+      "score": 57
+    },
+    {
       "title": "Linux 7.3 Released",
-      "score": 275
+      "score": 401
     },
     {
       "title": "Timestral: Mistral release time-series foundation models",
-      "score": 43
+      "score": 206
     },
     {
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "score": 19
-    },
-    {
-      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
-      "score": 13
-    },
-    {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "score": 428
+      "title": "Alternatives to Animal Testing Are Finally Taking Off",
+      "score": 89
     }
   ]
 }
