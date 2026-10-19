@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T16:41:32.272453Z",
+  "updated_at": "2026-10-19T17:18:52.806565Z",
   "stories": [
     {
       "title": "Wine Ported to OpenBSD",
-      "score": 242
+      "score": 280
     },
     {
       "title": "CERN and Mistral join forces to accelerate AI for science",
-      "score": 35
+      "score": 114
     },
     {
       "title": "Timestral: Mistral release time-series foundation models",
-      "score": 348
+      "score": 373
+    },
+    {
+      "title": "Ontology-Driven Observability: Building an End-to-End Knowledge Graph at Netflix",
+      "score": 64
     },
     {
       "title": "Linux 7.3",
-      "score": 510
-    },
-    {
-      "title": "Launch HN: Laminar (YC S24) \u2013 We trained a model to catch silent agent failures",
-      "score": 12
+      "score": 534
     }
   ]
 }
