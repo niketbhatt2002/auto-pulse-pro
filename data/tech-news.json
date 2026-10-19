@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T15:10:49.229279Z",
+  "updated_at": "2026-10-19T16:20:31.214329Z",
   "stories": [
     {
       "title": "Wine Ported to OpenBSD",
-      "score": 97
+      "score": 210
     },
     {
-      "title": "Linux 7.3 Released",
-      "score": 449
+      "title": "Another day another GitHub incident",
+      "score": 31
     },
     {
       "title": "Timestral: Mistral release time-series foundation models",
-      "score": 254
+      "score": 326
+    },
+    {
+      "title": "Linux 7.3",
+      "score": 501
     },
     {
       "title": "Alternatives to Animal Testing Are Finally Taking Off",
-      "score": 116
-    },
-    {
-      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
-      "score": 113
+      "score": 155
     }
   ]
 }
