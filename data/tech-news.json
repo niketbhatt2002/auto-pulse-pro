@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T00:59:59.725138Z",
+  "updated_at": "2026-10-19T11:51:17.629652Z",
   "stories": [
     {
+      "title": "Linux 7.3 Released",
+      "score": 275
+    },
+    {
+      "title": "Timestral: Mistral release time-series foundation models",
+      "score": 43
+    },
+    {
+      "title": "Let's Encrypt is adding two additional remote perspectives for domain validation",
+      "score": 19
+    },
+    {
+      "title": "Documents: Police officer gave her Flock login to her ICE agent husband",
+      "score": 13
+    },
+    {
       "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "score": 188
-    },
-    {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "score": 29
-    },
-    {
-      "title": "Someone behind the software",
-      "score": 304
-    },
-    {
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "score": 148
-    },
-    {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "score": 109
+      "score": 428
     }
   ]
 }
