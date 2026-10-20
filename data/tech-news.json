@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T13:11:16.083370Z",
+  "updated_at": "2026-10-20T14:12:17.260621Z",
   "stories": [
     {
       "title": "DeepSeek just open-sourced its inference engine",
-      "score": 879
+      "score": 1147
     },
     {
-      "title": "Demographic \"Doomsday\" Misses the Mark",
-      "score": 20
+      "title": "Apple broke an essential presentation feature of iPads",
+      "score": 103
     },
     {
-      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
-      "score": 378
+      "title": "NixOS is making me less afraid",
+      "score": 52
+    },
+    {
+      "title": "Publish fake stats, get cited in LLMs",
+      "score": 35
     },
     {
       "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "score": 177
-    },
-    {
-      "title": "OpenBSD 8.0",
-      "score": 369
+      "score": 218
     }
   ]
 }
