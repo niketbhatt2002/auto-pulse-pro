@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T20:10:38.255768Z",
+  "updated_at": "2026-10-20T22:59:37.080429Z",
   "stories": [
     {
       "title": "SimCity, but with Permits",
-      "score": 172
-    },
-    {
-      "title": "Voxtral 3",
-      "score": 367
+      "score": 419
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "score": 1976
+      "score": 2074
+    },
+    {
+      "title": "Voxtral 3",
+      "score": 471
+    },
+    {
+      "title": "What shall I teach my son?",
+      "score": 193
     },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "score": 162
-    },
-    {
-      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
-      "score": 58
+      "score": 223
     }
   ]
 }
