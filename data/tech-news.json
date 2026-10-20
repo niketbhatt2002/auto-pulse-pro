@@ -1,25 +1,4 @@
 {
-  "updated_at": "2026-10-20T14:12:17.260621Z",
-  "stories": [
-    {
-      "title": "DeepSeek just open-sourced its inference engine",
-      "score": 1147
-    },
-    {
-      "title": "Apple broke an essential presentation feature of iPads",
-      "score": 103
-    },
-    {
-      "title": "NixOS is making me less afraid",
-      "score": 52
-    },
-    {
-      "title": "Publish fake stats, get cited in LLMs",
-      "score": 35
-    },
-    {
-      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
-      "score": 218
-    }
-  ]
+  "updated_at": "2026-10-20T14:33:40.357979Z",
+  "stories": []
 }
