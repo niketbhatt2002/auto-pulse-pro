@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T23:25:09.498879Z",
+  "updated_at": "2026-10-20T01:39:38.368097Z",
   "repos": [
     {
       "name": "Gathin23/cleanyourtv",
-      "stars": 5085
-    },
-    {
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 3361
+      "stars": 5499
     },
     {
       "name": "feder-cr/git-ai",
-      "stars": 2449
-    },
-    {
-      "name": "HeyPuter/everything",
-      "stars": 2332
+      "stars": 2457
     },
     {
       "name": "ahwootech/BRUTAL",
-      "stars": 1988
+      "stars": 1995
+    },
+    {
+      "name": "chenglou/handwired",
+      "stars": 1814
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "stars": 1781
     }
   ]
 }

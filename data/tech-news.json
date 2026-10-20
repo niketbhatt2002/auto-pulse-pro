@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-19T23:25:08.476519Z",
+  "updated_at": "2026-10-20T01:39:37.250521Z",
   "stories": [
     {
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "score": 36
+    },
+    {
       "title": "MiniMax M3.1 Flash",
-      "score": 332
+      "score": 382
+    },
+    {
+      "title": "France's supermarket fridges were vulnerable online for months",
+      "score": 53
     },
     {
       "title": "I built a drone with only one motor [video]",
-      "score": 315
+      "score": 384
     },
     {
       "title": "Wine ported to OpenBSD",
-      "score": 478
-    },
-    {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "score": 50
-    },
-    {
-      "title": "Putting Linux on my RTX Spark laptop because I don't have a Microsoft account",
-      "score": 142
+      "score": 499
     }
   ]
 }
