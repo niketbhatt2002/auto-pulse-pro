@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T15:32:19.655716Z",
+  "updated_at": "2026-10-20T18:23:32.845814Z",
   "stories": [
     {
-      "title": "DeepSeek just open-sourced its inference engine",
-      "score": 1466
+      "title": "Voxtral 3",
+      "score": 241
+    },
+    {
+      "title": "DeepInfer: High-performance inference framework for DeepSeek models",
+      "score": 1894
     },
     {
       "title": "EMudhra Intermediate CA Compromise",
-      "score": 94
+      "score": 294
+    },
+    {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "score": 78
     },
     {
       "title": "Apple broke an essential presentation feature of iPads",
-      "score": 208
-    },
-    {
-      "title": "Facebook now charging to post more than 2 links a month",
-      "score": 27
-    },
-    {
-      "title": "Ofcom Concedes Defeat in the 4chan Case",
-      "score": 49
+      "score": 327
     }
   ]
 }

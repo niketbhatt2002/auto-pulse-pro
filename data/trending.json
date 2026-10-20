@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T15:32:20.930920Z",
+  "updated_at": "2026-10-20T18:23:34.036597Z",
   "repos": [
     {
-      "name": "Gathin23/cleanyourtv",
-      "stars": 9986
-    },
-    {
       "name": "deepseek-ai/DeepInfer",
-      "stars": 9464
+      "stars": 11026
     },
     {
-      "name": "feder-cr/git-ai",
-      "stars": 3017
+      "name": "Gathin23/cleanyourtv",
+      "stars": 10702
     },
     {
       "name": "ly05010419/MacNativeGames",
-      "stars": 2524
+      "stars": 2615
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "stars": 2539
     },
     {
       "name": "ahwootech/BRUTAL",
-      "stars": 2029
+      "stars": 2039
     }
   ]
 }
