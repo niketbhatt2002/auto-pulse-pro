@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T18:23:34.036597Z",
+  "updated_at": "2026-10-20T20:10:39.670767Z",
   "repos": [
     {
       "name": "deepseek-ai/DeepInfer",
-      "stars": 11026
+      "stars": 11464
     },
     {
       "name": "Gathin23/cleanyourtv",
-      "stars": 10702
+      "stars": 11018
     },
     {
       "name": "ly05010419/MacNativeGames",
-      "stars": 2615
-    },
-    {
-      "name": "feder-cr/git-ai",
-      "stars": 2539
+      "stars": 2671
     },
     {
       "name": "ahwootech/BRUTAL",
-      "stars": 2039
+      "stars": 2044
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "stars": 1907
     }
   ]
 }

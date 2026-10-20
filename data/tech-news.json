@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T18:23:32.845814Z",
+  "updated_at": "2026-10-20T20:10:38.255768Z",
   "stories": [
     {
+      "title": "SimCity, but with Permits",
+      "score": 172
+    },
+    {
       "title": "Voxtral 3",
-      "score": 241
+      "score": 367
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "score": 1894
-    },
-    {
-      "title": "EMudhra Intermediate CA Compromise",
-      "score": 294
+      "score": 1976
     },
     {
       "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "score": 78
+      "score": 162
     },
     {
-      "title": "Apple broke an essential presentation feature of iPads",
-      "score": 327
+      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "score": 58
     }
   ]
 }
