@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T01:39:37.250521Z",
+  "updated_at": "2026-10-20T10:48:26.360275Z",
   "stories": [
     {
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "score": 36
+      "title": "DeepSeek just open-sourced its inference engine",
+      "score": 250
     },
     {
-      "title": "MiniMax M3.1 Flash",
-      "score": 382
+      "title": "UK Defence Startups Are Being Denied Banking Services Under ESG Rules",
+      "score": 55
     },
     {
-      "title": "France's supermarket fridges were vulnerable online for months",
-      "score": 53
+      "title": "Nordwand Mono \u2013 A monospace font for coders and adventurers",
+      "score": 285
     },
     {
-      "title": "I built a drone with only one motor [video]",
-      "score": 384
+      "title": "OpenBSD 8.0",
+      "score": 317
     },
     {
-      "title": "Wine ported to OpenBSD",
-      "score": 499
+      "title": "MicroG: Free-libre re-implementation of Google's proprietary Android user space",
+      "score": 61
     }
   ]
 }
