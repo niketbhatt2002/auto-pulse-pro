@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T11:00:33.869814Z",
+  "updated_at": "2026-10-21T12:39:30.997671Z",
   "stories": [
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 135
-    },
-    {
-      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
-      "score": 238
-    },
-    {
-      "title": "The Future of CSS",
-      "score": 395
-    },
-    {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "score": 958
+      "score": 303
     },
     {
       "title": "Whatever Happened to Fire Escapes",
-      "score": 12
+      "score": 55
+    },
+    {
+      "title": "The Future of CSS",
+      "score": 434
+    },
+    {
+      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
+      "score": 1177
+    },
+    {
+      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
+      "score": 431
     }
   ]
 }
