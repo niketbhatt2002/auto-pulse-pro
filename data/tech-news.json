@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T14:45:07.788063Z",
+  "updated_at": "2026-10-21T15:48:34.876202Z",
   "stories": [
     {
-      "title": "Updated PHP version released to GitHub",
-      "score": 302
-    },
-    {
-      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
-      "score": 248
+      "title": "PHP 8.2.35",
+      "score": 491
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "score": 129
-    },
-    {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 483
+      "score": 289
     },
     {
       "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
-      "score": 42
+      "score": 139
+    },
+    {
+      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
+      "score": 551
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "score": 59
     }
   ]
 }
