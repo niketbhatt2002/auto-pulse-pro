@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T20:23:32.398620Z",
+  "updated_at": "2026-10-21T23:03:19.948311Z",
   "stories": [
     {
-      "title": "Mistral Large 4",
-      "score": 176
+      "title": "Railway Security Disclosure",
+      "score": 140
     },
     {
       "title": "Today's PHP security release, and how we're strengthening security",
-      "score": 438
+      "score": 606
     },
     {
-      "title": "Google's Rust Style Guide",
-      "score": 52
+      "title": "No More Icons in Every Menu by Default",
+      "score": 93
+    },
+    {
+      "title": "GitLab Critical Patch Release",
+      "score": 192
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "score": 315
-    },
-    {
-      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
-      "score": 47
+      "score": 394
     }
   ]
 }
