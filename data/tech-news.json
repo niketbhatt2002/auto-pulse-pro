@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T18:29:38.774695Z",
+  "updated_at": "2026-10-21T20:23:32.398620Z",
   "stories": [
     {
-      "title": "PHP 8.2.35",
-      "score": 818
+      "title": "Mistral Large 4",
+      "score": 176
     },
     {
       "title": "Today's PHP security release, and how we're strengthening security",
-      "score": 275
+      "score": 438
+    },
+    {
+      "title": "Google's Rust Style Guide",
+      "score": 52
     },
     {
       "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "score": 221
+      "score": 315
     },
     {
-      "title": "DuckDB 2.0.0 LTS \u201cCinnamon Teal\u201d",
-      "score": 254
-    },
-    {
-      "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 677
+      "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+      "score": 47
     }
   ]
 }
