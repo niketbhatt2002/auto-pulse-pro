@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T12:39:30.997671Z",
+  "updated_at": "2026-10-21T13:20:44.807158Z",
   "stories": [
     {
+      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
+      "score": 102
+    },
+    {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 303
+      "score": 373
+    },
+    {
+      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
+      "score": 49
     },
     {
       "title": "Whatever Happened to Fire Escapes",
-      "score": 55
+      "score": 74
     },
     {
       "title": "The Future of CSS",
-      "score": 434
-    },
-    {
-      "title": "Upcoming critical PHP security release (CVE-2026-109618 / -109619)",
-      "score": 1177
-    },
-    {
-      "title": "The 1.5\u00b0C goal of the Paris Agreement is no longer viable",
-      "score": 431
+      "score": 459
     }
   ]
 }
