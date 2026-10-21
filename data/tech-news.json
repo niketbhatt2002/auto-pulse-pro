@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T14:24:36.436005Z",
+  "updated_at": "2026-10-21T14:45:07.788063Z",
   "stories": [
     {
       "title": "Updated PHP version released to GitHub",
-      "score": 214
+      "score": 302
     },
     {
       "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
-      "score": 181
+      "score": 248
     },
     {
       "title": "PHP2Shell: AI uncovers critical RCE in PHP",
-      "score": 71
+      "score": 129
     },
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 458
+      "score": 483
     },
     {
-      "title": "Most advice is right for the person giving it",
-      "score": 46
+      "title": "DuckDB 2.0.0 LTS \"Cinnamon Teal\"",
+      "score": 42
     }
   ]
 }
