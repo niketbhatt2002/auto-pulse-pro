@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T13:20:44.807158Z",
+  "updated_at": "2026-10-21T14:24:36.436005Z",
   "stories": [
     {
-      "title": "Dutch National Cyber Security Center is Offline because it uses PHP",
-      "score": 102
+      "title": "Updated PHP version released to GitHub",
+      "score": 214
+    },
+    {
+      "title": "PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 out",
+      "score": 181
+    },
+    {
+      "title": "PHP2Shell: AI uncovers critical RCE in PHP",
+      "score": 71
     },
     {
       "title": "Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds",
-      "score": 373
+      "score": 458
     },
     {
-      "title": "Qwen3-Coder writes less secure code when told it's for a US persona",
-      "score": 49
-    },
-    {
-      "title": "Whatever Happened to Fire Escapes",
-      "score": 74
-    },
-    {
-      "title": "The Future of CSS",
-      "score": 459
+      "title": "Most advice is right for the person giving it",
+      "score": 46
     }
   ]
 }
