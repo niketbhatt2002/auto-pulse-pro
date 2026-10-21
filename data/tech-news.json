@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-20T22:59:37.080429Z",
+  "updated_at": "2026-10-21T01:25:15.920401Z",
   "stories": [
     {
       "title": "SimCity, but with Permits",
-      "score": 419
+      "score": 542
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "score": 86
     },
     {
       "title": "DeepInfer: High-performance inference framework for DeepSeek models",
-      "score": 2074
+      "score": 2133
     },
     {
       "title": "Voxtral 3",
-      "score": 471
+      "score": 522
     },
     {
-      "title": "What shall I teach my son?",
-      "score": 193
-    },
-    {
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "score": 223
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "score": 55
     }
   ]
 }

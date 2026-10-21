@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-10-20T22:59:37.829409Z",
-  "repos": []
+  "updated_at": "2026-10-21T01:25:17.249602Z",
+  "repos": [
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "stars": 12653
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "stars": 12044
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "stars": 2852
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "stars": 1954
+    },
+    {
+      "name": "chenglou/handwired",
+      "stars": 1853
+    }
+  ]
 }
