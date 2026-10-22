@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T14:25:51.314725Z",
+  "updated_at": "2026-10-22T14:45:20.732791Z",
   "stories": [
     {
-      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "score": 317
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
+      "score": 162
     },
     {
-      "title": "What Is Gridifcation",
-      "score": 132
+      "title": "What's Getting Pwned",
+      "score": 26
     },
     {
       "title": "Crystal 1.22.0 Is Released",
-      "score": 29
+      "score": 41
+    },
+    {
+      "title": "What Is Gridifcation",
+      "score": 151
     },
     {
       "title": "Jailbreaking the Switch 2",
-      "score": 330
-    },
-    {
-      "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
-      "score": 94
+      "score": 349
     }
   ]
 }
