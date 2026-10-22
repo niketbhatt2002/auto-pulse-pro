@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T12:43:30.866236Z",
+  "updated_at": "2026-10-22T13:21:03.637219Z",
   "stories": [
     {
       "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "score": 208
-    },
-    {
-      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "score": 77
+      "score": 247
     },
     {
       "title": "Jailbreaking the Switch 2",
-      "score": 165
+      "score": 240
     },
     {
       "title": "What Is Gridifcation",
-      "score": 16
+      "score": 58
+    },
+    {
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "score": 97
     },
     {
       "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "score": 315
+      "score": 326
     }
   ]
 }
