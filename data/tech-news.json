@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T18:24:54.261851Z",
+  "updated_at": "2026-10-22T20:20:05.703046Z",
   "stories": [
     {
       "title": "Quad9 (DNS Resolver) to Exit France",
-      "score": 456
+      "score": 640
     },
     {
       "title": "eMudhra to exit global SSL/TLS certificate business",
-      "score": 653
+      "score": 802
+    },
+    {
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "score": 136
     },
     {
       "title": "Getting ready to operate GNU Taler in Germany",
-      "score": 71
+      "score": 129
     },
     {
       "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
-      "score": 138
-    },
-    {
-      "title": "Nvidia OpenShell",
-      "score": 25
+      "score": 215
     }
   ]
 }
