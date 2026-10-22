@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T13:21:03.637219Z",
+  "updated_at": "2026-10-22T14:25:51.314725Z",
   "stories": [
     {
       "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
-      "score": 247
-    },
-    {
-      "title": "Jailbreaking the Switch 2",
-      "score": 240
+      "score": 317
     },
     {
       "title": "What Is Gridifcation",
-      "score": 58
+      "score": 132
     },
     {
-      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
-      "score": 97
+      "title": "Crystal 1.22.0 Is Released",
+      "score": 29
     },
     {
-      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
-      "score": 326
+      "title": "Jailbreaking the Switch 2",
+      "score": 330
+    },
+    {
+      "title": "eMudhra to Exit Global SSL/TLS Certificate Business;",
+      "score": 94
     }
   ]
 }
