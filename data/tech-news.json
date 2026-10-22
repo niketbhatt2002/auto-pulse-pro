@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T15:46:25.955688Z",
+  "updated_at": "2026-10-22T18:24:54.261851Z",
   "stories": [
     {
-      "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
-      "score": 344
-    },
-    {
       "title": "Quad9 (DNS Resolver) to Exit France",
-      "score": 111
+      "score": 456
     },
     {
-      "title": "Crystal 1.22.0",
-      "score": 83
+      "title": "eMudhra to exit global SSL/TLS certificate business",
+      "score": 653
     },
     {
-      "title": "What's Getting Pwned",
-      "score": 96
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "score": 71
     },
     {
-      "title": "What Is Gridifcation",
-      "score": 201
+      "title": "Show HN: Run full iOS 16.5 firmware on Android Devices",
+      "score": 138
+    },
+    {
+      "title": "Nvidia OpenShell",
+      "score": 25
     }
   ]
 }
