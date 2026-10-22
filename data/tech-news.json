@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T14:45:20.732791Z",
+  "updated_at": "2026-10-22T15:46:25.955688Z",
   "stories": [
     {
       "title": "eMudhra to Exit Global SSL/TLS Certificate Business",
-      "score": 162
+      "score": 344
+    },
+    {
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "score": 111
+    },
+    {
+      "title": "Crystal 1.22.0",
+      "score": 83
     },
     {
       "title": "What's Getting Pwned",
-      "score": 26
-    },
-    {
-      "title": "Crystal 1.22.0 Is Released",
-      "score": 41
+      "score": 96
     },
     {
       "title": "What Is Gridifcation",
-      "score": 151
-    },
-    {
-      "title": "Jailbreaking the Switch 2",
-      "score": 349
+      "score": 201
     }
   ]
 }
