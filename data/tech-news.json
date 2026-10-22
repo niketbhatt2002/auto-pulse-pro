@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-21T23:03:19.948311Z",
+  "updated_at": "2026-10-22T01:23:14.296379Z",
   "stories": [
     {
+      "title": "mitmproxy adds --emudhra option",
+      "score": 133
+    },
+    {
       "title": "Railway Security Disclosure",
-      "score": 140
+      "score": 295
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "score": 125
     },
     {
       "title": "Today's PHP security release, and how we're strengthening security",
-      "score": 606
-    },
-    {
-      "title": "No More Icons in Every Menu by Default",
-      "score": 93
+      "score": 675
     },
     {
       "title": "GitLab Critical Patch Release",
-      "score": 192
-    },
-    {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "score": 394
+      "score": 245
     }
   ]
 }
