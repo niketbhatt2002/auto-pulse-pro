@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T01:23:14.296379Z",
+  "updated_at": "2026-10-22T10:59:17.938735Z",
   "stories": [
     {
-      "title": "mitmproxy adds --emudhra option",
-      "score": 133
+      "title": "CVE-2026-111943: Compromised Intermediate Certificate Authority",
+      "score": 127
     },
     {
-      "title": "Railway Security Disclosure",
-      "score": 295
+      "title": "Faster than earcut: triangulating 3.7M map polygons in 489 ms",
+      "score": 42
     },
     {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "score": 125
+      "title": "WorldTUI: I trained a 360M model to pretend to be a terminal",
+      "score": 240
     },
     {
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "score": 675
+      "title": "The recently proposed o(n log n) integer multiplication algorithm [pdf]",
+      "score": 213
     },
     {
-      "title": "GitLab Critical Patch Release",
-      "score": 245
+      "title": "Achieving AI-style reasoning without an LLM",
+      "score": 36
     }
   ]
 }
