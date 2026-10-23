@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T12:21:28.837688Z",
+  "updated_at": "2026-10-23T12:59:42.026053Z",
   "stories": [
     {
-      "title": "Is this the new cyber normal?",
-      "score": 57
-    },
-    {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "score": 552
+      "score": 608
     },
     {
-      "title": "Job Loss and Cortisone Mania",
-      "score": 28
-    },
-    {
-      "title": "Docker is weird",
-      "score": 574
+      "title": "Is this the new cyber normal?",
+      "score": 93
     },
     {
       "title": "Swedish government offices to ban ChatGPT and Claude",
-      "score": 30
+      "score": 88
+    },
+    {
+      "title": "Job Loss and Cortisone Mania",
+      "score": 43
+    },
+    {
+      "title": "Docker is weird",
+      "score": 591
     }
   ]
 }
