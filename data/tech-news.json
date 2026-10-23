@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T15:37:13.351789Z",
+  "updated_at": "2026-10-23T18:10:50.355518Z",
   "stories": [
     {
-      "title": "OpenSSL 4.1.0",
-      "score": 127
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "score": 364
+    },
+    {
+      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
+      "score": 217
     },
     {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "score": 816
+      "score": 986
     },
     {
-      "title": "Swedish government offices to ban ChatGPT and Claude",
-      "score": 279
+      "title": "UUIDv7 doesn't have the properties you think it does",
+      "score": 31
     },
     {
-      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
-      "score": 243
-    },
-    {
-      "title": "Docker is weird",
-      "score": 694
+      "title": "The Real Kevin Bacon",
+      "score": 79
     }
   ]
 }
