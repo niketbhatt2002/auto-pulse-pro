@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T20:07:44.335693Z",
+  "updated_at": "2026-10-23T22:56:58.006685Z",
   "stories": [
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "score": 444
-    },
-    {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "score": 529
+      "score": 621
     },
     {
       "title": "Apple Music 404 Not Found",
-      "score": 215
+      "score": 468
     },
     {
-      "title": "Kimi K3.1 scores 55 on Artificial Analysis, placed on the Pareto line",
-      "score": 83
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "score": 147
     },
     {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "score": 1070
+      "title": "Today, we hacked what we'd set out to hack: the iPhone",
+      "score": 677
+    },
+    {
+      "title": "CVE Tracker",
+      "score": 40
     }
   ]
 }
