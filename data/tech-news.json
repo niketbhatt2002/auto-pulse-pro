@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T10:52:39.603379Z",
+  "updated_at": "2026-10-23T12:21:28.837688Z",
   "stories": [
     {
+      "title": "Is this the new cyber normal?",
+      "score": 57
+    },
+    {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "score": 447
+      "score": 552
+    },
+    {
+      "title": "Job Loss and Cortisone Mania",
+      "score": 28
     },
     {
       "title": "Docker is weird",
-      "score": 518
+      "score": 574
     },
     {
-      "title": "France needs to read my paper",
-      "score": 42
-    },
-    {
-      "title": "How does Fable 5.1 hide messages in images?",
-      "score": 97
-    },
-    {
-      "title": "The alien space of science: Coherent but cognitively unavailable directions",
-      "score": 76
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "score": 30
     }
   ]
 }
