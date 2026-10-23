@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-22T23:02:00.688539Z",
+  "updated_at": "2026-10-23T01:21:38.567891Z",
   "repos": [
     {
       "name": "Gathin23/cleanyourtv",
-      "stars": 23843
-    },
-    {
-      "name": "deepseek-ai/DeepInfer",
-      "stars": 19825
+      "stars": 24170
     },
     {
       "name": "ly05010419/MacNativeGames",
-      "stars": 4455
+      "stars": 4485
     },
     {
       "name": "simbasjungles/free-my-tv",
-      "stars": 3403
+      "stars": 3449
     },
     {
       "name": "pengchujin/aerial-tv",
-      "stars": 3042
+      "stars": 3120
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "stars": 2205
     }
   ]
 }
