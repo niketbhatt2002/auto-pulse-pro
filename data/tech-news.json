@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T01:21:37.322923Z",
+  "updated_at": "2026-10-23T10:52:39.603379Z",
   "stories": [
     {
+      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
+      "score": 447
+    },
+    {
       "title": "Docker is weird",
-      "score": 74
+      "score": 518
     },
     {
-      "title": "Quad9 (DNS Resolver) to Exit France",
-      "score": 991
+      "title": "France needs to read my paper",
+      "score": 42
     },
     {
-      "title": "LLMs are making formal software verification feasible at a much larger scale",
-      "score": 89
+      "title": "How does Fable 5.1 hide messages in images?",
+      "score": 97
     },
     {
-      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
-      "score": 293
-    },
-    {
-      "title": "Woman faces six years in prison over Cash App account she never opened",
-      "score": 488
+      "title": "The alien space of science: Coherent but cognitively unavailable directions",
+      "score": 76
     }
   ]
 }
