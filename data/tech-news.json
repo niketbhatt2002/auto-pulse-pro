@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T14:31:42.696348Z",
+  "updated_at": "2026-10-23T15:37:13.351789Z",
   "stories": [
     {
-      "title": "Investor-owned utilities charge 23% more for electricity than public providers",
-      "score": 175
-    },
-    {
       "title": "OpenSSL 4.1.0",
-      "score": 77
+      "score": 127
     },
     {
       "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "score": 735
+      "score": 816
     },
     {
-      "title": "Phone Is About to Stop Being Yours: 70 Days Until Lockdown",
-      "score": 258
+      "title": "Swedish government offices to ban ChatGPT and Claude",
+      "score": 279
     },
     {
-      "title": "Shitter \u2013 A Nitter Fork",
-      "score": 70
+      "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "score": 243
+    },
+    {
+      "title": "Docker is weird",
+      "score": 694
     }
   ]
 }
