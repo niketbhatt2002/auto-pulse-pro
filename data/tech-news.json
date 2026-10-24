@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-24T19:06:41.554705Z",
+  "updated_at": "2026-10-24T22:17:20.571809Z",
   "stories": [
     {
+      "title": "Show HN: Steal My Bitcoin",
+      "score": 195
+    },
+    {
+      "title": "The Goose Programming Language",
+      "score": 123
+    },
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "score": 71
+    },
+    {
       "title": "Roku developer repositories moved from GitHub to GitLab",
-      "score": 161
+      "score": 220
     },
     {
       "title": "Dream-1",
-      "score": 32
-    },
-    {
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "score": 57
-    },
-    {
-      "title": "FreeDNS",
-      "score": 170
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "score": 59
+      "score": 129
     }
   ]
 }
