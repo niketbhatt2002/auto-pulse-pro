@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-24T14:13:55.151190Z",
+  "updated_at": "2026-10-24T17:15:56.609971Z",
   "stories": [
     {
-      "title": "I Don't Understand Quantum Physics (2018)",
-      "score": 150
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "score": 85
+    },
+    {
+      "title": "FreeDNS",
+      "score": 116
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "score": 16
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "score": 28
     },
     {
       "title": "OBS Studio 33",
-      "score": 272
-    },
-    {
-      "title": "One Must Fall 2097 Remastered",
-      "score": 5
-    },
-    {
-      "title": "Around a dozen banking apps began specifically permitting GrapheneOS",
-      "score": 309
-    },
-    {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "score": 978
+      "score": 360
     }
   ]
 }
