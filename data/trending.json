@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-24T01:27:16.671118Z",
+  "updated_at": "2026-10-24T10:07:09.446794Z",
   "repos": [
     {
-      "name": "simbasjungles/free-my-tv",
-      "stars": 3967
+      "name": "pengchujin/aerial-tv",
+      "stars": 4108
     },
     {
-      "name": "pengchujin/aerial-tv",
-      "stars": 3843
+      "name": "simbasjungles/free-my-tv",
+      "stars": 4068
     },
     {
       "name": "xiaoyang111222/cn-math-taxonomy",
-      "stars": 2827
+      "stars": 2976
     },
     {
       "name": "JoasASantos/REA-Prompts",
-      "stars": 1746
+      "stars": 1853
     },
     {
-      "name": "ikow/php2shell-poc",
-      "stars": 1696
+      "name": "EthanArbuckle/fairplay-decrypt",
+      "stars": 1781
     }
   ]
 }
