@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T22:56:59.000337Z",
+  "updated_at": "2026-10-24T01:27:16.671118Z",
   "repos": [
     {
-      "name": "Gathin23/cleanyourtv",
-      "stars": 27789
-    },
-    {
-      "name": "ly05010419/MacNativeGames",
-      "stars": 4874
-    },
-    {
       "name": "simbasjungles/free-my-tv",
-      "stars": 3933
+      "stars": 3967
     },
     {
       "name": "pengchujin/aerial-tv",
-      "stars": 3799
+      "stars": 3843
     },
     {
       "name": "xiaoyang111222/cn-math-taxonomy",
-      "stars": 2780
+      "stars": 2827
+    },
+    {
+      "name": "JoasASantos/REA-Prompts",
+      "stars": 1746
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "stars": 1696
     }
   ]
 }

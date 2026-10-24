@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-23T22:56:58.006685Z",
+  "updated_at": "2026-10-24T01:27:15.442869Z",
   "stories": [
     {
       "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "score": 621
+      "score": 709
+    },
+    {
+      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
+      "score": 61
     },
     {
       "title": "Apple Music 404 Not Found",
-      "score": 468
-    },
-    {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "score": 147
-    },
-    {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "score": 677
+      "score": 582
     },
     {
       "title": "CVE Tracker",
-      "score": 40
+      "score": 96
+    },
+    {
+      "title": "Dessa: the most authentic full-duplex speech model ever built",
+      "score": 222
     }
   ]
 }
