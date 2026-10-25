@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-25T19:21:18.273407Z",
+  "updated_at": "2026-10-25T22:21:35.353174Z",
   "stories": [
     {
       "title": "Dolly Parton's Imagination Library",
-      "score": 88
+      "score": 263
     },
     {
-      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
-      "score": 179
+      "title": "What goes into making an animated film?",
+      "score": 35
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "score": 65
+    },
+    {
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "score": 42
     },
     {
       "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
-      "score": 177
-    },
-    {
-      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
-      "score": 121
-    },
-    {
-      "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-      "score": 23
+      "score": 332
     }
   ]
 }
