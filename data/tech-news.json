@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-25T14:00:11.619935Z",
+  "updated_at": "2026-10-25T14:46:15.252062Z",
   "stories": [
     {
       "title": "Tool book of a Nuremberg knight from 1505",
-      "score": 32
-    },
-    {
-      "title": "Challenge Is Gone",
-      "score": 31
-    },
-    {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "score": 80
+      "score": 64
     },
     {
       "title": "Show HN: Farol \u2013 a risk map of a pull request for the person who approves it",
-      "score": 5
+      "score": 18
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "score": 91
     },
     {
       "title": "We should be more ambitious with the software we build",
-      "score": 530
+      "score": 550
+    },
+    {
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "score": 247
     }
   ]
 }

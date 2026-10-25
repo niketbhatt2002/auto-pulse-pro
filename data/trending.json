@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-25T14:00:12.800610Z",
+  "updated_at": "2026-10-25T14:46:16.516262Z",
   "repos": [
     {
       "name": "pengchujin/aerial-tv",
-      "stars": 4824
+      "stars": 4870
     },
     {
       "name": "simbasjungles/free-my-tv",
-      "stars": 4440
+      "stars": 4454
     },
     {
       "name": "JoasASantos/REA-Prompts",
-      "stars": 2306
-    },
-    {
-      "name": "EthanArbuckle/fairplay-decrypt",
-      "stars": 2051
+      "stars": 2321
     },
     {
       "name": "JustAResearcher/gpu-unlock-ada",
-      "stars": 2032
+      "stars": 2119
+    },
+    {
+      "name": "EthanArbuckle/fairplay-decrypt",
+      "stars": 2055
     }
   ]
 }
