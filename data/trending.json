@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-25T00:57:25.338525Z",
+  "updated_at": "2026-10-25T10:32:26.095662Z",
   "repos": [
     {
       "name": "pengchujin/aerial-tv",
-      "stars": 4371
+      "stars": 4670
     },
     {
       "name": "simbasjungles/free-my-tv",
-      "stars": 4299
+      "stars": 4392
     },
     {
       "name": "JoasASantos/REA-Prompts",
-      "stars": 2092
+      "stars": 2262
     },
     {
       "name": "EthanArbuckle/fairplay-decrypt",
-      "stars": 1960
+      "stars": 2035
     },
     {
-      "name": "ikow/php2shell-poc",
-      "stars": 1754
+      "name": "xevrion/hatchzip",
+      "stars": 1831
     }
   ]
 }
