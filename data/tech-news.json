@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-25T10:32:25.079131Z",
+  "updated_at": "2026-10-25T12:17:25.735487Z",
   "stories": [
     {
       "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "score": 142
+      "score": 268
     },
     {
       "title": "We should be more ambitious with the software we build",
-      "score": 444
+      "score": 483
+    },
+    {
+      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "score": 23
     },
     {
       "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "score": 178
+      "score": 212
     },
     {
-      "title": "How Japanese Dried Bonito Is Made",
-      "score": 46
-    },
-    {
-      "title": "Online censorship is crushing indie webcomics",
-      "score": 50
+      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "score": 61
     }
   ]
 }
