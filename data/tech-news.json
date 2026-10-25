@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-25T17:30:30.579168Z",
+  "updated_at": "2026-10-25T19:21:18.273407Z",
   "stories": [
     {
-      "title": "Sabre Wulf Remastered",
-      "score": 8
+      "title": "Dolly Parton's Imagination Library",
+      "score": 88
     },
     {
-      "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "score": 161
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "score": 179
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "score": 177
+    },
+    {
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "score": 121
     },
     {
       "title": "VCF Southwest 2026, but Edited on Silicon Graphics for '90s TV [video]",
-      "score": 9
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "score": 621
-    },
-    {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "score": 303
+      "score": 23
     }
   ]
 }
