@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-25T13:37:47.366744Z",
+  "updated_at": "2026-10-25T14:00:11.619935Z",
   "stories": [
     {
-      "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-      "score": 386
+      "title": "Tool book of a Nuremberg knight from 1505",
+      "score": 32
+    },
+    {
+      "title": "Challenge Is Gone",
+      "score": 31
     },
     {
       "title": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "score": 68
+      "score": 80
     },
     {
-      "title": "Tool book of a Nuremberg knight from 1505",
-      "score": 14
+      "title": "Show HN: Farol \u2013 a risk map of a pull request for the person who approves it",
+      "score": 5
     },
     {
       "title": "We should be more ambitious with the software we build",
-      "score": 522
-    },
-    {
-      "title": "Samsung running a TensorFlow lite model on 960x540 image to track you",
-      "score": 126
+      "score": 530
     }
   ]
 }
