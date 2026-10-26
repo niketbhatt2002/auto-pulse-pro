@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-26T19:47:37.122760Z",
+  "updated_at": "2026-10-26T21:14:17.639769Z",
   "stories": [
     {
-      "title": "Microsoft Announces Type Server Protocol, Extension of Language Server Protocol",
-      "score": 83
+      "title": "Type Server Protocol",
+      "score": 135
     },
     {
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "score": 391
+      "score": 462
     },
     {
       "title": "CSS-Tricks has a new owner",
-      "score": 258
+      "score": 308
     },
     {
       "title": "Oldest GUI application that still runs on Windows 11",
-      "score": 70
+      "score": 167
     },
     {
-      "title": "GPT-6.1 Terra",
-      "score": 252
+      "title": "Nietzschian Debugger",
+      "score": 93
     }
   ]
 }
