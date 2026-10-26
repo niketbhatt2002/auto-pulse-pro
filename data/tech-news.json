@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-26T13:48:06.055327Z",
+  "updated_at": "2026-10-26T14:43:57.924157Z",
   "stories": [
     {
-      "title": "Switzerland. Block by block. At 1:1 scale",
-      "score": 290
+      "title": "The new iPad mini",
+      "score": 56
+    },
+    {
+      "title": "OLED iPad Mini",
+      "score": 80
     },
     {
       "title": "Fixing Tool-Call Accuracy in vLLM",
-      "score": 18
+      "score": 50
+    },
+    {
+      "title": "Switzerland. Block by block. At 1:1 scale",
+      "score": 332
     },
     {
       "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "score": 198
-    },
-    {
-      "title": "Tasks as Code: Move Your Tickets into the Repository",
-      "score": 26
-    },
-    {
-      "title": "One of the Greatest Inventions in the History of Human Transport",
-      "score": 31
+      "score": 242
     }
   ]
 }
