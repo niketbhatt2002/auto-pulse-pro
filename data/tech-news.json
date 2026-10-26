@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-26T21:14:17.639769Z",
+  "updated_at": "2026-10-26T23:37:27.808872Z",
   "stories": [
     {
-      "title": "Type Server Protocol",
-      "score": 135
+      "title": "Working with academic communities to build scientific understanding",
+      "score": 211
+    },
+    {
+      "title": "CorridorKey 2.0",
+      "score": 141
+    },
+    {
+      "title": "The Exponential Time Hypothesis Is False [pdf]",
+      "score": 86
+    },
+    {
+      "title": "Just Imagining a Workout Can Make You Stronger",
+      "score": 20
     },
     {
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "score": 462
-    },
-    {
-      "title": "CSS-Tricks has a new owner",
-      "score": 308
-    },
-    {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "score": 167
-    },
-    {
-      "title": "Nietzschian Debugger",
-      "score": 93
+      "score": 514
     }
   ]
 }
