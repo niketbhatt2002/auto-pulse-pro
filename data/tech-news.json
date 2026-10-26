@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-26T15:59:38.241975Z",
+  "updated_at": "2026-10-26T16:21:49.689847Z",
   "stories": [
     {
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "score": 33
-    },
-    {
-      "title": "Fixing Tool-Call Accuracy in vLLM",
       "score": 93
     },
     {
+      "title": "Anthropic S-1",
+      "score": 818
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "score": 106
+    },
+    {
       "title": "Pharo 14",
-      "score": 89
+      "score": 105
     },
     {
       "title": "One of the Greatest Inventions in the History of Human Transport",
-      "score": 130
-    },
-    {
-      "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "score": 323
+      "score": 146
     }
   ]
 }
