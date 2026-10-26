@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-26T12:05:38.054818Z",
+  "updated_at": "2026-10-26T13:48:07.571078Z",
   "repos": [
     {
       "name": "pengchujin/aerial-tv",
-      "stars": 5785
+      "stars": 5865
     },
     {
       "name": "JustAResearcher/gpu-unlock-ada",
-      "stars": 3486
+      "stars": 3572
     },
     {
       "name": "wesbos/3d-model-anything",
-      "stars": 2018
+      "stars": 2021
     },
     {
       "name": "xevrion/hatchzip",
-      "stars": 2003
+      "stars": 2011
     },
     {
       "name": "Jakeschincariol/day-trader-skill",
-      "stars": 1863
+      "stars": 1893
     }
   ]
 }

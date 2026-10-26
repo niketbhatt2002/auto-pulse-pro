@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-26T12:05:37.312295Z",
+  "updated_at": "2026-10-26T13:48:06.055327Z",
   "stories": [
     {
       "title": "Switzerland. Block by block. At 1:1 scale",
-      "score": 199
+      "score": 290
+    },
+    {
+      "title": "Fixing Tool-Call Accuracy in vLLM",
+      "score": 18
     },
     {
       "title": "Birdwatching rewires the brain and slows cognitive decline",
-      "score": 103
+      "score": 198
     },
     {
-      "title": "Show HN: TitleArt \u2013 Make text like it's 1997",
-      "score": 272
+      "title": "Tasks as Code: Move Your Tickets into the Repository",
+      "score": 26
     },
     {
-      "title": "Websites Should Be Printable",
-      "score": 9
-    },
-    {
-      "title": "Behind the scenes at the NeXT Computer office",
-      "score": 152
+      "title": "One of the Greatest Inventions in the History of Human Transport",
+      "score": 31
     }
   ]
 }
