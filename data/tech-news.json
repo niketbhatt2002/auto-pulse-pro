@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-26T16:21:49.689847Z",
+  "updated_at": "2026-10-26T17:06:33.558700Z",
   "stories": [
     {
       "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "score": 93
+      "score": 186
+    },
+    {
+      "title": "CSS-Tricks has a new owner",
+      "score": 74
     },
     {
       "title": "Anthropic S-1",
-      "score": 818
+      "score": 948
     },
     {
-      "title": "Fixing Tool-Call Accuracy in vLLM",
-      "score": 106
+      "title": "SIMD-accelerated computer vision on a $2 microcontroller",
+      "score": 48
     },
     {
       "title": "Pharo 14",
-      "score": 105
-    },
-    {
-      "title": "One of the Greatest Inventions in the History of Human Transport",
-      "score": 146
+      "score": 129
     }
   ]
 }
