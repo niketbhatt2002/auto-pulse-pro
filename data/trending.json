@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-27T15:36:28.542680Z",
+  "updated_at": "2026-10-27T16:10:33.686870Z",
   "repos": [
     {
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "stars": 4175
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "stars": 3066
+    },
+    {
       "name": "designfuchen/word-atlas",
-      "stars": 2359
+      "stars": 2377
     },
     {
-      "name": "t3dotgg/tstack",
-      "stars": 1852
+      "name": "wesbos/3d-model-anything",
+      "stars": 2173
     },
     {
-      "name": "openai/php2shell-checker",
-      "stars": 1436
-    },
-    {
-      "name": "eness/php2shell-CVE-2026-109618-CVE-2026-109619-PoC",
-      "stars": 1027
-    },
-    {
-      "name": "surendrapandar/minilytics",
-      "stars": 676
+      "name": "xevrion/hatchzip",
+      "stars": 2134
     }
   ]
 }
