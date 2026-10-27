@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-27T21:01:13.928784Z",
+  "updated_at": "2026-10-27T23:36:22.899920Z",
   "stories": [
     {
       "title": "Genie 4",
-      "score": 531
+      "score": 656
     },
     {
-      "title": "Ghostty 1.4.0",
-      "score": 457
+      "title": "Ghostty 1.4",
+      "score": 655
     },
     {
       "title": "Tailscale SSH: Investigation and remediation update",
-      "score": 68
+      "score": 154
     },
     {
       "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "score": 46
+      "score": 135
     },
     {
-      "title": "New 14\u2011inch MacBook Pro with M6",
-      "score": 183
+      "title": "Early progress on accelerating drug development with Claude",
+      "score": 77
     }
   ]
 }
