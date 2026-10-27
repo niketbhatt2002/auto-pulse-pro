@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-27T15:14:02.070557Z",
+  "updated_at": "2026-10-27T15:36:26.361487Z",
   "stories": [
     {
       "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
-      "score": 82
+      "score": 96
     },
     {
       "title": "Python's experimental JIT to be removed",
-      "score": 200
-    },
-    {
-      "title": "AI promised less work. I've never worked more",
-      "score": 377
+      "score": 218
     },
     {
       "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "score": 185
+      "score": 209
+    },
+    {
+      "title": "AI promised less work. I've never worked more",
+      "score": 425
     },
     {
       "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
-      "score": 47
+      "score": 64
     }
   ]
 }
