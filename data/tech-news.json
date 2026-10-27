@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-27T13:50:45.967974Z",
+  "updated_at": "2026-10-27T15:14:02.070557Z",
   "stories": [
     {
-      "title": "Roblox downloaded 145GB models from us (including adult content) without asking",
-      "score": 282
+      "title": "PHP2Shell: Exploitation Attempts and Remediation Trends",
+      "score": 82
     },
     {
       "title": "Python's experimental JIT to be removed",
-      "score": 118
-    },
-    {
-      "title": "Wikipedia's Cleanup of AI-Generated Content",
-      "score": 113
+      "score": 200
     },
     {
       "title": "AI promised less work. I've never worked more",
-      "score": 198
+      "score": 377
     },
     {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "score": 1004
+      "title": "Wikipedia's Cleanup of AI-Generated Content",
+      "score": 185
+    },
+    {
+      "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?",
+      "score": 47
     }
   ]
 }
