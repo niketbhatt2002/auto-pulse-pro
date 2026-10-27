@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-27T19:17:00.829760Z",
+  "updated_at": "2026-10-27T21:01:14.883554Z",
   "repos": [
     {
       "name": "JustAResearcher/gpu-unlock-ada",
-      "stars": 4219
+      "stars": 4236
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
-      "stars": 3144
+      "stars": 3160
     },
     {
       "name": "designfuchen/word-atlas",
-      "stars": 2426
+      "stars": 2433
     },
     {
       "name": "wesbos/3d-model-anything",
-      "stars": 2190
+      "stars": 2200
     },
     {
       "name": "xevrion/hatchzip",
-      "stars": 2148
+      "stars": 2156
     }
   ]
 }

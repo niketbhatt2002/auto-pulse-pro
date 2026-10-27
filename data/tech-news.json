@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-27T19:16:59.425335Z",
+  "updated_at": "2026-10-27T21:01:13.928784Z",
   "stories": [
     {
       "title": "Genie 4",
-      "score": 397
+      "score": 531
     },
     {
       "title": "Ghostty 1.4.0",
-      "score": 286
+      "score": 457
     },
     {
-      "title": "Police Are Using AI to Pull over Drivers for 'Suspicious' Behavior",
-      "score": 226
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "score": 68
     },
     {
-      "title": "New iMac with M6",
-      "score": 220
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "score": 46
     },
     {
-      "title": "Python's experimental JIT to be removed",
-      "score": 349
+      "title": "New 14\u2011inch MacBook Pro with M6",
+      "score": 183
     }
   ]
 }
