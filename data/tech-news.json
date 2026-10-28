@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-28T19:23:27.344170Z",
+  "updated_at": "2026-10-28T21:23:23.958340Z",
   "stories": [
     {
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "score": 423
+    },
+    {
       "title": "Gemini 4 Carbon",
-      "score": 474
+      "score": 637
     },
     {
       "title": "CNC Stone Carving",
-      "score": 279
-    },
-    {
-      "title": "Why Is This Fingerprinting Script Creating Bioweapons?",
-      "score": 114
-    },
-    {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "score": 294
+      "score": 334
     },
     {
       "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "score": 107
+      "score": 154
+    },
+    {
+      "title": "MacBook Pro with PROLED XDR Display and Touch",
+      "score": 410
     }
   ]
 }
