@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-28T21:23:23.958340Z",
+  "updated_at": "2026-10-28T23:55:06.504198Z",
   "stories": [
     {
       "title": "Why is this fingerprinting script creating bioweapons?",
-      "score": 423
-    },
-    {
-      "title": "Gemini 4 Carbon",
-      "score": 637
+      "score": 718
     },
     {
       "title": "CNC Stone Carving",
-      "score": 334
+      "score": 384
     },
     {
-      "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "score": 154
+      "title": "Gemini 4 Carbon",
+      "score": 759
     },
     {
-      "title": "MacBook Pro with PROLED XDR Display and Touch",
-      "score": 410
+      "title": "Why Birds Can Fly over Mount Everest",
+      "score": 36
+    },
+    {
+      "title": "The case of the 9 bit AES key",
+      "score": 61
     }
   ]
 }
