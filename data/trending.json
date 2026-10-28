@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-28T02:04:58.453149Z",
+  "updated_at": "2026-10-28T11:58:18.085709Z",
   "repos": [
     {
       "name": "JustAResearcher/gpu-unlock-ada",
-      "stars": 4284
+      "stars": 4353
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
-      "stars": 3403
-    },
-    {
-      "name": "designfuchen/word-atlas",
-      "stars": 2567
+      "stars": 4040
     },
     {
       "name": "unclebob/ub-mode",
-      "stars": 2408
+      "stars": 3164
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "stars": 2928
     },
     {
       "name": "t3dotgg/tstack",
-      "stars": 2018
+      "stars": 2144
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-28T02:04:57.090977Z",
+  "updated_at": "2026-10-28T11:58:16.636789Z",
   "stories": [
     {
+      "title": "Start Doing Graph Theory",
+      "score": 146
+    },
+    {
+      "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
+      "score": 21
+    },
+    {
+      "title": "Git for the US Code",
+      "score": 301
+    },
+    {
       "title": "Genie 4",
-      "score": 743
+      "score": 919
     },
     {
       "title": "Ghostty 1.4",
-      "score": 780
-    },
-    {
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "score": 52
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "score": 131
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "score": 195
+      "score": 1083
     }
   ]
 }
