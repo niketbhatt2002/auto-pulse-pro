@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-28T16:20:50.257594Z",
+  "updated_at": "2026-10-28T16:57:40.809655Z",
   "stories": [
     {
       "title": "Ten days later, Git on macOS still trusts the compromised eMudhra certificates",
-      "score": 683
+      "score": 751
     },
     {
       "title": "CNC Stone Carving",
-      "score": 123
-    },
-    {
-      "title": "Start Doing Graph Theory",
-      "score": 347
-    },
-    {
-      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
-      "score": 188
+      "score": 161
     },
     {
       "title": "Dayjob: Tax \u2013 evaluating AI agents on 50 professional tax assignments",
-      "score": 9
+      "score": 38
+    },
+    {
+      "title": "Start Doing Graph Theory",
+      "score": 370
+    },
+    {
+      "title": "Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen",
+      "score": 220
     }
   ]
 }
