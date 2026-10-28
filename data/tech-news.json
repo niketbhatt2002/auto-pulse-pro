@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-27T23:36:22.899920Z",
+  "updated_at": "2026-10-28T02:04:57.090977Z",
   "stories": [
     {
       "title": "Genie 4",
-      "score": 656
+      "score": 743
     },
     {
       "title": "Ghostty 1.4",
-      "score": 655
+      "score": 780
     },
     {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "score": 154
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "score": 135
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "score": 52
     },
     {
       "title": "Early progress on accelerating drug development with Claude",
-      "score": 77
+      "score": 131
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "score": 195
     }
   ]
 }
