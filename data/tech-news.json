@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T02:15:21.189168Z",
+  "updated_at": "2026-10-29T12:07:12.834410Z",
   "stories": [
     {
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "score": 85
+      "score": 536
     },
     {
       "title": "Why is this fingerprinting script creating bioweapons?",
-      "score": 875
+      "score": 1325
     },
     {
-      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
-      "score": 82
+      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
+      "score": 62
     },
     {
-      "title": "The first wired XR glasses powered by Android XR",
-      "score": 33
+      "title": "Getting debug access on a Brother printer over Telnet",
+      "score": 78
     },
     {
-      "title": "A Health Update",
-      "score": 106
+      "title": "Zero click, silent, remote Android DoS",
+      "score": 137
     }
   ]
 }
