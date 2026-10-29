@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T17:17:20.843932Z",
+  "updated_at": "2026-10-29T19:27:25.798789Z",
   "stories": [
     {
       "title": "We're releasing the weights of Mistral Large 4",
-      "score": 619
-    },
-    {
-      "title": "For the first time ever, Google Search is less than 50% of Alphabet's revenue",
-      "score": 107
+      "score": 830
     },
     {
       "title": "H.264 Is Magic (2016)",
-      "score": 99
+      "score": 177
     },
     {
-      "title": "Grace Blackwell needs a new scheduler: 27% more usable GPUs from the same racks",
-      "score": 48
+      "title": "After 28 years walking across the globe, he's almost home",
+      "score": 22
     },
     {
-      "title": "Zombie stats: Where the numbers AI quotes come from",
-      "score": 76
+      "title": "LLM Voice",
+      "score": 176
+    },
+    {
+      "title": "DoorDash to acquire Instacart",
+      "score": 292
     }
   ]
 }
