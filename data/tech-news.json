@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T13:53:23.027392Z",
+  "updated_at": "2026-10-29T14:51:58.190946Z",
   "stories": [
     {
+      "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
+      "score": 187
+    },
+    {
       "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "score": 106
+      "score": 191
     },
     {
       "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-      "score": 32
+      "score": 179
     },
     {
-      "title": "NetBSD adds a new beginner-friendly text editor called atto",
-      "score": 49
+      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
+      "score": 80
     },
     {
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "score": 594
-    },
-    {
-      "title": "DoorDash to Acquire Instacart",
-      "score": 86
+      "score": 611
     }
   ]
 }
