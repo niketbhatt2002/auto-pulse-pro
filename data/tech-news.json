@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T19:27:25.798789Z",
+  "updated_at": "2026-10-29T21:28:16.507732Z",
   "stories": [
     {
       "title": "We're releasing the weights of Mistral Large 4",
-      "score": 830
+      "score": 994
+    },
+    {
+      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
+      "score": 179
+    },
+    {
+      "title": "Patrick Stewart has died",
+      "score": 1436
     },
     {
       "title": "H.264 Is Magic (2016)",
-      "score": 177
+      "score": 248
     },
     {
-      "title": "After 28 years walking across the globe, he's almost home",
-      "score": 22
-    },
-    {
-      "title": "LLM Voice",
-      "score": 176
-    },
-    {
-      "title": "DoorDash to acquire Instacart",
-      "score": 292
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "score": 28
     }
   ]
 }
