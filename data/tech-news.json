@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T12:07:12.834410Z",
+  "updated_at": "2026-10-29T13:53:23.027392Z",
   "stories": [
     {
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "score": 106
+    },
+    {
+      "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
+      "score": 32
+    },
+    {
+      "title": "NetBSD adds a new beginner-friendly text editor called atto",
+      "score": 49
+    },
+    {
       "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "score": 536
+      "score": 594
     },
     {
-      "title": "Why is this fingerprinting script creating bioweapons?",
-      "score": 1325
-    },
-    {
-      "title": "The US added a record 20.2 GWh of battery storage in just 3 months",
-      "score": 62
-    },
-    {
-      "title": "Getting debug access on a Brother printer over Telnet",
-      "score": 78
-    },
-    {
-      "title": "Zero click, silent, remote Android DoS",
-      "score": 137
+      "title": "DoorDash to Acquire Instacart",
+      "score": 86
     }
   ]
 }
