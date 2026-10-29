@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T14:51:58.190946Z",
+  "updated_at": "2026-10-29T15:57:21.611069Z",
   "stories": [
     {
       "title": "Mistral Large 4 (Le Chonk) is now Open Weight",
-      "score": 187
+      "score": 403
     },
     {
-      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
-      "score": 191
+      "title": "DoorDash is acquiring Instacart for $17B",
+      "score": 98
     },
     {
       "title": "Read the letter the FBI sent MLK to try to convince him to kill himself (2014)",
-      "score": 179
+      "score": 307
     },
     {
-      "title": "Chained PHP2Shell Exploit Roots 25 Servers, Including US Government Servers",
-      "score": 80
+      "title": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+      "score": 248
     },
     {
-      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
-      "score": 611
+      "title": "Only 40% of AI-cited statistics trace back to a study",
+      "score": 21
     }
   ]
 }
