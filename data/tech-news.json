@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T21:28:16.507732Z",
+  "updated_at": "2026-10-29T23:50:10.452654Z",
   "stories": [
     {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "score": 509
+    },
+    {
       "title": "We're releasing the weights of Mistral Large 4",
-      "score": 994
+      "score": 1130
     },
     {
-      "title": "Alleged Chinese spy had 'close relationship' with Nvidia boss Jensen Huang",
-      "score": 179
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "score": 87
     },
     {
-      "title": "Patrick Stewart has died",
-      "score": 1436
+      "title": "The Great American Rascal: Tom Sawyer at 150",
+      "score": 23
     },
     {
-      "title": "H.264 Is Magic (2016)",
-      "score": 248
-    },
-    {
-      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
-      "score": 28
+      "title": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)",
+      "score": 21
     }
   ]
 }
