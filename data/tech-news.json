@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T16:55:44.394748Z",
+  "updated_at": "2026-10-30T19:03:18.904089Z",
   "stories": [
     {
-      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-      "score": 137
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "score": 78
+    },
+    {
+      "title": "GitHub Incident with Actions, Pages, and Webhooks",
+      "score": 60
     },
     {
       "title": "Northflank Breached",
-      "score": 86
+      "score": 202
     },
     {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 365
+      "score": 513
     },
     {
-      "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
-      "score": 182
-    },
-    {
-      "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "score": 502
+      "title": "A Working Nintendo in ~1GB of Qwen Weights",
+      "score": 94
     }
   ]
 }
