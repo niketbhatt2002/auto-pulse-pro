@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T14:44:10.534344Z",
+  "updated_at": "2026-10-30T15:44:04.653490Z",
   "stories": [
     {
       "title": "elect.horse",
-      "score": 352
+      "score": 454
     },
     {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 66
+      "score": 227
     },
     {
       "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
-      "score": 121
+      "score": 151
     },
     {
       "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "score": 254
+      "score": 377
     },
     {
-      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-      "score": 1601
+      "title": "Northflank Breached",
+      "score": 18
     }
   ]
 }
