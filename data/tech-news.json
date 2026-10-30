@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T19:03:18.904089Z",
+  "updated_at": "2026-10-30T21:09:30.739142Z",
   "stories": [
     {
       "title": "My favourite PowerMac is a Nintendo Wii",
-      "score": 78
+      "score": 154
     },
     {
-      "title": "GitHub Incident with Actions, Pages, and Webhooks",
-      "score": 60
+      "title": "Bunny CDN Security Incident",
+      "score": 68
+    },
+    {
+      "title": "Product Managers aren't safe either",
+      "score": 24
     },
     {
       "title": "Northflank Breached",
-      "score": 202
+      "score": 281
     },
     {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 513
-    },
-    {
-      "title": "A Working Nintendo in ~1GB of Qwen Weights",
-      "score": 94
+      "score": 639
     }
   ]
 }
