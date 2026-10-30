@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T16:21:53.388095Z",
+  "updated_at": "2026-10-30T16:55:44.394748Z",
   "stories": [
     {
       "title": "AI Isn't Replacing SREs. It's Deskilling Them",
-      "score": 43
-    },
-    {
-      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 322
+      "score": 137
     },
     {
       "title": "Northflank Breached",
-      "score": 52
+      "score": 86
+    },
+    {
+      "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
+      "score": 365
     },
     {
       "title": "Azure's Weakest Link \u2013 Five Full Cross-Tenant Compromises",
-      "score": 167
+      "score": 182
     },
     {
       "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech",
-      "score": 450
+      "score": 502
     }
   ]
 }
