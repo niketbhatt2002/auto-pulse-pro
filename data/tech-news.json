@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T21:09:30.739142Z",
+  "updated_at": "2026-10-30T23:30:03.764775Z",
   "stories": [
     {
       "title": "My favourite PowerMac is a Nintendo Wii",
-      "score": 154
+      "score": 207
     },
     {
-      "title": "Bunny CDN Security Incident",
-      "score": 68
-    },
-    {
-      "title": "Product Managers aren't safe either",
-      "score": 24
-    },
-    {
-      "title": "Northflank Breached",
-      "score": 281
+      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
+      "score": 41
     },
     {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 639
+      "score": 717
+    },
+    {
+      "title": "Northflank Breached",
+      "score": 328
+    },
+    {
+      "title": "Jules Verne's Lost Novel",
+      "score": 62
     }
   ]
 }
