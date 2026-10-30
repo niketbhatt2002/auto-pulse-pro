@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-29T23:50:11.436561Z",
+  "updated_at": "2026-10-30T02:28:55.883631Z",
   "repos": [
     {
-      "name": "rddmwmddr/android-ad-cleaner",
-      "stars": 4717
-    },
-    {
       "name": "unclebob/ub-mode",
-      "stars": 4679
+      "stars": 4762
     },
     {
-      "name": "JustAResearcher/gpu-unlock-ada",
-      "stars": 4514
+      "name": "rddmwmddr/android-ad-cleaner",
+      "stars": 4761
     },
     {
       "name": "interplains/Zero-Breach-Toolkit",
-      "stars": 3588
+      "stars": 3630
     },
     {
       "name": "designfuchen/word-atlas",
-      "stars": 3224
+      "stars": 3250
+    },
+    {
+      "name": "anhao/ai-pose-gallery-zh",
+      "stars": 3241
     }
   ]
 }
