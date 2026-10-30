@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T02:28:54.900946Z",
+  "updated_at": "2026-10-30T11:59:01.403443Z",
   "stories": [
     {
+      "title": "elect.horse",
+      "score": 84
+    },
+    {
       "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
-      "score": 776
+      "score": 1474
+    },
+    {
+      "title": "Backdoors in official Claude Code extensions",
+      "score": 115
     },
     {
       "title": "We're releasing the weights of Mistral Large 4",
-      "score": 1219
+      "score": 1538
     },
     {
-      "title": "Pico CSS is no longer maintained",
-      "score": 14
-    },
-    {
-      "title": "We ran AI agent swarms in Minecraft and Mindustry",
-      "score": 174
-    },
-    {
-      "title": "Study: Schoolwide phone bans show no significant impact on mental health",
-      "score": 15
+      "title": "How Do You Take a Picture of a Black Hole?",
+      "score": 23
     }
   ]
 }
