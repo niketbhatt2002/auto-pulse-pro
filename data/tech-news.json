@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31T18:22:00.440976Z",
+  "updated_at": "2026-10-31T20:20:04.565222Z",
   "stories": [
     {
-      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 227
+      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
+      "score": 79
     },
     {
-      "title": "We Took over ChatGPT Accounts",
-      "score": 241
+      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
+      "score": 57
     },
     {
-      "title": "Casio Watches of the 1980s",
-      "score": 108
+      "title": "The Duty of a Scholar",
+      "score": 35
     },
     {
-      "title": "Jepsen: ParticleDB 1.1.4",
-      "score": 59
+      "title": "It's the Memory Latency, Stupid",
+      "score": 28
     },
     {
-      "title": "Redox: Ring Buffers Project Summary",
-      "score": 11
+      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
+      "score": 35
     }
   ]
 }
