@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31T15:12:19.429423Z",
+  "updated_at": "2026-10-31T15:31:58.455559Z",
   "stories": [
     {
       "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 132
+      "score": 151
     },
     {
       "title": "We Took over ChatGPT Accounts",
-      "score": 142
+      "score": 156
     },
     {
       "title": "Switch Lowering in GCC",
-      "score": 120
+      "score": 125
     },
     {
       "title": "Simple circuits can create complex behaviors",
-      "score": 47
+      "score": 58
     },
     {
       "title": "Serbia just elected the world's brainiest parliament",
-      "score": 514
+      "score": 540
     }
   ]
 }
