@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31T13:14:40.912993Z",
+  "updated_at": "2026-10-31T14:09:29.500496Z",
   "stories": [
     {
       "title": "Serbia just elected the world's brainiest parliament",
-      "score": 349
+      "score": 450
     },
     {
       "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 71
-    },
-    {
-      "title": "Switch Lowering in GCC",
-      "score": 99
+      "score": 100
     },
     {
       "title": "We Took over ChatGPT Accounts",
-      "score": 65
+      "score": 101
     },
     {
-      "title": "Show HN: Marelleo, an open-source story box I built for my kids using ESP32",
-      "score": 101
+      "title": "Prospero: A new coding harness for a more civilized age",
+      "score": 32
+    },
+    {
+      "title": "Switch Lowering in GCC",
+      "score": 108
     }
   ]
 }
