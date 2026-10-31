@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31T15:56:20.175747Z",
+  "updated_at": "2026-10-31T18:22:00.440976Z",
   "stories": [
     {
-      "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 159
+      "title": "Molly (Signal fork) has not been updated since 3 months and is vulnerable",
+      "score": 227
     },
     {
       "title": "We Took over ChatGPT Accounts",
-      "score": 174
+      "score": 241
     },
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "score": 569
+      "title": "Casio Watches of the 1980s",
+      "score": 108
     },
     {
-      "title": "Switch Lowering in GCC",
-      "score": 134
+      "title": "Jepsen: ParticleDB 1.1.4",
+      "score": 59
     },
     {
-      "title": "Simple circuits can create complex behaviors",
-      "score": 68
+      "title": "Redox: Ring Buffers Project Summary",
+      "score": 11
     }
   ]
 }
