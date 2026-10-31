@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31T14:09:29.500496Z",
+  "updated_at": "2026-10-31T15:12:19.429423Z",
   "stories": [
     {
-      "title": "Serbia just elected the world's brainiest parliament",
-      "score": 450
-    },
-    {
       "title": "Molly(Signal fork) has not been updated since 3 months and is vulnerable",
-      "score": 100
+      "score": 132
     },
     {
       "title": "We Took over ChatGPT Accounts",
-      "score": 101
-    },
-    {
-      "title": "Prospero: A new coding harness for a more civilized age",
-      "score": 32
+      "score": 142
     },
     {
       "title": "Switch Lowering in GCC",
-      "score": 108
+      "score": 120
+    },
+    {
+      "title": "Simple circuits can create complex behaviors",
+      "score": 47
+    },
+    {
+      "title": "Serbia just elected the world's brainiest parliament",
+      "score": 514
     }
   ]
 }
