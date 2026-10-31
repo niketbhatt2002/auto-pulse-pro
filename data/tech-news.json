@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31T20:20:04.565222Z",
+  "updated_at": "2026-10-31T23:09:20.316624Z",
   "stories": [
     {
-      "title": "GPT-5.6 Sol can beat Factorio on peaceful mode",
-      "score": 79
+      "title": "HackerTube: YouTube built from videos recommended by HN",
+      "score": 444
     },
     {
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "score": 57
+      "score": 233
     },
     {
-      "title": "The Duty of a Scholar",
-      "score": 35
+      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
+      "score": 38
+    },
+    {
+      "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
+      "score": 7
     },
     {
       "title": "It's the Memory Latency, Stupid",
-      "score": 28
-    },
-    {
-      "title": "Hackers hijack Egypt highway billboard and Malaysian screens to show porn",
-      "score": 35
+      "score": 86
     }
   ]
 }
