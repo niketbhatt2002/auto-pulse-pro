@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T23:30:03.764775Z",
+  "updated_at": "2026-10-31T02:11:51.177851Z",
   "stories": [
     {
-      "title": "My favourite PowerMac is a Nintendo Wii",
-      "score": 207
+      "title": "Show HN: To Honor Sir Patrick Stewart, Enjoy the TNG Episode Guessing Game",
+      "score": 59
     },
     {
-      "title": "sanstun: A sans-IO, parallel-friendly WireGuard implementation in Rust",
-      "score": 41
+      "title": "Cloudflare Turnstile solver library (no headless browser required)",
+      "score": 94
+    },
+    {
+      "title": "My favourite PowerMac is a Nintendo Wii",
+      "score": 250
     },
     {
       "title": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace",
-      "score": 717
+      "score": 785
     },
     {
       "title": "Northflank Breached",
-      "score": 328
-    },
-    {
-      "title": "Jules Verne's Lost Novel",
-      "score": 62
+      "score": 366
     }
   ]
 }

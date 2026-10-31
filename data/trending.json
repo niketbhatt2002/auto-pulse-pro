@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-30T23:30:05.165663Z",
+  "updated_at": "2026-10-31T02:11:51.824049Z",
   "repos": [
     {
       "name": "unclebob/ub-mode",
-      "stars": 5367
-    },
-    {
-      "name": "rddmwmddr/android-ad-cleaner",
-      "stars": 5050
+      "stars": 5401
     },
     {
       "name": "anhao/ai-pose-gallery-zh",
-      "stars": 3934
+      "stars": 3988
     },
     {
       "name": "interplains/Zero-Breach-Toolkit",
-      "stars": 3854
+      "stars": 3875
     },
     {
       "name": "designfuchen/word-atlas",
-      "stars": 3354
+      "stars": 3379
+    },
+    {
+      "name": "ccch1mneyyy/dsh-Go",
+      "stars": 2580
     }
   ]
 }
