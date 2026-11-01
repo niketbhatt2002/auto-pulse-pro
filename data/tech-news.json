@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-10-31T23:09:20.316624Z",
+  "updated_at": "2026-11-01T02:01:16.490148Z",
   "stories": [
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 444
+      "score": 728
+    },
+    {
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "score": 153
     },
     {
       "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "score": 233
+      "score": 351
     },
     {
-      "title": "With 86% of the words, you might understand only 38% of an anime's lines",
-      "score": 38
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "score": 82
     },
     {
-      "title": "An Italian Farmer Found Some Unknown Seeds in His Attic and Planted Them",
-      "score": 7
-    },
-    {
-      "title": "It's the Memory Latency, Stupid",
-      "score": 86
+      "title": "When electric cars were for women",
+      "score": 37
     }
   ]
 }
