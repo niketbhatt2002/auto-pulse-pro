@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T14:39:07.360120Z",
+  "updated_at": "2026-11-01T15:54:00.107722Z",
   "stories": [
     {
-      "title": "Norway makes shithouses great again",
-      "score": 502
-    },
-    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 1602
-    },
-    {
-      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-      "score": 25
+      "score": 1685
     },
     {
       "title": "Novellas with Groff",
-      "score": 10
+      "score": 31
     },
     {
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "score": 570
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "score": 39
+    },
+    {
+      "title": "We Took over ChatGPT Accounts",
+      "score": 4
+    },
+    {
+      "title": "Bidirectional Charging During Grid Outages",
+      "score": 9
     }
   ]
 }
