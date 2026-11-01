@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T02:01:16.490148Z",
+  "updated_at": "2026-11-01T12:30:45.375007Z",
   "stories": [
     {
+      "title": "Norway makes shithouses great again",
+      "score": 209
+    },
+    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 728
+      "score": 1468
+    },
+    {
+      "title": "A tiny Pacific country rolls out universal basic income",
+      "score": 44
     },
     {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "score": 153
+      "score": 509
     },
     {
-      "title": "TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8",
-      "score": 351
-    },
-    {
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "score": 82
-    },
-    {
-      "title": "When electric cars were for women",
-      "score": 37
+      "title": "Domain hacks with unusual Unicode characters (2018)",
+      "score": 16
     }
   ]
 }
