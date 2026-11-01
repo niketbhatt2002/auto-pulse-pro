@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T20:52:48.380249Z",
+  "updated_at": "2026-11-01T23:24:29.466562Z",
   "stories": [
     {
       "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
-      "score": 559
+      "score": 775
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 2046
-    },
-    {
-      "title": "Mathematics has changed. Let's act like it",
-      "score": 101
+      "score": 2178
     },
     {
       "title": "Nibnib: Image compression with extreme decompression speed",
-      "score": 11
+      "score": 69
+    },
+    {
+      "title": "So I guess everyone uses LLMs to think now",
+      "score": 38
     },
     {
       "title": "Tips for more effective fuzz testing with AFL++",
-      "score": 19
+      "score": 57
     }
   ]
 }
