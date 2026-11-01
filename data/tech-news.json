@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T16:30:06.579027Z",
+  "updated_at": "2026-11-01T16:59:02.633778Z",
   "stories": [
     {
       "title": "Show HN: HackerBooks \u2013 HackerTube, but for books recommended on HN",
-      "score": 44
+      "score": 117
+    },
+    {
+      "title": "Seoul Biosys Begins Production of Rare Earth-Free White Micro LEDs",
+      "score": 14
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 1734
+      "score": 1779
     },
     {
       "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
-      "score": 49
-    },
-    {
-      "title": "Novellas with Groff",
-      "score": 43
+      "score": 54
     },
     {
       "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "score": 102
+      "score": 145
     }
   ]
 }
