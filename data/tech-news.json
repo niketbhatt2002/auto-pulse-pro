@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T13:58:33.631639Z",
+  "updated_at": "2026-11-01T14:39:07.360120Z",
   "stories": [
     {
       "title": "Norway makes shithouses great again",
-      "score": 412
+      "score": 502
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 1553
+      "score": 1602
     },
     {
       "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-      "score": 16
+      "score": 25
+    },
+    {
+      "title": "Novellas with Groff",
+      "score": 10
     },
     {
       "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "score": 549
-    },
-    {
-      "title": "Radiation Map of the World",
-      "score": 20
+      "score": 570
     }
   ]
 }
