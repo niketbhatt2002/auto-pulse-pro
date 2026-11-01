@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T15:54:00.107722Z",
+  "updated_at": "2026-11-01T16:30:06.579027Z",
   "stories": [
     {
+      "title": "Show HN: HackerBooks \u2013 HackerTube, but for books recommended on HN",
+      "score": 44
+    },
+    {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 1685
+      "score": 1734
+    },
+    {
+      "title": "Proving and improving the Platonic Representation Hypothesis with JEPAs",
+      "score": 49
     },
     {
       "title": "Novellas with Groff",
-      "score": 31
+      "score": 43
     },
     {
-      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
-      "score": 39
-    },
-    {
-      "title": "We Took over ChatGPT Accounts",
-      "score": 4
-    },
-    {
-      "title": "Bidirectional Charging During Grid Outages",
-      "score": 9
+      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
+      "score": 102
     }
   ]
 }

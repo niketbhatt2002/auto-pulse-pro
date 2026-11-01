@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T15:54:01.051688Z",
+  "updated_at": "2026-11-01T16:30:07.342704Z",
   "repos": [
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 6219
+      "stars": 6361
     },
     {
       "name": "anhao/ai-pose-gallery-zh",
-      "stars": 5071
+      "stars": 5081
     },
     {
       "name": "heydamir/unslop",
-      "stars": 4423
+      "stars": 4480
     },
     {
       "name": "wangzan101/Mika",
-      "stars": 3564
+      "stars": 3615
     },
     {
       "name": "valentderah/totk-pc-recomp",
-      "stars": 2973
+      "stars": 2993
     }
   ]
 }
