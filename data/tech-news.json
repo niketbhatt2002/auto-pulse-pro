@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T18:47:35.674822Z",
+  "updated_at": "2026-11-01T20:52:48.380249Z",
   "stories": [
     {
       "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
-      "score": 345
+      "score": 559
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 1905
+      "score": 2046
     },
     {
-      "title": "Patrick Stewart taught us what good men do with power",
-      "score": 121
+      "title": "Mathematics has changed. Let's act like it",
+      "score": 101
     },
     {
-      "title": "Police chief unplugs Flock cameras after company ignores contract cancellation",
-      "score": 285
+      "title": "Nibnib: Image compression with extreme decompression speed",
+      "score": 11
     },
     {
-      "title": "Seoul Viosys begins production of rare-earth-free white light emitter",
-      "score": 81
+      "title": "Tips for more effective fuzz testing with AFL++",
+      "score": 19
     }
   ]
 }
