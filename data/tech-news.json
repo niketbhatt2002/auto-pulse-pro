@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-02T19:20:20.178940Z",
+  "updated_at": "2026-11-02T19:53:05.207334Z",
   "stories": [
     {
       "title": "Astra can read and write weights to improve Qwen",
-      "score": 231
+      "score": 564
     },
     {
-      "title": "Show HN: Subvocal \u2013\u00a0Talk to your computer without making noise",
-      "score": 256
+      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
+      "score": 288
     },
     {
       "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
-      "score": 67
+      "score": 72
     },
     {
       "title": "Agentic Backdoors via Pretraining Poisoning",
-      "score": 27
+      "score": 43
     },
     {
       "title": "US boy names that became girl names and vice versa",
-      "score": 116
+      "score": 144
     }
   ]
 }
