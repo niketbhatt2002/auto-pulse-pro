@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-01T23:24:29.466562Z",
+  "updated_at": "2026-11-02T02:15:45.488423Z",
   "stories": [
     {
       "title": "Show HN: HackerBooks \u2013 HackerTube, but for books mentioned on HN",
-      "score": 775
+      "score": 949
     },
     {
       "title": "HackerTube: YouTube built from videos recommended by HN",
-      "score": 2178
+      "score": 2303
     },
     {
       "title": "Nibnib: Image compression with extreme decompression speed",
-      "score": 69
+      "score": 101
     },
     {
-      "title": "So I guess everyone uses LLMs to think now",
-      "score": 38
+      "title": "Ask HN: Which TV do you recommend for privacy?",
+      "score": 147
     },
     {
-      "title": "Tips for more effective fuzz testing with AFL++",
-      "score": 57
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "score": 78
     }
   ]
 }
