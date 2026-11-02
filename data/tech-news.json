@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-02T16:45:33.654520Z",
+  "updated_at": "2026-11-02T17:39:24.212789Z",
   "stories": [
     {
-      "title": "Moving our warehouse off DuckDB",
-      "score": 41
+      "title": "Launch HN: Momentic (YC W24) \u2013 Agents that catch bugs by using your app",
+      "score": 33
+    },
+    {
+      "title": "Show HN: Subvocal \u2013\u00a0Talk to your computer without making noise",
+      "score": 33
+    },
+    {
+      "title": "Show HN: Warsaw in voxels \u2013 an interactive 3D map of the city centre",
+      "score": 53
     },
     {
       "title": "Ask HN: Who is hiring? (November 2026)",
-      "score": 26
+      "score": 69
     },
     {
-      "title": "If you love a website, back it up",
-      "score": 72
-    },
-    {
-      "title": "We halved DNS build delay and cut memory use by 85%",
-      "score": 21
-    },
-    {
-      "title": "GPT-Rosalind-6 System Card Addendum",
-      "score": 19
+      "title": "My Favourite Laptop",
+      "score": 23
     }
   ]
 }
