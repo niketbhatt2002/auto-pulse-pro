@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-03T03:52:48.680197Z",
+  "updated_at": "2026-11-03T13:27:50.597929Z",
   "stories": [
     {
+      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
+      "score": 113
+    },
+    {
       "title": "Astra can read and write weights to improve Qwen",
-      "score": 2128
+      "score": 2829
     },
     {
-      "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
-      "score": 31
+      "title": "Nvidia \u2013 open-source auto-ontology",
+      "score": 162
     },
     {
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "score": 74
+      "title": "Life with Down Syndrome",
+      "score": 33
     },
     {
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "score": 70
-    },
-    {
-      "title": "Show HN: Subvocal \u2013 Talk to your computer without making noise",
-      "score": 592
+      "title": "Katamari Damacy but it's The Met collection",
+      "score": 64
     }
   ]
 }
