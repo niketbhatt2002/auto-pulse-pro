@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-03T17:25:32.083944Z",
+  "updated_at": "2026-11-03T18:12:46.810214Z",
   "stories": [
     {
+      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
+      "score": 208
+    },
+    {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 199
+      "score": 281
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "score": 36
     },
     {
       "title": "Mac at Any Scale",
-      "score": 95
+      "score": 153
     },
     {
       "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "score": 182
-    },
-    {
-      "title": "Schools that block Google\u2019s A.I. will lose student access to its search engine",
-      "score": 150
-    },
-    {
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "score": 679
+      "score": 220
     }
   ]
 }
