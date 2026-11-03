@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-03T15:41:24.283892Z",
+  "updated_at": "2026-11-03T16:54:39.885711Z",
   "repos": [
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 16018
-    },
-    {
-      "name": "heydamir/unslop",
-      "stars": 7121
+      "stars": 16187
     },
     {
       "name": "storytold/craft-anything",
-      "stars": 6974
+      "stars": 7257
+    },
+    {
+      "name": "heydamir/unslop",
+      "stars": 7189
     },
     {
       "name": "wangzan101/Mika",
-      "stars": 5957
+      "stars": 5990
     },
     {
       "name": "valentderah/totk-pc-recomp",
-      "stars": 4373
+      "stars": 4392
     }
   ]
 }
