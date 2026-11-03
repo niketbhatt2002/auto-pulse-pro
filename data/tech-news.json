@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-03T13:27:50.597929Z",
+  "updated_at": "2026-11-03T14:48:10.665025Z",
   "stories": [
     {
       "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "score": 113
+      "score": 365
+    },
+    {
+      "title": "Just a little AI resistance, as a treat",
+      "score": 44
     },
     {
       "title": "Astra can read and write weights to improve Qwen",
-      "score": 2829
+      "score": 2873
     },
     {
-      "title": "Nvidia \u2013 open-source auto-ontology",
-      "score": 162
+      "title": "Charles Tandy, the mastermind behind Radio Shack",
+      "score": 35
     },
     {
       "title": "Life with Down Syndrome",
-      "score": 33
-    },
-    {
-      "title": "Katamari Damacy but it's The Met collection",
-      "score": 64
+      "score": 78
     }
   ]
 }
