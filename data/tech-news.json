@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-03T20:26:50.464145Z",
+  "updated_at": "2026-11-03T22:05:16.944174Z",
   "stories": [
     {
-      "title": "Preparing for the Flipper One Kickstarter and opening pre-orders",
-      "score": 46
+      "title": "Safari introduces Adaptive Dark Mode in 27.3",
+      "score": 56
     },
     {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 407
+      "score": 518
     },
     {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "score": 301
-    },
-    {
-      "title": "Postman silently auto-installs AI plugins and attempts to share all API data",
-      "score": 707
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "score": 25
     },
     {
       "title": "Stringman, an $800 open-source room scale gripper robot",
-      "score": 128
+      "score": 234
+    },
+    {
+      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+      "score": 390
     }
   ]
 }
