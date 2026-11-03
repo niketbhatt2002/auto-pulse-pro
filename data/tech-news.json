@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-03T14:48:10.665025Z",
+  "updated_at": "2026-11-03T15:41:23.098424Z",
   "stories": [
     {
       "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "score": 365
+      "score": 504
     },
     {
       "title": "Just a little AI resistance, as a treat",
-      "score": 44
+      "score": 108
     },
     {
-      "title": "Astra can read and write weights to improve Qwen",
-      "score": 2873
+      "title": "Octomind \u2013 open-source AI harness that saves your tokens, static rust",
+      "score": 19
+    },
+    {
+      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
+      "score": 83
     },
     {
       "title": "Charles Tandy, the mastermind behind Radio Shack",
-      "score": 35
-    },
-    {
-      "title": "Life with Down Syndrome",
-      "score": 78
+      "score": 57
     }
   ]
 }
