@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-03T22:05:16.944174Z",
+  "updated_at": "2026-11-04T00:27:05.079438Z",
   "stories": [
     {
+      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
+      "score": 176
+    },
+    {
       "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "score": 56
+      "score": 233
+    },
+    {
+      "title": "The Internals of PostgreSQL",
+      "score": 68
     },
     {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 518
-    },
-    {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "score": 25
+      "score": 583
     },
     {
       "title": "Stringman, an $800 open-source room scale gripper robot",
-      "score": 234
-    },
-    {
-      "title": "Qwen 3.8 27B on my laptop can interpret model weights, too",
-      "score": 390
+      "score": 339
     }
   ]
 }
