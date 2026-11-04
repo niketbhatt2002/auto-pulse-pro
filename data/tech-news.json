@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-04T15:00:37.837793Z",
+  "updated_at": "2026-11-04T15:53:38.008979Z",
   "stories": [
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "score": 360
+      "score": 464
+    },
+    {
+      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
+      "score": 39
     },
     {
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "score": 306
+      "score": 365
     },
     {
-      "title": "US voters roundly reject data centers in ballot measures",
-      "score": 76
+      "title": "North Korean fake job interview led to $6.3B Binance heist",
+      "score": 164
     },
     {
       "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "score": 129
-    },
-    {
-      "title": "Incident with Pull Requests, Git Operations and Issues",
-      "score": 165
+      "score": 149
     }
   ]
 }
