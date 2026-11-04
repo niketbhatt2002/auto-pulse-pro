@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-04T17:38:53.938092Z",
+  "updated_at": "2026-11-04T18:25:41.585529Z",
   "stories": [
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "score": 664
-    },
-    {
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "score": 116
+      "score": 731
     },
     {
       "title": "Progress on provable inference for large language models",
-      "score": 22
+      "score": 65
+    },
+    {
+      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
+      "score": 148
+    },
+    {
+      "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
+      "score": 14
     },
     {
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "score": 443
-    },
-    {
-      "title": "Evergreen: A Provably Safe Systems Language",
-      "score": 56
+      "score": 470
     }
   ]
 }
