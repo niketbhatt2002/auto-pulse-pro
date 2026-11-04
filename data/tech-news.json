@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-04T18:25:41.585529Z",
+  "updated_at": "2026-11-04T20:41:37.142748Z",
   "stories": [
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "score": 731
+      "score": 900
+    },
+    {
+      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+      "score": 74
+    },
+    {
+      "title": "A new Go API for JSON",
+      "score": 128
+    },
+    {
+      "title": "Insects Don't Swarm at LED Lights",
+      "score": 28
     },
     {
       "title": "Progress on provable inference for large language models",
-      "score": 65
-    },
-    {
-      "title": "Guerrilla bike lanes: San Francisco makes illicit infrastructure permanent (2016)",
-      "score": 148
-    },
-    {
-      "title": "Launch HN: Kino AI (YC S23) \u2013 AI media manager and video editor",
-      "score": 14
-    },
-    {
-      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "score": 470
+      "score": 131
     }
   ]
 }
