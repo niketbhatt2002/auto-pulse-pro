@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-04T02:57:44.394165Z",
+  "updated_at": "2026-11-04T13:38:51.807925Z",
   "stories": [
     {
-      "title": "The Internals of PostgreSQL",
-      "score": 141
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "score": 223
     },
     {
-      "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 639
+      "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
+      "score": 226
     },
     {
-      "title": "Stringman, an $800 open-source room scale gripper robot",
-      "score": 413
+      "title": "Incident with Pull Requests, Git Operations and Issues",
+      "score": 130
     },
     {
-      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
-      "score": 199
+      "title": "Verification Is Not Knowledge: Science needs more than answers",
+      "score": 98
     },
     {
-      "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
-      "score": 13
+      "title": "A map of 5000+ midterm ads",
+      "score": 38
     }
   ]
 }
