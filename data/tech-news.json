@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-04T00:27:05.079438Z",
+  "updated_at": "2026-11-04T02:57:44.394165Z",
   "stories": [
     {
-      "title": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer",
-      "score": 176
-    },
-    {
-      "title": "Safari introduces Adaptive Dark Mode in 27.3",
-      "score": 233
-    },
-    {
       "title": "The Internals of PostgreSQL",
-      "score": 68
+      "score": 141
     },
     {
       "title": "Jailbreaking my car's navigation system just so I can change the time",
-      "score": 583
+      "score": 639
     },
     {
       "title": "Stringman, an $800 open-source room scale gripper robot",
-      "score": 339
+      "score": 413
+    },
+    {
+      "title": "Show HN: HackerTV \u2013 HN's most-recommended Youtube videos as 24/7 TV channels",
+      "score": 199
+    },
+    {
+      "title": "Giant Canyon on Mars Is Still Tectonically Active Today",
+      "score": 13
     }
   ]
 }
