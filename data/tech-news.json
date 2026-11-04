@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-04T15:53:38.008979Z",
+  "updated_at": "2026-11-04T16:57:37.389164Z",
   "stories": [
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "score": 464
+      "score": 595
     },
     {
-      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent",
-      "score": 39
+      "title": "Guerrilla Bike Lanes: San Francisco Makes Illicit Infrastructure Permanent (2016)",
+      "score": 89
     },
     {
       "title": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux",
-      "score": 365
+      "score": 414
+    },
+    {
+      "title": "Evergreen: A Provably Safe Systems Language",
+      "score": 36
     },
     {
       "title": "North Korean fake job interview led to $6.3B Binance heist",
-      "score": 164
-    },
-    {
-      "title": "Verification Is Not Knowledge: Science needs more than answers",
-      "score": 149
+      "score": 272
     }
   ]
 }
