@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-04T20:41:37.142748Z",
+  "updated_at": "2026-11-04T22:16:16.735147Z",
   "stories": [
     {
-      "title": "AI is forcing us to pay off 40 years of technical debt",
-      "score": 900
+      "title": "Residential proxies detected on White House network",
+      "score": 303
+    },
+    {
+      "title": "Insects don't swarm at LED lights",
+      "score": 101
     },
     {
       "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "score": 74
+      "score": 151
+    },
+    {
+      "title": "AI is forcing us to pay off 40 years of technical debt",
+      "score": 967
     },
     {
       "title": "A new Go API for JSON",
-      "score": 128
-    },
-    {
-      "title": "Insects Don't Swarm at LED Lights",
-      "score": 28
-    },
-    {
-      "title": "Progress on provable inference for large language models",
-      "score": 131
+      "score": 160
     }
   ]
 }
