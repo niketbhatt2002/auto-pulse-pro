@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T20:57:31.932517Z",
+  "updated_at": "2026-11-05T22:24:54.235771Z",
   "stories": [
     {
+      "title": "Kagi Search for Everyone",
+      "score": 233
+    },
+    {
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "score": 126
+    },
+    {
       "title": "sshole",
-      "score": 1996
+      "score": 2139
     },
     {
       "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "score": 472
+      "score": 518
     },
     {
       "title": "The Hackintosh Reborn",
-      "score": 76
-    },
-    {
-      "title": "Window Sweaters",
-      "score": 147
-    },
-    {
-      "title": "Tencent Launches Hy4, One of the Leading Open-Source AI Models",
-      "score": 11
+      "score": 128
     }
   ]
 }
