@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T13:51:34.522789Z",
+  "updated_at": "2026-11-05T15:06:09.106264Z",
   "stories": [
     {
       "title": "Sshole",
-      "score": 417
+      "score": 782
     },
     {
-      "title": "Baidu released ERNIE 5.5 Flash Base",
-      "score": 101
+      "title": "MCP Explained",
+      "score": 55
+    },
+    {
+      "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
+      "score": 14
     },
     {
       "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "score": 41
+      "score": 94
     },
     {
-      "title": "Residential proxies detected on White House network",
-      "score": 1162
-    },
-    {
-      "title": "Lemmings CSS Animation",
-      "score": 269
+      "title": "Image of Our Satellite-Choked Night Skies",
+      "score": 10
     }
   ]
 }
