@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T17:13:06.768734Z",
+  "updated_at": "2026-11-05T17:44:58.355479Z",
   "stories": [
     {
       "title": "sshole",
-      "score": 1298
+      "score": 1420
     },
     {
-      "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
-      "score": 210
+      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
+      "score": 266
     },
     {
       "title": "Motorola Signature 27 with GrapheneOS support",
-      "score": 84
+      "score": 122
     },
     {
-      "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "score": 79
+      "title": "Launch HN: Rivet (YC W23) \u2013 Scale and Orchestrate Agents on S3",
+      "score": 15
     },
     {
       "title": "The Lisp curse, now coming to your ecosystem",
-      "score": 34
+      "score": 57
     }
   ]
 }
