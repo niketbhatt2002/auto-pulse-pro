@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T00:46:20.770941Z",
+  "updated_at": "2026-11-05T03:21:44.497928Z",
   "stories": [
     {
       "title": "Residential proxies detected on White House network",
-      "score": 570
+      "score": 730
     },
     {
-      "title": "Introducing Images 2.6",
-      "score": 49
+      "title": "Images 2.6",
+      "score": 149
+    },
+    {
+      "title": "A thousand fewer paths to root",
+      "score": 172
+    },
+    {
+      "title": "Starfall \u2013 Affordable, routine access to microgravity",
+      "score": 107
     },
     {
       "title": "AI is forcing us to pay off 40 years of technical debt",
-      "score": 1039
-    },
-    {
-      "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
-      "score": 207
-    },
-    {
-      "title": "Local privilege escalation vulnerabilities in Linux",
-      "score": 39
+      "score": 1106
     }
   ]
 }

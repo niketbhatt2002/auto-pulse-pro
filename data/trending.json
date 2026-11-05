@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T00:46:22.078683Z",
+  "updated_at": "2026-11-05T03:21:45.232054Z",
   "repos": [
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 18565
+      "stars": 18727
     },
     {
       "name": "storytold/craft-anything",
-      "stars": 11760
+      "stars": 12339
     },
     {
       "name": "patch-gg/pixelfx",
-      "stars": 4715
+      "stars": 4800
     },
     {
       "name": "KKKKhazix/agent-autoloop",
-      "stars": 2491
+      "stars": 2682
     },
     {
       "name": "Verlintas/NOIR",
-      "stars": 2025
+      "stars": 2098
     }
   ]
 }
