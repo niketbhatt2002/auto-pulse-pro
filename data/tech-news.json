@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T15:58:40.972530Z",
+  "updated_at": "2026-11-05T17:13:06.768734Z",
   "stories": [
     {
-      "title": "Sshole",
-      "score": 1027
+      "title": "sshole",
+      "score": 1298
     },
     {
       "title": "Alpine Linux Security advisory: OpenSSH-server password authentication bypass",
-      "score": 91
+      "score": 210
+    },
+    {
+      "title": "Motorola Signature 27 with GrapheneOS support",
+      "score": 84
     },
     {
       "title": "September in Servo: <progress>, rounded rectangles, and more",
-      "score": 35
+      "score": 79
     },
     {
-      "title": "MCP Explained",
-      "score": 95
-    },
-    {
-      "title": "OpenSSH 10.6p2 Critical workaround for alpine without PAM",
-      "score": 118
+      "title": "The Lisp curse, now coming to your ecosystem",
+      "score": 34
     }
   ]
 }
