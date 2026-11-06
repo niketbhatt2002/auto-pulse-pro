@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T16:39:27.406259Z",
+  "updated_at": "2026-11-06T17:00:46.043593Z",
   "stories": [
     {
       "title": "Deus Ex",
-      "score": 89
+      "score": 124
     },
     {
       "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "score": 499
+      "score": 516
     },
     {
       "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-      "score": 48
-    },
-    {
-      "title": "Gemini Omni 1.2 Flash",
-      "score": 177
+      "score": 62
     },
     {
       "title": "RIP Cybertruck",
-      "score": 167
+      "score": 209
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash",
+      "score": 189
     }
   ]
 }
