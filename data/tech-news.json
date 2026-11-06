@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-05T22:24:54.235771Z",
+  "updated_at": "2026-11-06T00:52:11.659934Z",
   "stories": [
     {
-      "title": "Kagi Search for Everyone",
-      "score": 233
+      "title": "Claude Code sends your email address to websites",
+      "score": 407
+    },
+    {
+      "title": "Search for everyone",
+      "score": 475
     },
     {
       "title": "MS Paint Remote Code Execution Vulnerability",
-      "score": 126
+      "score": 279
     },
     {
       "title": "sshole",
-      "score": 2139
+      "score": 2270
     },
     {
       "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "score": 518
-    },
-    {
-      "title": "The Hackintosh Reborn",
-      "score": 128
+      "score": 574
     }
   ]
 }
