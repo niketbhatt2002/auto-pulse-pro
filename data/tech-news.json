@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T14:44:32.386173Z",
+  "updated_at": "2026-11-06T15:31:03.295093Z",
   "stories": [
     {
       "title": "Gemini Omni 1.2 Flash",
-      "score": 62
+      "score": 122
     },
     {
       "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "score": 387
+      "score": 436
     },
     {
       "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "score": 411
+      "score": 454
     },
     {
       "title": "Claude Code sends your email address to websites",
-      "score": 1351
+      "score": 1397
     },
     {
-      "title": "We've built an open-source feature flag server for 11 years",
-      "score": 58
+      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
+      "score": 8
     }
   ]
 }
