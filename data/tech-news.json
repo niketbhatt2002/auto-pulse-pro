@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T20:17:27.794914Z",
+  "updated_at": "2026-11-06T21:48:50.756787Z",
   "stories": [
     {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "score": 174
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "score": 156
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "score": 64
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "score": 40
+      "score": 100
+    },
+    {
+      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "score": 215
     },
     {
       "title": "Tesla to wind down Cybertruck production",
-      "score": 591
-    },
-    {
-      "title": "As the Japanese Countryside Empties Out, Wildlife Is Disappearing",
-      "score": 20
-    },
-    {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "score": 22
+      "score": 696
     }
   ]
 }
