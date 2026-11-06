@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T21:48:50.756787Z",
+  "updated_at": "2026-11-06T23:58:51.323972Z",
   "stories": [
     {
-      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "score": 156
+      "title": "CATL Sodium Battery Hits LFP Cost Parity in 2026: 15,000 Cycles, 30-Year Life",
+      "score": 56
     },
     {
-      "title": "AI is dramatically accelerating AI research",
-      "score": 64
+      "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
+      "score": 280
     },
     {
       "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "score": 100
-    },
-    {
-      "title": "US FAA says it will phase out floppy disks from air traffic control by 2028",
-      "score": 215
+      "score": 143
     },
     {
       "title": "Tesla to wind down Cybertruck production",
-      "score": 696
+      "score": 792
+    },
+    {
+      "title": "AI is dramatically accelerating AI research",
+      "score": 162
     }
   ]
 }
