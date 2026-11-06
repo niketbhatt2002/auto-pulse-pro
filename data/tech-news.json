@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T03:20:51.781511Z",
+  "updated_at": "2026-11-06T13:37:15.471680Z",
   "stories": [
     {
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "score": 286
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "score": 356
+    },
+    {
       "title": "Claude Code sends your email address to websites",
-      "score": 630
+      "score": 1295
     },
     {
-      "title": "Search for everyone",
-      "score": 578
+      "title": "We've built an open-source feature flag server for 11 years",
+      "score": 33
     },
     {
-      "title": "sshole",
-      "score": 2390
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "score": 351
-    },
-    {
-      "title": "Inkling 2 Small",
-      "score": 89
+      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
+      "score": 69
     }
   ]
 }
