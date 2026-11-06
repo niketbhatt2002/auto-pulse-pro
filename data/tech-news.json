@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T13:37:15.471680Z",
+  "updated_at": "2026-11-06T14:44:32.386173Z",
   "stories": [
     {
+      "title": "Gemini Omni 1.2 Flash",
+      "score": 62
+    },
+    {
       "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "score": 286
+      "score": 387
     },
     {
       "title": "Blender's UI and Runtime: Much Faster Than GPUI",
-      "score": 356
+      "score": 411
     },
     {
       "title": "Claude Code sends your email address to websites",
-      "score": 1295
+      "score": 1351
     },
     {
       "title": "We've built an open-source feature flag server for 11 years",
-      "score": 33
-    },
-    {
-      "title": "Living beyond the limits of survival: wood ants trapped in a gigantic pitfall (2016)",
-      "score": 69
+      "score": 58
     }
   ]
 }
