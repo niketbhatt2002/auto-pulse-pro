@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T17:47:33.958255Z",
+  "updated_at": "2026-11-06T20:17:28.854739Z",
   "repos": [
     {
       "name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 20166
+      "stars": 20201
     },
     {
       "name": "storytold/craft-anything",
-      "stars": 17475
-    },
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "stars": 3624
+      "stars": 17693
     },
     {
       "name": "zortos293/Lichii",
-      "stars": 3514
+      "stars": 3697
+    },
+    {
+      "name": "KKKKhazix/agent-autoloop",
+      "stars": 3643
     },
     {
       "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": 2837
+      "stars": 2856
     }
   ]
 }
