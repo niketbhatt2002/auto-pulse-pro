@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T17:00:46.043593Z",
+  "updated_at": "2026-11-06T17:47:32.723318Z",
   "stories": [
     {
-      "title": "Deus Ex",
-      "score": 124
-    },
-    {
-      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
-      "score": 516
-    },
-    {
-      "title": "FAA Begins Retiring Decades Old Floppy Disks from Air Traffic Control",
-      "score": 62
+      "title": "FAA begins retiring decades old floppy disks from air traffic control",
+      "score": 88
     },
     {
       "title": "RIP Cybertruck",
-      "score": 209
+      "score": 283
     },
     {
       "title": "Gemini Omni 1.2 Flash",
-      "score": 189
+      "score": 208
+    },
+    {
+      "title": "Deus Ex",
+      "score": 198
+    },
+    {
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "score": 541
     }
   ]
 }
