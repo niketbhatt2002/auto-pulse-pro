@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T00:52:11.659934Z",
+  "updated_at": "2026-11-06T03:20:51.781511Z",
   "stories": [
     {
       "title": "Claude Code sends your email address to websites",
-      "score": 407
+      "score": 630
     },
     {
       "title": "Search for everyone",
-      "score": 475
-    },
-    {
-      "title": "MS Paint Remote Code Execution Vulnerability",
-      "score": 279
+      "score": 578
     },
     {
       "title": "sshole",
-      "score": 2270
+      "score": 2390
     },
     {
-      "title": "Alpine Linux Security Advisory: OpenSSH-server password authentication bypass",
-      "score": 574
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "score": 351
+    },
+    {
+      "title": "Inkling 2 Small",
+      "score": 89
     }
   ]
 }
