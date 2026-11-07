@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-07T16:43:22.785499Z",
+  "updated_at": "2026-11-07T18:32:09.302393Z",
   "stories": [
     {
+      "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+      "score": 55
+    },
+    {
       "title": "The $8 Linux Computer (2022)",
-      "score": 81
+      "score": 138
+    },
+    {
+      "title": "The End of AI Frontiers",
+      "score": 16
+    },
+    {
+      "title": "How Long Can Life Wait?",
+      "score": 52
     },
     {
       "title": "Need for Speed Underground 2 online in the browser",
-      "score": 446
-    },
-    {
-      "title": "Libghostty 1.0",
-      "score": 885
-    },
-    {
-      "title": "Running a law firm on Free software",
-      "score": 115
-    },
-    {
-      "title": "British Library Legal deposit and web archiving",
-      "score": 29
+      "score": 558
     }
   ]
 }

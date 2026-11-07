@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-07T16:43:23.665550Z",
+  "updated_at": "2026-11-07T18:32:10.095218Z",
   "repos": [
     {
       "name": "KKKKhazix/agent-autoloop",
-      "stars": 3920
+      "stars": 3938
     },
     {
       "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": 3021
+      "stars": 3032
     },
     {
       "name": "govijr/terminal-mac",
-      "stars": 2220
-    },
-    {
-      "name": "mromidev/claude-animated-shorts",
-      "stars": 2169
+      "stars": 2227
     },
     {
       "name": "Minireel/HGhub",
-      "stars": 2144
+      "stars": 2197
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 2185
     }
   ]
 }
