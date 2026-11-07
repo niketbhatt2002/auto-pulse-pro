@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-07T02:38:29.917200Z",
+  "updated_at": "2026-11-07T12:17:03.273129Z",
   "stories": [
     {
+      "title": "Upload Your RAM",
+      "score": 98
+    },
+    {
+      "title": "Every Mac comes with an (undocumented) family member classifier",
+      "score": 143
+    },
+    {
       "title": "Libghostty 1.0",
-      "score": 227
+      "score": 718
+    },
+    {
+      "title": "Need for Speed Underground 2 online in the browser",
+      "score": 68
     },
     {
       "title": "A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost",
-      "score": 352
-    },
-    {
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "score": 30
-    },
-    {
-      "title": "Tesla to wind down Cybertruck production",
-      "score": 867
-    },
-    {
-      "title": "Firecracker VM Escape: PwnEscape Part 2",
-      "score": 180
+      "score": 503
     }
   ]
 }
