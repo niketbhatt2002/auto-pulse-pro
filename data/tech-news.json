@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-07T20:34:42.079246Z",
+  "updated_at": "2026-11-07T23:29:29.209732Z",
   "stories": [
     {
       "title": "The end of Microsoft Research's AI Frontiers group",
-      "score": 188
+      "score": 316
     },
     {
       "title": "What I run on my $10 USD OpenStick homelab",
-      "score": 124
+      "score": 263
     },
     {
       "title": "Apple\u2019s grey list: Words and phrases your iPhone won\u2019t help you spell",
-      "score": 161
+      "score": 299
+    },
+    {
+      "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files",
+      "score": 80
     },
     {
       "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
-      "score": 118
-    },
-    {
-      "title": "MaxxBench \u2013 \"Nice DeepSWE score. But is it true?\"",
-      "score": 100
+      "score": 172
     }
   ]
 }
