@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-07T15:57:52.178430Z",
+  "updated_at": "2026-11-07T16:43:22.785499Z",
   "stories": [
     {
       "title": "The $8 Linux Computer (2022)",
-      "score": 52
+      "score": 81
     },
     {
       "title": "Need for Speed Underground 2 online in the browser",
-      "score": 394
+      "score": 446
     },
     {
       "title": "Libghostty 1.0",
-      "score": 859
+      "score": 885
     },
     {
       "title": "Running a law firm on Free software",
-      "score": 87
+      "score": 115
     },
     {
       "title": "British Library Legal deposit and web archiving",
-      "score": 17
+      "score": 29
     }
   ]
 }
