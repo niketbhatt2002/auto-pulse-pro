@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-07T13:42:15.301553Z",
+  "updated_at": "2026-11-07T14:34:29.561977Z",
   "stories": [
     {
       "title": "Need for Speed Underground 2 online in the browser",
-      "score": 155
+      "score": 262
+    },
+    {
+      "title": "I don't care if web content is AI-generated",
+      "score": 7
     },
     {
       "title": "Libghostty 1.0",
-      "score": 774
-    },
-    {
-      "title": "Upload Your RAM",
-      "score": 183
+      "score": 807
     },
     {
       "title": "Every Mac comes with an (undocumented) family member classifier",
-      "score": 226
+      "score": 266
     },
     {
-      "title": "Tesla to wind down Cybertruck production",
-      "score": 1058
+      "title": "Running a law firm on Free software",
+      "score": 54
     }
   ]
 }
