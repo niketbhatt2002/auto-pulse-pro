@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-06T23:58:51.995213Z",
+  "updated_at": "2026-11-07T02:38:30.943867Z",
   "repos": [
     {
-      "name": "deepseek-ai/dsh-superagent-prototype",
-      "stars": 20231
-    },
-    {
-      "name": "storytold/craft-anything",
-      "stars": 17993
-    },
-    {
-      "name": "zortos293/Lichii",
-      "stars": 3927
-    },
-    {
       "name": "KKKKhazix/agent-autoloop",
-      "stars": 3672
+      "stars": 3710
     },
     {
       "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": 2879
+      "stars": 2902
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2162
+    },
+    {
+      "name": "mromidev/claude-animated-shorts",
+      "stars": 2037
+    },
+    {
+      "name": "caru-ini/stack-diagram",
+      "stars": 1974
     }
   ]
 }
