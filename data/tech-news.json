@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-07T15:32:42.889567Z",
+  "updated_at": "2026-11-07T15:57:52.178430Z",
   "stories": [
     {
       "title": "The $8 Linux Computer (2022)",
-      "score": 37
+      "score": 52
     },
     {
       "title": "Need for Speed Underground 2 online in the browser",
-      "score": 353
+      "score": 394
     },
     {
       "title": "Libghostty 1.0",
-      "score": 849
-    },
-    {
-      "title": "Every Mac comes with an (undocumented) family member classifier",
-      "score": 324
+      "score": 859
     },
     {
       "title": "Running a law firm on Free software",
-      "score": 79
+      "score": 87
+    },
+    {
+      "title": "British Library Legal deposit and web archiving",
+      "score": 17
     }
   ]
 }
