@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-08T14:40:47.148231Z",
+  "updated_at": "2026-11-08T15:52:26.741877Z",
   "stories": [
     {
-      "title": "Person of Interest",
-      "score": 172
-    },
-    {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "score": 74
-    },
-    {
-      "title": "Quadrillion-parameter transformers and how to train them",
-      "score": 21
-    },
-    {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "score": 43
+      "score": 136
     },
     {
       "title": "Porting Android 16 to my blind mother's keypad phone",
-      "score": 31
+      "score": 70
+    },
+    {
+      "title": "Quadrillion-parameter transformers and how to train them",
+      "score": 44
+    },
+    {
+      "title": "Writing as a Thinking Tool",
+      "score": 47
+    },
+    {
+      "title": "Person of Interest",
+      "score": 210
     }
   ]
 }
