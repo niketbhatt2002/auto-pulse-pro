@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-08T15:52:26.741877Z",
+  "updated_at": "2026-11-08T16:27:00.931447Z",
   "stories": [
     {
+      "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
+      "score": 56
+    },
+    {
+      "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
+      "score": 12
+    },
+    {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "score": 136
+      "score": 156
     },
     {
-      "title": "Porting Android 16 to my blind mother's keypad phone",
-      "score": 70
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "score": 67
     },
     {
-      "title": "Quadrillion-parameter transformers and how to train them",
-      "score": 44
-    },
-    {
-      "title": "Writing as a Thinking Tool",
-      "score": 47
-    },
-    {
-      "title": "Person of Interest",
-      "score": 210
+      "title": "The Reconstruction of Torn Documents",
+      "score": 11
     }
   ]
 }
