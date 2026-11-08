@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-08T12:37:12.121150Z",
+  "updated_at": "2026-11-08T14:00:49.381464Z",
   "repos": [
     {
       "name": "KKKKhazix/agent-autoloop",
-      "stars": 4048
+      "stars": 4057
     },
     {
       "name": "worldonlyu/Google_AI_Pro_2Year_ZeroCost_Auto",
-      "stars": 3187
+      "stars": 3195
     },
     {
       "name": "Minireel/HGhub",
-      "stars": 2719
-    },
-    {
-      "name": "govijr/terminal-mac",
-      "stars": 2330
+      "stars": 2757
     },
     {
       "name": "NotRexed/Hookshot",
-      "stars": 2311
+      "stars": 2398
+    },
+    {
+      "name": "govijr/terminal-mac",
+      "stars": 2344
     }
   ]
 }

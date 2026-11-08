@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-08T12:37:11.003928Z",
+  "updated_at": "2026-11-08T14:00:48.485265Z",
   "stories": [
     {
       "title": "Person of Interest",
-      "score": 74
+      "score": 132
     },
     {
       "title": "Petered (what happens after the Peter Principle)",
-      "score": 37
-    },
-    {
-      "title": "Goodbye Claude, Hello Pi",
-      "score": 387
-    },
-    {
-      "title": "JIT bitmap text rendering for microcontrollers",
-      "score": 18
+      "score": 72
     },
     {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "score": 12
+      "score": 57
+    },
+    {
+      "title": "JIT bitmap text rendering for microcontrollers",
+      "score": 32
+    },
+    {
+      "title": "Goodbye Claude, Hello Pi",
+      "score": 435
     }
   ]
 }
