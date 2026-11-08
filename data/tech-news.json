@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-08T20:48:58.435219Z",
+  "updated_at": "2026-11-08T23:28:10.873261Z",
   "stories": [
     {
-      "title": "Goldman Sachs Is Pulling Claude Code from Its Bankers and Traders",
-      "score": 323
-    },
-    {
-      "title": "How I Fight AI Brain Fry",
-      "score": 37
+      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
+      "score": 183
     },
     {
       "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "score": 61
+      "score": 155
     },
     {
-      "title": "Nvidia Board of Directors Is Investigating Jensen Huang",
-      "score": 66
+      "title": "Ask HN: What are you working on? (November 2026)",
+      "score": 65
     },
     {
-      "title": "Outlook.com Is Quietly Rejecting Email from Domains Without DMARC",
-      "score": 74
+      "title": "Chimera Vocal Synth",
+      "score": 19
+    },
+    {
+      "title": "Declarative Dragging",
+      "score": 256
     }
   ]
 }
