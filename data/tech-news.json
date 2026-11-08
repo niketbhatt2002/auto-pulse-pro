@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-08T16:27:00.931447Z",
+  "updated_at": "2026-11-08T16:54:21.127443Z",
   "stories": [
     {
       "title": "Tesla Hasn't Had a Successful New Product Launch Since JB Straubel Stepped Down",
-      "score": 56
-    },
-    {
-      "title": "I Have Never Seen a Game Fail Because the Artists Were Too Slow",
-      "score": 12
+      "score": 126
     },
     {
       "title": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU",
-      "score": 156
-    },
-    {
-      "title": "OpenAI raises $11B at a $1.25T valuation",
-      "score": 67
+      "score": 171
     },
     {
       "title": "The Reconstruction of Torn Documents",
-      "score": 11
+      "score": 25
+    },
+    {
+      "title": "OpenAI raises $11B at a $1.25T valuation",
+      "score": 98
+    },
+    {
+      "title": "I'm not a fan of Deno's security model (2024)",
+      "score": 22
     }
   ]
 }
