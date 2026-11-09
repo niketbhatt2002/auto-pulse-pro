@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T19:39:19.887430Z",
+  "updated_at": "2026-11-09T20:16:18.766950Z",
   "stories": [
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 301
-    },
-    {
-      "title": "Too many men suffering in silence, national health report finds (Canada)",
-      "score": 199
-    },
-    {
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
-      "score": 89
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 299
+      "score": 353
     },
     {
       "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "score": 25
+      "score": 65
+    },
+    {
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "score": 481
+    },
+    {
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "score": 128
+    },
+    {
+      "title": "CUI \u2013 Native UI components for C",
+      "score": 29
     }
   ]
 }
