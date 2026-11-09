@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T17:03:55.317903Z",
+  "updated_at": "2026-11-09T18:05:37.731618Z",
   "stories": [
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 65
+      "score": 180
     },
     {
       "title": "Fold Epic Paper Airplanes",
-      "score": 467
+      "score": 543
     },
     {
-      "title": "The same H100 costs $2.69 or $12.29 an hour depending where you rent it",
-      "score": 54
+      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
+      "score": 105
     },
     {
-      "title": "I Saw Your HN Comment",
-      "score": 226
+      "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
+      "score": 18
     },
     {
-      "title": "Humans will never again create a project like Wikipedia",
-      "score": 400
+      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
+      "score": 34
     }
   ]
 }
