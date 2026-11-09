@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T02:30:51.967507Z",
+  "updated_at": "2026-11-09T14:55:39.372101Z",
   "stories": [
     {
-      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
-      "score": 229
+      "title": "Humans will never again create a project like Wikipedia",
+      "score": 255
     },
     {
-      "title": "Unlocking any car from X brand in most of the world",
-      "score": 78
+      "title": "Fold Epic Paper Airplanes",
+      "score": 264
     },
     {
-      "title": "Chimera Vocal Synth",
-      "score": 99
+      "title": "Children of Men: The Future Is a Mirror for the Present",
+      "score": 55
     },
     {
-      "title": "I'm Not Convinced the AI Bubble Exists",
-      "score": 42
+      "title": "What is malloc doing, anyway?",
+      "score": 64
     },
     {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "score": 208
+      "title": "Zebkit \u2013 Chromium's engine as a library you link, not a runtime you live in",
+      "score": 14
     }
   ]
 }
