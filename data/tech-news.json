@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T20:16:18.766950Z",
+  "updated_at": "2026-11-09T21:16:04.226838Z",
   "stories": [
     {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 353
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "score": 145
     },
     {
-      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
-      "score": 65
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "score": 396
+    },
+    {
+      "title": "E-means: 10x faster k-means at equal loss",
+      "score": 120
     },
     {
       "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 481
+      "score": 680
     },
     {
-      "title": "Our Smallest, Most Efficient Model: Muse Ember",
-      "score": 128
-    },
-    {
-      "title": "CUI \u2013 Native UI components for C",
-      "score": 29
+      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
+      "score": 51
     }
   ]
 }
