@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-08T23:28:10.873261Z",
+  "updated_at": "2026-11-09T02:30:51.967507Z",
   "stories": [
     {
-      "title": "Nvidia CEO Jensen Huang's letter to staff about affair",
-      "score": 183
+      "title": "KetchUp \u2013 Open-source SketchUp alternative built with Rust and WebGPU",
+      "score": 229
     },
     {
-      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
-      "score": 155
-    },
-    {
-      "title": "Ask HN: What are you working on? (November 2026)",
-      "score": 65
+      "title": "Unlocking any car from X brand in most of the world",
+      "score": 78
     },
     {
       "title": "Chimera Vocal Synth",
-      "score": 19
+      "score": 99
     },
     {
-      "title": "Declarative Dragging",
-      "score": 256
+      "title": "I'm Not Convinced the AI Bubble Exists",
+      "score": 42
+    },
+    {
+      "title": "Dux: Free, open-source Wayland desktop shell with file manager and theming",
+      "score": 208
     }
   ]
 }
