@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T18:05:37.731618Z",
+  "updated_at": "2026-11-09T19:39:19.887430Z",
   "stories": [
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 180
+      "score": 301
     },
     {
-      "title": "Fold Epic Paper Airplanes",
-      "score": 543
+      "title": "Too many men suffering in silence, national health report finds (Canada)",
+      "score": 199
     },
     {
-      "title": "Magenta solar panels may be agrivoltaics' cleverest trick yet",
-      "score": 105
+      "title": "Our Smallest, Most Efficient Model: Muse Ember",
+      "score": 89
     },
     {
-      "title": "Show HN: DBDelve \u2013 Open-Source DB Client Made with Rust and GPUI",
-      "score": 18
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "score": 299
     },
     {
-      "title": "When will this stop? The Raspberry Pi 5 16GB SBC now sells for $385",
-      "score": 34
+      "title": "DeepX claims inference up to 100B parameters at less than 5 W",
+      "score": 25
     }
   ]
 }
