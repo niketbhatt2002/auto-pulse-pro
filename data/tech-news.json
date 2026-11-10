@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T02:35:24.550957Z",
+  "updated_at": "2026-11-10T04:32:46.731471Z",
   "stories": [
     {
       "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 177
+      "score": 324
     },
     {
       "title": "USPS now offers official ZIP Code boundary polygons",
-      "score": 494
-    },
-    {
-      "title": "Fable 5.2 one-shotted my nephew's dream game",
-      "score": 177
+      "score": 544
     },
     {
       "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "score": 278
+      "score": 313
     },
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 476
+      "score": 490
+    },
+    {
+      "title": "Foldable Flight: The Best Paper Airplanes",
+      "score": 898
     }
   ]
 }
