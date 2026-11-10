@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T15:58:57.883181Z",
+  "updated_at": "2026-11-10T16:53:51.328065Z",
   "stories": [
     {
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "score": 98
+    },
+    {
       "title": "AlphaProof Code",
-      "score": 342
+      "score": 407
+    },
+    {
+      "title": "Gemini 4 Carbon is now available",
+      "score": 119
     },
     {
       "title": "The Hardest Tarball?",
-      "score": 41
+      "score": 90
     },
     {
       "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "score": 540
-    },
-    {
-      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
-      "score": 63
-    },
-    {
-      "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 783
+      "score": 574
     }
   ]
 }
