@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T14:08:14.959754Z",
+  "updated_at": "2026-11-10T15:58:57.883181Z",
   "stories": [
     {
       "title": "AlphaProof Code",
-      "score": 198
+      "score": 342
     },
     {
-      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
-      "score": 13
-    },
-    {
-      "title": "Ableton Live 13",
-      "score": 59
+      "title": "The Hardest Tarball?",
+      "score": 41
     },
     {
       "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "score": 448
+      "score": 540
+    },
+    {
+      "title": "NetBSD 11 desktop on a Raspberry Pi 4",
+      "score": 63
     },
     {
       "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 711
+      "score": 783
     }
   ]
 }
