@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T00:28:07.896600Z",
+  "updated_at": "2026-11-10T02:35:24.550957Z",
   "stories": [
     {
       "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 874
+      "score": 177
     },
     {
       "title": "USPS now offers official ZIP Code boundary polygons",
-      "score": 412
+      "score": 494
     },
     {
-      "title": "TPUs",
-      "score": 171
+      "title": "Fable 5.2 one-shotted my nephew's dream game",
+      "score": 177
     },
     {
-      "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "score": 338
+      "title": "E-means: Outperforming k-means in one-tenth the epochs",
+      "score": 278
     },
     {
       "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 449
+      "score": 476
     }
   ]
 }
