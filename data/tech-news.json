@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T23:18:48.259273Z",
+  "updated_at": "2026-11-10T00:28:07.896600Z",
   "stories": [
     {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "score": 343
+      "title": "Claude Fable 5.2 and Mythos 5.2",
+      "score": 874
     },
     {
-      "title": "Claude Fable 5.2 Scores 65 on Artificial Analysis, Highest So Far",
-      "score": 215
+      "title": "USPS now offers official ZIP Code boundary polygons",
+      "score": 412
     },
     {
       "title": "TPUs",
-      "score": 75
+      "score": 171
     },
     {
       "title": "Google Gemini routes personal Drive files and emails to human annotators",
-      "score": 251
+      "score": 338
     },
     {
-      "title": "E-means: 10x faster k-means at equal loss",
-      "score": 225
+      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
+      "score": 449
     }
   ]
 }

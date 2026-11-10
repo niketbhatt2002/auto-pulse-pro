@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-09T23:18:49.386160Z",
+  "updated_at": "2026-11-10T00:28:08.995422Z",
   "repos": [
     {
-      "name": "Minireel/HGhub",
-      "stars": 5814
-    },
-    {
       "name": "NotRexed/Hookshot",
-      "stars": 4904
-    },
-    {
-      "name": "KKKKhazix/agent-autoloop",
-      "stars": 4270
-    },
-    {
-      "name": "govijr/terminal-mac",
-      "stars": 2504
+      "stars": 4994
     },
     {
       "name": "tangerineturtle1/NX2navi",
-      "stars": 2332
+      "stars": 2374
+    },
+    {
+      "name": "JenkinWoo/sheeridVerify",
+      "stars": 1927
+    },
+    {
+      "name": "jhaizhou-ops/S2Arm",
+      "stars": 1757
+    },
+    {
+      "name": "huamidev/GestaltX",
+      "stars": 1565
     }
   ]
 }
