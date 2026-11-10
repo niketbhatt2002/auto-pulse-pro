@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T04:32:46.731471Z",
+  "updated_at": "2026-11-10T14:08:14.959754Z",
   "stories": [
     {
+      "title": "AlphaProof Code",
+      "score": 198
+    },
+    {
+      "title": "Compress any LLM 3x in one click,near-lossless,in under 50 MB RAM",
+      "score": 13
+    },
+    {
+      "title": "Ableton Live 13",
+      "score": 59
+    },
+    {
+      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
+      "score": 448
+    },
+    {
       "title": "Claude Fable 5.2 and Mythos 5.2",
-      "score": 324
-    },
-    {
-      "title": "USPS now offers official ZIP Code boundary polygons",
-      "score": 544
-    },
-    {
-      "title": "E-means: Outperforming k-means in one-tenth the epochs",
-      "score": 313
-    },
-    {
-      "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system",
-      "score": 490
-    },
-    {
-      "title": "Foldable Flight: The Best Paper Airplanes",
-      "score": 898
+      "score": 711
     }
   ]
 }
