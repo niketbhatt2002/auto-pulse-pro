@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T17:22:14.377394Z",
+  "updated_at": "2026-11-10T18:27:17.131706Z",
   "stories": [
     {
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "score": 158
-    },
-    {
       "title": ".name Grandfathered",
-      "score": 110
-    },
-    {
-      "title": "AlphaProof Code",
-      "score": 432
-    },
-    {
-      "title": "Gemini 4 Carbon is now available",
-      "score": 169
+      "score": 278
     },
     {
       "title": "Smart home devices should work without the internet",
-      "score": 64
+      "score": 177
+    },
+    {
+      "title": "AlphaProof Code",
+      "score": 471
+    },
+    {
+      "title": "Blender 5.3 released with Gaussian Splat support",
+      "score": 252
+    },
+    {
+      "title": "Ableton Live 13",
+      "score": 173
     }
   ]
 }
