@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T16:53:51.328065Z",
+  "updated_at": "2026-11-10T17:22:14.377394Z",
   "stories": [
     {
       "title": "Blender 5.3 released with Gaussian Splat support",
-      "score": 98
+      "score": 158
+    },
+    {
+      "title": ".name Grandfathered",
+      "score": 110
     },
     {
       "title": "AlphaProof Code",
-      "score": 407
+      "score": 432
     },
     {
       "title": "Gemini 4 Carbon is now available",
-      "score": 119
+      "score": 169
     },
     {
-      "title": "The Hardest Tarball?",
-      "score": 90
-    },
-    {
-      "title": "Amazon saves millions by replacing Sonnet 4.6 with Strands Decider",
-      "score": 574
+      "title": "Smart home devices should work without the internet",
+      "score": 64
     }
   ]
 }
