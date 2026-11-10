@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T18:27:17.131706Z",
+  "updated_at": "2026-11-10T20:43:43.788679Z",
   "stories": [
     {
       "title": ".name Grandfathered",
-      "score": 278
+      "score": 467
     },
     {
       "title": "Smart home devices should work without the internet",
-      "score": 177
+      "score": 431
     },
     {
-      "title": "AlphaProof Code",
-      "score": 471
+      "title": "Synaptics patent claims stop work on DisplayLink drivers",
+      "score": 145
     },
     {
-      "title": "Blender 5.3 released with Gaussian Splat support",
-      "score": 252
+      "title": "Val Town is winding down",
+      "score": 179
     },
     {
-      "title": "Ableton Live 13",
-      "score": 173
+      "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives",
+      "score": 130
     }
   ]
 }
