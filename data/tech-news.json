@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11T18:20:26.113551Z",
+  "updated_at": "2026-11-11T21:07:45.979854Z",
   "stories": [
     {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "score": 163
+      "title": "AWS Finally Built Its Own AWS Emulator",
+      "score": 414
     },
     {
       "title": "Tim Peters has died",
-      "score": 172
+      "score": 576
     },
     {
-      "title": "Faster Retrieval for Better, More Efficient RAG",
-      "score": 39
+      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
+      "score": 303
     },
     {
-      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "score": 775
+      "title": "AWS Emulator and the engineer's job when agents write the code",
+      "score": 86
     },
     {
-      "title": "Hyper-Realistic Sand with WebGL2",
-      "score": 171
+      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
+      "score": 90
     }
   ]
 }
