@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-10T21:59:46.913001Z",
+  "updated_at": "2026-11-11T00:27:32.103052Z",
   "stories": [
     {
+      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
+      "score": 288
+    },
+    {
+      "title": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings",
+      "score": 122
+    },
+    {
       "title": ".name Grandfathered",
-      "score": 555
+      "score": 649
     },
     {
       "title": "Smart home devices should work without the internet",
-      "score": 542
-    },
-    {
-      "title": "Toyota brand Scion is back and it's going to sell a kei truck in America",
-      "score": 70
-    },
-    {
-      "title": "Synaptics patent claims stop work on DisplayLink drivers",
-      "score": 208
+      "score": 663
     },
     {
       "title": "Six Math Essentials by Terence Tao",
-      "score": 31
+      "score": 100
     }
   ]
 }
