@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11T17:32:52.483543Z",
+  "updated_at": "2026-11-11T18:20:26.113551Z",
   "stories": [
     {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "score": 80
+      "score": 163
+    },
+    {
+      "title": "Tim Peters has died",
+      "score": 172
+    },
+    {
+      "title": "Faster Retrieval for Better, More Efficient RAG",
+      "score": 39
     },
     {
       "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "score": 722
-    },
-    {
-      "title": "Atuin Threads: All your agent sessions on every machine",
-      "score": 99
+      "score": 775
     },
     {
       "title": "Hyper-Realistic Sand with WebGL2",
-      "score": 132
-    },
-    {
-      "title": "Can a Linear Program Do Weight-Space Programming?",
-      "score": 164
+      "score": 171
     }
   ]
 }
