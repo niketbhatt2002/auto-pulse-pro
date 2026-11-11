@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11T21:07:45.979854Z",
+  "updated_at": "2026-11-11T23:08:57.925822Z",
   "stories": [
     {
-      "title": "AWS Finally Built Its Own AWS Emulator",
-      "score": 414
+      "title": "AWS emulator",
+      "score": 548
     },
     {
       "title": "Tim Peters has died",
-      "score": 576
+      "score": 730
+    },
+    {
+      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+      "score": 200
     },
     {
       "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
-      "score": 303
+      "score": 367
     },
     {
-      "title": "AWS Emulator and the engineer's job when agents write the code",
-      "score": 86
-    },
-    {
-      "title": "Show HN: I recreated Papers Please but you're deciding which YC startups to fund",
-      "score": 90
+      "title": "Gemini Decisions API",
+      "score": 187
     }
   ]
 }
