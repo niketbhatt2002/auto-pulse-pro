@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11T02:39:10.191471Z",
+  "updated_at": "2026-11-11T13:24:44.961480Z",
   "stories": [
     {
-      "title": "After 7 months, Glasswing overwelms maintainers with underwhelming findings",
-      "score": 268
+      "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
+      "score": 108
     },
     {
-      "title": "A great old-timey game-programming hack (2013)",
-      "score": 18
+      "title": "Can a Linear Program Do Weight-Space Programming?",
+      "score": 31
     },
     {
-      "title": ".name Grandfathered",
-      "score": 699
+      "title": "Using voltage glitching to unleash the A100 in my mining card",
+      "score": 51
     },
     {
-      "title": "Scion is back and is going to sell a kei truck in America",
-      "score": 346
+      "title": "Protecting SSH Keys with macOS Secure Enclave",
+      "score": 277
     },
     {
       "title": "Smart home devices should work without the internet",
-      "score": 733
+      "score": 1053
     }
   ]
 }
