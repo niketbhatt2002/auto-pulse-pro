@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11T13:24:44.961480Z",
+  "updated_at": "2026-11-11T14:52:21.273252Z",
   "stories": [
     {
       "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h",
-      "score": 108
+      "score": 386
     },
     {
       "title": "Can a Linear Program Do Weight-Space Programming?",
-      "score": 31
+      "score": 91
+    },
+    {
+      "title": "Pharo in the Browser with WebAssembly",
+      "score": 18
+    },
+    {
+      "title": "Atuin Threads: All your agent sessions on every machine",
+      "score": 13
     },
     {
       "title": "Using voltage glitching to unleash the A100 in my mining card",
-      "score": 51
-    },
-    {
-      "title": "Protecting SSH Keys with macOS Secure Enclave",
-      "score": 277
-    },
-    {
-      "title": "Smart home devices should work without the internet",
-      "score": 1053
+      "score": 94
     }
   ]
 }
