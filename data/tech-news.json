@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T14:29:29.639446Z",
+  "updated_at": "2026-11-12T15:43:30.514082Z",
   "stories": [
     {
-      "title": "NVIDIA Announces CEO Transition",
-      "score": 458
+      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
+      "score": 56
     },
     {
-      "title": "Why Writing Correct Software Is Hard",
-      "score": 173
+      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
+      "score": 57
     },
     {
       "title": "Jensen Huang resigns as Nvidia CEO immediately",
-      "score": 110
+      "score": 338
     },
     {
-      "title": "Jane Street: Socratic Tutor",
-      "score": 449
+      "title": "Why Writing Correct Software Is Hard",
+      "score": 217
     },
     {
-      "title": "A live tree of systemd jobs on the boot console",
-      "score": 206
+      "title": "NVIDIA Announces CEO Transition",
+      "score": 981
     }
   ]
 }
