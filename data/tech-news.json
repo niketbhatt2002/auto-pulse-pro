@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T17:47:32.016812Z",
+  "updated_at": "2026-11-12T18:40:22.894688Z",
   "stories": [
     {
-      "title": "NVIDIA Announces CEO Transition",
-      "score": 1535
+      "title": "Jensen Huang resigns",
+      "score": 1780
     },
     {
-      "title": "Anthropic IPO",
-      "score": 588
+      "title": "Rust 1.100.0",
+      "score": 50
+    },
+    {
+      "title": "Gemini 4 Hydrogen",
+      "score": 150
     },
     {
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "score": 129
+      "score": 161
     },
     {
       "title": "I'm making LLMs work on small and old devices",
-      "score": 81
-    },
-    {
-      "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "score": 103
+      "score": 129
     }
   ]
 }
