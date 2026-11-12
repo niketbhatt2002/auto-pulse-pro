@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T21:21:58.452868Z",
+  "updated_at": "2026-11-12T22:28:23.605440Z",
   "stories": [
     {
       "title": "Jensen Huang resigns",
-      "score": 2383
-    },
-    {
-      "title": "Ask HN: Microsoft/Azure Outage?",
-      "score": 347
-    },
-    {
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "score": 156
+      "score": 2576
     },
     {
       "title": "Rust 1.100",
-      "score": 110
+      "score": 217
+    },
+    {
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "score": 193
+    },
+    {
+      "title": "Foundation Models Framework (macOS)",
+      "score": 43
     },
     {
       "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
-      "score": 93
+      "score": 137
     }
   ]
 }
