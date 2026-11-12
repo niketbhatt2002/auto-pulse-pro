@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11T23:08:58.816159Z",
+  "updated_at": "2026-11-12T01:49:33.542023Z",
   "repos": [
     {
-      "name": "NotRexed/Hookshot",
-      "stars": 7708
-    },
-    {
       "name": "huamidev/GestaltX",
-      "stars": 6174
+      "stars": 6287
     },
     {
       "name": "tangerineturtle1/NX2navi",
-      "stars": 3228
+      "stars": 3270
     },
     {
       "name": "jhaizhou-ops/S2Arm",
-      "stars": 2582
+      "stars": 2600
     },
     {
       "name": "JenkinWoo/sheeridVerify",
-      "stars": 2033
+      "stars": 2036
+    },
+    {
+      "name": "DIYgod/pinky",
+      "stars": 1875
     }
   ]
 }

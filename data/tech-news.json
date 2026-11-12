@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-11T23:08:57.925822Z",
+  "updated_at": "2026-11-12T01:49:32.683396Z",
   "stories": [
     {
+      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
+      "score": 144
+    },
+    {
       "title": "AWS emulator",
-      "score": 548
+      "score": 669
     },
     {
       "title": "Tim Peters has died",
-      "score": 730
+      "score": 866
     },
     {
       "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "score": 200
-    },
-    {
-      "title": "A false smoke alarm almost drowned Jane Street's only NYC datacenter",
       "score": 367
     },
     {
-      "title": "Gemini Decisions API",
-      "score": 187
+      "title": "Lock Your GitHub Actions",
+      "score": 119
     }
   ]
 }
