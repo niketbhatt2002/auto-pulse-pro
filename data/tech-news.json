@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T16:28:45.680727Z",
+  "updated_at": "2026-11-12T17:28:01.324118Z",
   "stories": [
     {
       "title": "NVIDIA Announces CEO Transition",
-      "score": 1205
+      "score": 1461
     },
     {
       "title": "Anthropic IPO",
-      "score": 422
+      "score": 555
     },
     {
       "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "score": 83
+      "score": 115
+    },
+    {
+      "title": "I'm making LLMs work on small and old devices",
+      "score": 60
     },
     {
       "title": "Talking Zen 6 with Mike Clark at AMD In-Depth",
-      "score": 74
-    },
-    {
-      "title": "Why Writing Correct Software Is Hard",
-      "score": 249
+      "score": 98
     }
   ]
 }
