@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T18:40:22.894688Z",
+  "updated_at": "2026-11-12T21:21:58.452868Z",
   "stories": [
     {
       "title": "Jensen Huang resigns",
-      "score": 1780
+      "score": 2383
     },
     {
-      "title": "Rust 1.100.0",
-      "score": 50
+      "title": "Ask HN: Microsoft/Azure Outage?",
+      "score": 347
     },
     {
-      "title": "Gemini 4 Hydrogen",
-      "score": 150
+      "title": "Gemini 4 Hydrogen and Orchestrator",
+      "score": 156
     },
     {
-      "title": "Abandoned Quake 4 expansion finished by modders and now playable",
-      "score": 161
+      "title": "Rust 1.100",
+      "score": 110
     },
     {
-      "title": "I'm making LLMs work on small and old devices",
-      "score": 129
+      "title": "Dwarf planet candidate appears which takes roughly 280 years to orbit our sun",
+      "score": 93
     }
   ]
 }
