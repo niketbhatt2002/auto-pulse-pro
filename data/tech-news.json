@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T03:42:21.380124Z",
+  "updated_at": "2026-11-12T14:29:29.639446Z",
   "stories": [
     {
-      "title": "93% of paint splatters are valid Perl programs (2019)",
-      "score": 219
+      "title": "NVIDIA Announces CEO Transition",
+      "score": 458
     },
     {
-      "title": "Tim Peters has died",
-      "score": 940
+      "title": "Why Writing Correct Software Is Hard",
+      "score": 173
     },
     {
-      "title": "AWS emulator",
-      "score": 731
+      "title": "Jensen Huang resigns as Nvidia CEO immediately",
+      "score": 110
     },
     {
-      "title": "Critical RCE Vulnerability in Apache HTTP Server",
-      "score": 24
+      "title": "Jane Street: Socratic Tutor",
+      "score": 449
     },
     {
-      "title": "Nvidia is preparing to oust Jensen Huang",
-      "score": 645
+      "title": "A live tree of systemd jobs on the boot console",
+      "score": 206
     }
   ]
 }
