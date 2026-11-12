@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-12T01:49:32.683396Z",
+  "updated_at": "2026-11-12T03:42:21.380124Z",
   "stories": [
     {
-      "title": "93% of Paint Splatters Are Valid Perl Programs (2019)",
-      "score": 144
-    },
-    {
-      "title": "AWS emulator",
-      "score": 669
+      "title": "93% of paint splatters are valid Perl programs (2019)",
+      "score": 219
     },
     {
       "title": "Tim Peters has died",
-      "score": 866
+      "score": 940
     },
     {
-      "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-      "score": 367
+      "title": "AWS emulator",
+      "score": 731
     },
     {
-      "title": "Lock Your GitHub Actions",
-      "score": 119
+      "title": "Critical RCE Vulnerability in Apache HTTP Server",
+      "score": 24
+    },
+    {
+      "title": "Nvidia is preparing to oust Jensen Huang",
+      "score": 645
     }
   ]
 }
