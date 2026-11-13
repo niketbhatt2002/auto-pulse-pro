@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-13T03:19:17.385589Z",
+  "updated_at": "2026-11-13T13:46:58.848556Z",
   "stories": [
     {
-      "title": "Africa's solar revolution is vast and speedy",
-      "score": 53
+      "title": "Doomsday: Friday, 13 November, A.D. 2026 (1960)",
+      "score": 143
     },
     {
       "title": "Jensen Huang resigns",
-      "score": 3079
+      "score": 3713
+    },
+    {
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "score": 307
+    },
+    {
+      "title": "IceWM",
+      "score": 259
     },
     {
       "title": "Rust 1.100",
-      "score": 471
-    },
-    {
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "score": 333
-    },
-    {
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "score": 95
+      "score": 755
     }
   ]
 }
