@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-13T20:47:54.038643Z",
+  "updated_at": "2026-11-13T22:15:57.992129Z",
   "repos": [
     {
       "name": "huamidev/GestaltX",
-      "stars": 7270
+      "stars": 7283
     },
     {
       "name": "tangerineturtle1/NX2navi",
-      "stars": 3841
+      "stars": 3856
     },
     {
       "name": "jhaizhou-ops/S2Arm",
-      "stars": 2862
+      "stars": 2864
     },
     {
       "name": "Kianuni/Erosion-CN",
-      "stars": 1904
+      "stars": 1906
     },
     {
-      "name": "HybridRobotics/supermimic",
-      "stars": 1430
+      "name": "apex-compute/ANR",
+      "stars": 1432
     }
   ]
 }
