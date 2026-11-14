@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T15:40:16.131946Z",
+  "updated_at": "2026-11-14T16:14:14.504137Z",
   "stories": [
     {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "score": 300
-    },
-    {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "score": 34
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "score": 16
     },
     {
       "title": "KDE: The Documentary on Free Software [video]",
-      "score": 31
+      "score": 68
     },
     {
-      "title": "Generative AI uses more energy on non-English text",
-      "score": 62
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "score": 326
     },
     {
       "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "score": 30
+      "score": 38
+    },
+    {
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "score": 49
     }
   ]
 }
