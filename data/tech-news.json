@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T20:59:21.776959Z",
+  "updated_at": "2026-11-14T23:43:25.828448Z",
   "stories": [
     {
       "title": "Lovable apps expose passport details and more than 200K private messages",
-      "score": 395
+      "score": 572
+    },
+    {
+      "title": "L3Harris Statement on the Nov. 13 Ground Stop",
+      "score": 22
+    },
+    {
+      "title": "SpaceX Catches the Starship to end Flight 15",
+      "score": 475
     },
     {
       "title": "A Family Tree of Software Job Titles",
-      "score": 93
+      "score": 175
     },
     {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "score": 159
-    },
-    {
-      "title": "KDE: The documentary [video]",
-      "score": 294
-    },
-    {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "score": 450
+      "title": "How did Woz write the Apple 1 BASIC before building the computer?",
+      "score": 20
     }
   ]
 }
