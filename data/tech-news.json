@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T12:51:07.760237Z",
+  "updated_at": "2026-11-14T13:54:22.631278Z",
   "stories": [
     {
       "title": "Why get an expensive Pi when I have an old phone?",
-      "score": 150
+      "score": 208
+    },
+    {
+      "title": "Generative AI uses more energy on non-English text",
+      "score": 18
     },
     {
       "title": "Ggml v1.0.0",
-      "score": 303
+      "score": 317
     },
     {
       "title": "Monkey Island: all 13 versions side by side",
-      "score": 215
+      "score": 256
     },
     {
-      "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-      "score": 714
-    },
-    {
-      "title": "Unsloth Qwen3.8-27B Quantizations \u2013 Dynamic v3.1 Update",
-      "score": 173
+      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+      "score": 40
     }
   ]
 }
