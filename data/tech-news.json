@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-13T22:15:57.297863Z",
+  "updated_at": "2026-11-14T00:45:21.917386Z",
   "stories": [
     {
-      "title": "FAA Issues National Ground Stop",
-      "score": 614
+      "title": "FAA issues national ground stop",
+      "score": 1229
     },
     {
-      "title": "$11.4M in Nvidia hardware vanishes during shipment from CA to TX",
-      "score": 198
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "score": 157
+    },
+    {
+      "title": "First Strike",
+      "score": 45
     },
     {
       "title": "FM-1 Workbench",
-      "score": 117
-    },
-    {
-      "title": "After 600 experiments, here's what I discovered about JEPA world models",
       "score": 175
     },
     {
-      "title": "Reverse engineering my Coway air purifier to ditch the cloud",
-      "score": 627
+      "title": "What Happened to 3Com?",
+      "score": 13
     }
   ]
 }
