@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T16:50:09.971018Z",
+  "updated_at": "2026-11-14T18:58:26.208685Z",
   "stories": [
     {
-      "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "score": 51
+      "title": "Lovable apps expose passport details and more than 200K private messages",
+      "score": 142
     },
     {
-      "title": "KDE: The Documentary on Free Software [video]",
-      "score": 112
+      "title": "PyPI's redesigned project pages with clearer security signals are now live",
+      "score": 125
+    },
+    {
+      "title": "A Family Tree of Software Job Titles",
+      "score": 29
+    },
+    {
+      "title": "KDE: The documentary [video]",
+      "score": 225
     },
     {
       "title": "Why get an expensive Pi when I have an old phone?",
-      "score": 344
-    },
-    {
-      "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "score": 50
-    },
-    {
-      "title": "Generative AI uses more energy on non-English text",
-      "score": 85
+      "score": 400
     }
   ]
 }
