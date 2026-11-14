@@ -1,6 +1,4 @@
 {
-  "updated_at": "2026-11-14T18:58:26.610054Z",
-  "location": "Toronto, ON",
-  "temperature_c": 6.5,
-  "weather_code": 3
+  "updated_at": "2026-11-14T21:15:21.656802Z",
+  "error": "fetch failed"
 }
