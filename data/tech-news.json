@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T13:54:22.631278Z",
+  "updated_at": "2026-11-14T14:40:53.494211Z",
   "stories": [
     {
+      "title": "The Claude Delusion",
+      "score": 56
+    },
+    {
       "title": "Why get an expensive Pi when I have an old phone?",
-      "score": 208
+      "score": 241
     },
     {
       "title": "Generative AI uses more energy on non-English text",
-      "score": 18
+      "score": 36
+    },
+    {
+      "title": "Advancing science and engineering with Antigravity's /teamwork",
+      "score": 12
     },
     {
       "title": "Ggml v1.0.0",
-      "score": 317
-    },
-    {
-      "title": "Monkey Island: all 13 versions side by side",
-      "score": 256
-    },
-    {
-      "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-      "score": 40
+      "score": 333
     }
   ]
 }
