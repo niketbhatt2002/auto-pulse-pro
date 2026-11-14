@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T14:40:53.494211Z",
+  "updated_at": "2026-11-14T15:40:16.131946Z",
   "stories": [
     {
-      "title": "The Claude Delusion",
-      "score": 56
+      "title": "Why get an expensive Pi when I have an old phone?",
+      "score": 300
     },
     {
-      "title": "Why get an expensive Pi when I have an old phone?",
-      "score": 241
+      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
+      "score": 34
+    },
+    {
+      "title": "KDE: The Documentary on Free Software [video]",
+      "score": 31
     },
     {
       "title": "Generative AI uses more energy on non-English text",
-      "score": 36
+      "score": 62
     },
     {
       "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "score": 12
-    },
-    {
-      "title": "Ggml v1.0.0",
-      "score": 333
+      "score": 30
     }
   ]
 }
