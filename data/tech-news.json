@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T16:14:14.504137Z",
+  "updated_at": "2026-11-14T16:50:09.971018Z",
   "stories": [
     {
       "title": "PyPI's redesigned project pages with clearer security signals are now live",
-      "score": 16
+      "score": 51
     },
     {
       "title": "KDE: The Documentary on Free Software [video]",
-      "score": 68
+      "score": 112
     },
     {
       "title": "Why get an expensive Pi when I have an old phone?",
-      "score": 326
+      "score": 344
     },
     {
       "title": "Advancing science and engineering with Antigravity's /teamwork",
-      "score": 38
+      "score": 50
     },
     {
-      "title": "Show HN: A terminal-native idle factory game, written in Rust with ratatui",
-      "score": 49
+      "title": "Generative AI uses more energy on non-English text",
+      "score": 85
     }
   ]
 }
