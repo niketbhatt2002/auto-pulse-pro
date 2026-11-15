@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T15:10:23.983426Z",
+  "updated_at": "2026-11-15T16:10:57.514364Z",
   "stories": [
     {
+      "title": "All AI-generated code should be Open Source",
+      "score": 175
+    },
+    {
       "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "score": 102
-    },
-    {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "score": 1424
-    },
-    {
-      "title": "Understanding Positional Embeddings in Modern LLMs",
-      "score": 61
+      "score": 159
     },
     {
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "score": 38
+      "score": 64
     },
     {
-      "title": "A NES emulator written in Odin",
-      "score": 31
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "score": 1453
+    },
+    {
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "score": 86
     }
   ]
 }
