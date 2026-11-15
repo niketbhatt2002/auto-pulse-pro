@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T14:28:35.749224Z",
+  "updated_at": "2026-11-15T15:10:23.983426Z",
   "stories": [
     {
       "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "score": 52
+      "score": 102
     },
     {
       "title": "SpaceX catches the Starship to end Flight 15",
-      "score": 1396
-    },
-    {
-      "title": "Why did some Apollo missions carry a grenade launcher?",
-      "score": 108
+      "score": 1424
     },
     {
       "title": "Understanding Positional Embeddings in Modern LLMs",
-      "score": 28
+      "score": 61
     },
     {
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "score": 9
+      "score": 38
+    },
+    {
+      "title": "A NES emulator written in Odin",
+      "score": 31
     }
   ]
 }

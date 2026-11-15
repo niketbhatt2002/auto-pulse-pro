@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T14:28:36.274938Z",
+  "updated_at": "2026-11-15T15:10:24.760339Z",
   "repos": [
     {
       "name": "huamidev/GestaltX",
-      "stars": 7691
+      "stars": 7702
     },
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 2336
+      "stars": 2434
     },
     {
       "name": "Kianuni/Erosion-CN",
-      "stars": 2112
+      "stars": 2113
     },
     {
       "name": "apex-compute/ANR",
-      "stars": 1961
+      "stars": 1972
     },
     {
       "name": "FrigadeHQ/yogurt",
-      "stars": 1574
+      "stars": 1581
     }
   ]
 }
