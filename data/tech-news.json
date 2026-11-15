@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T16:10:57.514364Z",
+  "updated_at": "2026-11-15T16:41:43.456840Z",
   "stories": [
     {
       "title": "All AI-generated code should be Open Source",
-      "score": 175
+      "score": 283
     },
     {
       "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
-      "score": 159
+      "score": 190
     },
     {
       "title": "Things That Turbo Pascal Is Smaller Than (2011)",
-      "score": 64
+      "score": 76
     },
     {
-      "title": "SpaceX catches the Starship to end Flight 15",
-      "score": 1453
+      "title": "Emacs Is My Browser",
+      "score": 26
     },
     {
       "title": "Understanding Positional Embeddings in Modern LLMs",
-      "score": 86
+      "score": 98
     }
   ]
 }
