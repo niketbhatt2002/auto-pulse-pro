@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T23:59:50.246337Z",
+  "updated_at": "2026-11-15T02:29:10.508868Z",
   "repos": [
     {
       "name": "huamidev/GestaltX",
-      "stars": 7559
-    },
-    {
-      "name": "jhaizhou-ops/S2Arm",
-      "stars": 2989
+      "stars": 7584
     },
     {
       "name": "Kianuni/Erosion-CN",
-      "stars": 2053
+      "stars": 2063
     },
     {
       "name": "apex-compute/ANR",
-      "stars": 1831
+      "stars": 1848
     },
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 1736
+      "stars": 1800
+    },
+    {
+      "name": "HybridRobotics/supermimic",
+      "stars": 1502
     }
   ]
 }

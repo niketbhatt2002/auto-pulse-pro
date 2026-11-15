@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-14T23:43:25.828448Z",
+  "updated_at": "2026-11-15T02:29:09.683975Z",
   "stories": [
     {
+      "title": "SpaceX catches the Starship to end Flight 15",
+      "score": 755
+    },
+    {
       "title": "Lovable apps expose passport details and more than 200K private messages",
-      "score": 572
-    },
-    {
-      "title": "L3Harris Statement on the Nov. 13 Ground Stop",
-      "score": 22
-    },
-    {
-      "title": "SpaceX Catches the Starship to end Flight 15",
-      "score": 475
-    },
-    {
-      "title": "A Family Tree of Software Job Titles",
-      "score": 175
+      "score": 664
     },
     {
       "title": "How did Woz write the Apple 1 BASIC before building the computer?",
-      "score": 20
+      "score": 101
+    },
+    {
+      "title": "A family tree of software job titles",
+      "score": 217
+    },
+    {
+      "title": "Nvidia deliberately kept GPU prices high through circular financing deals",
+      "score": 210
     }
   ]
 }
