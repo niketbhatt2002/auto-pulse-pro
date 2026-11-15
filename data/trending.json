@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T02:29:10.508868Z",
+  "updated_at": "2026-11-15T13:34:11.315357Z",
   "repos": [
     {
       "name": "huamidev/GestaltX",
-      "stars": 7584
-    },
-    {
-      "name": "Kianuni/Erosion-CN",
-      "stars": 2063
-    },
-    {
-      "name": "apex-compute/ANR",
-      "stars": 1848
+      "stars": 7685
     },
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 1800
+      "stars": 2197
     },
     {
-      "name": "HybridRobotics/supermimic",
-      "stars": 1502
+      "name": "Kianuni/Erosion-CN",
+      "stars": 2106
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 1949
+    },
+    {
+      "name": "FrigadeHQ/yogurt",
+      "stars": 1564
     }
   ]
 }
