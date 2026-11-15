@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T17:32:15.299790Z",
+  "updated_at": "2026-11-15T19:38:08.740978Z",
   "repos": [
     {
       "name": "huamidev/GestaltX",
-      "stars": 7718
+      "stars": 7725
     },
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 2640
+      "stars": 2769
+    },
+    {
+      "name": "DevedevT/FFmpeg-GUI-Editor-Windows",
+      "stars": 2339
     },
     {
       "name": "Kianuni/Erosion-CN",
-      "stars": 2122
+      "stars": 2123
     },
     {
       "name": "apex-compute/ANR",
-      "stars": 2039
-    },
-    {
-      "name": "FrigadeHQ/yogurt",
-      "stars": 1601
+      "stars": 2105
     }
   ]
 }
