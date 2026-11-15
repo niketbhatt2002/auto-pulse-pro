@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T21:22:51.622100Z",
+  "updated_at": "2026-11-15T23:50:04.721852Z",
   "stories": [
     {
-      "title": "Do House members' stock trades beat the market? A test of 8,900 trades",
-      "score": 60
+      "title": "Old Bitly Links Are Being Hijacked",
+      "score": 94
+    },
+    {
+      "title": "Preserving 30 Years of Salon Journalism",
+      "score": 22
+    },
+    {
+      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
+      "score": 19
+    },
+    {
+      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
+      "score": 109
     },
     {
       "title": "A short explainer on how El Ni\u00f1o works [video]",
-      "score": 100
-    },
-    {
-      "title": "'Birdbrain' Is a Misnomer. Crows Make Decisions Faster Than We Can",
-      "score": 88
-    },
-    {
-      "title": "The MacBook Pro's OLED PWM problem",
-      "score": 350
-    },
-    {
-      "title": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [video]",
-      "score": 243
+      "score": 148
     }
   ]
 }
