@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T13:17:53.414926Z",
+  "updated_at": "2026-11-15T14:28:35.749224Z",
   "stories": [
     {
+      "title": "The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use",
+      "score": 52
+    },
+    {
       "title": "SpaceX catches the Starship to end Flight 15",
-      "score": 1349
+      "score": 1396
     },
     {
       "title": "Why did some Apollo missions carry a grenade launcher?",
-      "score": 81
+      "score": 108
     },
     {
-      "title": "Lovable apps expose passport details and more than 200K private messages",
-      "score": 878
+      "title": "Understanding Positional Embeddings in Modern LLMs",
+      "score": 28
     },
     {
-      "title": "Court denies motion to dismiss DRAM price fixing case",
-      "score": 260
-    },
-    {
-      "title": "What thousands of conversations look like inside a language model",
-      "score": 10
+      "title": "Things That Turbo Pascal Is Smaller Than (2011)",
+      "score": 9
     }
   ]
 }
