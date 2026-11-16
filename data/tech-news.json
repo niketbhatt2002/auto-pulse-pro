@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-15T23:50:04.721852Z",
+  "updated_at": "2026-11-16T02:39:21.269792Z",
   "stories": [
     {
-      "title": "Old Bitly Links Are Being Hijacked",
-      "score": 94
+      "title": "Old Bitly links are being hijacked",
+      "score": 182
     },
     {
-      "title": "Preserving 30 Years of Salon Journalism",
-      "score": 22
+      "title": "Coles hit by a cybersecurity incident",
+      "score": 41
     },
     {
-      "title": "Chemical spills into drainage ditch at SpaceXAI in Southaven",
-      "score": 19
+      "title": "Universal XSS in uBlock Origin from website-driven element picker",
+      "score": 20
     },
     {
-      "title": "Protomaps: Self-hosting map tiles has gotten cheap and easy",
-      "score": 109
+      "title": "Preserving 30 years of Salon journalism",
+      "score": 79
     },
     {
-      "title": "A short explainer on how El Ni\u00f1o works [video]",
-      "score": 148
+      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
+      "score": 36
     }
   ]
 }
