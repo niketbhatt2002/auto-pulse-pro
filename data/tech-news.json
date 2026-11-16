@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-16T02:39:21.269792Z",
+  "updated_at": "2026-11-16T14:31:45.541784Z",
   "stories": [
     {
-      "title": "Old Bitly links are being hijacked",
-      "score": 182
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "score": 106
     },
     {
-      "title": "Coles hit by a cybersecurity incident",
-      "score": 41
+      "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
+      "score": 25
+    },
+    {
+      "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings\u2013 1 in 10 Cost More",
+      "score": 19
+    },
+    {
+      "title": "How to make almost anything",
+      "score": 498
     },
     {
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "score": 20
-    },
-    {
-      "title": "Preserving 30 years of Salon journalism",
-      "score": 79
-    },
-    {
-      "title": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack",
-      "score": 36
+      "score": 488
     }
   ]
 }
