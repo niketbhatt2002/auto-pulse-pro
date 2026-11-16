@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-16T14:31:45.541784Z",
+  "updated_at": "2026-11-16T16:41:17.610925Z",
   "stories": [
     {
       "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "score": 106
+      "score": 180
     },
     {
-      "title": "What the fuck is w2rt6byl5nf1opmc-a.com?",
-      "score": 25
-    },
-    {
-      "title": "Amazon's Discount Illusion: 1 in 3 \"Deals\" Offered No Savings\u2013 1 in 10 Cost More",
-      "score": 19
+      "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cDeals\u201d Offered No Savings",
+      "score": 326
     },
     {
       "title": "How to make almost anything",
-      "score": 498
+      "score": 635
     },
     {
       "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "score": 488
+      "score": 530
+    },
+    {
+      "title": "What is w2rt6byl5nf1opmc-a.com?",
+      "score": 249
     }
   ]
 }

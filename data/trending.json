@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-16T14:31:46.414025Z",
+  "updated_at": "2026-11-16T16:57:24.524767Z",
   "repos": [
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 3892
+      "stars": 3971
     },
     {
       "name": "apex-compute/ANR",
-      "stars": 2390
+      "stars": 2418
     },
     {
       "name": "Kianuni/Erosion-CN",
-      "stars": 2182
+      "stars": 2190
     },
     {
       "name": "hitkeeen/blender-ai-mcp-addon",
-      "stars": 1955
+      "stars": 2093
     },
     {
       "name": "FrigadeHQ/yogurt",
-      "stars": 1789
+      "stars": 1810
     }
   ]
 }
