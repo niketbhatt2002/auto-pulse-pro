@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-16T19:55:37.426760Z",
+  "updated_at": "2026-11-16T20:47:08.020358Z",
   "stories": [
     {
       "title": "Outages reported at Bank of America, Chase, U.S. Bank, Wells Fargo and Zelle",
-      "score": 245
+      "score": 439
     },
     {
       "title": "Grazing sheep in fields with solar arrays",
-      "score": 114
+      "score": 140
     },
     {
       "title": "Jiff 1.0: A datetime library for Rust",
-      "score": 178
+      "score": 214
+    },
+    {
+      "title": "Launch HN: Axonnic (YC F26) \u2013 Sleeves that track fingers and estimate force",
+      "score": 9
     },
     {
       "title": "Frame \u2013 31.5\" color ePaper display",
-      "score": 107
-    },
-    {
-      "title": "Software is breaking down at a systemic level",
-      "score": 125
+      "score": 161
     }
   ]
 }
