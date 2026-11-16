@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-16T16:41:17.610925Z",
+  "updated_at": "2026-11-16T17:45:13.699999Z",
   "stories": [
     {
-      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
-      "score": 180
+      "title": "Grazing sheep in fields with solar arrays",
+      "score": 14
     },
     {
-      "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cDeals\u201d Offered No Savings",
-      "score": 326
+      "title": "The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)",
+      "score": 223
+    },
+    {
+      "title": "Jiff 1.0: A datetime library for Rust",
+      "score": 13
+    },
+    {
+      "title": "Many of Amazon\u2019s Black Friday and Cyber Monday \u201cdeals\u201d offered no savings",
+      "score": 482
     },
     {
       "title": "How to make almost anything",
-      "score": 635
-    },
-    {
-      "title": "Universal XSS in uBlock Origin from website-driven element picker",
-      "score": 530
-    },
-    {
-      "title": "What is w2rt6byl5nf1opmc-a.com?",
-      "score": 249
+      "score": 688
     }
   ]
 }
