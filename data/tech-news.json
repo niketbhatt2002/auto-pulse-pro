@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T18:51:48.451345Z",
+  "updated_at": "2026-11-17T19:34:47.928072Z",
   "stories": [
     {
       "title": "GPT\u20116.2 Astra and Sol",
-      "score": 442
-    },
-    {
-      "title": "What is the best harness for each model?",
-      "score": 224
-    },
-    {
-      "title": "MAI Code 2 and Code 2 Flash",
-      "score": 21
-    },
-    {
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "score": 122
+      "score": 598
     },
     {
       "title": "Apple Services Down",
-      "score": 125
+      "score": 276
+    },
+    {
+      "title": "MAI Code 2 and Code 2 Flash",
+      "score": 81
+    },
+    {
+      "title": "Phrack 73 Released",
+      "score": 29
+    },
+    {
+      "title": "What is the best harness for each model?",
+      "score": 256
     }
   ]
 }
