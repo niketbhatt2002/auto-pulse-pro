@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T15:22:13.938569Z",
+  "updated_at": "2026-11-17T16:38:34.793996Z",
   "stories": [
     {
-      "title": "We don't need more apps. We need better open source",
-      "score": 69
+      "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+      "score": 70
     },
     {
       "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "score": 521
-    },
-    {
-      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "score": 1947
+      "score": 692
     },
     {
       "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "score": 27
+      "score": 60
     },
     {
-      "title": "Baidu, Xiaomi CEOs warn of growing gap between AI hype and returns",
-      "score": 63
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
+      "score": 48
+    },
+    {
+      "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
+      "score": 2041
     }
   ]
 }
