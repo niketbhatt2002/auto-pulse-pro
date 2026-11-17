@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T22:05:44.494954Z",
+  "updated_at": "2026-11-17T23:40:26.367077Z",
   "repos": [
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 4510
-    },
-    {
-      "name": "apex-compute/ANR",
-      "stars": 2581
+      "stars": 4514
     },
     {
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 2501
+      "stars": 2606
+    },
+    {
+      "name": "apex-compute/ANR",
+      "stars": 2590
     },
     {
       "name": "Noniv/abyssal-garden",
-      "stars": 2127
+      "stars": 2147
     },
     {
       "name": "Immortal-Protocols/lastbook",
-      "stars": 1666
+      "stars": 1740
     }
   ]
 }
