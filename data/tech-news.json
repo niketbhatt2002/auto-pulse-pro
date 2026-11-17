@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-16T23:15:29.553501Z",
+  "updated_at": "2026-11-17T00:31:39.134119Z",
   "stories": [
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "score": 303
+      "score": 531
+    },
+    {
+      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
+      "score": 98
     },
     {
       "title": "BugMeNot has closed",
-      "score": 178
+      "score": 254
+    },
+    {
+      "title": "World's Largest Brands Infected With Malware Via Optimizely",
+      "score": 134
     },
     {
       "title": "How to Break into Security, Ptacek Edition (2012)",
-      "score": 44
-    },
-    {
-      "title": "Rust changed me as a developer",
-      "score": 124
-    },
-    {
-      "title": "OpenCode Browse",
-      "score": 47
+      "score": 60
     }
   ]
 }

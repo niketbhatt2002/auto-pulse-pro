@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-16T23:15:30.120835Z",
+  "updated_at": "2026-11-17T00:47:55.003438Z",
   "repos": [
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 4044
+      "stars": 4067
     },
     {
       "name": "apex-compute/ANR",
-      "stars": 2460
-    },
-    {
-      "name": "Kianuni/Erosion-CN",
-      "stars": 2196
+      "stars": 2467
     },
     {
       "name": "hitkeeen/blender-ai-mcp-addon",
-      "stars": 2166
+      "stars": 2196
     },
     {
-      "name": "FrigadeHQ/yogurt",
-      "stars": 1855
+      "name": "Noniv/abyssal-garden",
+      "stars": 1699
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1440
     }
   ]
 }
