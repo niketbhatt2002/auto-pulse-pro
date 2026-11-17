@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T17:16:20.345394Z",
+  "updated_at": "2026-11-17T18:19:51.936985Z",
   "stories": [
     {
+      "title": "GPT\u20116.2 Astra and Sol",
+      "score": 281
+    },
+    {
       "title": "What is the best harness for each model?",
-      "score": 131
+      "score": 200
     },
     {
       "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "score": 70
-    },
-    {
-      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "score": 772
-    },
-    {
-      "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "score": 70
+      "score": 107
     },
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "score": 2087
+      "score": 2150
+    },
+    {
+      "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
+      "score": 886
     }
   ]
 }
