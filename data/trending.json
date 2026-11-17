@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T00:47:55.003438Z",
+  "updated_at": "2026-11-17T03:04:48.330411Z",
   "repos": [
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 4067
+      "stars": 4156
     },
     {
       "name": "apex-compute/ANR",
-      "stars": 2467
+      "stars": 2481
     },
     {
       "name": "hitkeeen/blender-ai-mcp-addon",
-      "stars": 2196
+      "stars": 2242
     },
     {
       "name": "Noniv/abyssal-garden",
-      "stars": 1699
+      "stars": 1763
     },
     {
       "name": "duwqijlk/muse-protocol",
-      "stars": 1440
+      "stars": 1468
     }
   ]
 }

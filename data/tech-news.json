@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T00:31:39.134119Z",
+  "updated_at": "2026-11-17T02:48:48.941461Z",
   "stories": [
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "score": 531
+      "score": 806
     },
     {
       "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "score": 98
+      "score": 284
     },
     {
       "title": "BugMeNot has closed",
-      "score": 254
+      "score": 345
     },
     {
-      "title": "World's Largest Brands Infected With Malware Via Optimizely",
-      "score": 134
+      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
+      "score": 133
     },
     {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "score": 60
+      "title": "Running coding agents without handing them my credentials",
+      "score": 27
     }
   ]
 }
