@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T02:48:48.941461Z",
+  "updated_at": "2026-11-17T04:59:47.907459Z",
   "stories": [
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "score": 806
+      "score": 1014
     },
     {
       "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "score": 284
+      "score": 384
     },
     {
       "title": "BugMeNot has closed",
-      "score": 345
+      "score": 414
     },
     {
-      "title": "Optimizely Compromised, Served Malware on Zoom, GitLab",
-      "score": 133
+      "title": "Optimizely compromised, served malware on Zoom, GitLab",
+      "score": 190
     },
     {
       "title": "Running coding agents without handing them my credentials",
-      "score": 27
+      "score": 69
     }
   ]
 }
