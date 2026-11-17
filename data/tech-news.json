@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T19:34:47.928072Z",
+  "updated_at": "2026-11-17T22:05:43.809148Z",
   "stories": [
     {
       "title": "GPT\u20116.2 Astra and Sol",
-      "score": 598
+      "score": 913
     },
     {
-      "title": "Apple Services Down",
-      "score": 276
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "score": 107
+    },
+    {
+      "title": "jQuery 4.1.0",
+      "score": 168
+    },
+    {
+      "title": "350 years ago, Ole R\u00f8mer discovered that light has a finite speed",
+      "score": 153
     },
     {
       "title": "MAI Code 2 and Code 2 Flash",
-      "score": 81
-    },
-    {
-      "title": "Phrack 73 Released",
-      "score": 29
-    },
-    {
-      "title": "What is the best harness for each model?",
-      "score": 256
+      "score": 207
     }
   ]
 }
