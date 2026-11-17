@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T05:15:46.625533Z",
+  "updated_at": "2026-11-17T15:22:14.667902Z",
   "repos": [
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 4215
+      "stars": 4463
     },
     {
       "name": "apex-compute/ANR",
-      "stars": 2496
-    },
-    {
-      "name": "hitkeeen/blender-ai-mcp-addon",
-      "stars": 2286
+      "stars": 2554
     },
     {
       "name": "Noniv/abyssal-garden",
-      "stars": 1800
+      "stars": 2040
+    },
+    {
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 1668
     },
     {
       "name": "duwqijlk/muse-protocol",
-      "stars": 1495
+      "stars": 1562
     }
   ]
 }
