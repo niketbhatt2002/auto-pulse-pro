@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T16:38:34.793996Z",
+  "updated_at": "2026-11-17T17:16:20.345394Z",
   "stories": [
     {
-      "title": "In 27,280 coding agent runs, 64% of inference spend went to runs that failed",
+      "title": "What is the best harness for each model?",
+      "score": 131
+    },
+    {
+      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
       "score": 70
     },
     {
       "title": "New Evidence Shows School Phone Bans Are Gradually Improving Test Scores",
-      "score": 692
+      "score": 772
     },
     {
       "title": "First Photos of the Poles of a Rod-Shaped Bacterium",
-      "score": 60
-    },
-    {
-      "title": "Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off",
-      "score": 48
+      "score": 70
     },
     {
       "title": "Carnegie Mellon is putting computer science courses on YouTube for free",
-      "score": 2041
+      "score": 2087
     }
   ]
 }
