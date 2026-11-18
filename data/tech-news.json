@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T18:29:49.668079Z",
+  "updated_at": "2026-11-18T19:13:46.423400Z",
   "stories": [
     {
-      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
-      "score": 434
+      "title": "Unauthenticated remote code execution in Nginx (CVE-2026-123633/CVE-2026-123007)",
+      "score": 533
     },
     {
-      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
-      "score": 202
+      "title": "Seven new models at scalable price-performance",
+      "score": 249
     },
     {
       "title": "Inside Deutsche Bank",
-      "score": 276
+      "score": 318
     },
     {
-      "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
-      "score": 117
+      "title": "Genie 4 is now available",
+      "score": 23
     },
     {
-      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-      "score": 379
+      "title": "DNS resolvers are the wrong place to fight piracy",
+      "score": 418
     }
   ]
 }
