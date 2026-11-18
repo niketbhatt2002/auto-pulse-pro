@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T14:57:14.282408Z",
+  "updated_at": "2026-11-18T16:06:50.030477Z",
   "stories": [
     {
       "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-      "score": 162
+      "score": 275
     },
     {
-      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
-      "score": 39
-    },
-    {
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "score": 195
+      "title": "Pre-auth RCE in Nginx HTTP/2 handling",
+      "score": 82
     },
     {
       "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-      "score": 14
+      "score": 73
     },
     {
-      "title": "A Perfect SimCity",
-      "score": 123
+      "title": "Deutsche Bank",
+      "score": 21
+    },
+    {
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "score": 227
     }
   ]
 }
