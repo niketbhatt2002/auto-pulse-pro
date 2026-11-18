@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T16:22:49.172851Z",
+  "updated_at": "2026-11-18T16:51:46.297244Z",
   "repos": [
     {
       "name": "deepseek-ai/chat-demo",
-      "stars": 4769
+      "stars": 4778
     },
     {
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 3672
+      "stars": 3685
     },
     {
       "name": "erkamyaman/rust-anything",
-      "stars": 2817
+      "stars": 2868
     },
     {
       "name": "Noniv/abyssal-garden",
-      "stars": 2333
+      "stars": 2340
     },
     {
       "name": "Immortal-Protocols/lastbook",
-      "stars": 2068
+      "stars": 2078
     }
   ]
 }

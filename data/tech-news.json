@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T16:06:50.030477Z",
+  "updated_at": "2026-11-18T16:51:45.597640Z",
   "stories": [
     {
-      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-      "score": 275
-    },
-    {
       "title": "Pre-auth RCE in Nginx HTTP/2 handling",
-      "score": 82
-    },
-    {
-      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-      "score": 73
+      "score": 210
     },
     {
       "title": "Deutsche Bank",
-      "score": 21
+      "score": 141
     },
     {
-      "title": "Energy-Based Reasoners: 385x more efficient inference",
-      "score": 227
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "score": 311
+    },
+    {
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "score": 104
+    },
+    {
+      "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
+      "score": 29
     }
   ]
 }
