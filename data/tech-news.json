@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T16:51:45.597640Z",
+  "updated_at": "2026-11-18T17:54:05.086629Z",
   "stories": [
     {
       "title": "Pre-auth RCE in Nginx HTTP/2 handling",
-      "score": 210
-    },
-    {
-      "title": "Deutsche Bank",
-      "score": 141
-    },
-    {
-      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
-      "score": 311
-    },
-    {
-      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
-      "score": 104
+      "score": 366
     },
     {
       "title": "Microsoft AI: Seven new world-class models at scalable price-performance",
-      "score": 29
+      "score": 137
+    },
+    {
+      "title": "Inside Deutsche Bank",
+      "score": 247
+    },
+    {
+      "title": "CVE-2026-99312: KVM Guest-to-Host Escape",
+      "score": 87
+    },
+    {
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "score": 349
     }
   ]
 }
