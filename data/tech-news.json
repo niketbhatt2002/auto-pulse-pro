@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-17T23:40:25.686943Z",
+  "updated_at": "2026-11-18T02:11:52.383631Z",
   "stories": [
     {
       "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "score": 361
+      "score": 538
+    },
+    {
+      "title": "ID.me terms required for IRS sign-in",
+      "score": 84
     },
     {
       "title": "GPT\u20116.2 Astra and Sol",
-      "score": 1011
+      "score": 1088
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "score": 76
     },
     {
       "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "score": 142
-    },
-    {
-      "title": "jQuery 4.1.0",
-      "score": 219
-    },
-    {
-      "title": "Nvidia stopped disclosing Singapore sales as revenues hit $104B",
-      "score": 331
+      "score": 306
     }
   ]
 }
