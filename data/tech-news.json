@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T04:05:24.145359Z",
+  "updated_at": "2026-11-18T14:57:14.282408Z",
   "stories": [
     {
-      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
-      "score": 628
+      "title": "Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy",
+      "score": 162
     },
     {
-      "title": "ID.me terms required for IRS sign-in",
-      "score": 183
+      "title": "Can Peer Review Survive AI-Generated Text? [pdf]",
+      "score": 39
     },
     {
-      "title": "Google's AI answers reducing search traffic by 40%",
-      "score": 171
+      "title": "Energy-Based Reasoners: 385x more efficient inference",
+      "score": 195
     },
     {
-      "title": "GPT\u20116.2 Astra and Sol",
-      "score": 1149
+      "title": "'Human' Is Cambridge Dictionary's Word of the Year 2026",
+      "score": 14
     },
     {
-      "title": "Quad9's withdrawal from France: A canary in the coal mine",
-      "score": 358
+      "title": "A Perfect SimCity",
+      "score": 123
     }
   ]
 }
