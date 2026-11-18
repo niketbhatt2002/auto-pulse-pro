@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T21:44:34.779514Z",
+  "updated_at": "2026-11-18T23:10:38.075074Z",
   "stories": [
     {
-      "title": "Gemini 4 Neon",
-      "score": 55
-    },
-    {
       "title": "Unauthenticated remote code execution in Nginx",
-      "score": 879
+      "score": 995
     },
     {
       "title": "Seven new models at scalable price-performance",
-      "score": 362
+      "score": 390
     },
     {
       "title": "Inside Deutsche Bank",
-      "score": 443
+      "score": 495
+    },
+    {
+      "title": "Gemini 4 Neon",
+      "score": 290
     },
     {
       "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "score": 64
+      "score": 97
     }
   ]
 }
