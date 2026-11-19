@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19T18:05:18.316309Z",
+  "updated_at": "2026-11-19T18:43:55.369671Z",
   "stories": [
     {
       "title": "Anthropic hits $2T in Nasdaq debut",
-      "score": 101
+      "score": 232
     },
     {
       "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-      "score": 36
+      "score": 106
     },
     {
       "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "score": 127
+      "score": 146
     },
     {
       "title": "Garage Door Spam",
-      "score": 501
+      "score": 542
     },
     {
       "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
-      "score": 24
+      "score": 37
     }
   ]
 }
