@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19T22:00:47.101445Z",
+  "updated_at": "2026-11-19T23:17:36.222933Z",
   "stories": [
     {
-      "title": "Anthropic hits $2T in Nasdaq debut",
-      "score": 683
+      "title": "Anthropic\u2019s Nasdaq debut",
+      "score": 789
     },
     {
       "title": "Pancreatic cancer halted by virus injection in three patients",
-      "score": 311
+      "score": 416
+    },
+    {
+      "title": "Synology Security Advisory",
+      "score": 54
     },
     {
       "title": "Claude solves two open problems in the physics of black holes",
-      "score": 295
+      "score": 328
     },
     {
-      "title": "Garage Door Spam",
-      "score": 674
-    },
-    {
-      "title": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax",
-      "score": 112
+      "title": "RegExr: Temporarily Offline",
+      "score": 16
     }
   ]
 }
