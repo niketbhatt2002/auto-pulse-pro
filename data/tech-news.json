@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19T18:43:55.369671Z",
+  "updated_at": "2026-11-19T19:19:25.946834Z",
   "stories": [
     {
       "title": "Anthropic hits $2T in Nasdaq debut",
-      "score": 232
+      "score": 345
     },
     {
-      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-      "score": 106
-    },
-    {
-      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
-      "score": 146
+      "title": "Claude solves two open problems in the physics of black holes",
+      "score": 156
     },
     {
       "title": "Garage Door Spam",
-      "score": 542
+      "score": 567
+    },
+    {
+      "title": "Show HN: Cornhole News \u2013 A Hacker News inspired site for news across the Midwest",
+      "score": 103
     },
     {
       "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
-      "score": 37
+      "score": 46
     }
   ]
 }
