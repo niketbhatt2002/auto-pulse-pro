@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T23:10:38.075074Z",
+  "updated_at": "2026-11-19T01:45:47.859357Z",
   "stories": [
     {
+      "title": "Gemini 4 Neon",
+      "score": 439
+    },
+    {
       "title": "Unauthenticated remote code execution in Nginx",
-      "score": 995
+      "score": 1140
+    },
+    {
+      "title": "Multiple vulnerabilities in Regexp and String case conversion",
+      "score": 62
+    },
+    {
+      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "score": 55
     },
     {
       "title": "Seven new models at scalable price-performance",
-      "score": 390
-    },
-    {
-      "title": "Inside Deutsche Bank",
-      "score": 495
-    },
-    {
-      "title": "Gemini 4 Neon",
-      "score": 290
-    },
-    {
-      "title": "DaisyRose-27B: 1,200-task RL took Qwen3.8 from 5.6% to 12% on Terminal-Bench 4.1",
-      "score": 97
+      "score": 450
     }
   ]
 }

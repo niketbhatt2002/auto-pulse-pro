@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-18T23:10:38.781743Z",
+  "updated_at": "2026-11-19T01:45:48.665204Z",
   "repos": [
     {
-      "name": "deepseek-ai/chat-demo",
-      "stars": 4814
-    },
-    {
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 3914
+      "stars": 4000
     },
     {
       "name": "erkamyaman/rust-anything",
-      "stars": 3288
+      "stars": 3413
     },
     {
-      "name": "Noniv/abyssal-garden",
-      "stars": 2388
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1628
     },
     {
-      "name": "Immortal-Protocols/lastbook",
-      "stars": 2150
+      "name": "CzzzzzzJ/mdldm-maitian",
+      "stars": 1329
+    },
+    {
+      "name": "Hut-hzf/ung220z-tool",
+      "stars": 1249
     }
   ]
 }
