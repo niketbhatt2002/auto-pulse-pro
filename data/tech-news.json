@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19T04:02:30.376775Z",
+  "updated_at": "2026-11-19T15:03:36.015599Z",
   "stories": [
     {
-      "title": "Gemini 4 Neon",
-      "score": 554
+      "title": "How the European Commission rolled out Matrix to more than 40k staff",
+      "score": 371
     },
     {
-      "title": "Unauthenticated remote code execution in Nginx",
-      "score": 1202
+      "title": "PHP 8.5.13",
+      "score": 42
     },
     {
-      "title": "Multiple vulnerabilities in Regexp and String case conversion",
-      "score": 129
+      "title": "Garage Door Spam",
+      "score": 265
     },
     {
-      "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
-      "score": 129
+      "title": "Making 8-page foldable zines from a single A4 sheet in the browser",
+      "score": 61
     },
     {
-      "title": "Unreal Tournament 2004 in the Browser",
-      "score": 55
+      "title": "Show HN: Foolscap \u2013 a writing app that reads your book and never writes for you",
+      "score": 45
     }
   ]
 }

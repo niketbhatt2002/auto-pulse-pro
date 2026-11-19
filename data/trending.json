@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19T04:02:31.410658Z",
+  "updated_at": "2026-11-19T15:03:36.711156Z",
   "repos": [
     {
-      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 4095
-    },
-    {
       "name": "erkamyaman/rust-anything",
-      "stars": 3565
+      "stars": 4554
     },
     {
-      "name": "duwqijlk/muse-protocol",
-      "stars": 1630
+      "name": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "stars": 4425
     },
     {
-      "name": "CzzzzzzJ/mdldm-maitian",
-      "stars": 1369
+      "name": "gylive/google-ultra",
+      "stars": 2408
     },
     {
       "name": "Hut-hzf/ung220z-tool",
-      "stars": 1336
+      "stars": 1671
+    },
+    {
+      "name": "duwqijlk/muse-protocol",
+      "stars": 1646
     }
   ]
 }
