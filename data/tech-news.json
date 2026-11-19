@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19T16:58:29.029982Z",
+  "updated_at": "2026-11-19T18:05:18.316309Z",
   "stories": [
     {
-      "title": "Why AI Wants to Be Local \u2013 With Pete Warden (Creator of Moonshine Voice)",
-      "score": 59
+      "title": "Anthropic hits $2T in Nasdaq debut",
+      "score": 101
     },
     {
-      "title": "How the European Commission rolled out Matrix to more than 40k staff",
-      "score": 494
+      "title": "Claude Fable 5.2 solves two open problems in the physics of black holes",
+      "score": 36
     },
     {
-      "title": "Everything you need to survive and rebuild society",
-      "score": 133
+      "title": "Pete warden on local AI, open models, voice interfaces, the future of hardware",
+      "score": 127
     },
     {
       "title": "Garage Door Spam",
-      "score": 428
+      "score": 501
     },
     {
       "title": "Launch HN: Onlook (YC W25) \u2013 An open-source developer tool for designers",
-      "score": 9
+      "score": 24
     }
   ]
 }
