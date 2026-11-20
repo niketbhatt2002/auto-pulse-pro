@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-20T01:41:18.178234Z",
+  "updated_at": "2026-11-20T03:54:58.203894Z",
   "stories": [
     {
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "score": 235
+    },
+    {
       "title": "Anthropic\u2019s Nasdaq debut",
-      "score": 899
+      "score": 992
     },
     {
       "title": "Pancreatic cancer halted by virus injection in three patients",
-      "score": 578
+      "score": 652
     },
     {
-      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
-      "score": 87
+      "title": "OpenSSL: Buffer overflow in EVP_EncodeBlock() (CVE-2026-121481, CVSS 9.8)",
+      "score": 53
     },
     {
-      "title": "Synology Security Advisory",
-      "score": 99
-    },
-    {
-      "title": "Claude solves two open problems in the physics of black holes",
-      "score": 376
+      "title": "Vint Cerf on why TCP/IP was never patented",
+      "score": 41
     }
   ]
 }
