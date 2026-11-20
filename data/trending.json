@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-20T15:52:51.909519Z",
+  "updated_at": "2026-11-20T16:34:03.374384Z",
   "repos": [
     {
       "name": "erkamyaman/rust-anything",
-      "stars": 6233
+      "stars": 6289
     },
     {
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 5103
+      "stars": 5121
     },
     {
       "name": "gylive/google-ultra",
@@ -15,11 +15,11 @@
     },
     {
       "name": "Hut-hzf/ung220z-tool",
-      "stars": 1961
+      "stars": 1968
     },
     {
       "name": "CzzzzzzJ/mdldm-maitian",
-      "stars": 1699
+      "stars": 1702
     }
   ]
 }
