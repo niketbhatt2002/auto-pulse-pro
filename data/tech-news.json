@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-20T18:56:43.974982Z",
+  "updated_at": "2026-11-20T21:43:28.107825Z",
   "stories": [
     {
-      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "score": 1745
-    },
-    {
-      "title": "Language Models Can Rewrite Their Own Weights",
-      "score": 194
-    },
-    {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "score": 54
+      "score": 1015
     },
     {
-      "title": "I'll never buy Framework hardware again",
-      "score": 618
+      "title": "Inkling 2 Mini",
+      "score": 297
+    },
+    {
+      "title": "Levent Alp\u00f6ge claims proof of the Generalized Riemann Hypothesis [pdf]",
+      "score": 2114
+    },
+    {
+      "title": "We promoted developers into architects without informing them",
+      "score": 168
     },
     {
       "title": "Unforced Navier-Stokes Singularity and the Generalized Riemann Hypothesis",
-      "score": 68
+      "score": 231
     }
   ]
 }
