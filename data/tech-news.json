@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-19T23:17:36.222933Z",
+  "updated_at": "2026-11-20T01:41:18.178234Z",
   "stories": [
     {
       "title": "Anthropic\u2019s Nasdaq debut",
-      "score": 789
+      "score": 899
     },
     {
       "title": "Pancreatic cancer halted by virus injection in three patients",
-      "score": 416
+      "score": 578
+    },
+    {
+      "title": "Gemini 4 Neon is the new #1 on the Models Engineering Index",
+      "score": 87
     },
     {
       "title": "Synology Security Advisory",
-      "score": 54
+      "score": 99
     },
     {
       "title": "Claude solves two open problems in the physics of black holes",
-      "score": 328
-    },
-    {
-      "title": "RegExr: Temporarily Offline",
-      "score": 16
+      "score": 376
     }
   ]
 }
