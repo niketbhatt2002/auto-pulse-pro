@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-20T17:39:42.245008Z",
+  "updated_at": "2026-11-20T18:07:37.376009Z",
   "stories": [
     {
       "title": "Language Models Can Rewrite Their Own Weights",
-      "score": 95
-    },
-    {
-      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
-      "score": 1410
+      "score": 141
     },
     {
       "title": "I'll never buy Framework hardware again",
-      "score": 398
+      "score": 489
+    },
+    {
+      "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]",
+      "score": 1546
     },
     {
       "title": "Finite-time blow-up for the Navier\u2013Stokes equations",
-      "score": 74
+      "score": 102
     },
     {
       "title": "If you can't explain something in simple terms, you don't understand it (2017)",
-      "score": 435
+      "score": 463
     }
   ]
 }
