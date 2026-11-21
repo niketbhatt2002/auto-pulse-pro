@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-21T17:00:13.262470Z",
+  "updated_at": "2026-11-21T17:51:36.517468Z",
   "stories": [
     {
-      "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-      "score": 266
+      "title": "Lean verification of the Riemann Hypothesis",
+      "score": 396
     },
     {
-      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
-      "score": 286
+      "title": "Detonating a pile of lead azide",
+      "score": 315
     },
     {
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "score": 406
+      "score": 456
     },
     {
-      "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "score": 229
+      "title": "PostgreSQL Extensions in Go",
+      "score": 18
     },
     {
-      "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "score": 2295
+      "title": "My monitor was cutting my download speed by 75%",
+      "score": 271
     }
   ]
 }
