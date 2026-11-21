@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-21T20:24:30.162858Z",
+  "updated_at": "2026-11-21T21:56:16.978965Z",
   "stories": [
     {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "score": 239
+    },
+    {
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "score": 190
+      "score": 263
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
-      "score": 587
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 34
+      "score": 676
     },
     {
       "title": "Detonating a pile of lead azide",
-      "score": 414
+      "score": 450
     },
     {
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "score": 578
+      "score": 632
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-21T20:24:31.035855Z",
+  "updated_at": "2026-11-21T21:56:17.853920Z",
   "repos": [
     {
       "name": "erkamyaman/rust-anything",
-      "stars": 7311
+      "stars": 7351
     },
     {
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 5766
-    },
-    {
-      "name": "gylive/google-ultra",
-      "stars": 2591
+      "stars": 5786
     },
     {
       "name": "ItsNotRexed/Leonida",
-      "stars": 2500
+      "stars": 3740
     },
     {
-      "name": "Hut-hzf/ung220z-tool",
-      "stars": 2210
+      "name": "gylive/google-ultra",
+      "stars": 2592
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 2265
     }
   ]
 }
