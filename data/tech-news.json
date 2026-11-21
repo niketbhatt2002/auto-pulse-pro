@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-21T15:02:39.499562Z",
+  "updated_at": "2026-11-21T15:50:33.336756Z",
   "stories": [
     {
+      "title": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+      "score": 96
+    },
+    {
       "title": "Derek Lowe: Detonating a Pile of Lead Azide",
-      "score": 105
+      "score": 166
     },
     {
       "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "score": 294
+      "score": 342
     },
     {
       "title": "My Monitor Was Cutting My Download Speed by 75%",
-      "score": 140
+      "score": 183
     },
     {
       "title": "Hurried Announcement: Alessandro Masullo GRH",
-      "score": 2257
-    },
-    {
-      "title": "Astra 6.2 and Sol 6.2 flop at Simple Bench",
-      "score": 35
+      "score": 2269
     }
   ]
 }
