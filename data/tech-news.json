@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T17:29:11.321319Z",
+  "updated_at": "2026-11-22T18:11:43.950081Z",
   "stories": [
     {
+      "title": "Perplexity and Intelligence",
+      "score": 82
+    },
+    {
       "title": "Open Social Web Alliance",
-      "score": 100
+      "score": 133
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "score": 131
+      "score": 150
     },
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "score": 956
+      "score": 978
     },
     {
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 1255
-    },
-    {
-      "title": "A Better Vocabulary for Testing",
-      "score": 38
+      "score": 1265
     }
   ]
 }
