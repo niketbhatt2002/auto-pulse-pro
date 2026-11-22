@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T15:00:12.827521Z",
+  "updated_at": "2026-11-22T15:49:51.912652Z",
   "stories": [
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "score": 798
-    },
-    {
-      "title": "A real Linux kernel, compiled to WebAssembly",
-      "score": 169
-    },
-    {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 1172
+      "score": 850
     },
     {
       "title": "Show HN: I built a game where you are an LLM's subagent",
-      "score": 16
+      "score": 58
+    },
+    {
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "score": 193
+    },
+    {
+      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
+      "score": 1198
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
-      "score": 1124
+      "score": 1142
     }
   ]
 }
