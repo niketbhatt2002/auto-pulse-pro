@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-11-22T15:49:52.588406Z",
+  "updated_at": "2026-11-22T16:59:25.133272Z",
   "repos": [
     {
       "name": "ItsNotRexed/Leonida",
-      "stars": 11486
+      "stars": 12051
     },
     {
       "name": "erkamyaman/rust-anything",
-      "stars": 7824
+      "stars": 7848
     },
     {
       "name": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "stars": 6049
+      "stars": 6068
     },
     {
       "name": "bookwjitchieni1986/blender-ai-mcp-addon",
@@ -19,7 +19,7 @@
     },
     {
       "name": "gylive/google-ultra",
-      "stars": 2670
+      "stars": 2676
     }
   ]
 }
