@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T18:11:43.950081Z",
+  "updated_at": "2026-11-22T20:37:04.692586Z",
   "stories": [
     {
+      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
+      "score": 83
+    },
+    {
       "title": "Perplexity and Intelligence",
-      "score": 82
-    },
-    {
-      "title": "Open Social Web Alliance",
-      "score": 133
-    },
-    {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "score": 150
+      "score": 315
     },
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "score": 978
+      "score": 1081
     },
     {
-      "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 1265
+      "title": "Show HN: I built a game where you are an LLM's subagent",
+      "score": 210
+    },
+    {
+      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
+      "score": 87
     }
   ]
 }
