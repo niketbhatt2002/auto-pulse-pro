@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T20:37:05.404410Z",
+  "updated_at": "2026-11-22T22:10:58.836730Z",
   "repos": [
     {
       "name": "ItsNotRexed/Leonida",
-      "stars": 13699
+      "stars": 14247
     },
     {
       "name": "erkamyaman/rust-anything",
-      "stars": 7911
+      "stars": 7950
     },
     {
       "name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "stars": 2744
+      "stars": 2745
     },
     {
       "name": "iamajmeena/neonclipping",
-      "stars": 2075
+      "stars": 2083
     },
     {
       "name": "sybil-solutions/inference-optimisation-skill",
-      "stars": 1930
+      "stars": 1942
     }
   ]
 }

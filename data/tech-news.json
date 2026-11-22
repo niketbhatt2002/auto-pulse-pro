@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T20:37:04.692586Z",
+  "updated_at": "2026-11-22T22:10:57.998562Z",
   "stories": [
     {
       "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "score": 83
+      "score": 202
+    },
+    {
+      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "score": 33
+    },
+    {
+      "title": "Nyx, the Oldest Internet Service Provider",
+      "score": 44
     },
     {
       "title": "Perplexity and Intelligence",
-      "score": 315
+      "score": 396
     },
     {
       "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
-      "score": 1081
-    },
-    {
-      "title": "Show HN: I built a game where you are an LLM's subagent",
-      "score": 210
-    },
-    {
-      "title": "I joined the NTP Pool, but not with my Stratum 1 Pi",
-      "score": 87
+      "score": 1135
     }
   ]
 }
