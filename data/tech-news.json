@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T00:08:24.310140Z",
+  "updated_at": "2026-11-22T02:55:44.142770Z",
   "stories": [
     {
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 494
+      "score": 686
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
-      "score": 783
+      "score": 863
     },
     {
       "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "score": 327
+      "score": 372
     },
     {
-      "title": "Detonating a pile of lead azide",
-      "score": 493
+      "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
+      "score": 15
     },
     {
-      "title": "Brazil's tax authority open-sources its tax calculator on GitHub under MIT",
-      "score": 710
+      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
+      "score": 73
     }
   ]
 }
