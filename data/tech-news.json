@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T02:55:44.142770Z",
+  "updated_at": "2026-11-22T13:55:01.589844Z",
   "stories": [
     {
+      "title": "Toyota, Nissan, and Honda to standardize parts to lower costs",
+      "score": 719
+    },
+    {
+      "title": "A real Linux kernel, compiled to WebAssembly",
+      "score": 119
+    },
+    {
       "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "score": 686
+      "score": 1139
     },
     {
       "title": "Lean verification of the Riemann Hypothesis",
-      "score": 863
+      "score": 1100
     },
     {
-      "title": "Inkling-2-Mini in 5.4 GB Memory",
-      "score": 372
-    },
-    {
-      "title": "OpenRouter off-boards 3 providers, pulls 125 endpoints from zero data retention",
-      "score": 15
-    },
-    {
-      "title": "PcapAnalyzer \u2013 self-hosted pcap analyzer with 27 problem detectors",
-      "score": 73
+      "title": "Self-hosted library branch over public web OPDS",
+      "score": 41
     }
   ]
 }
