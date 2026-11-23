@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-23T21:49:04.861481Z",
+  "updated_at": "2026-11-23T22:25:57.843069Z",
   "stories": [
     {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 1690
+      "score": 1766
     },
     {
       "title": "Ladybird is now in alpha",
-      "score": 1055
+      "score": 1139
     },
     {
       "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "score": 601
+      "score": 667
     },
     {
       "title": "The horse made the state",
-      "score": 19
+      "score": 35
     },
     {
       "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "score": 966
+      "score": 988
     }
   ]
 }

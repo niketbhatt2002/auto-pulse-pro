@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-23T21:49:05.553960Z",
+  "updated_at": "2026-11-23T22:25:58.795799Z",
   "repos": [
     {
-      "name": "ItsNotRexed/Leonida",
-      "stars": 32049
+      "name": "ProjectLeonida/Leonida",
+      "stars": 32825
     },
     {
       "name": "EL4CTEO/fast-anything",
-      "stars": 3068
+      "stars": 3074
     },
     {
       "name": "bookwjitchieni1986/blender-ai-mcp-addon",
@@ -19,7 +19,7 @@
     },
     {
       "name": "AFK-surf/xnulinux",
-      "stars": 1849
+      "stars": 1895
     }
   ]
 }
