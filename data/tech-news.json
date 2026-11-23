@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-23T18:55:37.859952Z",
+  "updated_at": "2026-11-23T19:42:53.938077Z",
   "stories": [
     {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 1135
+      "score": 1312
+    },
+    {
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "score": 138
     },
     {
       "title": "Ladybird is now in alpha",
-      "score": 678
+      "score": 815
     },
     {
       "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "score": 856
+      "score": 893
     },
     {
-      "title": "Kagi Mail (public beta)",
-      "score": 117
-    },
-    {
-      "title": "Spacecraft reaches Mercury on second-ever mission to enter its orbit",
-      "score": 170
+      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
+      "score": 40
     }
   ]
 }
