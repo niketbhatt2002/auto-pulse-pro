@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-23T19:42:53.938077Z",
+  "updated_at": "2026-11-23T21:01:46.117841Z",
   "stories": [
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 1312
+      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
+      "score": 497
     },
     {
-      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
-      "score": 138
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "score": 1556
     },
     {
       "title": "Ladybird is now in alpha",
-      "score": 815
+      "score": 950
     },
     {
       "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "score": 893
+      "score": 941
     },
     {
-      "title": "NariQ: BF16-level Qwen3.8-27B in a 10 GB file",
-      "score": 40
+      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
+      "score": 518
     }
   ]
 }
