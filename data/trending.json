@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-22T22:10:58.836730Z",
+  "updated_at": "2026-11-23T00:37:08.949537Z",
   "repos": [
     {
       "name": "ItsNotRexed/Leonida",
-      "stars": 14247
-    },
-    {
-      "name": "erkamyaman/rust-anything",
-      "stars": 7950
+      "stars": 14976
     },
     {
       "name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "stars": 2745
+      "stars": 2746
     },
     {
       "name": "iamajmeena/neonclipping",
-      "stars": 2083
+      "stars": 2094
     },
     {
-      "name": "sybil-solutions/inference-optimisation-skill",
-      "stars": 1942
+      "name": "EL4CTEO/fast-anything",
+      "stars": 1894
+    },
+    {
+      "name": "omonkeyz/xbox-emulator",
+      "stars": 1313
     }
   ]
 }
