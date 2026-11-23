@@ -1,4 +1,25 @@
 {
-  "updated_at": "2026-11-23T21:01:46.590662Z",
-  "repos": []
+  "updated_at": "2026-11-23T21:49:05.553960Z",
+  "repos": [
+    {
+      "name": "ItsNotRexed/Leonida",
+      "stars": 32049
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 3068
+    },
+    {
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 2765
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2301
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 1849
+    }
+  ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-23T21:01:46.117841Z",
+  "updated_at": "2026-11-23T21:49:04.861481Z",
   "stories": [
     {
-      "title": "\"Per ARM's Request, This Site Will Be Discontinued on 4 December 2026\"",
-      "score": 497
-    },
-    {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 1556
+      "score": 1690
     },
     {
       "title": "Ladybird is now in alpha",
-      "score": 950
+      "score": 1055
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "score": 601
+    },
+    {
+      "title": "The horse made the state",
+      "score": 19
     },
     {
       "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "score": 941
-    },
-    {
-      "title": "Dario is hyping the dangers so OSS models are illegal and *he* stays in control",
-      "score": 518
+      "score": 966
     }
   ]
 }
