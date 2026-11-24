@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-24T16:51:21.417931Z",
+  "updated_at": "2026-11-24T18:34:25.369425Z",
   "stories": [
     {
-      "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
-      "score": 20
+      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
+      "score": 153
+    },
+    {
+      "title": "Jetty Pro",
+      "score": 124
+    },
+    {
+      "title": "Mechanical Pencil: Spray Bottle",
+      "score": 131
+    },
+    {
+      "title": "How to Make a Lovable City",
+      "score": 64
     },
     {
       "title": "2035 came early",
-      "score": 718
-    },
-    {
-      "title": "Tidal Bans AI-Generated Music",
-      "score": 92
-    },
-    {
-      "title": "A training engine for your local model, using your idle compute",
-      "score": 34
-    },
-    {
-      "title": "LLM agents work for their parent companies, not for you",
-      "score": 570
+      "score": 818
     }
   ]
 }
