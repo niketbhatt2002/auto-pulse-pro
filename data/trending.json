@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-23T22:25:58.795799Z",
+  "updated_at": "2026-11-24T01:31:33.263330Z",
   "repos": [
     {
-      "name": "ProjectLeonida/Leonida",
-      "stars": 32825
-    },
-    {
       "name": "EL4CTEO/fast-anything",
-      "stars": 3074
+      "stars": 3146
     },
     {
-      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "stars": 2765
+      "name": "ivall/xcl",
+      "stars": 2944
+    },
+    {
+      "name": "Marvisak/VIctory",
+      "stars": 2420
     },
     {
       "name": "iamajmeena/neonclipping",
-      "stars": 2301
+      "stars": 2310
     },
     {
       "name": "AFK-surf/xnulinux",
-      "stars": 1895
+      "stars": 2118
     }
   ]
 }

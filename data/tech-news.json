@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-23T22:25:57.843069Z",
+  "updated_at": "2026-11-24T01:31:32.633757Z",
   "stories": [
     {
       "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 1766
+      "score": 2078
+    },
+    {
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "score": 184
     },
     {
       "title": "Ladybird is now in alpha",
-      "score": 1139
+      "score": 1419
     },
     {
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "score": 667
-    },
-    {
-      "title": "The horse made the state",
-      "score": 35
+      "title": "GPUI is getting its own repository",
+      "score": 117
     },
     {
       "title": "GLM-5.4: Toward generalized coding with our first loop transformer",
-      "score": 988
+      "score": 1049
     }
   ]
 }
