@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-24T03:04:47.415343Z",
+  "updated_at": "2026-11-24T04:39:13.717094Z",
   "repos": [
     {
       "name": "Marvisak/VIctory",
-      "stars": 3653
+      "stars": 4461
     },
     {
       "name": "ivall/xcl",
-      "stars": 3594
+      "stars": 4028
     },
     {
       "name": "EL4CTEO/fast-anything",
-      "stars": 3200
-    },
-    {
-      "name": "iamajmeena/neonclipping",
-      "stars": 2313
+      "stars": 3241
     },
     {
       "name": "AFK-surf/xnulinux",
-      "stars": 2245
+      "stars": 2373
+    },
+    {
+      "name": "iamajmeena/neonclipping",
+      "stars": 2323
     }
   ]
 }
