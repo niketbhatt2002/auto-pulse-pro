@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-24T06:52:03.224373Z",
+  "updated_at": "2026-11-24T16:51:21.417931Z",
   "stories": [
     {
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "score": 2434
+      "title": "Cyberattack Campaign Compromising Check Point Servers Across 22 Organizations",
+      "score": 20
     },
     {
-      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
-      "score": 370
+      "title": "2035 came early",
+      "score": 718
     },
     {
-      "title": "Ladybird is now in alpha",
-      "score": 1696
+      "title": "Tidal Bans AI-Generated Music",
+      "score": 92
     },
     {
-      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
-      "score": 16
+      "title": "A training engine for your local model, using your idle compute",
+      "score": 34
     },
     {
-      "title": "Drone Maps of Salvage Yards",
-      "score": 41
+      "title": "LLM agents work for their parent companies, not for you",
+      "score": 570
     }
   ]
 }
