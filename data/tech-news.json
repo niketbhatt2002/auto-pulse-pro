@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-24T18:34:25.369425Z",
+  "updated_at": "2026-11-24T19:15:16.202647Z",
   "stories": [
     {
-      "title": "Cyberattack campaign compromising Check Point servers across 22 organizations",
-      "score": 153
+      "title": "Active Intrusion Campaign Against Check Point Security Management Servers",
+      "score": 183
     },
     {
       "title": "Jetty Pro",
-      "score": 124
+      "score": 156
     },
     {
       "title": "Mechanical Pencil: Spray Bottle",
-      "score": 131
-    },
-    {
-      "title": "How to Make a Lovable City",
-      "score": 64
+      "score": 164
     },
     {
       "title": "2035 came early",
-      "score": 818
+      "score": 841
+    },
+    {
+      "title": "A training engine for your local model, using your idle compute",
+      "score": 97
     }
   ]
 }
