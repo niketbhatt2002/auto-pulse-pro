@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-25T20:37:09.010404Z",
+  "updated_at": "2026-11-25T22:58:58.594494Z",
   "repos": [
     {
       "name": "Marvisak/VIctory",
-      "stars": 12481
+      "stars": 12571
     },
     {
       "name": "xcl-dev/xcl",
-      "stars": 8266
-    },
-    {
-      "name": "EL4CTEO/fast-anything",
-      "stars": 3917
-    },
-    {
-      "name": "AFK-surf/xnulinux",
-      "stars": 3883
+      "stars": 8297
     },
     {
       "name": "4lwayz/portwatch-vi",
-      "stars": 3846
+      "stars": 4017
+    },
+    {
+      "name": "EL4CTEO/fast-anything",
+      "stars": 3939
+    },
+    {
+      "name": "AFK-surf/xnulinux",
+      "stars": 3920
     }
   ]
 }
