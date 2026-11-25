@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-25T17:45:05.914279Z",
+  "updated_at": "2026-11-25T18:19:38.436833Z",
   "stories": [
     {
       "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "score": 249
+      "score": 288
     },
     {
       "title": "Investigating degraded experiences across GitHub products",
-      "score": 117
+      "score": 140
     },
     {
-      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
-      "score": 278
+      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
+      "score": 307
     },
     {
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "score": 242
+      "score": 247
     },
     {
       "title": "Predicting LoRA size for any dataset",
-      "score": 41
+      "score": 49
     }
   ]
 }
