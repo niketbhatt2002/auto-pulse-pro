@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-24T23:25:17.660907Z",
+  "updated_at": "2026-11-25T01:08:50.843469Z",
   "stories": [
     {
       "title": "Ternary Bonsai 2.5 27B",
-      "score": 254
+      "score": 313
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "score": 103
+      "score": 151
     },
     {
       "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
-      "score": 49
+      "score": 62
+    },
+    {
+      "title": "Get in, friends, the Atmosphere is happening",
+      "score": 40
     },
     {
       "title": "Active intrusion campaign against Check Point security management servers",
-      "score": 244
-    },
-    {
-      "title": "G\u00f6del Enigma",
-      "score": 53
+      "score": 258
     }
   ]
 }
