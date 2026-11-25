@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-25T18:19:38.436833Z",
+  "updated_at": "2026-11-25T19:02:48.694925Z",
   "stories": [
     {
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "score": 288
+      "title": "1Password Security Incident",
+      "score": 334
     },
     {
-      "title": "Investigating degraded experiences across GitHub products",
-      "score": 140
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "score": 320
     },
     {
       "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "score": 307
+      "score": 337
     },
     {
       "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "score": 247
+      "score": 260
     },
     {
-      "title": "Predicting LoRA size for any dataset",
-      "score": 49
+      "title": "I checked Clojure's core with Lean and found unreported bugs",
+      "score": 89
     }
   ]
 }
