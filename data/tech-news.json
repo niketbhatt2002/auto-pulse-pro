@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-25T01:08:50.843469Z",
+  "updated_at": "2026-11-25T03:25:05.454574Z",
   "stories": [
     {
+      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
+      "score": 193
+    },
+    {
       "title": "Ternary Bonsai 2.5 27B",
-      "score": 313
+      "score": 367
+    },
+    {
+      "title": "PenGPT: A Generative Transformer for Handwriting and Sketches",
+      "score": 93
     },
     {
       "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "score": 151
+      "score": 195
     },
     {
       "title": "Launch HN: Versine (YC F26) \u2013 MCP to send and receive money",
-      "score": 62
-    },
-    {
-      "title": "Get in, friends, the Atmosphere is happening",
-      "score": 40
-    },
-    {
-      "title": "Active intrusion campaign against Check Point security management servers",
-      "score": 258
+      "score": 74
     }
   ]
 }
