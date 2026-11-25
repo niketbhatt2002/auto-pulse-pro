@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-25T05:19:14.783721Z",
+  "updated_at": "2026-11-25T16:39:28.013228Z",
   "stories": [
     {
-      "title": "Matrix Multiplication is \u0398(n^2.25) [pdf]",
-      "score": 343
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "score": 158
     },
     {
-      "title": "Button Sounds \u2013 collection of professionally-recorded button clicks and presses",
-      "score": 97
+      "title": "Investigating degraded experiences across GitHub products",
+      "score": 65
     },
     {
-      "title": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-      "score": 36
+      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
+      "score": 221
     },
     {
-      "title": "I've been drinking wine in my kitchen",
-      "score": 84
+      "title": "Google Releases Cogentic Papers on Integer Factorization, Discrete Logs and More",
+      "score": 235
     },
     {
-      "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-      "score": 87
+      "title": "Predicting LoRA size for any dataset",
+      "score": 13
     }
   ]
 }
