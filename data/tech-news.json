@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-25T19:39:42.865003Z",
+  "updated_at": "2026-11-25T20:20:59.520846Z",
   "stories": [
     {
       "title": "1Password Security Incident",
-      "score": 485
-    },
-    {
-      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
-      "score": 334
+      "score": 617
     },
     {
       "title": "Holy Shit Holy Shit Holy Shit Holy Shit [Algorithmic Complexity Lower Bounds]",
-      "score": 54
+      "score": 226
     },
     {
-      "title": "Google releases Cogentic papers on integer factorization, discrete logs and more",
-      "score": 361
+      "title": "A few questions for the guy who went snorkeling in a Home Depot retention pond",
+      "score": 351
     },
     {
-      "title": "Windows Loudness Equalization, reverse-engineered and ported to PipeWire",
-      "score": 266
+      "title": "Britain's ghost stations",
+      "score": 45
+    },
+    {
+      "title": "The polynomial Hirsch conjecture is false [pdf]",
+      "score": 36
     }
   ]
 }
