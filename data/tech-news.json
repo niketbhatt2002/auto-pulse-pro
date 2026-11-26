@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-26T18:53:56.745710Z",
+  "updated_at": "2026-11-26T19:20:11.845049Z",
   "stories": [
     {
-      "title": "Tracking Diseases Cured by AI",
-      "score": 206
-    },
-    {
       "title": "AMD Specific Patches for Llama.cpp",
-      "score": 85
+      "score": 113
     },
     {
       "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "score": 38
+      "score": 61
+    },
+    {
+      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
+      "score": 19
     },
     {
       "title": "Intel One Mono font (2023)",
-      "score": 380
+      "score": 386
     },
     {
-      "title": "NP_R \u2260 PAR_R",
-      "score": 93
+      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
+      "score": 72
     }
   ]
 }
