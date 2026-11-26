@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-26T19:57:51.797830Z",
+  "updated_at": "2026-11-26T22:52:50.489079Z",
   "stories": [
     {
-      "title": "AMD Specific Patches for Llama.cpp",
+      "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
       "score": 138
     },
     {
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "score": 81
+      "title": "AMD-specific fork of llama.cpp",
+      "score": 247
     },
     {
       "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "score": 72
+      "score": 197
     },
     {
-      "title": "Intel One Mono font (2023)",
-      "score": 391
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
+      "score": 172
     },
     {
-      "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "score": 77
+      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
+      "score": 48
     }
   ]
 }
