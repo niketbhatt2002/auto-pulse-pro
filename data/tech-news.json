@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-26T18:00:43.121000Z",
+  "updated_at": "2026-11-26T18:53:56.745710Z",
   "stories": [
     {
-      "title": "AMD Specific Patches for Llama.cpp",
-      "score": 55
+      "title": "Tracking Diseases Cured by AI",
+      "score": 206
     },
     {
-      "title": "Tracking Diseases Cured by AI",
+      "title": "AMD Specific Patches for Llama.cpp",
+      "score": 85
+    },
+    {
+      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
       "score": 38
     },
     {
+      "title": "Intel One Mono font (2023)",
+      "score": 380
+    },
+    {
       "title": "NP_R \u2260 PAR_R",
-      "score": 73
-    },
-    {
-      "title": "YouTube Ad Punisher \u2013 Bypass anti-adblock",
-      "score": 17
-    },
-    {
-      "title": "Intel One Mono font",
-      "score": 355
+      "score": 93
     }
   ]
 }
