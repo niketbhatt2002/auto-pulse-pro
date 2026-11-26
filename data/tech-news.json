@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-26T00:44:30.903480Z",
+  "updated_at": "2026-11-26T02:41:28.250202Z",
   "stories": [
     {
-      "title": "Jev is probably Qwen3.5-35B-A3B",
-      "score": 178
+      "title": "1Password Security Incident",
+      "score": 1192
     },
     {
-      "title": "1Password Security Incident",
-      "score": 1084
+      "title": "Holy shit holy shit holy shit holy shit: The magnitude of what\u2019s now happening",
+      "score": 953
     },
     {
       "title": "Much shorter version of GRH Lean verification from Anthropic",
-      "score": 227
-    },
-    {
-      "title": "The New York Times warns photographers not to update Photoshop over AI features",
-      "score": 166
+      "score": 299
     },
     {
       "title": "GPT-6.2 Astra is the first model to beat Googlers' code golf records",
-      "score": 221
+      "score": 258
+    },
+    {
+      "title": "Slow Ubuntu security response times",
+      "score": 156
     }
   ]
 }
