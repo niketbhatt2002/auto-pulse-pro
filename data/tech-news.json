@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-26T19:20:11.845049Z",
+  "updated_at": "2026-11-26T19:57:51.797830Z",
   "stories": [
     {
       "title": "AMD Specific Patches for Llama.cpp",
-      "score": 113
+      "score": 138
     },
     {
       "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "score": 61
+      "score": 81
     },
     {
-      "title": "DeepSeekMath: Pushing the Limits of Mathematical Reasoning",
-      "score": 19
+      "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
+      "score": 72
     },
     {
       "title": "Intel One Mono font (2023)",
-      "score": 386
+      "score": 391
     },
     {
       "title": "Show HN: Three Linux VMs in a browser tab, each running a different browser",
-      "score": 72
+      "score": 77
     }
   ]
 }
