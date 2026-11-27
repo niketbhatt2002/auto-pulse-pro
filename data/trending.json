@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-26T22:52:51.059800Z",
+  "updated_at": "2026-11-27T00:50:34.526953Z",
   "repos": [
     {
       "name": "Marvisak/VIctory",
-      "stars": 13315
-    },
-    {
-      "name": "xcl-dev/xcl",
-      "stars": 8595
+      "stars": 13365
     },
     {
       "name": "4lwayz/portwatch-vi",
-      "stars": 5683
-    },
-    {
-      "name": "AFK-surf/xnulinux",
-      "stars": 4232
+      "stars": 5802
     },
     {
       "name": "EL4CTEO/fast-anything",
-      "stars": 4211
+      "stars": 4233
+    },
+    {
+      "name": "fxceless/victory-fork",
+      "stars": 3282
+    },
+    {
+      "name": "Belobug/VIctory-Belobug-AMD",
+      "stars": 2922
     }
   ]
 }

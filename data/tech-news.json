@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-26T22:52:50.489079Z",
+  "updated_at": "2026-11-27T00:50:33.727405Z",
   "stories": [
     {
+      "title": "AI made self-hosting fun again",
+      "score": 240
+    },
+    {
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "score": 138
+      "score": 214
     },
     {
       "title": "AMD-specific fork of llama.cpp",
-      "score": 247
+      "score": 275
     },
     {
       "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "score": 197
+      "score": 245
     },
     {
-      "title": "CTO of 'RansomwareHelp' Indicted for Wire Fraud",
-      "score": 172
-    },
-    {
-      "title": "Rvoip 0.5 the complete VoIP stack in Rust",
-      "score": 48
+      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
+      "score": 195
     }
   ]
 }
