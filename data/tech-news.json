@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T18:46:00.995874Z",
+  "updated_at": "2026-11-27T19:15:14.409945Z",
   "stories": [
     {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 163
+      "score": 189
+    },
+    {
+      "title": "Convex skills send the user's app idea to a remote server without telling them",
+      "score": 34
     },
     {
       "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-      "score": 246
+      "score": 258
     },
     {
       "title": "False computer-checked proofs",
-      "score": 98
+      "score": 106
     },
     {
       "title": "First images of the impact of DART asteroid deflection experiment",
-      "score": 126
-    },
-    {
-      "title": "I'm Scared of AI",
-      "score": 115
+      "score": 135
     }
   ]
 }
