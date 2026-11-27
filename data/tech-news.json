@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T17:08:38.702363Z",
+  "updated_at": "2026-11-27T17:45:53.833700Z",
   "stories": [
     {
       "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-      "score": 166
+      "score": 214
     },
     {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 67
+      "score": 100
     },
     {
       "title": "First images of the impact of DART asteroid deflection experiment",
-      "score": 103
+      "score": 112
     },
     {
-      "title": "False Computer-Checked Proofs",
-      "score": 40
+      "title": "False computer-checked proofs",
+      "score": 67
     },
     {
-      "title": "Kimi for Science: More scientific ideas, made possible",
-      "score": 139
+      "title": "Group chat where your AI talks behind your back",
+      "score": 568
     }
   ]
 }

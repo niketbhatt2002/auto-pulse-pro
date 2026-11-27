@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T17:08:39.368658Z",
+  "updated_at": "2026-11-27T17:45:54.392830Z",
   "repos": [
     {
       "name": "Marvisak/VIctory",
-      "stars": 13706
+      "stars": 13711
     },
     {
       "name": "4lwayz/portwatch-vi",
-      "stars": 6464
+      "stars": 6488
     },
     {
       "name": "EL4CTEO/fast-anything",
-      "stars": 4417
-    },
-    {
-      "name": "Belobug/VIctory-Belobug-AMD",
-      "stars": 4167
+      "stars": 4423
     },
     {
       "name": "fxceless/victory-fork",
-      "stars": 3342
+      "stars": 3341
+    },
+    {
+      "name": "ubiquitarianism/leonida",
+      "stars": 2610
     }
   ]
 }
