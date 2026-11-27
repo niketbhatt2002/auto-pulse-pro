@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T19:15:14.409945Z",
+  "updated_at": "2026-11-27T19:46:41.458934Z",
   "stories": [
     {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 189
+      "score": 226
     },
     {
       "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "score": 34
+      "score": 71
+    },
+    {
+      "title": "Michael Nielsen took down his book on neural nets",
+      "score": 18
     },
     {
       "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-      "score": 258
-    },
-    {
-      "title": "False computer-checked proofs",
-      "score": 106
+      "score": 265
     },
     {
       "title": "First images of the impact of DART asteroid deflection experiment",
-      "score": 135
+      "score": 139
     }
   ]
 }
