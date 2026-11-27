@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T15:58:23.276986Z",
+  "updated_at": "2026-11-27T17:08:38.702363Z",
   "stories": [
     {
       "title": "Show HN: bouncemarket \u2013 a live prediction market game for a bouncing ball",
-      "score": 50
+      "score": 166
+    },
+    {
+      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+      "score": 67
     },
     {
       "title": "First images of the impact of DART asteroid deflection experiment",
-      "score": 80
+      "score": 103
+    },
+    {
+      "title": "False Computer-Checked Proofs",
+      "score": 40
     },
     {
       "title": "Kimi for Science: More scientific ideas, made possible",
-      "score": 107
-    },
-    {
-      "title": "The group chat where your AI talks behind your back",
-      "score": 510
-    },
-    {
-      "title": "A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]",
-      "score": 151
+      "score": 139
     }
   ]
 }
