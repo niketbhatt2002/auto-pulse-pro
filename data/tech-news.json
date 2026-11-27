@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T00:50:33.727405Z",
+  "updated_at": "2026-11-27T02:41:15.404366Z",
   "stories": [
     {
       "title": "AI made self-hosting fun again",
-      "score": 240
+      "score": 341
     },
     {
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "score": 214
+      "score": 257
     },
     {
-      "title": "AMD-specific fork of llama.cpp",
-      "score": 275
+      "title": "Hard Drive pricing has gotten bad",
+      "score": 19
     },
     {
       "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "score": 245
+      "score": 279
     },
     {
-      "title": "CTO of 'RansomwareHelp' indicted for wire fraud",
-      "score": 195
+      "title": "AMD-specific fork of llama.cpp",
+      "score": 293
     }
   ]
 }
