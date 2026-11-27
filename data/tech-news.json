@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T02:41:15.404366Z",
+  "updated_at": "2026-11-27T04:53:22.476197Z",
   "stories": [
     {
+      "title": "Hard Drive pricing has gotten bad",
+      "score": 178
+    },
+    {
       "title": "AI made self-hosting fun again",
-      "score": 341
+      "score": 445
     },
     {
       "title": "Kamil Khan Mumtaz: Pakistani architect, admired at home, almost invisible abroad",
-      "score": 257
-    },
-    {
-      "title": "Hard Drive pricing has gotten bad",
-      "score": 19
+      "score": 302
     },
     {
       "title": "YouTube Ad Punisher \u2013 Auto-reloads YouTube pages when an ad plays",
-      "score": 279
+      "score": 315
     },
     {
       "title": "AMD-specific fork of llama.cpp",
-      "score": 293
+      "score": 310
     }
   ]
 }
