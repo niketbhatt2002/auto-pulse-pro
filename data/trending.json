@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-28T14:55:20.959828Z",
+  "updated_at": "2026-11-28T15:55:40.030588Z",
   "repos": [
     {
       "name": "Marvisak/VIctory",
-      "stars": 14025
+      "stars": 14047
     },
     {
       "name": "trustno1-coder/VIctory-NVIDIA",
-      "stars": 5642
+      "stars": 5837
     },
     {
       "name": "fxceless/victory-fork",
@@ -15,11 +15,11 @@
     },
     {
       "name": "ProjectLeonida/mandy",
-      "stars": 3150
+      "stars": 3164
     },
     {
       "name": "nexu-io/opengame",
-      "stars": 2770
+      "stars": 2801
     }
   ]
 }
