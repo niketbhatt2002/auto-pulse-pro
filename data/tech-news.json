@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-28T00:15:50.543454Z",
+  "updated_at": "2026-11-28T02:31:12.284669Z",
   "stories": [
     {
+      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
+      "score": 124
+    },
+    {
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "score": 256
+      "score": 333
+    },
+    {
+      "title": "The Balatro Timeline",
+      "score": 84
     },
     {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 400
+      "score": 440
     },
     {
       "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "score": 211
-    },
-    {
-      "title": "Source Control from Hell",
-      "score": 38
-    },
-    {
-      "title": "9/UX: a Macintosh-inspired desktop for 9front",
-      "score": 49
+      "score": 238
     }
   ]
 }
