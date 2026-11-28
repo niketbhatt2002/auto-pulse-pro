@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-28T04:38:35.751852Z",
+  "updated_at": "2026-11-28T14:55:20.424398Z",
   "stories": [
     {
-      "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "score": 215
+      "title": "Farewell",
+      "score": 479
     },
     {
-      "title": "The Balatro Timeline",
-      "score": 163
+      "title": "Claude Code sabotage: preliminary benchmarking",
+      "score": 228
     },
     {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "score": 375
+      "title": "Audible removes download option for purchased audiobooks",
+      "score": 137
     },
     {
-      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
-      "score": 33
+      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+      "score": 55
     },
     {
-      "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 469
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "score": 62
     }
   ]
 }
