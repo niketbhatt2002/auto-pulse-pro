@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T22:33:12.025117Z",
+  "updated_at": "2026-11-28T00:15:50.543454Z",
   "stories": [
     {
       "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "score": 153
+      "score": 256
     },
     {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 346
+      "score": 400
     },
     {
       "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "score": 178
+      "score": 211
     },
     {
-      "title": "Citro\u00ebn Hydraulic System",
-      "score": 82
+      "title": "Source Control from Hell",
+      "score": 38
     },
     {
-      "title": "Michael Nielsen took down his book on neural nets",
-      "score": 261
+      "title": "9/UX: a Macintosh-inspired desktop for 9front",
+      "score": 49
     }
   ]
 }

@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-27T22:33:12.783224Z",
+  "updated_at": "2026-11-28T00:32:14.408601Z",
   "repos": [
     {
       "name": "Marvisak/VIctory",
-      "stars": 13784
-    },
-    {
-      "name": "4lwayz/portwatch-vi",
-      "stars": 6683
-    },
-    {
-      "name": "EL4CTEO/fast-anything",
-      "stars": 4445
+      "stars": 13809
     },
     {
       "name": "fxceless/victory-fork",
-      "stars": 3357
+      "stars": 3358
     },
     {
       "name": "trustno1-coder/VIctory-NVIDIA",
-      "stars": 2839
+      "stars": 3226
+    },
+    {
+      "name": "ProjectLeonida/mandy",
+      "stars": 2798
+    },
+    {
+      "name": "nexu-io/opengame",
+      "stars": 2240
     }
   ]
 }
