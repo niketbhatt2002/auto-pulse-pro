@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-28T02:31:12.284669Z",
+  "updated_at": "2026-11-28T04:38:35.751852Z",
   "stories": [
     {
       "title": "Google's DeepCrossAttention achieves comparable model quality up to 3x faster",
-      "score": 124
-    },
-    {
-      "title": "GPT 6.2 Astra Solves a Historical Mystery",
-      "score": 333
+      "score": 215
     },
     {
       "title": "The Balatro Timeline",
-      "score": 84
+      "score": 163
+    },
+    {
+      "title": "GPT 6.2 Astra Solves a Historical Mystery",
+      "score": 375
+    },
+    {
+      "title": "Unkernel: Real Linux kernel, compiled to WebAssembly",
+      "score": 33
     },
     {
       "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
-      "score": 440
-    },
-    {
-      "title": "Convex skills send the user's app idea to a remote server without telling them",
-      "score": 238
+      "score": 469
     }
   ]
 }
