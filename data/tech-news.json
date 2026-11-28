@@ -1,25 +1,25 @@
 {
-  "updated_at": "2026-11-28T16:31:22.688268Z",
+  "updated_at": "2026-11-28T17:26:15.388067Z",
   "stories": [
     {
-      "title": "Farewell",
-      "score": 675
-    },
-    {
       "title": "Audible removes download option for purchased audiobooks",
-      "score": 340
+      "score": 462
     },
     {
       "title": "Claude Code sabotage: preliminary benchmarking",
-      "score": 396
+      "score": 506
     },
     {
       "title": "Physics Breakthrough Simulator",
-      "score": 60
+      "score": 81
     },
     {
-      "title": "If AI takes every job who will buy things?",
-      "score": 13
+      "title": "GGUF LLM Models with Hidden Malware on Hugging Face Reached 2400 Victims",
+      "score": 139
+    },
+    {
+      "title": "Show HN: Luciole Mono \u2013 terminal font designed for legibility",
+      "score": 104
     }
   ]
 }
